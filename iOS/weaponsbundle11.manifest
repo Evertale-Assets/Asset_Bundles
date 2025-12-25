@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2933062981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b90a25da27f85e011f7661ccc2b1ce33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b90a25da27f85e011f7661ccc2b1ce33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle11/Placeholder.prefab
+Dependencies: []

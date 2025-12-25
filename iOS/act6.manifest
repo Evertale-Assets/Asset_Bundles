@@ -1,0 +1,1654 @@
+ManifestFileVersion: 0
+CRC: 82405752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3ea6311171a97307981b8a55b5cc10a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ba1701acdc99ece5335182e73a95dab
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b3ea6311171a97307981b8a55b5cc10a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e09d4f90ad57e44a3bf65289c1f0c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e898a515d1aca25439057a31653aa37f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27f41c8af4763d74e83ca58cda8252f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act6/Voices/mst3399.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3892.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3696.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4158.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3768.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/ChatScenes/ArriveSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3397.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst423.wav
+- Assets/SimulatedAssetBundles/act6/Towns/TownSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4172.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3667.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3551.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/ChatScenes/ArcaneSpeechOne.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/28.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3943.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3771.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3884.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3440.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterSilverlodgeSiege1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4101.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3988.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4091.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4109.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Rigland/DefeatArcane.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/BGEternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4255.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3542.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act6/Voices/mst4055.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4011.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3613.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4178.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_6.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3692.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3960.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4232.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4296.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3882.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3984.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/floor05.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4006.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3568.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3606.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst429.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3806.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3870.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3974.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/27.png
+- Assets/SimulatedAssetBundles/act6/Particles/shatters.mat
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/RunBats/BattleAct6ToSilverlodge2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3422.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3836.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothWall (1).png
+- Assets/SimulatedAssetBundles/act6/WorldFX/AeonTowerTeleporter.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3677.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/SilverlodgeSiege.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3683.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4007.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3707.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6FireKnightMale.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2Dtrans.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4236.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3895.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4081.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3605.wav
+- Assets/SimulatedAssetBundles/act6/Maps/act6Lab/act6Lab.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3947.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/38.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat011.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3909.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (2).png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ArcaneBattle2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3508.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3378.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3414.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff36.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/icepillar.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4092.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/pit2.png
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3970.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3602.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3626.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3872.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/04.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3627.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3904.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp8.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3476.wav
+- Assets/SimulatedAssetBundles/act6/Act6ChatRunner.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3460.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff2.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6EternalBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4233.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3830.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst447.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3914.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stuff3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3545.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3938.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_4.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnightMap.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3824.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3858.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4008.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/ToAct6AeonTowerFromAct6EternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3412.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4209.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4036.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4107.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3915.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3498.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat010.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3424.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3481.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3590.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/SnowBG/BGTileSnowFGRIGHT.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3500.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3811.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGGalaxy.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3656.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_bald1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3549.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3868.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3877.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3681.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialForeground/EssentialForeground_3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3760.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Opening/EverSlayerTest.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/46.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3966.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane.skel.bytes
+- Assets/SimulatedAssetBundles/act6/Voices/mst3618.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3484.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (7).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3896.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4112.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3489.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3823.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/GFES/ToAct6ToSilverlodgeFromFromAct6PathToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/ToAct6EternalThroneRoomFromAeonTowerPostThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff28.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3493.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst439.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnight2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3878.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4104.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3792.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4196.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4071.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3682.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst450.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight_Material.mat
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/ChatScenes/CreepyMountains.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2Cpath.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4041.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3930.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3600.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3465.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/BGTileSnowNoTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3530.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3907.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/BGTileAeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/ChatScenes/GoToValley.prefab
+- Assets/SimulatedAssetBundles/act6/WorldFX/shattersexeternia.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3632.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst415.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ToSilverlodge1.prefab
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Road/Road_2.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4160.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/52.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4037.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6IceWolf01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3861.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3969.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3722.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3843.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/4a.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/3c.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/ChatScenes/FindTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4018.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4263.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3690.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4116.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3769.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4161.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3770.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3571.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3685.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3860.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3485.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3671.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3923.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3903.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3601.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/ChatScenes/Transporter.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3704.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat001.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/bigcrystal1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3395.wav
+- Assets/SimulatedAssetBundles/act6/Particles/snow_soft.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3955.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4203.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/RunBats/Act6AeonTowerBattleOne.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3431.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4176.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4049.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Rigland/DefeatArcane-old.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3809.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4024.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4198.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3674.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/FlashRed.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3871.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3942.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4019.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3911.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3752.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3887.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4082.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/ChatScenes/SilverlodgeNPCThree.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3587.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/35.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/missing2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3916.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4127.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/BlueDinosaur01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3853.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3728.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/31.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/CrystalFloat004.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/41.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3846.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3832.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3851.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4174.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4131.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3604.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/13.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4137.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3584.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3463.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/16.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/GFES/WarpPointActivate2.prefab
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGCallensLabInner.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4121.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/GFES/ValleyBlocker.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att04R.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/BGTileSnow.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3387.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3427.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3532.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3429.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3814.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3519.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3793.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4040.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/33.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3863.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3697.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4239.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3950.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3394.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/34.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3416.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughFloor.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3637.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act6/Backgrounds/AeonTowerBGItems.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3423.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3737.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3964.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/SnowBG/BGTileSnowMGRIGHT.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3510.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4226.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4182.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst442.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3404.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3799.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/RunBats/BattleAct6PathToSilverlodge1.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6AeonKnight1Battle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3669.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/NonEssentialBackground/NonEssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3932.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3576.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3864.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst440.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3790.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3945.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Opening/FinishEverslayer.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3580.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3985.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3647.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4167.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/02.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3803.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3458.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4021.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4164.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3991.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3661.wav
+- Assets/SimulatedAssetBundles/act6/Particles/silverlodgeDanger.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3631.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff8.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3680.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4096.wav
+- Assets/SimulatedAssetBundles/act6/Maps/act6Lab/EverslayerTestP2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3398.wav
+- Assets/SimulatedAssetBundles/act6/EncounterPrefabLinks/AeonTowerEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3541.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3712.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4205.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3817.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/ThroneRoomTeleporter.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3971.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialForeground/EssentialForeground_2.png
+- Assets/SimulatedAssetBundles/act6/Voices/sst446.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tree_berries.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/09.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/GFES/Act6FrogKnight.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3633.wav
+- Assets/SimulatedAssetBundles/act6/Animations/FadeOutWorld.anim
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff25.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/EndGameStepBackFinn.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3445.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3939.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4054.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst424.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/icepillar2.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (5).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3501.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3865.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3997.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane.skel.bytes
+- Assets/SimulatedAssetBundles/act6/Voices/mst4129.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/GFES/Act6BeastLadyFighterBattle.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/floor03.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1Eextrabottom.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4001.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3854.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst411.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3744.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/FinnTransmutation.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3856.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnightTower2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3514.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3428.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2Ctrans.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3452.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4113.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3876.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4043.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/03.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3693.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3655.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4124.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst417.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6FloatGuardian01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3687.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/GFES/ToAct6ToSilverlodgeFromSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothFloor.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/ToAeonTowerFromAct6ToAeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3450.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4227.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/SnowBG/BGTileSnowBGLEFT.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3800.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3461.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3464.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4145.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3525.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6SilverlodgeTavern/GFES/SilverlodgeTavernNPCONE.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (6).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3849.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3852.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/ChatScenes/SilverlodgeSiege.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3733.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4106.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3875.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4258.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4028.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3776.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3839.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att05R.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3822.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/Act6Silverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4089.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst430.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4151.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (1).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4280.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/EndSceneDarkness.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3731.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4125.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4197.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4297.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3430.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst421.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/14.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/corner.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3383.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3815.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3873.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3403.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4168.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3880.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3986.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst425.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3721.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/Act6ToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3488.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3773.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3393.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3409.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4212.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/ToAct6ToAeonTowerFromAct6ToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3377.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3703.wav
+- Assets/SimulatedAssetBundles/act6/ChatPrefabEffect/batfx_holymid1-Chat-left.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/SenseNorza.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3735.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4186.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/12.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3929.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3540.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3694.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3534.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4048.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4165.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3436.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3673.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4177.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3415.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3471.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/Act6ArcanePath.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4078.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst426.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane_Atlas.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3537.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/ChatScenes/SilverlodgeNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3612.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3756.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4117.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3937.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3740.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ToSilverlodge2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3934.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/Act6AeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3629.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4276.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/30.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stone4.png
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3894.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4208.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3410.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp5.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/22.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4030.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3826.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/ChatScenes/NorzaAhead.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3406.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3780.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3435.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3417.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3386.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3608.mp3
+- Assets/SimulatedAssetBundles/act6/Voices/mst3959.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3874.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/IceWolf01TCM.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/48.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4000.wav
+- Assets/SimulatedAssetBundles/act6/EncounterPrefabLinks/SnowEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3607.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4284.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff5.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4118.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4013.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3730.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3965.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff27.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4027.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4206.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3820.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3380.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3749.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/TransmutationPillars.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3968.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ThirdNorzaBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3879.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3446.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3454.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff14.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3736.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4285.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3710.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3743.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3754.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1a.png
+- Assets/SimulatedAssetBundles/act6/Voices/sst454.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/Obelisk02.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/4c.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_03.png
+- Assets/SimulatedAssetBundles/act6/Voices/sst416.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3941.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4080.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/Elevator.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3779.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4179.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst441.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (9).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3470.wav
+- Assets/SimulatedAssetBundles/act6/Animations/FadeOutWorld.controller
+- Assets/SimulatedAssetBundles/act6/Voices/mst3755.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3426.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst435.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2c.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3411.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/9b.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4051.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3781.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3757.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3961.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (3).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3574.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/5a.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (8).png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6BeastLadyFighter.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3597.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3650.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp6.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnightTower3.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/Stairs (2).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3392.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3443.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3408.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane_Atlas.asset
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6AeonKnight3Battle.prefab
+- Assets/SimulatedAssetBundles/act6/Particles/FallingSnow.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4017.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/FloatGuardian01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3646.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/4b.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat006.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane_Atlas.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3391.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3449.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (3).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3483.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/yellowtotem2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4009.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3676.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4272.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst452.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff19.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stuff2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3709.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst431.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att04.png
+- Assets/SimulatedAssetBundles/act6/Particles/snow_soft.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/SnowBG/BGTileSnowFGLEFT.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnight3.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3795.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_bald3.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/20.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4274.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/51.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3885.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3479.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3838.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/ChatScenes/SilverdrakeNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/15.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3672.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3766.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane.atlas.txt
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6BlackKnight.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4056.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterSilverlodgeSiege2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3725.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4242.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/bridge.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3967.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst418.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_01.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3818.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6FireKnightMaleBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst445.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3933.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4097.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1Btrans.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4245.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4295.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst436.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/GFES/MoveToSilverlodgeTavern.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4058.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/GFES/ToAct5ToElvenlentToSilverdrakeFromAct6PathToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3582.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4162.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/39.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4039.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4169.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4126.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4142.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4059.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughWall1.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff6.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp9.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3958.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3919.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3746.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3791.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3616.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4210.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff30.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3505.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff13.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3619.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ToSilverlodge3.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4200.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (8).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4159.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/BlueDinosaur01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3599.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3389.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3845.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst453.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3980.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst449.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/Act6AeonTowerPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3635.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4003.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4228.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3747.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff17.png
+- Assets/SimulatedAssetBundles/act6/Maps/act6Lab/EverslayerTest.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3804.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att03R.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4095.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6PathToSilverlodge1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4061.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3741.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4139.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stone2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4292.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/32.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3778.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3569.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4175.wav
+- Assets/SimulatedAssetBundles/act6/ChatPrefabEffect/batfx_holymid1-Chat.prefab
+- Assets/SimulatedAssetBundles/act6/Animations/FinnCrestAwakeningGold.controller
+- Assets/SimulatedAssetBundles/act6/Voices/mst3586.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3570.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3928.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3738.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4128.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_overlay1.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/ExtraBackground/ExtraBackground_1.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/FightNorzaPartTwo.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3698.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3713.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/BGLab.png
+- Assets/SimulatedAssetBundles/act6/Particles/Shatters.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3474.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3987.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3921.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff40.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3999.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6SilverlodgeTavern/GFES/MoveToSilverlodgeFromTavern.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4075.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/FloatGuardian01TCM.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3469.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3666.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3670.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/GFES/ToAct6EternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3573.wav
+- Assets/SimulatedAssetBundles/act6/Animations/FinnCrestAwakenGold.anim
+- Assets/SimulatedAssetBundles/act6/Voices/mst3533.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3883.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4026.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3833.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/RunBats/Act6AeonTowerBattleTwo.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3609.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3684.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3611.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4044.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3844.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4090.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4088.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4204.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4184.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/ExtraBackground/ExtraBackground_3.png
+- Assets/SimulatedAssetBundles/act6/Chapter5Atlas.spriteatlas
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_overlay3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3518.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff21.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4111.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4223.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff41.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3654.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/Act6Silverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst4047.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialBackground/EssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/BGEternalThroneRoom.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6SilverlodgeTavern/GFES/SilverlodgeTavernNPCTWO.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4189.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff12.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4190.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3802.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/floor04.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/3a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4153.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3708.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Opening/ArriveSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4136.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3981.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2b.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (4).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3585.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/3b.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3990.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/NonEssentialBackground/NonEssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3543.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3575.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3418.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/RunBats/BattleAct6ToAeonTower1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3996.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/SnowBG/BGTileSnowBGRIGHT.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3946.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3512.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4185.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4269.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4193.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/24.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3788.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3506.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3742.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4219.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3614.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stuff1.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/00.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snw_gate_1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4262.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3758.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3925.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4014.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst428.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3548.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4191.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4283.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3442.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/7c.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3644.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3536.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3954.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/ArcanePathBGItems.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4152.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3649.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3441.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3767.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (1).png
+- Assets/SimulatedAssetBundles/act6/Voices/sst432.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/11.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3653.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4085.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3724.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_02.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4194.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3388.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/9c.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3783.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3906.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4277.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/50.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff16.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3857.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3528.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Rigland/DefeatArcaneComplexChibi.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff42.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3992.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/08.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4068.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3456.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst443.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3982.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3434.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3448.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3772.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4138.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/ValleyBlocker.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/ChatScenes/ArcaneSpeechTwo.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4046.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3726.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/05.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3595.mp3
+- Assets/SimulatedAssetBundles/act6/Voices/mst4098.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3583.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3835.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4076.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane_Material.mat
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/GFES/ToAct6ToAeonTowerFromAeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3651.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4012.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_1.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothPillar.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6AeonKnight4Battle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4225.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3546.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/NonEssentialBackground/NonEssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4134.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/53.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_hugetree.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/01.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4122.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3774.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4278.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat005.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3503.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ERSilverlodgeTavern/ERSilverlodgeTavern25resize1.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/10a.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughWall2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3579.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3657.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat007.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3660.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3834.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4254.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3527.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3689.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3507.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4187.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3699.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/47.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3949.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/10.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff11.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3998.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3973.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst433.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4004.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3926.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4268.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3962.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst437.wav
+- Assets/SimulatedAssetBundles/act6/Animations/ExeterniaCracking.anim
+- Assets/SimulatedAssetBundles/act6/Voices/mst3827.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3659.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4265.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3972.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3927.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/FloatGuardian01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3952.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3706.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4119.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/yellowtotem1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4002.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ERSilverlodgeTavern/ERSilverlodgeTavern25resize2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3831.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/06.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ArcaneBattle1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4282.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3517.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3502.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff26.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att03.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3467.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3433.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3837.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/Act6VenshaDayneBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4132.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff38.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3956.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4215.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4216.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3490.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3759.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3396.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3918.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (9).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3379.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/ChatScenes/SilverdrakeNPCOne.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff4.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/49.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4147.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialBackground/EssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3796.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3753.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6SecondNorzaBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3634.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3850.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/9a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4022.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3678.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3775.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4234.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4141.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/8b.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/RunBats/BattleAct6ToAeonTower2.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4025.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/ToSilverlodgeFromAct6ToSilverlodgeFromAct6ToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ToAeonTower1.prefab
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGSilverlodge.png
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnightMap.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3841.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4202.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3977.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4230.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4023.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3522.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3905.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst414.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4166.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3816.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3900.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/ToAct6AeonTowerPostThroneRoomFromAct6EternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_04.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_bald2.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/Act6ArcanePathPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst463.wav
+- Assets/SimulatedAssetBundles/act6/Towns/SilverlodgeTavern.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/ChatScenes/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst434.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3829.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3384.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3640.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/FinnTransmutation.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/FrozenWater.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3825.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4173.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4180.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3957.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6ToAeonTower2.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/ChatScenes/SilverlodgeNPCONE.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3812.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3867.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/25.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stuff2 copy.png
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightChibi.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3983.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3840.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4074.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3643.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3478.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4084.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3924.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (2).png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp7.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp10.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3516.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3419.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3784.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/37.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4150.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst438.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3989.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_SW/chibi_arcane.atlas.txt
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Gate.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stone3.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snw_tree.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnightTower1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3762.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4229.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3509.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3466.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGAeonTowerInterior.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3777.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3739.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/8c.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4057.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3951.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3745.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3828.wav
+- Assets/SimulatedAssetBundles/act6/Chapter5Tileset.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4238.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/TransmutationFlow.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3462.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3407.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3898.wav
+- Assets/SimulatedAssetBundles/act6/Maps/BeginChapter6.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3695.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3848.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3459.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3910.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3652.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3401.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3451.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/7b.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3594.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3524.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6DragonKnight.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst444.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst457.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3487.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3899.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/42.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/HorriblePlace.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3593.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4029.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughCeiling (7).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3922.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4035.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/bush.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialBackground/EssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4103.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3805.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3645.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4083.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4192.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight.atlas.txt
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/44.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4291.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/floor02.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4217.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3617.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_2.png
+- Assets/SimulatedAssetBundles/act6/Voices/sst413.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4155.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3715.wav
+- Assets/SimulatedAssetBundles/act6/WorldFX/EndSceneFadeOutWorld.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst427.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act6/Voices/mst4123.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/ToAct6PathToSilverlodgeFromAct6ToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3550.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3813.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/Act6ToAeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4086.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/RunBats/BattleAct6ToSilverlodge1.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4038.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst448.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/AtTheDoor.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3639.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_stone1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3553.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3912.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4183.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3622.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3866.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/floor01.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4222.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3948.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3499.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3648.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (4).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4062.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3963.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3897.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3675.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/AeonTowerBGPieces/CrystalFloat008.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3439.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3688.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3761.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3664.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/IceWolf01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3567.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3786.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Road/Road_1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3486.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4231.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3473.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/ChatScenes/SoManyMons.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3940.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3993.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_overlay2.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4273.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3714.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4053.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3711.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3531.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6DragonKnightBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/RunBats/BattleAct6ToSilverlodge3.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4100.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4170.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3994.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3729.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3859.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3515.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3727.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3891.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att05.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3917.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3821.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3547.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3995.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3705.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3390.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/AeonGate.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3620.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3475.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3787.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4099.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4188.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3801.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3842.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3902.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6SilverlodgeTavern/GFES/SilverlodgeTavernNPCThree.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/6a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4050.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3750.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3975.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/ChatScenes/ArcaneSpeechThree.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4259.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6BlueDinosaur01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4213.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst420.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane_Material.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3538.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/ExtraBackground/ExtraBackground_2.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff1.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3405.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4221.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst451.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_S/chibi_arcane_Material.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3495.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3717.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightBinary/Binarychibi_frogknight_W/chibi_frogknight.skel.bytes
+- Assets/SimulatedAssetBundles/act6/Voices/mst4275.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6Silverlodge/GFES/TownSilverlodgeShop.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/18.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4281.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp3.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/2Acorner.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4266.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/23.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3920.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1Acorner.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3589.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/Obelisk01.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4032.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4260.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothWall (2).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4105.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3432.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGExeterniaShattered.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3438.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3526.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3596.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4211.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3577.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3855.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/26.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3665.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3718.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3539.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4072.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/ConfrontEternal.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3497.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3504.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3748.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/54.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3381.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW_Material.mat
+- Assets/SimulatedAssetBundles/act6/Voices/mst3610.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/RunBats/Act6AeonTowerBattleFour.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4218.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4135.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4102.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3494.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3521.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3723.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4156.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3400.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3591.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att06R.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/21.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3598.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4033.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4224.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3491.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3785.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4052.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4073.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3751.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4115.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3691.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3615.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4256.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4042.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3638.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/36.png
+- Assets/SimulatedAssetBundles/act6/Characters/ArcaneMap.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3976.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/CrestTired.prefab
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/EssentialForeground/EssentialForeground_1.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/AngelSpotted.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3763.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4220.wav
+- Assets/SimulatedAssetBundles/act6/Animations/ExeterniaFullScreenCrackingTachie.controller
+- Assets/SimulatedAssetBundles/act6/Voices/mst4270.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1Dtrans.png
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/IceWolf01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/BGTileAeonTower.png
+- Assets/SimulatedAssetBundles/act6/Voices/sst422.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3447.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6PathToSilverlodge/Act6PathToSilverlodge.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4271.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3953.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3581.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6FrogKnight.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3908.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3663.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3893.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/ChatBackground/BGSnowField.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4133.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/ramp4.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/29.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3862.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3798.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4079.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/17.png
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3679.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (5).png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToSilverlodge/GFES/Act6BlackKnightBattle.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3420.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4020.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/Act6SilverlodgeGrid.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4060.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3794.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4181.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4114.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3979.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4163.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3565.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane.skel.bytes
+- Assets/SimulatedAssetBundles/act6/Voices/mst3662.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4069.wav
+- Assets/SimulatedAssetBundles/act6/Maps/TileChangeManagers/BlueDinosaur01TCM.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3529.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3797.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3437.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff18.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3453.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4143.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3588.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/19.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3668.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4257.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3807.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele_overlay4.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3592.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3421.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3385.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/ChatScenes/FightNorza.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6AeonTower/RunBats/Act6AeonTowerBattleThree.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/45.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3881.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/RoughPillar.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3944.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3847.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/icepillar3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4149.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3535.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4110.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3641.wav
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4240.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3764.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3468.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff9.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3789.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6SilverlodgeTavern/SilverlodgeTavern.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_tele1.png
+- Assets/SimulatedAssetBundles/act6/ChatPrefabEffect/batfx_holymid1-Chat-right.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6EternalThroneRoom/Act6EternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3496.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3765.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff7.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snow_square_bush.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3472.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3402.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3480.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3719.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4010.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibi.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4016.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4146.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff39.png
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_5.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/7a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3625.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4108.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst455.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4235.wav
+- Assets/SimulatedAssetBundles/act6/Backgrounds/SafeToCompress/Towns/ImageSilverlodge/Buffer/Buffer_3.png
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/SmoothCeiling (6).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4148.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4201.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3628.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4066.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3457.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3477.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3642.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/snw_gate_2.png
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4140.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff10.png
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6FirstNorzaBattle.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTileset.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4237.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst419.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3886.wav
+- Assets/SimulatedAssetBundles/act6/Voices/sst412.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3482.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3603.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4070.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4015.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3819.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnight1.prefab
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/ToAct6ToSilverlodgeFromAct6ToAeonTower.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/sst456.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/07.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4261.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6VenshaDayne.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3658.mp3
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnightTower4.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst4157.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3888.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3382.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3901.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff29.png
+- Assets/SimulatedAssetBundles/act6/Characters/FrogKnight/FrogKnightChibi.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3716.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3913.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4207.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4267.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3630.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3720.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4214.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3425.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3935.wav
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ToAeonTower/GFES/Act6AeonKnight2Battle.prefab
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/40.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4279.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3513.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4241.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff3.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3623.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act6/Maps/Act6ArcanePath/GFES/ToAct6EternalEndOfGame.prefab
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/Stairs (1).png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4195.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4034.wav
+- Assets/SimulatedAssetBundles/act6/Characters/Arcane/ArcaneChibiBinary/chibi_arcane_W/chibi_arcane.atlas.txt
+- Assets/SimulatedAssetBundles/act6/Voices/mst3889.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3810.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4199.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3455.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3492.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4154.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4045.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3624.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/43.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3869.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3808.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4144.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3523.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3686.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/att06.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/cliff15.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3621.wav
+- Assets/SimulatedAssetBundles/act6/FinalDungeonTilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst3578.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3931.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3520.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3936.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4264.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/1Cpath.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4244.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4031.wav
+- Assets/SimulatedAssetBundles/act6/Characters/AeonKnight/AeonKnightBinary/Chibi_AeonKnight_SWBinary/chibi_AeonKnight_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act6/Voices/mst3782.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3444.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4077.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4243.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3572.wav
+- Assets/SimulatedAssetBundles/act6/Encounters/EncounterAct6AeonKnight4.prefab
+- Assets/SimulatedAssetBundles/act6/WorldFX/TransmutationEnergy.prefab
+- Assets/SimulatedAssetBundles/act6/Voices/mst3511.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3413.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4120.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3544.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4087.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4093.wav
+- Assets/SimulatedAssetBundles/act6/Chapter6TilesetDNC/8a.png
+- Assets/SimulatedAssetBundles/act6/Voices/mst4005.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst4094.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3734.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3636.wav
+- Assets/SimulatedAssetBundles/act6/Voices/mst3552.wav
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs

@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 1978532249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aa13c022dc57da3c4224b91b92a002f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd4311e01a10ff9f1f9b1e145d63c285
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4aa13c022dc57da3c4224b91b92a002f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/MetalDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BugWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BunnySamurai01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/LunaHood01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/MaskPurpleWitch01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/AztecWarrior01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/WaterLancerGirl01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/RedElfOfficer01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BlueWingDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/CatEaredFighter01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/Inanna01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/FrogSorceror01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/MaskPurpleWitch01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/RibbonStudent01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/PharaohLizard01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/GearLancerGirl01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/MistDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/RedElfOfficer01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/WaterPriestess01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/PharaohLizard01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/MonsterBoy01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BunnySamurai01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/GreenDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BabyDarkDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/GoldAngel01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BatWingWarrior01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/AxeAngel01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/SmokePipeFrog01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/SpearGirlWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/EyePatchGuard01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/ElfMusician01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/WindDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/DarkCatFighter01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/GearLancerGirl01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/FireGirlWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/WaterLancerGirl01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/GreenDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/DevilLady01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/Gloria01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/AntaresSwimsuit01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/ChristmasCatEar01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BattleCleric01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/RibbonStudent01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/HorseHead01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/TimeWitch01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/AnimalFamiliar01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BattleCleric01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/HorseHead01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/TimeWitch01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BabyDarkDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/AztecWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/MistDragon01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/SpearGirlWarrior01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/WaterPriestess01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/BugWarrior01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BlueWingDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/DeathLich01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/FurCoatLizard01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/DarkCatFighter01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/AxeAngel01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/ChristmasCatEar01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/AntaresSwimsuit01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/GoldAngel01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/FurCoatLizard01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/PurpleElfKnight01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/FireGirlWarrior01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/Gloria01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/CatEaredFighter01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/PurpleElfKnight01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/EyePatchGuard01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/EarthMercenary01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/WindDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/SmokePipeFrog01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/DevilLady01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/Inanna01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/MonsterBoy01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/EarthMercenary01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/DeathLich01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/LunaHood01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/FrogSorceror01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/MetalDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/AnimalFamiliar01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Images/ElfMusician01.png
+- Assets/SimulatedAssetBundles/tachiesrbundle1/Prefabs/BatWingWarrior01.prefab
+Dependencies: []

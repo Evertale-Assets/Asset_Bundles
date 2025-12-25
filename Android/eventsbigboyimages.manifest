@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 2015712438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 678f9916babc3d4575f7359988d90836
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 678f9916babc3d4575f7359988d90836
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/eventsbigboyimages/jeannedarkswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/novablaststry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/zeusstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/tristanstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/alterludmilla.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/anastasiastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/cthulhustry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/callenswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/desertflostry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/reiswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/drizetteswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/drizstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/musashistry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/goemonstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/kingarthurstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/avalonstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/cerberusstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/shinsengumistry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/sgirlstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/ibarahimestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/astridnewstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/claricestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/idolstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/anyanewstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/yrizstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/gyurellestory.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/percivalstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/elizabethstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/rswim.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/masamunestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/ikemenstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/crescentstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/mermaidstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/cleopatrastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/swimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/ydrukestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/arthurswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/davincistry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/anyastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/snowstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/bridestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/zorostry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/legendfire.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/snowbridestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/yandereracequeenstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/rparty.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/myshastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/nobunagastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/mechasisterbridestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/vgstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/camelotstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/reddragonschoolstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/odinstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/blueseastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/ibarahimeswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/chronosstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/otohimestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/bahamutstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/gokudarkstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/camelotdarkstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/pinocchiostry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/momotarostry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/riznewstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/frankensteinstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/rolotiastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/christmasstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/bnorzastry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/kaguyastry.png
+Dependencies: []

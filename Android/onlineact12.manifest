@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3084028582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b1754961c7cf2b798bec5256dede4c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a67a76d1c820e83da5c215ba59a10ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b1754961c7cf2b798bec5256dede4c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+Assets:
+- Assets/SimulatedAssetBundles/onlineact12/Placeholder.prefab
+- Assets/SimulatedAssetBundles/onlineact12/UNLOCKER.prefab
+Dependencies: []

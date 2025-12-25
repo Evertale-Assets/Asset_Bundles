@@ -1,0 +1,1636 @@
+ManifestFileVersion: 0
+CRC: 919134760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba764fd3afd91411e0f1f8c2c385d6a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cbb5dab4ff028f7ed02b4a488e1c3e9c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ba764fd3afd91411e0f1f8c2c385d6a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e09d4f90ad57e44a3bf65289c1f0c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1828d3f1bf6dc74cb22eec2b3fbd6c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f70995c78c47d1f408b9c1662635d446, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4467b184169733f4783aab695b637a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 849c24a3ef2f33144be1653c8f62c1e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8a7c9a80536d2e44b2378c303795afb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27f41c8af4763d74e83ca58cda8252f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act2/Voices/mst851.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst199.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/mid_2.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst627.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiAngry.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1019.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst622.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst733.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst495.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst751.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (1).png
+- Assets/SimulatedAssetBundles/act2/Voices/sst214.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoNPCThree.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst849.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst803.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/rail_2.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitchMap.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst441.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmNormal.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst585.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_15.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst654.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/fr__2-2.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile05.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst493.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1024.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile04.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/SakiTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst684.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst935.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattlePathToDungeon1.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/GFES/ToRheiaRoom.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/GFES/ToKisenkyoCity.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst590.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2ConfrontOssia02.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchChibiSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst1001.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst909.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst457.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst470.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst770.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst948.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst899.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst668.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst835.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattleTasselMage.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile14.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/levelTintAct4DarkForest.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThiefMap.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst574.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkRage.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst771.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst577.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst777.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst945.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst729.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst428.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst725.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW.png
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/ReisRoomEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst943.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2Yolanna.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst591.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst579.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OmiSad.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst722.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst844.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/AegisBarrierTower.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst478.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst893.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst395.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst450.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst847.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst820.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst474.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1035.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst721.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst741.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1043.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_13.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst720.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst491.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiHumanYell.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst674.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/GFES/ToPathTODungeon.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst528.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst610.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst711.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst587.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst949.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst469.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_tree1.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_14.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/RunBats/Act2BattleDungeon0012.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (16).png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_18.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/Act2PostBattleAfterEnterNagi.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_twinedmoss.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst168.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst865.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst833.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst162.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst440.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst582.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst900.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst905.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst172.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst198.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopChibi.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1002.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2HoodedThief.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst409.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/10.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst962.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (14).png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2PathToKisenkyo1.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile08.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/GFES/ToPathToKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2FaceMaskFrog.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst912.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst854.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst623.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst682.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst866.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst974.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1029.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst743.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst414.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/ToriGatePortal02.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Opening/ChatScenes/AstridBragsRunner.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst563.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst589.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst971.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst514.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst540.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst839.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattlePathToDungeon3.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/lily_2.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst547.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst930.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Opening/ChatScenes/AstridVows.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst758.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst973.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogmanMap.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst735.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/RiglandToKawazuTCM.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst896.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/BGTileTester2.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmSad.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/bush.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst954.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst987.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst914.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst642.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst701.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1076.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst639.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGOmiRoom.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/SakiClosedEye.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst641.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst624.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst631.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst464.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst645.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst797.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst486.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst606.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst463.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst790.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_17.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst650.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst438.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/fr__1-2.png
+- Assets/SimulatedAssetBundles/act2/WorldFX/SpawnAegisBarrier.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst594.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleAMap.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst611.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/NorzaTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_2.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst167.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBeastSerious.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst826.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst397.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/levelTintAct2Dungeon001.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst525.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst789.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst597.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/ChatScenes/KawazuNPCONE.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst431.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst979.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst774.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NorzaEvil.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_4.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst399.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OmiAngry.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/ArcaneTachie.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiDoya.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1022.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/mid_4.png
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/PathToDungeonTCM.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst969.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/PathToDungeonTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/SlugmantaRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1015.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/AeonKnightTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/4.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst710.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst902.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/RunBats/Act2BattleRizetteAwakensBattle.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst558.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst694.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst863.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst217.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGClinic.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst993.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst832.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1010.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst485.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (19).png
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/RiglandToKawazuTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst662.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OmiSmile.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst804.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst206.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst817.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst937.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/fr__5-2.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_6.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/ChatScenes/MudBath.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1005.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst559.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst482.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst872.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_16.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/bridge_sides.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1049.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst805.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiBase.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst178.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/3.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_tree1_water.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst153.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst163.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/GFES/LeaveKisenkyoTown.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/lilly_small.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst736.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile02.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmHurt.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst951.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst666.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst542.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/GFES/ToDungeon001.prefab
+- Assets/SimulatedAssetBundles/act2/MaterialsAndNormals/Normals/cracked_normal.jpg
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_3.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst614.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1047.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst424.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst928.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/SkeletonTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst852.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst984.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1025.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst897.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst620.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst437.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst907.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/MarshEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/levelTintAct5Regular.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/OrcTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst196.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OssiaDarkBeast/OssiaBeastBase.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst445.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/detail2.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst208.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Opening/ChatScenes/AboutKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2TasselMage.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst675.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst203.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst626.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1008.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/ChatScenes/HelpKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/stall.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst750.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst975.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile07.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst702.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ArcaneSerious.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst618.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (18).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst843.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst608.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst883.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst855.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Skeleton.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst583.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/GFES/ToRiglandToKawazu.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst405.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst781.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst688.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst598.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst655.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst918.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1059.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleBMapShop.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst738.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst517.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst706.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst715.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/OssiaDarkBeastTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst677.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1038.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkNormal.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst685.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst670.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst831.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_7.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst970.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardChibi.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst433.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst166.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst814.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/RunBats/Act2BattleAfterEnterNagi.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst957.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/bg_3.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_15.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst555.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst798.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1034.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/lightning-flash.mat
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/fr__4-2.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoBygoneAttack.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2PathToDungeon1.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiPossessed.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst599.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibi.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2PathToDungeon3.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/AeonKnightNoFlipTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst811.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiHumanSmile.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst508.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst917.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst186.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst889.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst864.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmBlush.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst487.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchChibiSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2BeastLadyFighter .prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1041.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/Tree2.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst446.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmShouting.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst472.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiSad.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst925.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S.png
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst422.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst189.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst963.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst740.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiSurprised.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1075.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst173.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst423.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1054.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst192.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/back_4.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/RunBats/Act2BattlePathToKisenkyo1.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst497.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/GFES/ToPathToDungeon.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/sst220.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst821.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/ChatScenes/Paddies.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaAngry.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst895.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst867.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst705.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/RunBats/Act2BattleRiglandToKawazu1.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst183.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NorzaSerious.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst825.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst636.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogChibi.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/ReiRenewalTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst911.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst466.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/fore_left.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst829.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/DungeonTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst197.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_7.png
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst480.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst630.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst827.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmSerious.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_5.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst921.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst522.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst546.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst795.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst908.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2Dungeon0012.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/KisenkyoWarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1073.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst664.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_5.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst219.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst986.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst757.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst794.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst671.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1045.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W_Material.mat
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/fore_right.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkClosedEyesBlush.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkHappy.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiScarSerious.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst552.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1061.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst651.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst676.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst658.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/sst177.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkPainfulHappy.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/Act2PathToKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst931.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst876.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1040.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RareMonCancerCrab.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst169.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst629.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst783.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst947.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1036.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst417.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst950.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBase.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1068.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst808.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst746.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst421.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst596.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst870.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst995.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst180.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2BrocheWitch.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGTileSkyTEST2.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst612.wav
+- Assets/SimulatedAssetBundles/act2/Characters/NagiMap.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst885.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_tree1_alt.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst1031.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/WhatsWrongNagiPre.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattleFaceMaskFrog.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst436.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGTileSkyTEST.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/Act2PathToDungeon.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/sst202.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst523.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/gate.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst714.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst780.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst842.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst665.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst625.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst822.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_11.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RareMonSlugManta.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst713.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst869.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst507.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrogMap.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst613.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst603.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst997.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst760.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibi.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiSmile.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile17.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/MapBackgrounds/SKY.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst536.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/tinting/pinktint.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/LudmillaLetsGo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst473.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst812.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst881.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/7.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst871.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst877.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/bg_1.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst894.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst730.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBeastSmile.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile06.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst716.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst634.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst887.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst483.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1026.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/RunBats/Act2BattleHoodedThief.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_30.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst944.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst857.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst681.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1016.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst533.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogSpinePrefab/s.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst903.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst443.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst537.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst972.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst977.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_9.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2AfterEnterNagi.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst845.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1056.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst709.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_stone2.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaPossessed.png
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst1053.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst753.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/leveltint.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst518.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst697.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst939.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst204.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1074.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkSurprised.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst506.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst569.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst773.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1071.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst698.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst806.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst175.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst692.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst628.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/RunBats/Act2BattleDungeon0011.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst748.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_26.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst459.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst439.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst575.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiHeh.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst572.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst953.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1050.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/sst200.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst526.mp3
+- Assets/SimulatedAssetBundles/act2/Voices/mst834.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/OssiaPostPortPrticle.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst571.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/grass.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmBlushDoya.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkWink.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_stone3 - HighPosition.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst919.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst929.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst416.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst846.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst786.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/ChatSlash.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_3.png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst471.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst756.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst444.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst652.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst880.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (20).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst609.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/levelTintAct2Regular.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst875.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst1006.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst898.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst942.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1014.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst686.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst159.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst452.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/grass_water.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst785.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst768.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst193.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst728.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst207.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaSerious.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/Act2RiglandToKawazu.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst764.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst403.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst856.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst901.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/ChatScenes/ReisRoom.prefab
+- Assets/SimulatedAssetBundles/act2/WorldFX/Circle Particle.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/lily_3.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/WhatsWrongNagi.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst966.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst967.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/E-lightning-flash.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst759.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst600.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst498.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst823.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst524.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst689.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1030.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/8.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/GFES/TownKisenkyoShop.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna01Map.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_WBinary1/BikkiGuard_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst449.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_29.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst191.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogSpinePrefab/se.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1004.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst906.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1052.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_28.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst592.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst216.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_19.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst458.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/9.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst732.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/NagiNoFlipTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_bush.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst404.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/_guide2.PNG
+- Assets/SimulatedAssetBundles/act2/Voices/mst1007.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst691.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst838.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst616.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RiglandToKawazu1.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_10.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst511.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst451.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/AeonKnight.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst550.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst461.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst882.wav
+- Assets/SimulatedAssetBundles/act2/MaterialsAndNormals/Materials/WaterParticle 1.mat
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile11.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst807.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkHurt.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst529.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/NagiTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGReisRoom.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_41.png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2HoodedFrogman.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst545.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile01.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst988.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1012.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst982.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst467.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_tree2.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst700.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_12.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2Generic.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst892.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1064.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst965.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst477.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst922.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst201.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst595.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/ChatScenes/MudBathPre.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst502.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/Act2DungeonRheisRoomPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_2.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst155.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (9).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1037.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst170.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (10).png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/RunBats/Act2BattleBrocheWitch.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1003.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_8.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NorzaAngry.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/levelTintAct2DungeonReisRoom.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst653.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst904.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst401.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst176.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst747.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst503.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/Act2DungeonRheisRoom.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst564.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst981.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst924.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst556.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst927.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst996.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst660.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst501.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst442.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst742.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (8).png
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/OmiTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst647.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattlePathToDungeon2.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/mid_3.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1044.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst510.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst584.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/fr__3-2.png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst727.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/6.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst976.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile18.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst815.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_4.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiSerious.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst213.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/main_1.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst413.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst601.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/ChatScenes/InReisRoom.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst784.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/ReiHumanTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/GFES/ToAct2Dungeon001.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst695.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst765.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst819.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBeastSurprised.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst205.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/detail.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/SW/chibi_nagi.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst530.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/back_1.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst933.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmPossessed.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst787.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst418.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst479.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst673.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst999.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/bg_2.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/1.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst707.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst415.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/ChatScenes/HelpKisenkyoPre.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1027.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGKisenkyo.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/grass_alt.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst985.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoNPCFive.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst535.mp3
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi.skel.bytes
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/FrogKnightTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst447.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst920.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst941.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst588.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst657.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (6).png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/BGTileTesterReisRoom.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst667.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst840.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst888.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SWBinary1/BikkiMaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst989.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst174.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst755.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst520.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_38.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst837.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst492.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_1.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst182.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst516.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1009.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/RunBats/Act2BattleBeastLadyFighter.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (2).png
+- Assets/SimulatedAssetBundles/act2/Voices/sst194.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst435.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_9.png
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst934.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst400.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/ChatScenes/ConfrontOssia.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst496.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst602.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiHappy.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_stone3.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1062.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst961.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst407.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst430.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (3).png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/bridge (2).png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaBase.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst868.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst488.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst617.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/mar_gate_2.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (22).png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_36.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1033.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst573.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkPainful.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst509.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst408.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst813.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst188.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/mossypillar_subm.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst637.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_40.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst891.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/lily_4.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (11).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst809.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst724.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiScarHurt.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst638.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst828.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/ReiTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (15).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst818.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst512.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst916.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1000.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile10.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst499.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst800.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkSmile.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiSad.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OssiaDarkBeast/OssiaDarkBeastAngry.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst448.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst615.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/ChatBackground/BGCavesofReia.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst926.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst581.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/Act2Dungeon001.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst218.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1021.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_42.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiHumanSerious.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst154.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_V.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst782.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/back_3.png
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2PathToKisenkyo2.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst410.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst763.wav
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/KisenkyoEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst184.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Orc.png
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/BattleAfterEnterNagiEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst398.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst955.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst468.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst766.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/_guide.PNG
+- Assets/SimulatedAssetBundles/act2/Voices/mst990.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst824.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_tree_water.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchChibiSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst956.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst190.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst679.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/GyurelleDarkTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst427.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst978.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst195.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1069.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst513.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2Atlas.spriteatlas
+- Assets/SimulatedAssetBundles/act2/Voices/mst923.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (7).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst718.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (4).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst489.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiHappy.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst527.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst640.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/Dungeon001TCM.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/BGTileSky.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (5).png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst886.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1046.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst456.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst793.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_6.png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_S1/HoodedFrogman_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_11.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoNPCFour.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi_Material.mat
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/ChatScenes/TwistedMoss.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchChibi.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiAngry.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst420.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst802.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst873.mp3
+- Assets/SimulatedAssetBundles/act2/WorldFX/TwinedMoss.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiBlush.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst411.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst792.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst519.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst791.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst490.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/OmiWelcome.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiHumanSad.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile15.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst884.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst859.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst699.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile12.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2DungeonRheisRoom/RunBats/Act2BattleConfrontOssia02.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (13).png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/ChatScenes/KawazuNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst754.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst412.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst693.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst212.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Opening/ChatScenes/AstridBrags.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst683.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst586.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst661.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1072.wav
+- Assets/SimulatedAssetBundles/act2/WorldFX/Act2DungeonEffect.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/mar_gate_1.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SBinary1/chibi_BrocheWitch_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/Act2Dungeon001PointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst454.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst946.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst621.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst964.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/MarshDungeonEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiScarAngry.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst538.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst402.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/DungeonBackground.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst915.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiSmile.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst932.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/ChatScenes/BeautifulCaves.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst185.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst858.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst731.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst481.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RareMonAirWolf.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/RunBats/Act2BattleRiglandToKawazu2.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst179.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst475.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/RunBats/Act2BattleCetusBoss.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1077.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst429.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/GFES/ToPathToKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1028.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst775.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmAngry.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/RunBats/Act2BattlePathToKisenkyo2.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst659.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst910.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst761.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_stone1.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile03.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/Tree2 Big.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/bg_4.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst187.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst968.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/mid_1.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkSerious.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmPleasant.png
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S_Material.mat
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tree_XL.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst853.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst521.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst862.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1055.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst434.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst958.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst644.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst952.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/WaitInKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/sst160.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst726.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1048.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst551.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst703.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst580.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/EnterNagi.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (12).png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiShouting.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst554.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst504.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst419.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst992.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2Dungeon0011.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst544.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1065.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst959.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst767.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst462.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RizetteAwakens.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst396.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst560.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile13.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst561.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst745.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_WBinary1/BikkiMaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst890.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst799.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst830.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/mossypillar.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleBMap.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/lilly_big.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst500.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/PrefabsTachie/GyurelleDarkBeastTachie.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst505.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/rail_3.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/5.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_39.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst816.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2AfterKisenkyoBygoneAttack.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmHeh.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst994.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst426.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/CancerCrabRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst549.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiClosedEyes.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst455.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst788.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst980.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiDiscontent.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NorzaSmirk.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaEvil.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst548.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst737.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1063.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1058.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OssiaDarkBeast/OssiaDarkBeastSmile.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_12.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tree.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst432.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NWBinary1/BikkiMaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst960.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1023.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst566.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst938.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh_stone4.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/lily_1.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_10.png
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SWBinary1/BikkiGuard_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/sst171.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst983.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_NBinary1/BikkiMaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst1032.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst534.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NWBinary1/BikkiGuard_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst648.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst532.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst680.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst158.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/2.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tl_14.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/ChatScenes/RizetteAwaken.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoNPCOne.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst769.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiIrritated.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiSmile.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst779.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst570.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/BGTileTester1.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst734.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_NBinary1/BikkiGuard_N.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst762.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst484.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBeast.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst696.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/RunBats/Act2BattleYolanna.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/OssiaDarkBeast/OssiaDarkSorrow.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst632.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1067.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst635.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiHumanGrit.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1011.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst687.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/MapBackgrounds/BGTileTester.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst476.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst453.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst861.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst593.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst181.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst605.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act2/Maps/DontContinueChapter3.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst678.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst940.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst557.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst752.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1020.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst165.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/rail_1.png
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/back_2.png
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/N/chibi_nagi.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst649.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst848.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_SW1/FaceMaskFrog_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardBinary/chibi_BikkiGuard_SBinary1/BikkiGuard_S.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1013.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst860.mp3
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (21).png
+- Assets/SimulatedAssetBundles/act2/Voices/mst874.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1057.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/S/chibi_nagi_Material.mat
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/Act2TownKisenkyo.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/mossypillar_add.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/marsh multi-incline (17).png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiNoArmDoya.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst719.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogBinary/Binarychibi_FaceMaskFrog_S1/FaceMaskFrog_S.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkBlush.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst604.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst656.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleAShopSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/RunBats/Act2BattleHoodedFrogman.prefab
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst672.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst776.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst778.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToKisenkyo/ChatScenes/PaddiesPre.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_25.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst494.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/RunBats/Act2BattleAfterKisenkyoBygoneAttack.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst562.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst157.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ArcaneSmile.png
+- Assets/SimulatedAssetBundles/act2/WorldFX/Circle.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst531.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst991.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst810.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst565.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/ReiRenewal/ReiSad.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst425.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/NagiScarSad.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst850.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst998.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanChibi.prefab
+- Assets/SimulatedAssetBundles/act2/WorldFX/AegisBarrier.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst465.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst744.wav
+- Assets/SimulatedAssetBundles/act2/Maps/TileChangeManagers/AirWolfRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst619.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2PathToDungeon2.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst646.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst578.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2Dungeon001/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst841.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2Cetus.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1042.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Voices/mst1070.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst156.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/Empty Tile.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_13.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst633.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/NW/chibi_nagi.atlas.txt
+- Assets/SimulatedAssetBundles/act2/Voices/mst690.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst936.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile16.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst704.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst739.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_21.png
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/Norza/NorzaSmirk.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst913.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW.png
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_27.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst1017.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_16.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst878.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Yolanna/YolannaChibi/SW/chibi_JewelMermaid_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Voices/mst1051.wav
+- Assets/SimulatedAssetBundles/act2/EncounterPrefabLinks/Act2AfterEnterNagiEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_8.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2RiglandToKawazu/GFES/ToRiglandTrials.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst460.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst801.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst669.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst568.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1066.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst772.wav
+- Assets/SimulatedAssetBundles/act2/Characters/FaceMaskFrog/FaceMaskFrogSpinePrefab/sw.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1039.wav
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanBinary/BinaryHoodedFrogman_SW1/HoodedFrogman_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/MapBackgrounds/WetlandsBG.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst161.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst215.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst515.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst749.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst663.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/pdl_tile09.png
+- Assets/SimulatedAssetBundles/act2/Voices/sst221.wav
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/FrogKnight.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2PathToDungeon/ChatScenes/Act2DungeonGaurdText.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst539.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst543.wav
+- Assets/SimulatedAssetBundles/act2/Voices/sst164.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst836.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst1060.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst643.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/main_3.png
+- Assets/SimulatedAssetBundles/act2/WorldFX/tinting/tinting.mat
+- Assets/SimulatedAssetBundles/act2/Chapter2TilesetDNC/tile_1.png
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedThief/HoodedThiefChibiBinary/Binarychibi_hoodedfigurered_NW1/chibi_hoodedfigurered_NW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst553.wav
+- Assets/SimulatedAssetBundles/act2/Backgrounds/SafeToCompress/TNKisenkyo/main_2.png
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/KisenkyoTown.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst576.wav
+- Assets/SimulatedAssetBundles/act2/Characters/Nagi/NagiChibiBinary/W/chibi_nagi_Material.mat
+- Assets/SimulatedAssetBundles/act2/Characters/HoodedFrogman/HoodedFrogmanSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkClosedEyes.png
+- Assets/SimulatedAssetBundles/act2/Characters/BrocheWitch/BrocheWitchBinary/chibi_BrocheWitch_SWBinary1/chibi_BrocheWitch_SW_Material.mat
+- Assets/SimulatedAssetBundles/act2/Voices/mst541.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst712.wav
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiMaleA/BikkiMaleABinary/chibi_BikkiMaleA_SBinary1/BikkiMaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act2/Characters/BikkiGuard/BikkiGuardSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/KisenkyoChatRunner.prefab
+- Assets/SimulatedAssetBundles/act2/ChatActors/ImagesTachie/GyurelleRenewal/GyurelleDarkSad.png
+- Assets/SimulatedAssetBundles/act2/Voices/mst406.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst708.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst879.wav
+- Assets/SimulatedAssetBundles/act2/Encounters/EncounterAct2RiglandToKawazu2.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst607.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst717.wav
+- Assets/SimulatedAssetBundles/act2/Voices/mst723.wav
+- Assets/SimulatedAssetBundles/act2/Maps/Act2KisenkyoTown/ChatScenes/KisenkyoNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst1018.wav
+- Assets/SimulatedAssetBundles/act2/Chapter2Tileset.prefab
+- Assets/SimulatedAssetBundles/act2/Voices/mst567.wav
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs

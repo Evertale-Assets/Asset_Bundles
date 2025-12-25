@@ -1,0 +1,154 @@
+ManifestFileVersion: 0
+CRC: 280552011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70c7a2180aa261c47514bf0e35681306
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70c7a2180aa261c47514bf0e35681306
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/MikoStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LuckyJapanHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/MikoStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/WorldTreeStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/RidingHoodGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/SkullExecutionerAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/RidingHoodGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LumberAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/PurpleSpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/ChineseGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LumberAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LionMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CloudKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/LuckyJapanHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/AntaresGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/ThorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CrescentMoonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LuckyJapanHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/HolyWingHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/ExcaliburGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/HolyWingHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/SnowWhiteStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/CrescentMoonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/BloodSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/ThorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SkullExecutionerAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/PurpleSpikeKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DarkSorceryStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DarkSorceryStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/ExcaliburGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CloudKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/DragonTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/DarkSorceryStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/BloodSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CrescentMoonKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DragonTridentSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/RidingHoodGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ThorHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CrescentMoonKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/HolyWingHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/SmallWeaponPortraits7.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/AntaresGreatSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/LionMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/MikoStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/WorldTreeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/PurpleSpikeKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/AntaresGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/SkullExecutionerAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ThorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SnowWhiteStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/RidingHoodGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LuckyJapanHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/LumberAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DragonTridentSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/BloodSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/MikoStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/RidingHoodGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/DarkSorceryStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/SnowWhiteStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/BloodSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DragonTridentSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DragonTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ExcaliburGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SnowWhiteStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ThorHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/PurpleSpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LumberAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/WorldTreeStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LionMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DarkSorceryStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ExcaliburGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CloudKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ChineseGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ExcaliburGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ChineseGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SkullExecutionerAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/AntaresGreatSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LuckyJapanHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/BloodSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/PurpleSpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/CloudKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/HolyWingHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/HolyWingHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/CrescentMoonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/AntaresGreatSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/DragonTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ChineseGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/LuckyJapanHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/PurpleSpikeKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/DarkSorceryStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LionMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/WorldTreeStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/LionMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CloudKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SkullExecutionerAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/LumberAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LionMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/LumberAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/CrescentMoonKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SnowWhiteStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/AntaresGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SkullExecutionerAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/WorldTreeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/HolyWingHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/SnowWhiteStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/MikoStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ExcaliburGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/MikoStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/BloodSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ThorHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/ChineseGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/WorldTreeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/LargeWeaponPortraits/RidingHoodGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle7/WeaponPortraitsBundleDNC/CloudKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle7/BattleImages/ChineseGreatAxe01.png
+Dependencies: []

@@ -1,0 +1,597 @@
+ManifestFileVersion: 0
+CRC: 1864753660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3f951e0a4ea8b964b98bbc301f0c5c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c3f951e0a4ea8b964b98bbc301f0c5c2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51be57be677098f4a96877fc9d4d986c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58274e41e20c1504e900d7b4b15d007c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin03.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/GolemBoss/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/BatWingWarrior01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/045.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/042.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/GolemBoss/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/025.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/Darna03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/DancingAssassin02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/038.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/025.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/NorzaRegularBoss01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/029.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/049.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/025.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/027.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/027.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/041.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/026.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/042.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/GolemBoss/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/041.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/Darna03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/040.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/043.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/043.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ElfMagicianGirl02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/BatWingWarrior02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/020.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/WindDragon02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/028.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/030.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/024.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/032.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/036.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/WindDragon01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/SamuraiGirl02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/036.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/048.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/SamuraiGirl03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/044.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ElfMagicianGirl01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/049.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/033.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/046.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/025.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/039.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/040.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/NorzaRegularBoss01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/047.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/037.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl03.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/WindDragon01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/GolemBoss/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/WindDragon01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/Darna03.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/WindDragon02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/031.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/032.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/033.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/BatWingWarrior02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/029.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/036.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/033.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/038.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/045.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/EarthKaiju02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/020.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/GolemBoss/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/029.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/037.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/023.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/028.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/SamuraiGirl02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/042.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/020.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/050.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/026.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/047.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy2.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/046.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/049.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/048.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/024.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/EarthKaiju03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/030.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/GolemBoss01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/030.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/DancingAssassin01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/027.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/044.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/046.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/039.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/047.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/WindDragon02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/036.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/ChineseRizette01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/037.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/GolemBoss01/GolemBoss01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/WindDragon/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ElfMagicianGirl01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/032.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/EarthKaiju01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/020.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/ChineseRizette03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/024.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/039.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/038.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/045.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior01/BatWingWarrior01_Ally.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/048.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/ChineseRizette02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy_Darna03_Enemy2.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy_Darna03_Enemy.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/011.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/023.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/023.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette01/ChineseRizette01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/BatWingWarrior01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/031.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/026.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/BatWingWarrior02/BatWingWarrior02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/Darna/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/SamuraiGirl01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon02/WindDragon02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/003.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin01/DancingAssassin01_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy.skel.bytes
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/DancingAssassin03.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/DancingAssassin01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/033.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl02/SamuraiGirl02_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/BatWingWarrior01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/BatWingWarrior02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/GolemBoss01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03/DancingAssassin03_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03/EarthKaiju03_Enemy_Material.mat
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette02.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl01/SamuraiGirl01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/031.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/050.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/013.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01/WindDragon01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju02/EarthKaiju02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette03/ChineseRizette03_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/ChineseRizette03.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/SamuraiGirl03/SamuraiGirl03_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/EarthKaiju03.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/028.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/050.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju01/EarthKaiju01_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/044.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/043.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/007.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/EarthKaiju/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin03_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/WindDragon01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/040.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/NorzaRegularBoss/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/ChineseRizette/041.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/Darna03Enemy/Darna03_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ChineseRizette02/ChineseRizette02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/BatWingWarrior/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/LargeMonsterPortraits/GolemBoss01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/DancingAssassin02/DancingAssassin02_Enemy.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/ElfMagicianGirl02_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/SmallMonsterPortraits/NorzaRegularBoss01.png
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/DancingAssassin/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/013.wav
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle5

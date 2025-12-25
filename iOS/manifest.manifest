@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 787868508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4579ff1e637b9b21e3d798f746bc768
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SimulatedAssetBundles/onlinedaily/INeedToExist.txt
+Dependencies: []

@@ -1,0 +1,147 @@
+ManifestFileVersion: 0
+CRC: 1029757024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0392769796bedf5ef7668113a4bb311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5508aead5f7a2dbd6732c64f6de0730
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f0392769796bedf5ef7668113a4bb311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f77dbe9142e84734ba09cfcb3bd22092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fac9b69713cf3544ca0ea63246178717, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d04c0fcc35eb134c8a26ccb7b610a1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb277a2f035cf814d8ce61892f347825, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26bba450c7b31384f8b6b77cbf26ed15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d2c91ad6cd0d6b40864e2e34f8f2aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdc737f98985d6f40adfac70d3424b1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1c9e9f57238c464a962f7590ab538e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36a9aef94ecc6be4888da956f2a48898, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/EndEditEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: LineupInstances
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/testbuttons/TestButtonsER.prefab
+- Assets/SimulatedAssetBundles/testbuttons/TestButtons.prefab
+- Assets/SimulatedAssetBundles/testbuttons/TestButtonsLeo.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

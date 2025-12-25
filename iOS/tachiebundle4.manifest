@@ -1,0 +1,843 @@
+ManifestFileVersion: 0
+CRC: 1407417479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e64cc155dc9a911fa828dd99a1293719
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12b85313f9885f3ff31b234bd6e1c1d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e64cc155dc9a911fa828dd99a1293719
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkWeapSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkClosedEyesThinking.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSadSmileClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/KingArthurEvilTachie/KingArthurEvilFace/KingArthurEvilSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiWeepSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraEvilHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuSilhouette.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkNormalLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MiniBearTachie/MiniBear.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshShyClose.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneSmileGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneHurtBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkClosedEyesDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBlushSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/JirenMobTachie/JirenMob.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiPale.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuLookawaySad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshGigantBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CloseUp/HakuCloseup.mat
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkDespair.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitContempt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CursedBeast/CursedBeast.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadySerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroRelax.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuPanicHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/KingArthurEvilTachie/KingArthurEvilBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneWorriedGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuPanicLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSighSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBlushAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaColdAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierImpatienceNoSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidHehHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GokuDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnightFace/LudmillaDarkKnightHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSmileNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkPanicLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobSurprissed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/FerretTachie/FerretTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethStareLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/GigantDonQuixoteTachie
+  1.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlBlushAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkExtacy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/BlackApple/BlackAppleGlowing.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSuperHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidStartled.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkLookawaySad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuConsidering.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuComicalAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiConsidering.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkSeriousSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MirrorTachie/MirrorBlank.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/BlackApple/BlackApple.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkProudly.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/FinnSwimsuitTachie/FinnSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaCreepySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodPlainShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CloseUp/ReiCloseup.mat
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaPout.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidNoWeaponBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierImpatience.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideGirtBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlushComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MirrorTachie/MirrorSnowBlack.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/KingArthurEvilTachie/KingArthurEvilTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleABase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/ChieftainMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkClosedEyesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuRelaxSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadySurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/KimonoLadyMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/ChieftainMobHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/KimonoLadyMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuHurt2.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkPossessedHuh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/BlackApple/BlackAppleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSadHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuPanicShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitSurprisedBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkPossessedNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiWeaponBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/OldKimonoLadyMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshConsidering.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaBloodyShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/BigBearTachie/BigBearTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GokuDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethShockNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshShy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/KimonoLadyMobSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidBlushGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NecklacesTachie/NecklacesTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesConsidering.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiLaughSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/DeerTachie/DeerBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideConfusedBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniHumanMaleMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/JirenMobTachie/JirenMobAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraPoutLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidDazed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiPeaceSignBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideShy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/NereiaMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSuperSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CloseUp/HakuCloseupBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlBigSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraWinkClose.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/YakitoriBird/YakitoriBird.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideClosedEyesBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkClosedEyesThinkingHard.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CursedBeast/CursedBeastTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkPossessedCommand.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/FerretTachie/Ferret.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkYandereCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/JirenMobTachie/JirenMobSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniladyShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSadSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesSuperHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitYandereSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesTsundere.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleySerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleDTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesShyClose.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkHurtSmall.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshGigantTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethCommand.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleLecherous.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuClosedEyesDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixotePainful.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/JirenMobTachie/JirenMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkHappyHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/FinnSwimsuitTachie/FinnSwimsuitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraMadness.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleDBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraClosedEyesHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidPainfulSuper.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/YakitoriBird/YakitoriBirdTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkConfuse.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlMad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesSmileKind.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroSmirking.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethHehClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodPlainNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSadBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidEvilSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/ChieftainMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LightlingPlushieTachie/LightlingPlushie.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSuperCute.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleCTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnightFace/LudmillaDarkKnightSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshPanicHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiLookawaySad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneShout.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MirrorTachie/MirrorTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneSurprisedGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiWah.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSmileKind.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidHuh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaColdEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuRelax.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LightlingPlushieTachie/LightlingPlushieTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteHurtNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlDrunk.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/BigBearTachie/BigBear.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaNormalSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaCloseup/NobunagaCloseup.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaWeaponTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnightFace/LudmillaDarkKnightSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkYandereSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideEmbarrassed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitShy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/NereiaMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierEvilLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnightBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBleedingSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/CloseUp/ReiCloseupBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiWeaponPeaceTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/DeerTachie/DeerTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraPout.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshHehHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethComplalin.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidAttack.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethEmbarrassed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaCold.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/BlueWingDragonTachie/BlueWingDragonTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidBlushTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesEyesClosed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiSurprissed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSmirking.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/KimonoLadyMobNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuHappySweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneClosedEyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiPaleLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiEyesClosed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/ChieftainMobShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlThinking.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnight.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiTrip.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MaraiBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSuperSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiPeaceSighTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraYandereSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesHappyHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidClosedEyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyMobHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuSilhouette.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshBlushLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethPainful.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethPanicShout.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraWah.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidNoWeaponTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodPlainSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkPanicShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraLoweredEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuandGokuDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidCryShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSweatSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/OldKimonoMaleMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidLookawaySad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshTsundere.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaWeaponBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleATachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraBathGigant.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSadSleep.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniHumanMaleMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlushSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSeriousOpenBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteShockOmega.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuStareLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/BlueWingDragonTachie/BlueWingDragonNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuPanicSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuShoutingLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitDiscontent.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidUltraHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaEyesClosed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidClosedEyesSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesOpenMouthSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkYandereCrazySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneNormalGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteShockHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidColdSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/MysticalSnakeTachie/MysticalSnake.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodPlainSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleySmugSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuBigSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshContempt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkSweatOff.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBleedingSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkPossessedHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuDoyaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBride03Tachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/OldKimonoLadyMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlushPout.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleCBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiDespair.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuDoyaSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaColdSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSeriousOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LordAldyneTachie/LordAldyneSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/KingArthurEvilTachie/KingArthurEvilFace/KingArthurEvilClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/BlueWingDragonTachie/BlueWingDragonSick.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneHappyGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkAnguish.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteExicited.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkStareSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlSpeak.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidHurtSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaDespair.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/FireBirdTachie/FireBird.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/MysticalSnakeTachie/MysticalSnakeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KimonoLadyMobTachie/KimonoLadyMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleBBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/JirenMobTachie/JirenMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/ClariceSwimsuitTachie/ClariceSwimsuitStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuStare.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/DesertGirlMobTachie/DesertGirlMobNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/BlueWingDragonTachie/BlueWingDragonEyesClosed.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleBTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideNormalSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkClosedEyesSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkSighSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidIrritateSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBleedingDespair.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkDespairCommand.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuNormalSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroSurprisedSmall.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteShoutingPain.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/FireBirdTachie/FireBirdTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraYandere.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NereiaMobTachie/ChieftainMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/KanaTachie/KanaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuComicalWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MurasakiTachie/MurasakiFace/MurasakiClosedeyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroPlanning.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidClosedEyesIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/YakitoriBird/YakitoriBird1.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSighSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiGeekSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaCloseup/NobunagaCloseupBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshShock.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraBathGigant.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/OldKImonoMaleMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSadShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBride03.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/GigantDonQuixoteBase1.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CLEOFACE.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaBloodyColdEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixotePanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkExtacySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/PhilomeneHurtTachie/PhilomeneHurtTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/BlueWingDragonTachie/BlueWingDragonOpenMouth.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MiniBearTachie/MiniBearTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/LudmillaDarkKnightTachie/LudmillaDarkKnightFace/LudmillaDarkKnightShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidClosedEyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierEvilSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlushShy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodMobShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuPlainBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniLadyMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiWinkHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuandGokuDarkTachie.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LadyAldyneTachie/LadyAldyneBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/NecklacesTachie/Necklaces.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkClosedEyesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodMobSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowWhiteMaidTachie/SnowWhiteMaidFace/SnowWhiteMaidHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroExcuse.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/MirrorTachie/MirrorBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HoshigumaTachie/HoshigumaFace/HoshigumaGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuPlainTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/CrowleyTachie/CrowleyMobSmugSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/BlackwoodTachie/BlackwoodFace/BlackwoodSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KirinGirl/KirinGirlFace/KirinGirlTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/SnowWhiteBrideStoryTachie/SnowWhiteBrideTachie/SnowWhiteBrideShySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraHappyOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/ZoroWeapSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiOpenMouthSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/CrozierTachie/CrozierBase.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/LudmillaBrideTachie/LudmillaBrideSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniLadyMobTachie/OniladyMobShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroFace/MaskZoroHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleSurprisedBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/NobunagaTachie/NobunagaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/MaleSamuraiMobTachie/MaleSamuraiMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ClariceDarkTachie/ClariceDarkFace/ClariceDarkClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkStareComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidThinking.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshGlassesWink.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HonnojiTachie/HonnojiFace/HonnojiClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/GilgmeshTachie/GilgameshFace/GilgameshSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/KaguyaDarkTachie/KaguyaDarkFace/KaguyaDarkSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/AnastasiaTachie/AnastasiaFace/AnastasiaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ZoroStryTachie/ZoroTachie/ZoroResize.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraSad.png
+- Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/MermaidTachie/MermaidFace/MermaidBlushShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/KingArthurEvilTachie/KingArthurEvilFace/KingArthurEvilNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle4/ElizabethStryTachie/ElizabethTachie/ElizabethFace/ElizabethSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle4/IdolgirlStory Tachie/MaraiTachie/MiraiPlainClothesSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/OniMaleMobTachie/OniMaleMobHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleHappyBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle4/CleopatraStoryTachie/CleopatraTachie/CleopatraFace/CleopatraClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkComicalAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkShoutingHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobSurprised.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0

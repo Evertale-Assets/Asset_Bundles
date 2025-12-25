@@ -1,0 +1,1867 @@
+ManifestFileVersion: 0
+CRC: 2312051775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 712e54e33e0c73df60387de25a23c3fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c11406154f470726438845518ecb30e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 712e54e33e0c73df60387de25a23c3fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e9a05095f76f93488860e606ea818c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e898a515d1aca25439057a31653aa37f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2801b22c529a0e14d883907d68329df4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3d8144b2e62544ba2e384773ad6e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8e8739222502814d94af4dafc321317, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45dc925480d375a4a9701b7e9e1fefb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a48a80e60ea230f4f9397599f74bcc52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11fbe913f427b31458c53462fd880037, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4467b184169733f4783aab695b637a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c30eb04f1b15ff41a7a0292dbe82edb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 849c24a3ef2f33144be1653c8f62c1e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 869816719b2b0b8448f9f98151e5780b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dc278847efb0684a8b413d29b09f36e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb61b81d989a0cb4587ecd08858ccfdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8a7c9a80536d2e44b2378c303795afb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc33591750af8454185e88af6885ab3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a0710e60cdba2488ea0e5227395cab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: CloudSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: OverworldLink
+- AssemblyName: Assembly-CSharp
+  ClassName: OverworldQuestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Assembly-CSharp
+  ClassName: nameImagePair
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act1/Voices/sst54.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst10.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst111.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/FinnTachieCrestFX.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/StoryTellerChibiChat.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst45.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst147.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst249.wav
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1ToRiglandTrials2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty05.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/LutherSerious.png
+- Assets/SimulatedAssetBundles/act1/SamplePhotonBattleSpectate.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst181.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSigh.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst41.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/FinnHousePlant1.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonObeliskFXBoss.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_2_4.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst95.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchMarshReisRoom.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst377.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/FighterGirl01OptBattle.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/PyreDungeonPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/ToCatchABearBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst141.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst42.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling8.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/PerlinNoise.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGGilgansWorkshop.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/SamplePhotonBattleVS.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_6.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst213.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Pillar1 Writing.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst28.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall Floor Attachment Right.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bridge_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleBMap.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst329.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/DungTorchOld.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst314.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst220.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_down.png
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst282.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/LoopSpawnedChar.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst106.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst191.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst279.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst255.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/dragonballtest.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatSeven.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst216.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst32.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst272.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst312.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst324.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst333.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/ChatScenes/RKHQNPCThree.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Pillar 2.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst266.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CrestActivation.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BridgeFixerMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst14.wav
+- Assets/SimulatedAssetBundles/act1/Maps/TileManagers/ToRiglandTrialTCM.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/Act1ToRiglandTrialsThree.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst261.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Water/GrabDistortionHDR 1.shader
+- Assets/SimulatedAssetBundles/act1/Voices/sst152.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst468.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst353.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatOne.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Switch.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW.png
+- Assets/SimulatedAssetBundles/act1/Encounters/TrialsBattleTwoEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_6.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/LutherShouting.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst306.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/BattleGFEs/OpEncounterFinnBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst236.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst344.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst102.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst130.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall_gem_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/GoldDungeonObeliskFXBoss.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGProvingGrounds.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/BattleBackgrounds/SafeToCompress/BMPlainsDungeon.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGThroneRoomDark.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_2_2.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst44.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Left Wall Attachment.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst233.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst352.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatSix.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst122.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst52.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst63.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2 Writing.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst245.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst212.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst91.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst127.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/MIRAGETESTER.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Light Pyre.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst287.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst208.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsThiefSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/GFES/EnterTrialsKnight.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst292.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor Wall Attachment left.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst204.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst126.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst210.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThiefMap.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Door_R_Open.png
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/RiglandWarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerRedCrystalLight.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst146.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst230.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst219.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst343.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst135.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighterMap.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridGrit.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst234.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/main_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardChibi.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/PyreDungeonPointLightBlue2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSadSmile.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst262.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst366.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling11.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst186.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/TintCharacter.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst392.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/WaterNorm.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/gate.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst369.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerRedFloorLight.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst381.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/_checking/Flame Style 2.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/PreForestTestEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowAMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/GFES/MoveToRedKnightHQFromRIgland.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst323.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst294.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst339.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirlMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst268.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst394.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsThiefChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/FinnsRoom/Act1FinnsRoom.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerObeliskFX.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Door_L_Close.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling12.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst460.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/GFES/MoveToAct1TrialsComplete.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiBMap.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall_gem_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst274.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst20.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/RedKnightHQ/glow.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst260.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst74.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst65.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsThiefSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/ToRigland.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/ChatScenes/WelcomeToCapital.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst351.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst291.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst70.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst350.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSadBlush.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_3.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst295.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst116.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/PyreDungeonPointLightRed.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst143.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/GFES/MoveToRiglandTrials.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/HammerpantsThief01OptBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/WorldFX/GoldDungeonObeliskFXSE.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst218.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_2.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/BeastLady01Battle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S_Material.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/Water/foam-002.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSmile.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/Act1ToRiglandTrialsTwo.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst355.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst118.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst35.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/RedKnightHeadquartersStartEvents.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst58.wav
+- Assets/SimulatedAssetBundles/act1/Maps/General/CowChat.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridGritBlush.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Pillar1-Lighted.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst360.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst361.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSmileBlush.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst107.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/prefabsTachie/AstridTachie.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle_Material.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/CrestAwakenRizette.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst257.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst88.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst92.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst296.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/TrialsObeliskFX.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/Birdies.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst15.wav
+- Assets/SimulatedAssetBundles/act1/Encounters/ForestBearRaremonEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/GFES/BackToTrialsPath.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/TasselMage01OptBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/Act1PathToTrial.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_9.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGLeftTree2.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/RedKnightHQ/pillars_1.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst23.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst248.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGRigland.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst311.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst278.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/RizetteCrestBlues.prefab
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/TrialsBossEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/Act1PathToTrialThree.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/main_3.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst7.wav
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/barriertest.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst275.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/TestEncounterBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst349.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridStare.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst56.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst115.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/LutherAngry.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/ToCatchAGenieBattle.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchDarkForest.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst193.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst198.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/BridgeBlocker.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst325.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall Bottom Left.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst389.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling1.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst85.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/_checking/Flame Style 2.png
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/ForestEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/ChatScenes/StartTheTrial.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuardMap.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst379.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst269.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/FinnsRoom/ERFinnsRoom25barrelcandles.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/Act1ToRiglandTrials.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst380.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/EnergyConcentrateRizette.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridClosedEyesDetermined.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst97.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst17.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Pillar 1.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/BeastLadyFighterBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst49.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst270.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst247.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty07.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst84.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/GFES/MoveToFinnsRoom.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Obelisk02.png
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/UnSpawnDudes.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty06.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst231.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst251.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/DungTorch.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_4.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst229.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst289.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/AttackEventEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst320.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst151.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/WinvyMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/GFES/MoveToMeetingRoom.prefab
+- Assets/SimulatedAssetBundles/act1/Encounters/TasselMage01OptEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst358.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatThree.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryTellerChibiMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/BackToRosseRiglandPath.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst374.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/WarpPointActivatedCheap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvyMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst108.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/RunBats/TrialsBattleThree.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvyMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/GoldDungeonPointLightRed.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst24.wav
+- Assets/SimulatedAssetBundles/act1/Maps/BattleGFEs/OpEncounterFinnLudmilla2Battle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_2_5.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty09.png
+- Assets/SimulatedAssetBundles/act1/Characters/SheepAMap.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty03.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst297.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst471.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst338.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/ElranChatRunner.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2_gem_2.png
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1ToRiglandTrials4.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst364.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst256.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst293.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_5.png
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst263.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst123.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst322.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst25.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst69.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_4.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Encounters/TrialsBattleThreeEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W.png
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/WFX_DistortPerlin.shader
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/Flame Style 1.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst382.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchLuGanan.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/FinnsRoom/FinnsRoom.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst182.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/Smoke.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE.png
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling10.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst214.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst27.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst281.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_4.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst202.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst283.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/ChatScenes/WallCarving.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst46.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorch.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/Act1ToRiglandTrialsFour.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst383.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst125.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst139.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst317.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst273.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/EnergyConcentrate.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/PyreDungeonPointLightBlue.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/FinnHousePlant2.png
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/ForestWelcome.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/ChatScenes/RKHQNPCFive.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst61.wav
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle.json
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW.png
+- Assets/SimulatedAssetBundles/act1/Maps/BattleGFEs/OpEncounterFinnLudmilla1Battle.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst119.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchMarshDungeon.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling9.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Encounters/HammerPantsThief01OptEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_10.png
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/ChatScenes/RKHQNPCOne.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bridge_2.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall Floor Attachment Left.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst5.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/Water/MirageParticle 1.mat
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/MIRAGETEST.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst206.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/GFES/EnterTrials.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst185.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst183.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst37.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst62.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridHeh.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst150.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst8.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerBaseLight.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst241.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridFoxPoseBase.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst145.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/ChatScenes/BossSpotted.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/Camerapan.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst148.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridScared.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Encounters/Act1BeastLadyFighterEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst371.wav
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/MapWarp.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst64.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst276.wav
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling3.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst21.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerObeliskFX SE.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst205.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst114.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1PathToTrial2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/CrestAwaken.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/TrialsObeliskFX SE.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst113.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridBrainwashed.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst318.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst4.wav
+- Assets/SimulatedAssetBundles/act1/Maps/TileManagers/PathToTrialTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst197.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst238.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_W/chibi_HumanGuard_W.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst217.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/GFES/MoveToRiglandFromRedKnightHQ.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst68.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst334.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst284.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall1 Writing.png
+- Assets/SimulatedAssetBundles/act1/BattleBackgrounds/BattleBackgroundProvingGrounds.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst301.wav
+- Assets/SimulatedAssetBundles/act1/Chapter1PathingMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst227.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst221.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleBMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/ChatScenes/ClearedTheTrial.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchAeonTower.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/TNRiglandAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/ChatScenes/AfterWeaponShop.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst199.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2_gem_2CARVING.png
+- Assets/SimulatedAssetBundles/act1/SamplePhotonBattleFile.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/WorldFX/Crest-Gold.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst136.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/RunBats/TrialsBattleOne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_NW/chibi_HumanGuard_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling14.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst67.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Switch Left.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fence.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_S/chibi_winvy_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst277.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_2_1.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst359.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst31.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst461.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridClosedEyes.png
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/ShowMessage.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst105.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst258.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_4.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst94.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall Bottom Left Corner.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst12.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatFour.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst99.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst76.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_8.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst348.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst243.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/prefabsTachie/LutherTachie.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/LuGananObeliskBoss.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchGoldDungeonChibiScenes.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst267.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridHurt.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst101.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst228.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryS/008
+  Drash Back.skel.bytes
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/LutherSmile.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling6.png
+- Assets/SimulatedAssetBundles/act1/Characters/CowCMap.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Pillar 2 Writing.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst22.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_S/BikkiB_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst346.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst280.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/RiglandTown.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst121.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst307.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/GoldCrestActivate.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst124.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/prefabsTachie/ActorBase.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2_gem_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NE/chibi_Astrid_NE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst332.wav
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1PathToTrial3.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst290.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst81.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst315.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/Crest-Blue.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Encounters/CapedOutlanderEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Encounters/FurCoatWolfEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst73.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wallbottomright.png
+- Assets/SimulatedAssetBundles/act1/Maps/TileManagers/TileChangeManager.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst354.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst39.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SE/chibi_Astrid_SE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/GFES/BackToRigland.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HiddenRoomFX03.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Water/foam-distortion-002.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst112.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Door_R_Close.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/_checking/Flame Style 3.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst226.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridTsun.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst55.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst59.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst375.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGWallCarving.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst71.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst330.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst110.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall_gem_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CameraShake.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst469.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/CrestAwakenGold.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyNW/chibi_PinkSilvy_NW.png
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/TrialsEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst285.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/BattleTesting.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst299.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst47.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/TrialsObeliskFXBoss.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridBase.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst190.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst86.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchTrials.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst300.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst78.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/Arc2Map6EncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst89.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/ChatScenes/ToTheTrials.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/CowBMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_NW/chibi_SziMaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/PVPEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst387.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/LuGananPointLightRed.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/Crest-PaleGreen.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst286.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst83.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_N_New/chibi_HumanMaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/RedKnightHQ/base_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_SW/chibi_SilvyStoryteller_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolfMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst335.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst328.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst96.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst109.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst340.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst66.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/FinnsRoom/ERFinnsRoom25resizeroom.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst345.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst232.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst142.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/RequiredBattleOne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty12.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_6.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst222.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/CapeOutlanderMap.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst137.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst462.wav
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/WeatherOff.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst254.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst271.wav
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/ChatScenes/RKHQNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/ToPathToTrial.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleBMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/Smoke.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst50.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW.png
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSurpriseBlush.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst303.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NW/chibi_Astrid_NW.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatFive.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst246.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Maps/FinnsRoom/GFES/MoveToTownRigland.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_N/chibi_HumanGuard_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/AstridApplesRunner.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_E/chibi_Astrid_E.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SWBinary1/chibi_CapedOutlander_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGMeetingRoomRigland.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst196.wav
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerBlueCrystalLight 2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst53.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst302.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/ChatScenes/HiddenRoom.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/AskQuestion.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst80.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/Act1PathToTrialOne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst43.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling7.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/PerlinNoiseAlpha.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst253.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst51.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst149.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling13.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst326.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst184.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor dusty.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst34.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst386.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvyChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst224.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst298.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst100.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall Bottom Right Corner.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor Wall Attachment.png
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty02.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_N/chibi_winvy_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Obelisk.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty11.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CameraFade.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HiddenRoomFX02.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/Mesh_MeshEffect.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/LoadingLoop.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_N/chibi_SilvyStoryteller_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/BattleGFEs/OpEncounterOssia.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst304.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst16.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst18.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst38.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst207.wav
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_N1/ElfMaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/GFES/MoveToTownShop.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/RedKnightHQ/pillars_2.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst222.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/sst48.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/WorldFX/_checking/Flame Style 3.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_5.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/HiddenRoomFX01.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/newtile 1.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst244.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst9.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst365.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst26.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst357.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/GFES/DontContinueChapter2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridDoubt.png
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfChibi.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/WFX_DistortPerlinMobile.shader
+- Assets/SimulatedAssetBundles/act1/Voices/mst370.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst385.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridAngry.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst93.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_W1/chibi_ElfFemaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Right Floor Attachment
+  Edge.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvyChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1ToRiglandTrials1.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_6.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst192.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall2_gem_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst309.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowC/CowCChibiBinary/Binarychibi_CowC_SW/chibi_CowC_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst200.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst356.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst336.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst140.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst131.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/main_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst362.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_S.png
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/ChatScenes/RKHQNPCFour.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerWhiteCrystalLight.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Chapter1Map/MapStart.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst129.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_SW/chibi_SziMaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_NW/chibi_Astrid_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridClosedEyesBlush.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Right Floor Attachment.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst144.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst189.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_N/chibi_Astrid_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst209.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst90.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst288.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/ChatScenes/FinnsLate.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst128.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst225.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1ToRiglandTrials3.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst13.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst391.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_2_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst308.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst384.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst321.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst470.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NWBinary1/BikkiFemaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/MoveSpawnedChar.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst313.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_S/chibi_SilvyStoryteller_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/sst79.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/RunBats/TrialsBattleTwo.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Right Wall Attachment.png
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsThiefSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowAChibiBinary/Binarychibi_CowA_SW/chibi_CowA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst120.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst134.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst201.wav
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/EncounterPrefabLinks/testFlowEncouterPrefablink.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst36.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/FurCoatWolfBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/ChatScenes/MeetRedKnights.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst390.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst319.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_NW1/chibi_ElfFemaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleAMap.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchGoldDungeon.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst367.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/CapedOutlanderBattle.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1PathToTrial3RareMon.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling5.png
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_SW1/chibi_FurCoatWolf_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_W/chibi_Astrid_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_SW1/ElfMaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/newtile.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst223.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst223.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst363.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_W/chibi_SilvyStoryteller_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst11.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst132.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_W/BikkiB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/Act1TownRigland.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst195.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst376.wav
+- Assets/SimulatedAssetBundles/act1/Encounters/EncounterAct1PathToTrial1.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryN/back_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/WeatherOn.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst472.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/Act1Trials.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst211.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst82.wav
+- Assets/SimulatedAssetBundles/act1/Encounters/FighterGirl01OptEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst337.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst393.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridXaheOyai.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/RainFallParticleSystem.prefab
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridTsunBlush.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Door_L_Open.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst30.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst60.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_SW1/chibi_HumanFemaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_N/chibi_Astrid_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/SziMaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty04.png
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderBinary/chibi_CapedOutlander_SBinary1/chibi_CapedOutlander_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst331.wav
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst259.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst40.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst250.wav
+- Assets/SimulatedAssetBundles/act1/Maps/TileManagers/ToRiglandTrialTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_N1/chibi_HumanFemaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_S1/chibi_HumanFemaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGRiglandCliff.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst242.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CapedOutlander/CapedOutlanderSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling4.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst373.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle.atlas.txt
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerPurpleFloorLight.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Ceiling2.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst372.wav
+- Assets/SimulatedAssetBundles/act1/Maps/TileManagers/PathToTrialTCM.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst138.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatEight.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/HeroTorchElfForest.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst265.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst473.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst316.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/prefabsTachie/AstridPeaceSignTachie.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst6.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SE/chibi_Astrid_SE.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_NW/BikkiB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/WorldFX/AeonTowerPointLightRed.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/WorldFX/Distort/WaterTrailMobileMesh_MeshEffect.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/LuGananObeliskFX.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryNW/SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/desertle/DesertleChibi/chibi_desertle_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_SW/BikkiB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst327.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_W/chibi_winvy_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst239.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_NE/chibi_Astrid_NE.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/sst33.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst378.wav
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSurprise.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst187.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_W1/ElfMaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_E/chibi_Astrid_E_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_SW/chibi_HumanMaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty10.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_S/chibi_Astrid_S.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/GFES/BeginChapter2.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst77.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst341.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_N1/chibi_ElfFemaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/Water/MirageParticle 2.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_SW/chibi_HumanGuard_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridSad.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/MarshBlocker.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SheepA/SheepAChibiBinary/Binarychibi_SheepA_SW/chibi_SheepA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst347.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst57.wav
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty08.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiB/BikkiBBinary/Binarychibi_BikkiB_N/BikkiB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Voices/mst252.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SBinary1/BikkiFemaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_5.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Stairs.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/RedKnightHQ/base_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Maps/RedKnightHeadquarters/RedKnightHeadquarters.prefab
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor Tile.png
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CameraPanTest.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst310.wav
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_W1/chibi_HumanFemaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/sst19.wav
+- Assets/SimulatedAssetBundles/act1/Characters/FurCoatWolf/FurCoatWolfGreyBinary/Binarychibi_FurCoatWolf_S1/chibi_FurCoatWolf_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HammerPantsThief/HammerPantsBinary/BinaryChibi_HammerPantsThief_NWNew/chibi_hoodedfigurebrown_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Floor-dusty13.png
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/fore_7.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst29.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst117.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst368.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_S1/chibi_ElfFemaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_W/chibi_Astrid_W.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/PinkSilvySpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S.png
+- Assets/SimulatedAssetBundles/act1/WorldFX/GoldDungeonObeliskFXSW.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/ChatActors/prefabsTachie/AstridFoxPoseTachie.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/CowA/CowASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CameraTest.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst240.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW.png
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/BlueSilvySpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_S/chibi_HumanMaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_5.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/WorldFX/LuGananObeliskSW.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg2_1.png
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_WBinary1/BikkiFemaleA_W.png
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_S/chibi_SziMaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Voices/mst188.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_SWBinary1/BikkiFemaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_SW/chibi_winvy_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMageMap.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinaryW/SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S.png
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_W/chibi_SziMaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst215.wav
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridChibiBinary/Binarychibi_Astrid_SW/chibi_Astrid_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst264.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst72.wav
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/RunBats/Act1ToRiglandTrialsOne.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/SlideAttack.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/SziMaleB/chibi_SziMaleB/SziMaleB_N/chibi_SziMaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/TasselMage/TasselMageChibiBinary/Binarychibi_hoodedfigureblue_NW/chibi_hoodedfigureblue_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_S/chibi_Astrid_S_Material.mat
+- Assets/SimulatedAssetBundles/act1/WorldFX/Flame Style 1.png
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyW/chibi_PinkSilvy_W.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/SW_beastladyfighterBinary1/chibi_beastladyfighter
+  SW.png
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTilesetDNC/Wall1.png
+- Assets/SimulatedAssetBundles/act1/Voices/mst203.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst194.wav
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_NW1/ElfMaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act1/SamplePhotonBattleReplay.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/BlueSilvy/chibi_bluesilvy/bluesilvy_NW/chibi_winvy_NW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Voices/mst237.wav
+- Assets/SimulatedAssetBundles/act1/Voices/mst305.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BikkiFemaleA/BikkiFemaleABinary/BikkiFemaleA_NBinary1/BikkiFemaleA_N.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/chibi_astrid_renewal_export/chibi_astrid_SW/chibi_Astrid_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Backgrounds/ClearedTheTrial.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/sky_3.png
+- Assets/SimulatedAssetBundles/act1/Characters/ElfMaleA/ElfMaleABinary/Binarychibi_ElfMaleA_S1/chibi_ElfMaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act1/Characters/SilvyStoryteller/SilvyStorytellerBinary/SilvyStoryteller_NW/chibi_SilvyStoryteller_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Encounters/TrialsBattleOneEncounter.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyN/chibi_PinkSilvy_N.atlas.txt
+- Assets/SimulatedAssetBundles/act1/PyreDungeonTileset.prefab
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGWetlandsPuddles.png
+- Assets/SimulatedAssetBundles/act1/Characters/Astrid/AstridSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst87.wav
+- Assets/SimulatedAssetBundles/act1/Characters/BeastLadyFighter/BeastLadyFighterBinary/S_beastladyfighterBinary1/chibi_beastladyfighter
+  S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/Binarychibi_HumanMaleB_NW_New/chibi_HumanMaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudFemaleB/KudFemaleBBinaryNew/chibi_KudFemaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/TNRigland/TNRiglandPackedPartsDNC/bg1_1_2.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanGuard/HumanGuardBinary/Binarychibi_HumanGuard_S/chibi_HumanGuard_S.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/CameraZoom.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/sst104.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst133.wav
+- Assets/SimulatedAssetBundles/act1/Maps/ForestSmall/prefabcreatequeuetranslate.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/FighterGirl/FighterGirlBinary/Binarychibi_FighterGirl_SW1/chibi_FighterGirl_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvyS/chibi_PinkSilvy_S.atlas.txt
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridPeaceSignBase.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1TownRigland/ChatScenes/RiglandNPCChatTwo.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/KudMaleA/KudMaleABinaryNew/chibi_KudMaleA_SW.png
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleA/HumanMaleABinary/HumanMaleABinarySW/SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/ChatActors/ImagesTachie/AstridRenewal/AstridAngryBlush.png
+- Assets/SimulatedAssetBundles/act1/Characters/AstridMap.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/Act1PathToTrialThreeRareMon.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst235.wav
+- Assets/SimulatedAssetBundles/act1/Backgrounds/SafeToCompress/ChatBackground/BGCastleBurning.png
+- Assets/SimulatedAssetBundles/act1/Maps/Act1Trials/ChatScenes/FirstGimmic.prefab
+- Assets/SimulatedAssetBundles/act1/Maps/Act1PathToTrial/RunBats/Act1PathToTrialTwo.prefab
+- Assets/SimulatedAssetBundles/act1/Voices/mst388.wav
+- Assets/SimulatedAssetBundles/act1/Characters/CowB/CowBChibiBinary/chibi_CowB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/ElfFemaleA/ElfFemaleABinary/Binarychibi_ElfFemaleA_SW1/chibi_ElfFemaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act1/Characters/HumanMaleB/HumanMaleBBinary/chibi_HumanMaleB_W_New/chibi_HumanMaleB_W.png
+- Assets/SimulatedAssetBundles/act1/Voices/sst75.wav
+- Assets/SimulatedAssetBundles/act1/Voices/sst98.wav
+- Assets/SimulatedAssetBundles/act1/Characters/PinkSilvy/chibi_PinkSilvy/Chibi_PinkSilvySW/chibi_PinkSilvy_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act1/Maps/Act1ToRiglandTrials/GFES/DesertBlocker.prefab
+- Assets/SimulatedAssetBundles/act1/Characters/HumanFemaleA/HumanFemaleABinary/Binarychibi_HumanFemaleA_NW1/chibi_HumanFemaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act1/Voices/mst342.wav
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/mapjson
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle

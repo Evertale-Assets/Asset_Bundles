@@ -1,0 +1,719 @@
+ManifestFileVersion: 0
+CRC: 209391985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49096597fe484c19d6d211434eadf4b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13e240e92cb245323fda4b43e80b53a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 49096597fe484c19d6d211434eadf4b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriSmug.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmirkComicalAngryCry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleGloveBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerBBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaShiny.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryPanicHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythEvilSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/HornMaleVillagerATachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/MyshaCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimClosedEyesSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkColdHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiSmirk.png
+- "Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/\u540D\u79F0\u672A\u8A2D\u5B9A-1.png"
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/Mori.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaClosedEyesSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGentleman.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiGum.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosBigSurpriesed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/AthurSwimStareSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythAngrySweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeUnpleasant.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaPointingFinger.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimScream.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingDoya.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/GigantArthurSwim.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LutherCloseupTachie/LutherCloseup.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/NorzaBike.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranWoozy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerASmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerAEvil.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackBlushSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioEvilTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerAMobScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranHappyMad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurellePossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleWimpleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmirkComical.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewClosedEyesShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimGigantTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleWimpleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/PurpleDragon/PurpleDragon02Base.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareHappySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KittenTachie/KittenMeow.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranAfraid.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkStareTalk.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieShowa.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/MobGyurelleFatherTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaOnBikeTachie/LudmillaOnBikeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/LancelotCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSadExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkHehHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSurprisedOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriOnBike/MoriOnBike.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmirkComicalAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaDarkHurtTachie/OssiaDarkHurtTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkColdSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteEating.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherSneering.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySuperSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryConcidering.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/UndeadMoobTachie/UndeadMobNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/GyurelleCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareCryingHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingConsider.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurBleedingHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryEarnest.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaRelief.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaCry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordCry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAKimonoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosRelax.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KittenTachie/KittenTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSadness.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GigantGenieBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieWhistleSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GigantGenieTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/AthurCutinTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/UndeadMoobTachie/UndeadMobScream.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneSleepy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkFace/YoungRolotiaDarkComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosSurprised2.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleHornTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryConcideringSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranWeapSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerABase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythEvil.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioBlushHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAMobSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryBleedingSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioMad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurClosedEyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGlitterExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioMadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdWeapShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkCrazy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/UndeadMoobTachie/UndeadMobTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioNormalSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRed.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/MobGyurelleFatherBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneSleepySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySweatShouting1.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleHornBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleWimpleGloveBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlATachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/PurpleDragon/PurpleDragon03Tachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranHappyNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGlitterShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FrankensteinTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/ChronosTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSmileSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/LudmillaCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriOnBike/MoriOnBike.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleHornGloveTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareConfuse.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/PurpleDragon/PurpleDragon02Tachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaSyringeBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdWeapGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingSuperShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosConfuse.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGlasses.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythHurtSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurBlood.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSuperBlood.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/Lamp/Lamp.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaDarkHurtTachie/OssiaDarkHurtBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleFearful.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackHehe.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaOnBikeTachie/LudmillaOnBikeBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryHumanBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimHuh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieSuperHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/HornMaleVillagerBTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/TheoTachieNoFlip.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/Lamp/LampTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleHornGloveBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimConcider.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleGloveTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagCry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/GyurelleCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioSadWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeWeponTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareLookawayPout.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSadSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerAMob.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlABase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAKimonoBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/LancelotCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteBleedingSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/DeformedCrystal/DeformedCrystalTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerASerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/ArthurSwimClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteHappyOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranBitterSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClarePout.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerAScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimHehHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaColdSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkColdShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/NorzaBike.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/MaleVillagerTachie/MaleVillagerAAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSmirkComicalPout.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/RizetteCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAMobGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornMobGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieToon.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/RizetteCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleWimpleGloveTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewSwordBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenRelax.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdCommand.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/FinnGenieFaceTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurellePainful.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieSleep.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieGlitter.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenHappyClose.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurHurtTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieWhistle.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresBalletSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LutherCloseupTachie/LutherCloseupTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/PurpleDragon/PurpleDragon03Base.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/MyshaCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranHappyPink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/TornPlushTachie/TornPlush.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurBleedingSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenConsidering.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/YoungRolotiaDarkTachie/YoungRolotiaDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurHurtBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranCryingShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/GigantArthurSwimBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioBlushWink.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaOnBikeTachie/LudmillaOnBikeMoveRightTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherCrazySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenClosedEyesSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlASerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/FinnCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranSadLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyWhiteTachie/FairyWhiteDespair.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/TornPlushTachie/TornPlushTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingPale.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaSyringeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoSwordHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareHehTangue.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/ElminaCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuCry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSmileClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySweatShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryHumanTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimLookAway.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/ChronosBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythNormalSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/DeformedCrystal/DeformedCrystal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/ArthurDarkShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KotoneTachie/KotoneShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleFatherTachie/GyurelleFatherUpset.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlHornTachie/VillageGirlHornScared.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeAwkward.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeWeponBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurDarkTachie/AthurCutin.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimExcitedSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranDeadpan.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedNaughty.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeShySmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/GenieTachie/GenieFace/GenieShock.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/KaduCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/CharlotteTachie/CharlotteSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaPointingFingerBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaTutuIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/FinnCarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingRelax.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeFace/NikeShyBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresModernNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MarySurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioFace/PinocchioSadOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/KaduCar.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/KannaTachie/KannaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/AstridNewStoryTachie/AstridNewTachie/AstridNewDoubt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSleep.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/ArthurTachie/ArthurSuperBloodHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/RolotiaDarkTachie/RolotiaDarkFace/RolotiaDarkColdEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/ReinaTachie/ReinaIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleMotherTachie/GyurelleMotherAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlASmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/CinderellaSwimTachie/CinderellaSwimFace/CinderellaSwimSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/MaryTachie/MaryFace/MaryHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyBlackTachie/FairyBlackBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/RaythTachie/RaythSeriousSweatdrops.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/NanamiTachie/NanamiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/LudmillaRacequeenTachie/LudmillaRacequeenNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/MoriTachie/MoriClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ArthurSwimEventTachie/ArthurSwimFace/AthurSwimStare.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleClosedEyesCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/ClareTachie/ClareFace/ClareSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/KittenTachie/KittenNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/KongmingTachie/KongmingFace/KongmingEat.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranFace/FranColdHappyMad.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/GyurelleTachie/GyurelleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/VillageGirlATachie/VillageGirlAMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/AntaresModernTachie/AntaresSchoolShy.png
+- Assets/SimulatedAssetBundles/tachiebundle2/FrankensteinStoryTachie/FrankensteinTachie/FranBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/HibikiTachie/HibikiSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/GyurelleStoryTachie/OssiaTachie/OssiaHurtShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/UndeadMoobTachie/UndeadMobBase.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/ElminaCar.png
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/ChronosTachie/Chronos/ChronosExcited.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle2/KingArthurStoryTachie/FairyRedTachie/FairyRedSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle2/SchoolgirlStory Tachie/SayaTachie/SayaNoBagSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/ClariceRaceQueenTachie/ClariceRaceQueenSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle2/PinocchioStoryTachie/PinocchioTachie/PinocchioTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/LudmillaCar.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle4

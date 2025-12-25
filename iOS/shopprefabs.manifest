@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2366534069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a266aeaaca7ace168f00e5e765492ca3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd4311e01a10ff9f1f9b1e145d63c285
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a266aeaaca7ace168f00e5e765492ca3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_MiniBoosterPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_WeaponLimitBreakPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_FreePackC.png
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_Booster-Pack.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_MiniLimitBreakPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_MiniBoosterPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_FreePackA.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_WeaponLimitBreakPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_StarPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_SuperBoosterPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_SuperTrainingPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_FreePackB.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_FreePackA.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_Booster-Pack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_SuperTrainingPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_GoldPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_SuperBoosterPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_GoldPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_TrainingPack.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_StarPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_FreePackB.png
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_TrainingPack.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/DailyDeal_FreePackC.prefab
+- Assets/SimulatedAssetBundles/shopprefabs/Images/DailyDeal_MiniLimitBreakPack.png
+Dependencies: []

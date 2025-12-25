@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 554306198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebed226dfd68d230c4d840202d10cc68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 647b83de71d7e25e2b14bdd9d6c8d0ba
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebed226dfd68d230c4d840202d10cc68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2801b22c529a0e14d883907d68329df4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3d8144b2e62544ba2e384773ad6e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2ffebcae207e3d45b2289597eb6dd91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9acf1895511004680069a080f04dc7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BlockedTest
+- AssemblyName: Assembly-CSharp
+  ClassName: OverworldLink
+- AssemblyName: Assembly-CSharp
+  ClassName: OverworldQuestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: WaypointEntry
+Assets:
+- Assets/SimulatedAssetBundles/core/Shaders/WalkPathRevealer.mat
+- Assets/SimulatedAssetBundles/core/Shaders/Sprites-Additive.shader
+- Assets/SimulatedAssetBundles/core/Waypoints.prefab
+- Assets/SimulatedAssetBundles/core/Shaders/HorizontalGradientShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/GrassWiggleShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/2DWaterShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/TilemapDarkness.mat
+- Assets/SimulatedAssetBundles/core/Shaders/HeroWalkFade.shader
+- Assets/SimulatedAssetBundles/core/Shaders/TreeWaveShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/VerticalGradientShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/WalkPathRevealer.shader
+- Assets/SimulatedAssetBundles/core/Shaders/VerticalWipeShader.shader
+- Assets/SimulatedAssetBundles/core/Precache.json
+- Assets/SimulatedAssetBundles/core/Shaders/TilemapDarkness.shader
+- Assets/SimulatedAssetBundles/core/Shaders/DissolveSpriteShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/GrassWiggle.mat
+- Assets/SimulatedAssetBundles/core/WorldPathingMap.prefab
+- Assets/SimulatedAssetBundles/core/Shaders/AlphaClipped.shader
+- Assets/SimulatedAssetBundles/core/Shaders/Sprites-Greyscale.shader
+- Assets/SimulatedAssetBundles/core/SlowDevices.txt
+- Assets/SimulatedAssetBundles/core/Shaders/UnlitGreyscale.shader
+- Assets/SimulatedAssetBundles/core/FancyPrefabs.txt
+- Assets/SimulatedAssetBundles/core/MonsterToBundleRef.json
+- Assets/SimulatedAssetBundles/core/Shaders/SkeletonDeath.shader
+- Assets/SimulatedAssetBundles/core/Shaders/ColoredUnlit.shader
+- Assets/SimulatedAssetBundles/core/Shaders/OverlayTexture.renderTexture
+- Assets/SimulatedAssetBundles/core/Shaders/SoftMaskShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/Dissolve.shader
+- Assets/SimulatedAssetBundles/core/AccessoryToBundleRef.json
+- Assets/SimulatedAssetBundles/core/Conditions.json
+- Assets/SimulatedAssetBundles/core/Shaders/TilemapWaterMaterial.mat
+- Assets/SimulatedAssetBundles/core/Shaders/GreyScale.shader
+- Assets/SimulatedAssetBundles/core/Shaders/New AmplifyShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/UnlitTransparentFast.shader
+- Assets/SimulatedAssetBundles/core/Shaders/KillSpriteShader.shader
+- Assets/SimulatedAssetBundles/core/WeaponToBundleRef.json
+- Assets/SimulatedAssetBundles/core/Shaders/WallGem.shader
+- Assets/SimulatedAssetBundles/core/Shaders/MemoryTestShader.shader
+- Assets/SimulatedAssetBundles/core/Shaders/Sprites-ColorMix.shader
+- Assets/SimulatedAssetBundles/core/Shaders/SpriteDecalShader.shader
+- Assets/SimulatedAssetBundles/core/AnalyticsBlocking.asset
+- Assets/SimulatedAssetBundles/core/Shaders/GreyscaleShader.shader
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1

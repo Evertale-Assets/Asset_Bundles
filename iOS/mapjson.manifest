@@ -1,0 +1,305 @@
+ManifestFileVersion: 0
+CRC: 4186947066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d003500c71ee04857fe3eb7210931dc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c098d62d4bb63d46ff08c8730970afe0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d003500c71ee04857fe3eb7210931dc6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01c409afdc96d684eb9d75efa7610aca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f3a575c79fbcb34ebcff220d08c8d7a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySTA
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+Assets:
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_IceWitch01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DemonElfBoy01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_IceWitch01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkRizette01_1.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Bahamut01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassin01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NovaBlastDragon01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NovaBlastDragon01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Test.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DemonElfBoy01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FoxMutant01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Arga01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChineseRizette01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act3MerizanteToLuGanan.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ButterflyLady01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LudmillaRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap84_03.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LudmillaRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act6ArcanePath.json
+- Assets/SimulatedAssetBundles/mapjson/Act1RainyMood.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Taotie01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1mapOld.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge5.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SilverHairBerserker01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_IceWitch01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kirin01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AirDragon01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Alice01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CherryBlossom01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LudmillaRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/TownTester.json
+- Assets/SimulatedAssetBundles/mapjson/Act6AeonTower.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter2SampleTrail.json
+- Assets/SimulatedAssetBundles/mapjson/Act5DarkForest.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1Testing.json
+- Assets/SimulatedAssetBundles/mapjson/testmap.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_WhiteKnight01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChineseRizette01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_02.json
+- Assets/SimulatedAssetBundles/mapjson/RogueBossMap_01.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaSwimsuit01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap01-2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Cyrus01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElfFireSamurai01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act1TownRosseDestroyed.json
+- Assets/SimulatedAssetBundles/mapjson/Act4Hymelia.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonEXV.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Alice01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitLudmilla01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChineseRizette01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ReiRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SilverHairBerserker01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteCrestbearer01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act3TownMeRizante.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaSwimsuit01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElfFireSamurai01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act1PathToTrial.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMapTemplate.json
+- Assets/SimulatedAssetBundles/mapjson/TestNewTown.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Crescent01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act5TowerSpotted.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CallenDragon01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act4DarkForest.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkAstrid01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NorzaRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kisara01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ReiRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NorzaRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitAstrid01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_EarthKaiju01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Taotie01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter3Testing.json
+- Assets/SimulatedAssetBundles/mapjson/Act1TownRigland.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_MoonGoddess01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_BlueSeaSerpent01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap84_01.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkAstrid01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_WhiteKnight01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FireDragon01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CallenDragon01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CherryBlossom01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SilverHairBerserker01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1MapMini.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AngelFighter01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AstridRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassin01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FoxMutant01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SamuraiGirl01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_BlueSeaSerpent01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CherryBlossom01_3.json
+- Assets/SimulatedAssetBundles/mapjson/DungExit.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap104_01.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitAstrid01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Tut.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ButterflyLady01_1.json
+- Assets/SimulatedAssetBundles/mapjson/DungB.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NagiRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AirDragon01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act6SilverlodgeTavern.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SamuraiGirl01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ReiRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Act3GilgansWorkshop.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Cyrus01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act3WaterDungeon.json
+- Assets/SimulatedAssetBundles/mapjson/Act3.json
+- Assets/SimulatedAssetBundles/mapjson/Act6EternalThroneRoom.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FireDragon01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FinnCrestbearer01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act6Silverlodge.json
+- Assets/SimulatedAssetBundles/mapjson/Act2PathToKysenkyo.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Boss_LAND_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChristmasElmina01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_GoldAppleGirl01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitLudmilla01_2.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AngelFighter01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NewYearRolotia01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_MoonGoddess01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act5NewForest.json
+- Assets/SimulatedAssetBundles/mapjson/Act6PathToSilverlodge.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_BlueSeaSerpent01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkAstrid01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteNew01_2.json
+- Assets/SimulatedAssetBundles/mapjson/ForestSmall.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Jeanne01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AngelFighter01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act4HymeliaTavern.json
+- Assets/SimulatedAssetBundles/mapjson/RiglandTiledNav.json
+- Assets/SimulatedAssetBundles/mapjson/ActSnow.json
+- Assets/SimulatedAssetBundles/mapjson/Act5GoldDungeon.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Cyrus01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_GoldAppleGirl01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kisara01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LegendFireDragon01_1.json
+- Assets/SimulatedAssetBundles/mapjson/MapLookup.prefab
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_03.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Act1ToRiglandTrials.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NagiRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Alice01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NovaBlastDragon01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueTemplate64X64.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ButterflyLady01_3.json
+- Assets/SimulatedAssetBundles/mapjson/64X64Test.json
+- Assets/SimulatedAssetBundles/mapjson/Act3TownUrgRoa.json
+- Assets/SimulatedAssetBundles/mapjson/32X32Test.json
+- Assets/SimulatedAssetBundles/mapjson/Act1TrialsComplete.json
+- Assets/SimulatedAssetBundles/mapjson/Act1RosseToRigland.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassin01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SamuraiGirl01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1Forest.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassinSwimsuit01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LegendFireDragon01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap104_02.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Boss_SWAMP_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act5Elvenlent.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElfFireSamurai01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_MoonGoddess01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act2DungeonRheisRoom.json
+- Assets/SimulatedAssetBundles/mapjson/Act3PathToLuGanan.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Crescent01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_EarthKaiju01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NorzaRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/TestNewRoom.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kirin01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1MapSouth.json
+- Assets/SimulatedAssetBundles/mapjson/DELETEME-chanceconditions.prefab
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DeathKnight01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassinSwimsuit01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Act6Lab.json
+- Assets/SimulatedAssetBundles/mapjson/Act3MyshaAstridChat.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1Trials.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FoxMutant01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkRizette01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AstridRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Darkness.json
+- Assets/SimulatedAssetBundles/mapjson/Act1Opening.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaSwimsuit01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkLudmilla01_3.json
+- Assets/SimulatedAssetBundles/mapjson/LuisMapTest.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Arga01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Boss_SNOW_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Crescent01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteNew01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Bahamut01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Boss_DESERT_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act5ToElvenlentToSilverdrake.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FireDragon01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act6ToSilverlodge.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteNew01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DeathKnight01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Jeanne01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act5CallensLab.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Boss_FOREST_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act4ToHymeliaToNushelle.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_WhiteKnight01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_CallenDragon01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DemonElfBoy01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_EarthKaiju01_3.json
+- Assets/SimulatedAssetBundles/mapjson/TestNewTown1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitLudmilla01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Jeanne01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_SwimsuitAstrid01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Taotie01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_01.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkLudmilla01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Act2PathToDungeon.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FinnCrestbearer01_2.json
+- Assets/SimulatedAssetBundles/mapjson/Act4.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChristmasElmina01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteCrestbearer01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DancingAssassinSwimsuit01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Bahamut01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act1Trials.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge1.json
+- Assets/SimulatedAssetBundles/mapjson/DungA.json
+- Assets/SimulatedAssetBundles/mapjson/Act1FinnsRoom.json
+- Assets/SimulatedAssetBundles/mapjson/Act2RiglandToKawazu.json
+- Assets/SimulatedAssetBundles/mapjson/Chapter1Map.json
+- Assets/SimulatedAssetBundles/mapjson/Act2Dungeon001.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AirDragon01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaRegular01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act2TownKisenkyo.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ElminaSwimsuit01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_AstridRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act3PathToMerizante.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkLudmilla01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_FinnCrestbearer01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act5ToMines.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap104_03.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DeathKnight01_2.json
+- Assets/SimulatedAssetBundles/mapjson/DungeonChallenge4.json
+- Assets/SimulatedAssetBundles/mapjson/RogueTemplate.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kisara01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_LegendFireDragon01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaSwimsuit01_1.json
+- Assets/SimulatedAssetBundles/mapjson/DungC.json
+- Assets/SimulatedAssetBundles/mapjson/Act1TownWestcarteDestroyed.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_ChristmasElmina01_3.json
+- Assets/SimulatedAssetBundles/mapjson/DungD.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Kirin01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_GoldAppleGirl01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaRegular01_2.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap01-2-Ludmilla-Luis.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NagiRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NewYearRolotia01_3.json
+- Assets/SimulatedAssetBundles/mapjson/Act6ToAeonTower.json
+- Assets/SimulatedAssetBundles/mapjson/Act4PathToDarkForest.json
+- Assets/SimulatedAssetBundles/mapjson/Act1RedKnightHQ.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_Arga01_1.json
+- Assets/SimulatedAssetBundles/mapjson/Act4PathToNushelle.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap84_02.json
+- Assets/SimulatedAssetBundles/mapjson/Dung1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_NewYearRolotia01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaRegular01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RizetteCrestbearer01_1.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_RolotiaSwimsuit01_3.json
+- Assets/SimulatedAssetBundles/mapjson/RogueMap_DarkRizette01_3.json
+Dependencies: []

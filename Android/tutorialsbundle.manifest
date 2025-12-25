@@ -1,0 +1,187 @@
+ManifestFileVersion: 0
+CRC: 4291403255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0bcbf2c2df488405b0b953bc22b02a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf9f75c99b68dbf77c321075662fab09
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e0bcbf2c2df488405b0b953bc22b02a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a48a80e60ea230f4f9397599f74bcc52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-010.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewSadSmile.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesLevel1-005.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Battalion/final/RANKING.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-004.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/AllianceQuest.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarVersus-011.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/Arena.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceAFKRepeat.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Warfare/Final/Arena.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Warfare/Final/Alliancequest.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesDefense-009.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Exploration/ChangeEssence.PNG
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Warfare/Final/Raid.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesDeclaration-006.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Battalion/final/MenuButton.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialConquestFastForward.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Conquest/Final/CONQUEST.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialArena.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-012.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Battalion/WarfareButton.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/AllianceWar.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/Raid.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-008.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-006.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-014.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-007.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-009.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-002.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarBase.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Conquest/Final/AllianceFame.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialWarfareRaid.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialRaid.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Battalion/final/MenuButtonLong.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialBattalion.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/GoldOnly/Final/LevelUp.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Conquest/Final/FASTFORWARD.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-011.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewCry.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialTowerOfTrialsOneTime3.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewSerious.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialExplorationOneTime2.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesAttack-010.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/ChatActors/LudmillaNewTutorialTachie.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-013.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/ConquestRanking.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewScared.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/TrainingGoldOnly/GoldOnly.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/TutorialBase.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Battalion/TotalPower.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Battalion/TotalPowerRanking.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/ConquestFF/FastForward.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarEnergy-014.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/ConquestFF/FameEarn.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialWarfareRaidandAllianceWar.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesAdjacent-007.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialWar.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-005.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-001.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Warfare/Final/TowerofTrials.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewShouting.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Backgrounds/BGTutorialalpha.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Battalion/Warfare.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewHurt.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewSleep.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarMap-001.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Backgrounds/BGTutorial.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/WarFare/Conquest.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialTrainingGoldOnly.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Battalion/final/PowerUp.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Warfare/Final/AllianceWar.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewAngry.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarDominionRank-004.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialExplorationOneTime1.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarVersusBattle-013.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialWarfare.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarVersus2-012.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialQuest.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewNormal.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewGrit.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewSurprise.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialTowerOfTrialsOneTime2.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Tutorials/AllianceTutorialTowerOfTrialsOneTime1.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Battalion/final/Warfare Map.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/Tachie/LudmillaNewSad.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarMapNames-002.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastlesPointst-008.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/Exploration/ChangeEssence.prefab
+- Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-003.png
+- Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastles-003.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle

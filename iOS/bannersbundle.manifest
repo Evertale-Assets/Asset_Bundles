@@ -1,0 +1,211 @@
+ManifestFileVersion: 0
+CRC: 53104595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4af27d2cb560c129d1c830fd77f0d28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8b9c967973da7c3be96bc56943ca720
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4af27d2cb560c129d1c830fd77f0d28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3472655b7efeec24faad3a6ac5526f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8def5664648d6714e819bd6e3a50c6dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe5257fdd9ca27f4aa36b832d3929ce6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 510805a1a92334340aa716a384a5155b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4216208f6037b7b4a93a469f45acf4a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a03f9fdc1bad2e341b2f72ba1c325985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c08388d4ffd6b42807f094ed6d65a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6d7bb0d40b434f4a9d7bfef75cb3be6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9cef3a10cd9da1409e26dbeccf509ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c94935bfb19e8a4997868c937494c16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3613e23fd9a2d33438fe6f2734f6b0a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38844f6745f836c46a207b6eb6ab42a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc7200fed190d6140b6c4daa26f9a5d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42459cb96fd128b4bad0ee71787f4784, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923be381beb5fa048aca80896eb40c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: GatchaPortraitsData
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: TableCell/StatBlock
+- AssemblyName: Assembly-CSharp
+  ClassName: UIMoveLoop/UIMove
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/SimulatedAssetBundles/bannersbundle/HorizontalLayoutGachaBanner.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18i.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ChineseTradGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/change.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18a.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/ClassicBannerNew.png
+- Assets/SimulatedAssetBundles/bannersbundle/GenericFinalBeginnerGachaFeatureBanner.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18h.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18f.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/FrenchGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/PortraitsData.asset
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18g.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/ShowcaseSSRGuaranteedBannerSpecial18.png
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ChineseSimpGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/JapaneseGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/EnglishGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/hbFeatureBannerSpecial18.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefabV1.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ItalianGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericFinalBeginnerGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/RegularFriendBannerNew.png
+- Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefabV2.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18e.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBannerV2.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18c.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBannerV1.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18b.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/ClaimGachaChest.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/KoreanGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/RegularFriendGachaPrefabNew.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaFeatureBannerhbbeginnersp2Variant.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/TutorialGacha/TutorialGacha.png
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18d.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericBeginnerGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/beginnersp2GachaPrefabNewNoVid.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/newyearsp2Gacha/SafeToCompress/newyearsp2.png
+- Assets/SimulatedAssetBundles/bannersbundle/NewGenericGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/newyearsp2Gacha/SafeToCompress/hbSSRguaranteedA.png
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/SpanishGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericBeginnerGachaFeatureBanner.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/TutorialGacha/TutorialGachaPicker.png
+- Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/GermanGauranteeTextPrefab.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial18j.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBanner.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/HorizontalLayoutGachaBannerAnniverary.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/GachaFeatureBanner.prefab
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/bannersimagesbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/gacharewards
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/itemsbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/weaponsbundle1

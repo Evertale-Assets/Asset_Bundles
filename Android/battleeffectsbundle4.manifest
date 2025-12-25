@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 376669469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 413da3de37ffd1b29040cc3953cc32f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 413da3de37ffd1b29040cc3953cc32f0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/battleeffectsbundle4/New Prefab.prefab
+Dependencies: []

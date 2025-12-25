@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 1944488170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 161980f745afc57d1e352a726357d6e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 161980f745afc57d1e352a726357d6e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/GoldPirateSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/NovaBlastDragonAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/NovaBlastDragonAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/DarkAstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/MoonlightSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/IceWitchStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/GoldPirateSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SantaElminaSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/IceWitchStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/SeaSerpentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/IceWitchStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/IceWitchStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/EmeraldGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/NovaBlastDragonAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkRizetteSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DemonKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/GoldPirateSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ArabianSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/ChineseSaber01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SantaElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkRizetteSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/GoldPirateSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ChineseSaber03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkAstridGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/MoonlightSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/NovaBlastDragonAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/EmeraldGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkRizetteSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ArabianSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/EmeraldGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/DarkRizetteSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SeaSerpentHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkAstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/GoldPirateSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/ArabianSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/NovaBlastDragonAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/EmeraldGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ChineseSaber01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ChineseSaber02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DemonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ArabianSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkAstridGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DemonKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/DemonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/MoonlightSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ArabianSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/EmeraldGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/MoonlightSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SeaSerpentHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/ChineseSaber01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkRizetteSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DemonKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/ChineseSaber01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SantaElminaSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/MoonlightSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/DarkAstridGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SantaElminaSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/DarkRizetteSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/SantaElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SeaSerpentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/IceWitchStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/BattleImages/DemonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/MoonlightSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/SeaSerpentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/ArabianSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/DarkAstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/IceWitchStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/WeaponPortraitsBundleDNC/SantaElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle4/SmallWeaponPortraits4.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/EmeraldGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/NovaBlastDragonAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle4/LargeWeaponPortraits/SeaSerpentHammer03.prefab
+Dependencies: []

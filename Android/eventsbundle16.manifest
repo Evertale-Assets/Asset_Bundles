@@ -1,0 +1,469 @@
+ManifestFileVersion: 0
+CRC: 806653389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a9c4f843c260a3f9a16bd89e8e1e094
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923f807e4b8e195387a16b37a3cf75c9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a9c4f843c260a3f9a16bd89e8e1e094
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7df519f1f2950a043920d98ef6361900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatEffect/ChatDreamPiece.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatThunderPower.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/YellowOverlayRadialGlare.mat
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventSIXTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatBetaFlashToMinimumShine.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatKaguyaGravityWide.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/twinklechatLeft.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatSuperDown.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRingWarpCharge.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatEffect/ChatDreamPieceOrange.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventEleven.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatKaguyaAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/ALittleBrightGarden.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatMusicBound.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGTheLargeHall.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Images/BGFootOfTheTower.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatMechBootNoFlash.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRain.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatBeam.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatBetaFlashToMinimum.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatFinnSpel.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/twinklechatRight.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatSuperJump.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatMechBootMiss.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/PurpleLitningtest2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGBigRing.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatYellowFrower.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGRiceField.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatMeteoAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventFIFTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGTheWildRoseCasle.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatHimikoAttackROOOP.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatSinglePlaneMeteo.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatStar.mat
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatRabbit.mat
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatRabbitGoRight.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGCityAreaCastleNight.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatParfum.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatHimikoAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRingWarp.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRyuseigun.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/AshenGardenCharge.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatWarpYellowFrower.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGSkyMeteo.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventSEVENTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGOldEdo.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGBigRingNight.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGNightSkyMeteo.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatSingleMeteo.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/YellowOverlayRadialGlareBase.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatThunderPowerLoop.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGCityAreaCastleFog.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatSuperSaiyaZin.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Audio SnowWhiteBride/Fall
+  Down.mp3
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatRabbitGoLeft.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatParfum_Plane.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatParty.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatMechBoot.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGCinderellaCastle.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/twinklechat.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/ALittleGarden.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGInTheSilo.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Images/BGSillo.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/speedline_Chat.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGEdoKaguyaRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatStarShower.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatKaguyaFloating.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRyuseigunNerf.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGFEs/ibarahimestrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGFEs/snowbridestrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/AshenGarden.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatKaguyaGravity.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Images/BGNightSkyPoison.png
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatFX/ChatBetaFlashToBig.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/AshenGardenMisfire.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatPrefab/ChatRainParts.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/ChatScenes/KaguyaEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/ChatScenes/IbarahimeSwimsuitSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Battles/BattleGroups/Encounteribarahimestryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/ChatScenes/IbarahimeEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGFEs/ibarahimeswimstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/Battles/BattleGroups/Encountersnowbridestryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202304ibarahimestory/Prefabs/purpleElectric.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGFEs/kaguyastrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202306snowbridestry/ChatScenes/SnowWhiteBrideSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202310kaguyastry/Battles/BattleGroups/Encounterkaguyastryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle16/oe202405ibarahimeswimstry/Battles/BattleGroups/Encounteribarahimeswimstry04D1.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle10
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle11
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle12
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle14
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle17
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle6
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle7
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle8
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle9
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact11
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact7
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact8
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact9
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle6

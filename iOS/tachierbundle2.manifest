@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4160134139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44ef4fa06ef03393a86f73bee685250b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44ef4fa06ef03393a86f73bee685250b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/tachierbundle2/Placeholder.prefab
+Dependencies: []

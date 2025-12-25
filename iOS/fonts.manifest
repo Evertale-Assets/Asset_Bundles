@@ -1,0 +1,173 @@
+ManifestFileVersion: 0
+CRC: 2506987529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcfc7c6b217fbcbac18934a33ec5b5f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 848f754d234039c33702e3155565c30b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bcfc7c6b217fbcbac18934a33ec5b5f6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/StreamingAssetsHolder/fonts/FontTexDamageDone.png
+- Assets/StreamingAssetsHolder/fonts/FOT-MatissePro-EBJapaneseUISubFallback.asset
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaBlueOutline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlowV5.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GoldInlineGradientV2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlowV3.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - PinkGradient.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexRainbow.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - SSRQuote.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - StatAttackValue.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaMagentaOutline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - DamageDone.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - PinkGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - FadedText.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexHealingDone.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGlowV2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Defeat BG.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - RainbowOutlineGacha.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - DamageDoneCrit.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGlowV5.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - LoadingOLD.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - StatHPValue.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GoldInlineGradient.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexAura.png
+- Assets/StreamingAssetsHolder/fonts/FontTexHoldGround.png
+- Assets/StreamingAssetsHolder/fonts/RainbowOutlineGacha1.png
+- Assets/StreamingAssetsHolder/fonts/FontTexHealingDoneSmall02.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Thin Dilate.mat
+- Assets/StreamingAssetsHolder/fonts/NanumBarunGothicBoldSDFKoreanUIFallBack.asset
+- Assets/StreamingAssetsHolder/fonts/FontTexDamageDoneWhite.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - InversedOLD.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - LimitBreakOrb1.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - PurpleOutline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Black Outline Gacha.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexFire.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - LightBlueGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - RankUpFrontStroke.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Orange GlowOLD.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlowV2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal.asset
+- Assets/StreamingAssetsHolder/fonts/sheenTexture.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Victory - Outter.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeInlineGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlowV4.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Red GlowOLD.mat
+- Assets/StreamingAssetsHolder/fonts/NanumBarunGothicBoldSDFKoreanUISubFallBack.asset
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlowV6.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - RankUpFront.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TurnOrderNow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - PinkGlowV2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - YellowGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeDropShadow.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexBlueOval.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Black Drop Shadow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaRedOuline2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGlowV3.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TurnOrderAlly.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Brown Outline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - StatSpeedValue.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TakFontTest 1.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - CaptureWhite.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexColorVictory.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaRedOuline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenOutline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Rank Up BackOrange.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexNoise.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Defeat- Outter.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TurquoiseGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGlowV4.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - SheenNEW.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - RankUpMidValue.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlueGlow.mat
+- Assets/StreamingAssetsHolder/fonts/FOT-MatissePro-EBJapaneseUIFallback.asset
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TakFontTest.mat
+- Assets/StreamingAssetsHolder/fonts/FOT-MatissePro-EBChineseUIFallback.asset
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Victory.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenGlow3.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexFire.jpg
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaThickestBlack.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Pink OutlineOLD.mat
+- Assets/StreamingAssetsHolder/fonts/NanumBarunGothicBold.otf
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaOrangeGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Blue FadedOLD.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Brown Drop Shadow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BossBattle.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - SheenOLD.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BossBattleOutter.mat
+- Assets/StreamingAssetsHolder/fonts/FOT-MatissePro-M.OTF
+- Assets/StreamingAssetsHolder/fonts/FontTexRedShin.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - HealingDone.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Black Outline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - WhiteInline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - YellowGlow.mat
+- Assets/StreamingAssetsHolder/fonts/FontTexYellowTurn.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - CaptureBlue.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OutlinedText.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Defeat.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BrownGlow.mat
+- Assets/StreamingAssetsHolder/fonts/PingFang-SC-Regular.ttf
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TakFontTest 2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaCyanGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GachaThickestWhitte.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenGlow4.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Holdground.mat
+- Assets/StreamingAssetsHolder/fonts/foam-distortion-001.png
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - NewGradient.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - TurnOrderEnemy.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - Black Inner Outline White
+  Outline.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - BlackGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - GreenGlow2.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinalOLD.mat
+- Assets/StreamingAssetsHolder/fonts/FOT-MatissePro-EBChineseUISubFallback.asset
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlow.mat
+- Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - StandardSilverText.mat
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas

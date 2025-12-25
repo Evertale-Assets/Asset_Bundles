@@ -1,0 +1,272 @@
+ManifestFileVersion: 0
+CRC: 876254648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 869d1f56ce2fd84a46a3825a625e886f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7722f8b68305755c5dcda254f6b3441a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 869d1f56ce2fd84a46a3825a625e886f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3472655b7efeec24faad3a6ac5526f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64d68bcd59a41184a933b0dc333f39cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b40944e5ebfad34aa1364ab4bc2502c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f0112953e7221d4bbd2f62945fe5be3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 468d2c3be80ade64f88078f250ea030a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef8f1d02faaeda140bede94ef9f8d9e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6afe0eaaf21500418195a9fa4769792, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4c2d7d4574bda84aa459c2139f792e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1301fe08192b2f24bb306e8c5d7a6c42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8280d404eb6e64549bd7f17f643e4615, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eb215e12ae619d47b5baf21a8f8ed6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4868638e850a82645b045ee8f1a2f11a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6c2d96cf28c1674eb31c631d80d75a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c92e507c1bf1aa444a32a284301e393e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ee653b750c7e2d4eb3917e8c1e78e9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 250938ff39ade444a83feb5d961b0876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6447eb7dc6c1af41884357369711179, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d8f083741440a843901a2ca392c85f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: baf7ae2328528ee4ea35d26abf1a1492, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 227f5442b9666d545ba439dfad207bb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923be381beb5fa048aca80896eb40c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: FancyFadeOptions
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySUO
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.FlexLayoutGroup/LayoutRebuildOnChange
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.FloatRel
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RectOffsetRel
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelType
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelativeToReference
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelativeToReference/Options
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.Vector2Rel
+Assets:
+- Assets/SimulatedAssetBundles/iapprefabs/HeroRankTrackItem.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MissionPointTrackItem.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackLoginTrackItem.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/DefaultIAPShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/1016StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MonthlyIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/2440StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem3.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/1220StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/LuckyIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/DailyIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/InvestmentShopHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MissionPointTrack.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPBonusHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/DefaultIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/2900StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem4.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/LuckyIAPShopHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerTrack.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/DailyIAPShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/WeeklySubShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem2.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackLoginTrackHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPShopItem.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerIAPShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/LuckyIAPShopWithEndTime.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/4080StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/510StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerInvestmentShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleDealShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/620StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/10000StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPShopButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/12000StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ExpensiveLuckyIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerTrackTab.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleDealShopNoEnd.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackMissionPointTrack.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleLuckyDealIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackLoginTrackPopup.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SoulstoneShopAdShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleDealIAPNoRemaining.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/LuckyIAPShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/4900StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem1.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/CheapLuckyIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackMissionTrackHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem6.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPShopHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/1000StoneIAPDeal.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/InvestmentShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MissionTrackHudButton.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/HeroRankTrack.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/LuckyShopTab.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MonthlyIAPShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleDealMilestoneShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MonthlySub.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/MonthlySubShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/StepupSubShop.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerTrackItem.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/SingleDealIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/StepupSub.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/IAPItem5.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/WeeklySub.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/BeginnerIAP.prefab
+- Assets/SimulatedAssetBundles/iapprefabs/ComebackLoginTrack.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/itemsbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle

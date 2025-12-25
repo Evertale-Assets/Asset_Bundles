@@ -1,0 +1,2097 @@
+ManifestFileVersion: 0
+CRC: 4124413164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0772be2c257cbf9fd26d3322d15ce36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b371a278838503408e7f992b7b9d175
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f0772be2c257cbf9fd26d3322d15ce36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f77dbe9142e84734ba09cfcb3bd22092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e898a515d1aca25439057a31653aa37f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1828d3f1bf6dc74cb22eec2b3fbd6c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60874c2167f15044abf6051adc81939e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a0710e60cdba2488ea0e5227395cab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1557.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1149.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1625.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst289.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1473.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1642.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1841.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1318.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_col1.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaWah.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1272.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1255.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bones3.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_5.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaAngry.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1584.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1634.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1608.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1730.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/Town3_1 MeRizante.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst228.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1875.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst288.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst274.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_1.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/GFES/MoveToAct3PathToLuGananFromLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc1.png
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/GreenFerret01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst236.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganAngry.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (18).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1250.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3SkeletonsaurusRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGUrgRoa.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGLuGanan.png
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1128.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1470.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst296.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst292.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1831.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile04.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1519.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile47.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/GilganTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile53.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3MaleKnightOpt.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/EncounterXaheoyai.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1220.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cliffend.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1450.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1356.wav
+- Assets/SimulatedAssetBundles/act3/WorldFX/tintingAlphaBlend.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1606.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst239.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1574.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1598.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1569.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1463.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1654.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_MidBG_01.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/Act3BattleFurCoatWolf.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1517.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/stb1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1199.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1195.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1829.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1874.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/snd_gate_2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/yellowish.png
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1622.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_5.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_13.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1498.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1587.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1524.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1402.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1312.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1500.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1431.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1078.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1465.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGSky.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/RunBats/Act3BattleTattooedShaman.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan_Material.mat
+- Assets/SimulatedAssetBundles/act3/Backgrounds/BGTileDesert.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1332.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1882.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst238.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_12.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1765.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (13).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1735.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1553.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1717.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/BeginChapter3.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1566.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1861.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTileset.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/giglansworkshopsize.PNG
+- Assets/SimulatedAssetBundles/act3/Voices/mst1836.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/ChatScenes/MyshaSpottedPre.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1627.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1770.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile44hollow.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1232.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_7.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/st3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1870.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1367.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1420.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1729.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1563.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1850.wav
+- Assets/SimulatedAssetBundles/act3/Towns/GilgansWorkshop.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1303.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1091.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1361.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst259.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Sky/Sky1_3.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1352.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1416.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_16.png
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1155.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1756.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst233.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/Act3UrgRoaTown.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1726.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/GFES/ToAct3TownUrgRoa.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1117.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1530.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert_stone4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1667.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1767.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaPossessed.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaNoWeaponBase.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/stb2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1851.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_col3.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/NotMoving/NotMoving_2.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main2/Main2_2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile00.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1652.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MyshaMap.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_10.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/NotMoving/NotMoving_1.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonAstridMyshaWeird2.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_8.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/GFES/ToAct3PathToMeRizante.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1435.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1876.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1507.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1657.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3PathToMeRizante3.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1388.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1879.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1516.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1818.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/KudVillager2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1692.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1813.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1827.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/01ACornerToTrans.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1853.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1701.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile55.png
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1558.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst226.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1555.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1702.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1719.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1342.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1418.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1401.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_14.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1546.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/snd_gate_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1125.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/RunBats/Act3BattleCrescentBladeElf.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1629.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst243.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1228.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1881.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaRelax.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile23.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/sst250.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1759.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/BGTileDesertMeRizanteToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/02BTrans.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile37.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1709.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1409.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst241.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1724.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1169.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1456.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1646.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1727.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cactitile.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1279.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst285.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/Obelisk01.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile05.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/GalugaNoFlipTachie.prefab
+- Assets/SimulatedAssetBundles/act3/EncounterPrefabLinks/DesertEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1214.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1286.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Bg3/BG3_3.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile12.png
+- Assets/SimulatedAssetBundles/act3/Trainers/DruidLizard01.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1597.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_2.png
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/petra.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3PathToMeRizante1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1086.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1650.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1750.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1124.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1645.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1164.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1732.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1259.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1672.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_8.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1252.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1810.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst260.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1390.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSilhouetteFoxPose.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1484.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1808.wav
+- Assets/SimulatedAssetBundles/act3/WorldFX/Flare_blue.mat
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/MyshaInjuredTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1685.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1200.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (14).png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1795.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile19.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1308.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1108.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1515.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1826.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1301.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/GFES/ToRiglandFromPathToMeRizante.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1451.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/ChatScenes/HabsuNPCThree.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1197.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1660.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst306.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile42.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ImageMeRizante/Sky/Sky_6.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/2ndRow/2ndRow_2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1536.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1141.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile43.png
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst257.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaShouting.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1522.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/GFES/MoveToAct3TownUrgRoa.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1166.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1377.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst244.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/petra.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1528.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1296.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonAstridMyshaWeird.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeon1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1736.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile02.png
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1531.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bridge_sides.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile35.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1329.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1153.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_arch2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_Near_02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1755.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1661.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1483.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1293.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile44.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_Far_02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1867.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaSad.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1365.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1104.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc_extra2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/10.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/DrukeFound.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1666.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile54.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1403.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile05.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1866.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeRizanteNPCONE.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3GilgansWorkshop/GFES/GilganWorkshopKudMaleB.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/sst252.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1184.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/ArriveLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeon3.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/GilgansWorkshop.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att5.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_7.png
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1201.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile15.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1349.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1217.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1669.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1793.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1511.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_10.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/st2.png
+- Assets/SimulatedAssetBundles/act3/Trainers/VenshaDayne.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1137.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1615.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1809.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1794.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1442.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1816.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_9.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile21.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1268.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3FurCoatWolf.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1777.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaBlush.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile10.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1134.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile22.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonSmellyStones.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1458.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3MeRizanteToLuGanan2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1857.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_tree1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1506.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1638.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1605.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/Obelisk02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1848.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/st4.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaHurt.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1644.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1780.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1112.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1276.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1187.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1410.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_MidBG_01_01.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1699.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1162.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1855.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1533.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1582.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1087.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1679.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1846.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1662.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1257.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst240.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/ChatScenes/MyshaSpotted.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1868.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/MyshaTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1807.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst248.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/SziGuardNewTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile23.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt5.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1681.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/sst262.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1236.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1225.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_4.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/GilgansWorkshopPre.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile26.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile26.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1474.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile14.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1351.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/temple_water03.png
+- Assets/SimulatedAssetBundles/act3/WorldFX/flare_blue.tga
+- Assets/SimulatedAssetBundles/act3/Voices/sst279.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1343.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1116.wav
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/GreenFerretRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path2.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaWinkHappy.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1762.wav
+- Assets/SimulatedAssetBundles/act3/Characters/GalugaMap.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/ChatScenes/HabsuNPCOne.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile34.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1331.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/02ATransToPath.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeon2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1467.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile46.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1093.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeetADwa.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1643.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1715.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/GFES/MoveToPathToLuGananFromUrgRoa.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1148.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1284.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1778.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1697.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1237.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst229.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1497.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1157.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1623.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG1/BG1_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1532.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1120.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_1.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cactus_big.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst275.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/SziGuard.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile17.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaInjured.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile48.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1747.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1311.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile30.png
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/GFES/ToTownMeRizante.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1089.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1242.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_9.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1656.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1350.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Act3WaterDungeonPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1208.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1758.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst291.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst266.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1317.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Sky/Sky1_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1449.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/temple_water.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1845.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile33.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1631.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1090.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/CaptainIsLate.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst261.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1213.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1314.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1820.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1413.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganHappy.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1864.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (17).png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1586.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza_Material.mat
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSad.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1182.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1513.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1103.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonXaheOyai.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/DruidLizardMap.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1583.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile38.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3CrescentBladeElf.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaBase.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst280.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1739.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1095.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1193.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1224.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1817.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile33.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1748.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1830.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1295.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst294.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile12.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaHeh.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1518.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1751.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst251.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (21).png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Bg3/BG3_5.png
+- Assets/SimulatedAssetBundles/act3/Trainers/FurCoatWolf01.prefab
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3MeRizanteToLuGanan1.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_MidBG_02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1202.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile24.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/temple_water02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1111.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3MyshaEngage.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1374.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1693.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1395.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1306.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1609.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1637.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc_extra1UW.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_4.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3PathToMeRizante2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1541.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1183.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path5.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile11.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1779.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile50.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_Far_01.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile13.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonTrainer.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1677.wav
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/Skeletonsaurus01TCM.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1854.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile21.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1804.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_NW/chibi_SziFemaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile27.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile20.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1446.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1207.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst245.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleAMap.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Sky/Sky1_2.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/GreenFerret01TCM.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/KudVillager1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1537.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1218.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Sky/Sky1_4.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att3.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSigh.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1713.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_5.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1079.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1226.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_5.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main1/Main1_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1355.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1280.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1176.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1529.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/temple_water01.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1617.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/GFES/ToMeRizanteToLuGananFromPath.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile00.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1239.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1775.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1815.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga.atlas.txt
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaHappy.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1167.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1678.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1173.wav
+- Assets/SimulatedAssetBundles/act3/Characters/DrukeMap.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1382.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1527.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1796.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1326.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1792.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1316.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_tree2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile08.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeRizanteNPCThree.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1174.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1716.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile36.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1771.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1359.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1428.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1253.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile08.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1262.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1385.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1852.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_col5.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/05ARegToTrans.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaConfusedBlush.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1254.mp3
+- Assets/SimulatedAssetBundles/act3/Voices/mst1405.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bush.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1281.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1581.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1486.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1768.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1742.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_arch4.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/RunBats/BattleAct3MeRizanteToLuGanan2.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile18.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1599.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1233.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1746.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG1/BG1_5.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1691.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3Tileset.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1618.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/UrgRoaChatRunner.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1335.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1521.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeon3.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile29.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1564.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Bg3/BG3_2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1285.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1369.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1690.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1723.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst273.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1397.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1216.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst299.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/8.png
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1139.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1310.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1801.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst231.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_3.png
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaAngry.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1300.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1722.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1761.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile01.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1245.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile34.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1712.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaSleep.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/UrgRoaNPCTHREE.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1353.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/GFES/ToGilgansWorkshop.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1572.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1883.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1415.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1407.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1872.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/Urg Roa.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1743.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1175.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGMeRizante.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/5.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3PathToLuGanan1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst225.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1834.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1639.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst267.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (8).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1133.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ImageMeRizante/Sky/Sky_5.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1754.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSurpriseBlush.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/KudVillager1.png
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst264.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/DrukeTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst295.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1493.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1814.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1838.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1800.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1288.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1612.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1764.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1822.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1621.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1543.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1494.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cliffend02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1080.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1578.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_Far_02.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1571.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1452.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1803.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/GFES/ToAct3PathToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile14.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst265.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1248.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonDrukeFound.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1668.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1695.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1744.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/05ARegToMore.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1379.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1362.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile25.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst235.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1837.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganNormal.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1131.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1324.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst282.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert_stone2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1304.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1769.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeetADwaPre.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1823.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1833.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile51.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1143.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1387.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1548.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path9.png
+- Assets/SimulatedAssetBundles/act3/EncounterPrefabLinks/WaterDungeonEncounterAstridMyshaPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst287.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1550.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1481.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1454.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1616.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganDetermined.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst269.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile35.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1290.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1422.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile30.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1745.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst304.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1676.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_6.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaEating.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1708.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1440.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1842.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst305.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst270.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1630.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1556.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1648.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1620.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3BeastLady.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main1/Main1_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1782.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile24.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile19.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/03APathToPath.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1126.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/Town3_1 MeRizantegrid.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst249.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_8.png
+- Assets/SimulatedAssetBundles/act3/Maps/DontContinueChapter4.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile58.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1633.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/BattleAct3PathToLuGanan2.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1211.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1502.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1468.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_MidBG_01_02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1271.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1877.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1856.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleAMap.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/AstridApples.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1540.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile20.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/frst_mine.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst277.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1396.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst301.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile16.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1462.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/RunBats/BattleAct3PathToMeRizante3.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/MyshaFoxPoseTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1348.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1389.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1472.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/MyshaAstridMissing.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt3.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/AstridMakesTrouble.prefab
+- Assets/SimulatedAssetBundles/act3/WorldFX/CorruptedPersonFX.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/UrgRoaNPCONE.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1466.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1235.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaBitterSmile.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1115.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile09.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/ChatScenes/HabsuNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst232.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1490.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1152.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGDesert.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1721.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/NagiMotiveRunner.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/03BCliffPath.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/st1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1150.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/BringTheo.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1447.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1436.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (10).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1159.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1469.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1499.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1221.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1347.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1283.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1113.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1238.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/GFES/MoveToAct3MeRizanteToLuGananFromAct3TownMeRizante.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1094.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1156.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1675.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1595.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile06.png
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1223.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1707.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile11.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1136.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile18.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1873.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile40.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_7.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1333.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile03.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaWink.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1835.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_5.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1330.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1274.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst268.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_Near_01_01.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1194.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1291.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1651.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1785.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1825.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1198.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1181.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1799.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaXaheOyai.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1313.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1204.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (11).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1585.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeon2.prefab
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3FireKnightMaleOpt.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bridge (2).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1482.wav
+- Assets/SimulatedAssetBundles/act3/EncounterPrefabLinks/WaterDungeonEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile29.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/GFES/ToAct3LuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1392.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1179.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1632.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1601.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile17.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1185.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt7.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1766.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1297.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1432.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1811.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1812.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1180.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_9.png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1731.wav
+- Assets/SimulatedAssetBundles/act3/Characters/NorzaMap.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/GilganWontFight.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1512.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/ChatScenes/MeRizanteTownRunner.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeRizanteNPCFive.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile06.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1177.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1163.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/NagiMotive.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaShouting.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1101.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1538.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3DruidLizardMand.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1477.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_8.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile59.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1266.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst255.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1802.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1258.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main2/Main2_4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1327.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile31.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1664.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1635.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst256.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1196.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeRizanteNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/SW/chibi_Druke_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1734.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1683.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path4.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1704.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1287.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1277.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1865.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1289.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1819.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/y.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1092.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1545.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1700.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1172.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/1.png
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/sst281.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1600.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1869.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnightMap.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/ADwa.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cliffend03.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_col2.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_7.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonDrukeFound.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1774.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1577.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1589.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1129.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1414.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaConsidering.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1843.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1696.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1863.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/MyshaNoWeaponTachie.prefab
+- Assets/SimulatedAssetBundles/act3/EncounterPrefabLinks/WaterDungeonEncounterDrukeFoundPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/Druke.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1565.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst467.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_2/Fore_2_1.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/KudVillager2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1145.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1505.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1192.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1554.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1703.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganSad.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst224.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1215.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3GilgansWorkshop/GFES/MoveToUrgROaFromGilgansWorkshop.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1806.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1138.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1161.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1334.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_SW/chibi_SziFemaleA_SW.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1189.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1728.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaDepressed.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/AstridMyshaWeirdPostBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/ERGilansWorkshop25resize.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/04APathToReg.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1602.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1492.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst272.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1523.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertDarkParallaxPieces/BGTileDesertTemple_Near_01_02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1408.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (12).png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile10.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert_stone3.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1098.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile07.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bones1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1479.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1773.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc_extra1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1144.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile27.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1146.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1752.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1714.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/tile_att2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1561.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1341.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1457.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1088.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1315.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1720.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1592.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1358.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1244.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/end1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1673.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1763.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/ChatScenes/MyshaWingKudPre.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleBMap.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/01BCorner.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1828.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1596.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cactus_small.png
+- Assets/SimulatedAssetBundles/act3/Trainers/BeastLadyFighter01.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1663.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1292.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1821.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (19).png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/stb4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1710.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1132.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1398.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/04BTransToReg.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaPossessed.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/ArriveUrgRoa.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1438.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1509.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile45.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_11.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1684.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1534.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst271.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc2.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Parts/Gate.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1753.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/ChatScenes/MyshaWingKud.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/6.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1394.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1862.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1399.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (22).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1378.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1424.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1322.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1140.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1434.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile25.png
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/Act3UrgRoaTownStartEvent.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/arc_extra2UW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1319.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/Act3PathToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/AstridMyshaAttack.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Sky/Sky1_5.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1455.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSadSmile.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/GFES/ToAct3PathToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1448.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/Act3PathToMerizante.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1593.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1302.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1588.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1551.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1488.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_W/chibi_SziFemaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile13.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1797.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1437.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1706.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1749.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path3.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/stb3.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/2ndRow/2ndRow_1.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1757.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1102.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/greenish.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1429.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1575.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst254.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile39.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (3).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1686.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst278.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (4).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1871.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1832.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst247.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1384.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1526.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1568.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1188.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSilhouette.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1123.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1260.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1106.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG1/BG1_4.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonTrainer.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1234.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1171.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1307.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_N/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaGrit.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeRizanteNPCFour.prefab
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonSmellyStones.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Bg3/BG3_4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1711.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaLaugh.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst303.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1205.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1461.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1338.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1158.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/DrukeDefeated.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/SkeletonsaurusRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile22.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1427.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/7.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1503.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1453.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1375.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile09.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1406.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/Act3MeRizanteTownStartEvent.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1798.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1249.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1788.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1576.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShamanMap.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile28.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1542.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst242.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1421.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_S.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1791.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1567.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1305.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_6.png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1383.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1665.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1240.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/Act3MeRizanteTown.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1535.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1485.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1688.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1741.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan_Material.mat
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/ChatScenes/MeetGaLuga.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Act3WaterDungeon.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1160.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/Act3MerizanteToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/AstridApplesLater.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1624.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cactitile2.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaClosedEyes.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1689.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1525.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_17.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1299.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1135.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (20).png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile16.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1423.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1241.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1444.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1805.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3GreenFerretRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1186.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1824.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1496.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1246.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1337.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1772.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/ChatScenes/MyshaEngage.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile49.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile57.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (5).png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (15).png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan.png
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1425.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/3rdRow/3rdRow_2.png
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1099.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1122.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1264.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1336.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1559.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/end4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1790.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1733.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1860.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NE.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1880.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonAstridMyshaWeird2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1165.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1110.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1203.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1698.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile01.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (9).png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1426.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1552.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_w.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1109.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst234.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1323.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/KudVillager2Scared.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile36.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NE/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GilganTachie/GilganSmile.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Fore_1/Fore_1_6.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_15.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1628.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main2/Main2_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1107.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1339.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/GFES/TownUrgRoaShop.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_2.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst253.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_4.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG1/BG1_2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1085.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1097.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/BGTileDesertPathToLuGanan.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1562.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1653.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1439.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1344.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst293.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/RunBats/Act3BattleBeastLadyMand.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1147.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/Battles/BattleAct3WaterDungeonAstridMyshaWeird.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1100.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1839.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_SW/chibi_CrescentBladeElf_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1269.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst283.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/GalugaTachie.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG2/BG2_1.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert_stone1.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att2.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst300.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1682.wav
+- Assets/SimulatedAssetBundles/act3/Trainers/MaleKnight01.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1381.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_NW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1366.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElfMap.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1636.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst302.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SE/chibi_mysha_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1372.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/GilganMap.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1570.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1539.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1354.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1412.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1364.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1547.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile37.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/Act3BattleDruidLizardMand.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst276.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/DrukeFoundPostBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_W/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1168.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3ChatRunner.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_S/chibi_TattooedShaman_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1641.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1649.wav
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_S/chibi_SziFemaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1640.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/BattleAct3PathToLuGanan1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1680.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1614.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/end3.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1328.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1760.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1694.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1083.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1114.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1278.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1142.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path1.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst227.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1081.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (16).png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleA/SziFemaleA_N/chibi_SziFemaleA_N.png
+- Assets/SimulatedAssetBundles/act3/Voices/sst298.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (2).png
+- Assets/SimulatedAssetBundles/act3/Voices/sst286.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1443.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bones4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1491.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (6).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1119.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1475.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaHurt.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaFoxPoseBase.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1321.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N.skel.bytes
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/GalugaFlipTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1433.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1121.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1360.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path8.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1847.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1404.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile41.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/bones2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1573.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/ChatBackground/BGADwaRoom.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1604.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/ChatScenes/UrgRoaBlocker.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1210.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1371.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3GilgansWorkshop/Act3GilgansWorkshopStartEvent.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/FG1/FG1_5.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/SmellyThorns.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1655.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst258.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile04.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1346.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_SW/chibi_gilgan_Material.mat
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt2.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW_Material.mat
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SE/chibi_norza.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1393.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1549.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_Near_01.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (7).png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1419.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1840.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaRelaxHappy.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1510.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeChibi/NW/chibi_Druke_NW.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/att7.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1658.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_SW/chibi_MaleKnight_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1737.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile52.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1740.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Bg3/BG3_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1445.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_NW/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1400.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1430.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1610.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/Ruin02.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1476.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1270.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1647.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/ChatScenes/NagiDiesPre.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1783.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_S/chibi_mysha.png
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1480.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile15.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_7.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile31.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1298.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/end2.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile32.png
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/NW/chibi_galuga.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSmile.png
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/DesertParallaxPieces/BGTileDesert_Far_01.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1127.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1460.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main1/Main1_2.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1222.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1230.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/RunBats/BattleAct3MeRizanteToLuGanan1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1386.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1478.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1594.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/cactus.png
+- Assets/SimulatedAssetBundles/act3/Characters/SziFemaleA/SziFemaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1858.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1489.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1613.wav
+- Assets/SimulatedAssetBundles/act3/Characters/TattooedShaman/TattooedShamanBinary/Binarychibi_TattooedShaman_SW/chibi_TattooedShaman_SW.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1084.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1591.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_W.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1275.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1227.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1849.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaOpenMouth.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1514.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/RunBats/BattleAct3PathToMeRizante2.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1471.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1603.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/Ruin01.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1231.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile56.png
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3PathToLuGanan2.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Druke/DrukeSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1178.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1784.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1294.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/BG1/BG1_3.png
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSerious.png
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/tile_att1.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_arch1.png
+- Assets/SimulatedAssetBundles/act3/Trainers/TattooedShaman01.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MerizanteToLuGanan/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaPout.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1151.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1520.wav
+- Assets/SimulatedAssetBundles/act3/Characters/CrescentBladeElf/CrescentBladeElfBinary/Binarychibi_CrescentBladeElf_S/chibi_CrescentBladeElf_S_Material.mat
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/9.png
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile07.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1118.wav
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path7.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE_Material.mat
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/UrgRoaNPCTWO.prefab
+- Assets/SimulatedAssetBundles/act3/Maps/Act3UrgRoaTown/ChatScenes/MyshaAstridChatNEW.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1256.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1487.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1376.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1844.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3TattooedShaman.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/sst263.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1191.wav
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeon1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1357.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1209.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/Act3BattleFireKnightMaleOpt.prefab
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaSurprise.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1243.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1411.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1504.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1674.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1267.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1096.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/BG/BG_10.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1441.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1607.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1459.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile32.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_arch3.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaSerious.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/PrefabsTachie/ADwaTachie.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst284.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1495.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1417.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile39.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/ChatScenes/NagiDies.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1687.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1671.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1170.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1368.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1611.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1705.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1878.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToLuGanan/RunBats/Act3BattleMaleKnightOptBattle.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/N/chibi_galuga.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1590.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1219.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3Atlas.spriteatlas
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1718.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1340.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1373.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1580.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1206.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act3MeRizanteTown/GFES/TownMeRizanteShop.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/KudFemaleA/KudFemaleABinaryNew/chibi_KudFemaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Trainers/FireKnightMale01.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1738.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile03.png
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaPanic.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1363.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/desert multi-incline (1).png
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst297.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst246.wav
+- Assets/SimulatedAssetBundles/act3/Characters/KudMaleB/KudMaleBBinaryNew/chibi_KudMaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/sst237.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1501.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst290.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1508.wav
+- Assets/SimulatedAssetBundles/act3/Characters/MaleKnight/MaleKnightBinary/Binarychibi_MaleKnight_S/chibi_MaleKnight_S.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/Sky/Sky_4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1309.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1787.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNewSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path_alt8.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1105.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1190.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1885.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew_v2/chibi_MyshaRenewal_E_Atlas.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1345.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibi.prefab
+- Assets/SimulatedAssetBundles/act3/DesertWaterTempleTilesetDNC/path6.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1464.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Urgroa_cut/Main2/Main2_3.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3WaterDungeon/ChatScenes/AstridMyshaWeird.prefab
+- Assets/SimulatedAssetBundles/act3/Encounters/EncounterAct3WaterDungeonXaheOyai.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1229.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1619.wav
+- Assets/SimulatedAssetBundles/act3/Voices/sst230.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1670.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1154.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1560.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1659.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1781.wav
+- Assets/SimulatedAssetBundles/act3/Maps/Act1TownRigland/NagiMotiveLater.prefab
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_S/chibi_gilgan.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1130.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/dsrt_col4.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1370.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1725.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/Towns/Urg Roa grid.png
+- Assets/SimulatedAssetBundles/act3/Maps/Act3PathToMerizante/RunBats/BattleAct3PathToMeRizante1.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1579.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_NE/chibi_norza.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Characters/Galuga/GalugaChibiBinary/SW/chibi_galuga_Material.mat
+- Assets/SimulatedAssetBundles/act3/Voices/mst1380.wav
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/tile38.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_E/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/Voices/mst1544.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/SafeToCompress/MeRizante_cut/3rdRow/3rdRow_1.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1212.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1082.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1859.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Gilgan/GilganBinary/Binarychibi_gilgan_NW/chibi_gilgan_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaChibiBinary/chibi_mysha_SW/chibi_mysha.atlas.txt
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaLaugh.png
+- Assets/SimulatedAssetBundles/act3/Characters/Norza/NorzaChibiBinary/Binarychibi_norza_SW/chibi_norza_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act3/Voices/mst1884.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1282.wav
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_SE.skel.bytes
+- Assets/SimulatedAssetBundles/act3/Voices/mst1776.wav
+- Assets/SimulatedAssetBundles/act3/Voices/mst1626.wav
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/MyshaRenewal/MyshaCry.png
+- Assets/SimulatedAssetBundles/act3/Voices/mst1391.wav
+- Assets/SimulatedAssetBundles/act3/Backgrounds/BGTileDesertDark.prefab
+- Assets/SimulatedAssetBundles/act3/Voices/mst1323.mp3
+- Assets/SimulatedAssetBundles/act3/Maps/TileChangeManagers/Skeletonsaurus01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act3/Chapter3TilesetDNC/vtile28.png
+- Assets/SimulatedAssetBundles/act3/Characters/Mysha/MyshaNew/chibi_MyshaRenewal_N.atlas.txt
+- Assets/SimulatedAssetBundles/act3/ChatActors/ImagesTachie/GaLugaSmile.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs

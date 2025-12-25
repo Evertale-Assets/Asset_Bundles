@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 1918356542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58dc2082da55b16bfbcc8a09b496f37f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 58dc2082da55b16bfbcc8a09b496f37f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/MasamuneKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RizetteNewSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RizetteNewSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/BahamutAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RizetteNewSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/RizetteNewSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RolotiaStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RolotiaStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/MasamuneKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/BahamutAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/KnightGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/ClawStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/KnightGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrescentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/CyrusMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrescentHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrossSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/RizetteNewSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/ClawStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CyrusMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/MasamuneKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/ClawStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RoseSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RoseSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/RolotiaStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RolotiaStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrescentHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/ClawStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/BahamutAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/BahamutAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/AngelWingSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/CrossSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrossSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/RoseSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/RolotiaStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/AngelWingSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CyrusMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/AngelWingSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/MasamuneKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/SmallWeaponPortraits5.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/CyrusMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/KnightGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RoseSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/BahamutAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrescentHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/CrescentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/RoseSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CrossSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CyrusMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/AngelWingSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/ClawStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/KnightGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/MasamuneKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/AngelWingSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RizetteNewSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/RolotiaStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/KnightGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/MasamuneKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/WeaponPortraitsBundleDNC/CrescentHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/AngelWingSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/CyrusMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/LargeWeaponPortraits/BahamutAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle5/BattleImages/CrossSpear01.png
+Dependencies: []

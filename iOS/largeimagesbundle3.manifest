@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3225857398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 277a1719b3c72aecff2c4d2622b5afe0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 277a1719b3c72aecff2c4d2622b5afe0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/largeimagesbundle3/Placeholder.prefab
+Dependencies: []

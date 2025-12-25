@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3829108128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8da645bc557eee0ae4111ac64351fef0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8da645bc557eee0ae4111ac64351fef0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/SpikeBallMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/WoodenStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/BasicHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/SmallWeaponPortraits0.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/IronGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/DefaultKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BasicHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BusterSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BladedMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/IronSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/IronGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/IronSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronGreataxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/DefaultSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/SpikeBallMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BladedMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/IronGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/BladedMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/DefaultSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/WoodenStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/IronAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BusterSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/IronGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/WoodenStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/BasicHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/IronSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/BusterSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/DefaultSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/DefaultSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/IronSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/SpikeBallMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/DefaultKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/IronAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/BladedMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronGreataxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/DefaultKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/BasicHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/IronSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/BattleImages/BusterSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/DefaultKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/WoodenStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/SpikeBallMace01.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1

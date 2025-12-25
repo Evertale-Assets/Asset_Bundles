@@ -1,0 +1,578 @@
+ManifestFileVersion: 0
+CRC: 1324290879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c1ce6dd4fcd78a879566a881656aae9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13e240e92cb245323fda4b43e80b53a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c1ce6dd4fcd78a879566a881656aae9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: nameImagePair
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/OtoTachie/OtoShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBEvil.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/OldLadyTachie/OldLadySad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/FireDragonTachie/FireDragonWideTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonImpressed.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/NereiaResidentTachie/NereiaResident.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonNoFlipTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditFemaleTachie/BanditFemaleSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonHehOpenMouth.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeHehOpenMouth.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceConcider.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/OldLadyTachie/OldLadyTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaHappyNoLight.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceComplain.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotRobeBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinWink.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeStare.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/OtoTachie/OtoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinTehepero.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaShoutingNoLight.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/BahamutTachie/BahamutGlow.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotRobeWeaponOffBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditFemaleTachie/BanditFemaleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneScreamCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GenericMonsterTachie/GenericMonsterTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonSilhouette.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeannePillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonComplainBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/FireDragonTachie/FireDragonFire.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/EnforcerTachie/Enforcer.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneSmiling.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/NereiaResidentTachie/NereiaResidentTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/OldLadyTachie/OldLadyTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceComeOn.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewBaseNoWeapon.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditFemaleTachie/BanditFemaleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSmileBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotHurtBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotRobeWeaponOffTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GolemTachie/GolemTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotEcstasy.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/LutherArkTachie/LutherArkNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaSadNoLight.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBScared.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeEcstasy.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoAngryPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KomaInuTachie/KomaInuShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaSeriousNoLight.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainIrritated.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitDiscontent.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewCry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/FireDragonTachie/FireDragonNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinGhostTachie/MerlinGhostTehepero.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceWink.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditTachie/BanditNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ArkSoilderTachie/ArkSoilderNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/LutherArkTachie/LutherArkSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditFemaleTachie/BanditFemaleHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayBleedingBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/RobeMaleTachie/RobeMaleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneScream.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotEcstasyClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ArkSoilderTachie/ArkSoilderTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainNoWeaponBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinGhostTachie/MerlinGohstBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/LutherArkTachie/LutherArkAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GolemTachie/Golem.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/AstridArkTachie/AstridArkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/DivinesPendantTachie/DivinesPendant.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotRobeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoGiantMonster/TheoGiantMonsterDiscontent.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainWeaponOffTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KomaInuTachie/KomaInuTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KomaInuTachie/KomaInuAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/AstridArkTachie/AstridArkHoodBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/LutherArkTachie/LutherArkSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayGritBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/SilhouetteTachie/SilhouetteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneMichelleInsideHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaPearPieTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainClosedEyesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KomaInuTachie/KomaInuBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoGiantMonster/TheoGiantMonster.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeHurtBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotWrigglingPoseBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinGigantTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewJailedTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceClosedEyesSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeannePeasantBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainNormalOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneWhiteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneNoBannerBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaNormalNoLight.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CamelotSoldierTachie/CamelotSoldierNoCape.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CapitulianSoldierTachie/CapitulianSoldierTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/OldLadyTachie/OldLadyHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinPokerFace.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainEatingOnDishBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainEatingFoodOnCheek.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 4 Tachie/RabbitTachie/RabbitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinStare.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethBleedingBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneSurprisedBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayBleedingTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewJailedNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KomaInuTachie/KomaInuNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/FinnProtectorKnightTachie/FinnProtectorKnightTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceClosedEyesOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinComplacent.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneMichelleInsideSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeImpressed.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeComplainBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GenericMonsterTachie/GenericMonster.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/LutherArkTachie/LutherArkTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CamelotSoldierTachie/CamelotSoldierTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneWhiteBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/SilhouetteTachie/Silhouette.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterDiscontent.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaPearPieBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceOpenMouthHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainEatingBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GeminaTachie/GeminaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaShadow.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewSleep.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSurprisedPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ArkSoilderTachie/ArkSoilderBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/BahamutTachie/BahamutTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ArkSoilderTachie/ArkSoilderShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeEcstasyClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewNoWeaponTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayHurtBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneWorried.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaDetermined.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneBannerTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneTroubledSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/RobeMaleTachie/RobeMaleOpenMouth.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneBannerBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotBitterSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotWeaponOffBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CamelotSoldierTachie/CamelotSoldier.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/RolotiaSwimsuitTachie/RolotiaSwimsuitSurprise.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/ArmoredWarriorTachie/ArmoredWarriorTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/OldLadyTachie/OldLadyMob.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/RobeMaleTachie/RobeMaleTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MyshaYoungTachie/YoungMyshaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonPanic.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseDetermined.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/DivinesPendantTachie/DivinesPendantTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/OtoTachie/OtoNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/ArmoredWarriorTachie/ArmoredWarrior.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotWrogglingPoseTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CamelotSoldierTachie/CamelotSoldierNoCapeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleLecherous.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewJailedSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneRabitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AlicePillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneNoBannerTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinGhostTachie/MerlinGohstTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSadPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewSurprise.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/EnforcerTachie/EnforcerTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonStare.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneScared.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBMobScared.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethCrying.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteCry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/OldLadyTachie/OldLadyNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ElminaSwimsuitTachie/ElminaSwimsuitSurprise.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainEatingTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/OtoTachie/OtoSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainGirtBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinShocked.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditTachie/BanditAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSadComical.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainWeaponOffBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/BahamutTachie/BahamutAttack.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ArkSoilderTachie/ArkSoilderHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/OldLadyTachie/OldLadyBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/FinnProtectorKnightTachie/FinnProtectorKnightBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethHurtBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/CapitulianSoldierTachie/CapitulianSoldier.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethTroubledBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSmilePossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AlicePillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeannePillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainConfusedBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BanditBossTachie/BanditBossSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/AstridArkTachie/AstridArkSilhouette.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/KotoTachie/KotoBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/ReiSwimsuitTachie/ReiSwimsuitSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoGiantMonster/TheoGiantMonsterBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditTachie/BanditBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoGiantMonster/TheoGiantMonsterAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 4 Tachie/RabbitTachie/RabbitSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotRobeBitterSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/AbelTachie/AbelSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneRabbitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoMonster/TheoMonsterAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/ReiswimsuitStory Tachie/OtoTachie/OtoBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditTachie/BanditSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinGigantBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotWeaponOffTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/ArmoredBeastTachie/ArmoredBeastTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/Merlin Tachie/MerlinFace/MerlinComicalSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainEating.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/MyshaBaseTachie/MyshaBaseTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/MyshaBaseTachie/MyshaBaseBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/PhilomeneWhite/PhilomeneWhiteShout.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/MinaTachie/MinaClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MichelleTachie/MichelleNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayGrin.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/RobeMaleTachie/RobeMaleNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/ElminaNewTachie/ElminaNewJailedBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/ArmoredBeastTachie/ArmoredBeast.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditTachie/BanditTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/RizetteYoungTachie/RizetteYoungBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainNoWeaponTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/AstridArkTachie/AstridArkBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteSurprise.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/GilganBaseTachie/GilganBaseSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeannePeasantTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditMaleTachie/BanditMaleSneer.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewScared.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/BenishogaTachie/BenishogaBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/TachieRenewal Tachie/LudmillaRenewalTachie/LudmillaNewSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/WhiteWolfChieftainTachie/WhiteWolfChieftainClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethBleedingTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/Act 2 Tachie/AliceTachie/AliceFace/AliceAttack.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GarethTachie/GarethSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/BahamutTachie/Bahamut.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoHurtPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/JeanneTachie/JeanneFace/JeanneSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoNormalPossessed.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/GrandmaTachie/GrandmaOpenEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/MaleVillagerBTachie/MaleVillagerBMob.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/BanditFemaleTachie/BanditFemaleBase.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/AvernaTachie/AvernaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainFace/GawainNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/GawainTachie/GawainEatingOnDishTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/KayTachie/KayShoutingBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/BrunoTachie/BrunoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 4 Tachie/RabbitTachie/RabbitAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/AstridArkTachie/AstridArkHoodTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/SpicaTachie/SpicaScared.png
+- Assets/SimulatedAssetBundles/tachiebundle/RizetteyoungStory Tachie/TheoGiantMonster/TheoGiantMonsterNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 11 Tachie/CallenDragonTachie/CallenDragonRedEyeBlush.png
+- Assets/SimulatedAssetBundles/tachiebundle/CamelotStory Tachie/LancelotTachie/LancelotFace/LancelotHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoShoutingPossessed.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5

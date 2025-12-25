@@ -1,0 +1,2379 @@
+ManifestFileVersion: 0
+CRC: 1378834816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35244dc3ef7b8d9c7731314c1ad4ac3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96fc88cebaa836e5e5174e18938f17fe
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35244dc3ef7b8d9c7731314c1ad4ac3c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85a0eeb3324f4434f92451f66c031585, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3472655b7efeec24faad3a6ac5526f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca75039bfec6ff3449b5bfc87cc913d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e09d4f90ad57e44a3bf65289c1f0c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e9a05095f76f93488860e606ea818c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c3152745a3b3e44b09cf78e6fe8371, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1527d4d3db80ee4981972769707f661, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ac6d8ead59c8d54789dad5814784d4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe5257fdd9ca27f4aa36b832d3929ce6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e949617c491062641bcd81623ec93eb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60874c2167f15044abf6051adc81939e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eea5610f105c712469bf91e025cd2c8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85eeed252251e9c40910e75e75e3fe8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3247d5cca991f2f44b9187912cb495ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898e1247c30d3754e9602ea8491e49bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a4fa6982521f8b4b82c0441743b34e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b90410e80031be746beb19f8145b026d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c08388d4ffd6b42807f094ed6d65a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 775082bc41b44cc4ebe42dd358b0ad5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9cef3a10cd9da1409e26dbeccf509ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65807eecdd5f2a848a372f02b4484918, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46030b89c02874944855bc9fad2db053, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1c9e9f57238c464a962f7590ab538e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4283ac8e1b59c44aaf8dc9ce92959de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a48a80e60ea230f4f9397599f74bcc52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3613e23fd9a2d33438fe6f2734f6b0a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38844f6745f836c46a207b6eb6ab42a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99e87ae8862026243916c9bec96721cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 905635772204d254bb56c13eb6216c57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91ca583e119a3d84cbbe5f6866965ddd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f61dd6b27a843c47ae65e81c6e162a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a348d6202e750b4183377dcbe984663, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11fbe913f427b31458c53462fd880037, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda7726d915358b49b03a67e85d5f5b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 001300d367cbe2d49a623a883a3adf06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4467b184169733f4783aab695b637a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 952c025a9c7f02e47a573b9ec3cabb89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c30eb04f1b15ff41a7a0292dbe82edb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 869816719b2b0b8448f9f98151e5780b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 650722302afa5cd4cbc0c7ff4a9c4d67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dc278847efb0684a8b413d29b09f36e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8a7c9a80536d2e44b2378c303795afb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a7a7c13ef674b6468aeab07c6ae2b99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ff4f104251a9824fa638bc9912efd1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a0710e60cdba2488ea0e5227395cab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: baf7ae2328528ee4ea35d26abf1a1492, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923be381beb5fa048aca80896eb40c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d391a750f7666c46ac4437e90abc78e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57b373d6c1236a242b41de90e943890b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: CloudSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterStatsCommonPopulator
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: ShimmerConfigU
+- AssemblyName: Assembly-CSharp
+  ClassName: TableCell/StatBlock
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UIMoveLoop/UIMove
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/FinalIcons/ChallengerCompulsoryIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestAwakening.controller
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RunBats/RosseDestroyedBattle.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial6-7.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Shimmer001.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline09.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile62.png
+- Assets/SimulatedAssetBundles/act0/Animations/FingerWaggleTutorial.anim
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst16.wav
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/RainyMood006.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/ToRosseToRigland.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial9-End-Yes.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnNormalGold.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WorldClickParticleMat2.mat
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/Blink_FirstVideo.anim
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker5.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst64.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteBlushConfuse.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/BlackOverlayCrestScene2.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGNarration.png
+- Assets/SimulatedAssetBundles/act0/Music/MischiefIntro.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSuperHappy.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText2.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile32.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/b1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile11.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst155.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/back_1.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab4.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bridge (2).png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile12.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E.atlas.txt
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial6-End-Yes.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle2-3.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/CFX4_AuraBubble ADD.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab6.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst51.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst11.wav
+- Assets/SimulatedAssetBundles/act0/Music/Active_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst117.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UIItemObtained/ItemObtained.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestFlash.anim
+- Assets/SimulatedAssetBundles/act0/Voices/mst86.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab11.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextUltraEvolveTut5-END.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile18.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile06.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst108.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/Gold2.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WorldClickParticleMat
+  1.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst109.wav
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomleft_halfblock.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab8.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut1.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall29.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSurprisedOpen.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnPillarBase.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile92.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText9.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst172.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/marsh_tree_water.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMRosse1.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab4.prefab
+- Assets/SimulatedAssetBundles/act0/Music/DesertDungeonTheme.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains_tree2_variation.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/capture_thicks.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence1.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker3.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/GFES/DontGoBack.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteGentleSmile.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst88.wav
+- Assets/SimulatedAssetBundles/act0/Voices/sst458.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSadSmile1.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/SpinePrefabsNSEW/se.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile85.png
+- Assets/SimulatedAssetBundles/act0/Music/MarshDungeonTheme.wav
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar_Opening.anim
+- Assets/SimulatedAssetBundles/act0/Music/BossBattleIntro.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SpiritIncrease.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r1.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst142.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/UpliftingIntro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/ChatActor/BlinkIn.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/1_1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile77.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/brochewitchtutorialinfo1new.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleAMap.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower4_2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSurprise.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst3b.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower4_3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bridge_sides.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall17.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst129.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst135.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle12-13.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText3.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/ArrowWaterToFire01.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst96.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinnMap.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkAngry.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle8-9.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/PlainsRainEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst22.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkSurprised.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile60.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Sounds/Laugh1.mp3
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor.skel.bytes
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/ToTheRescueBattleEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/OpeningPointLight.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_35.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText5.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst137.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst169.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst81.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkSigh.png
+- Assets/SimulatedAssetBundles/act0/Music/Triumphant_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/mushrooms_3_variation.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile49.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (19).png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall19.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile69.png
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter3Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnPokerFace.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/BlackOverlayCrestScene.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteHurt.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/GigantRizetteTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst141.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst24.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst164.wav
+- Assets/SimulatedAssetBundles/act0/Music/MarshFieldTheme.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/AutoWalkTutorialGFE.prefab
+- Assets/SimulatedAssetBundles/act0/Music/SnowBattle_Loop.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/ArcRebellion.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/CatchAMonster.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHurt.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSurpriseBlue.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSmileBlush.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/ArrowTutorial1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Music/SnowTown_Loop.wav
+- Assets/SimulatedAssetBundles/act0/FinalIcons/ShopIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst9.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle4-5.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CloseBattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree05.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight.skel.bytes
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsLayer4.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile01.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaPillarBase.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile43.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Music/OssiaStrike.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/b2.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab10.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab6.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibi.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter4Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (11).png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextUltraEvolveTut3-4.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/EneryLeafs/BMPARTICLE_LEAF2.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab4.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/ToTheRescuePostBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/DeckManagementTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Music/WetlandTowns_Intro.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText4.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Nothing.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/e.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitialsHorrorAB/EndChapter2HorrorAbInterstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Flame Style
+  1.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst121.wav
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/PlainsEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act0/Music/PlainsOP_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall11.png
+- Assets/SimulatedAssetBundles/act0/Materials/lightning-flash 1.mat
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/RosseDestroyed.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/TileManagers/RosseToRiglandTCM.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/OssiaStrike/Spark1.mat
+- Assets/SimulatedAssetBundles/act0/Animations/BeginChapterGiveStuff.anim
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TUHighlighted2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water2.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/cloud_1.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/Act1RosseToRiglandOne.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGRosse.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/RosseDestroyedNew.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial13-End.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act0/Encounters/RosseDestroyedEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst179.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile24.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaPillarTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile08.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst1.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile46.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteHeh.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst130.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnPOI.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Music/ArcaneChat_intro.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst173.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor_Material.mat
+- Assets/SimulatedAssetBundles/act0/Music/GeneralChat_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/extree1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/mushrooms_2.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TutorialBush.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0011_Layer-2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedClosedEyes.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/topleft_halfblock.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/fore_1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W.skel.bytes
+- Assets/SimulatedAssetBundles/act0/WorldFX/OssiaStrike.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst163.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/ElementWheel1.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures2/CFX4_T_AuraBubble.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkDoubt.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/CloseBattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst158.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/FinnCrestAwakening.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkHappy.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/GigantFinnTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile68.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Music/Triumphant_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Animations/NavigationArrowPulse.controller
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/FinalBattle.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst118.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RosseDestroyedStartEvent.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WorldClickParticleMat.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/grass.png
+- Assets/SimulatedAssetBundles/act0/Music/PlainsBattle_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst43.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/Capture_thick.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/mid_3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0005_Layer-8.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Materials/water drops.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile90.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/FinnCrestActivateTachie.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/Shaders/Skeleton.shader
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/Blink.controller
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-RizetteCrestClosedBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText7.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHurtRed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteUpset.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSad.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/glow_small_dot.psd
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/GoodPlaceToRestAfterWarpTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost4-5.prefab
+- Assets/SimulatedAssetBundles/act0/Encounters/EncounterAct1RosseToRigland2.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/xtwo.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial6-8.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/aura (10).png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSmile.png
+- Assets/SimulatedAssetBundles/act0/BattleLossNoFlagsRevert.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkContempt.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/ArrowAirToWater01.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations01.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSadSmile.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile95.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SpiritHighlighted.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst148.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/EneryLeafs/BMPARTICLE_LEAF.mat
+- Assets/SimulatedAssetBundles/act0/Animations/TeamManagementTutorialPrefab3.controller
+- Assets/SimulatedAssetBundles/act0/Voices/mst170.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst176.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Images/Clarice001Blur.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab4.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapterHorrorAb.anim
+- Assets/SimulatedAssetBundles/act0/Animations/SkipAnimation.anim
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/BattleBackgroundPlains.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bigtree.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile50.png
+- Assets/SimulatedAssetBundles/act0/Music/OminousTheme.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Shimmer003.png
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Music/last_bastion_intro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/FinnTurnsTideNew.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile86.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile89.png
+- Assets/SimulatedAssetBundles/act0/Materials/FinnCrestWoke.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (12).png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSeriousGold.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (16).png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapDoorRoomIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile00.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/IconBrownCountdownClock01.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall18.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/ElementTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Maps/General/SheepChat.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r11.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S_Material.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/Shaders/Particle Alpha Blend.shader
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall27.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnGritGold.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall30.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestOpenSETile.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle7-8.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/EvolutionSequence/Evol-Burning.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Music/PlainsTownSong.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst114.wav
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/vortex.png
+- Assets/SimulatedAssetBundles/act0/Music/Death_loop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (9).png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteMap.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst29.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst156.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BushTutorial1.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginBrocheWitchBombTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood003.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst174.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile31.png
+- Assets/SimulatedAssetBundles/act0/Music/TurnTheTide_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile09.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSurpriseBlue.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall07.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/BittersweetIntro.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial4-6.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains_tree2.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/OssiaRetreats.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile71.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-FinnCrestClosedBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile10.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/EvolutionSequence/Evol-Charged.prefab
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/BattleBackgroundRosseDestroyed.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedSurprised.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst177.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile80.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-FinnCrestRedBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/OssiaLossText.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bstone_gem_1.png
+- Assets/SimulatedAssetBundles/act0/ChatPrefabEffect/SlashBlood.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r4.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst124.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab10.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RosseDestroyedChatRunner.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkShouting.png
+- Assets/SimulatedAssetBundles/act0/Animations/OpenTutorial.anim
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile17.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/rightblock.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab6.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (8).png
+- Assets/SimulatedAssetBundles/act0/Music/SnowFieldTheme.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkEmbarrassed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnOpenHappyGold.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst44.wav
+- Assets/SimulatedAssetBundles/act0/Music/DesertTown_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/PostRosseDestroyedBattlePrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSadSmile.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Empty Tile.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall06.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Music/dark_battle_intro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall02.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/RizetteCrestAwakening.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter2Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile61.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S.skel.bytes
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnCommandRed.png
+- Assets/SimulatedAssetBundles/act0/Animations/NavigationArrowPulse.anim
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedHorror.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SpiritHighlighted-1.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/Flame - Smokey.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial2-3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkBase.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/lightleak2.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/ArcaneVoiceParticle.anim
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/glow-horizontal 1.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSurprise.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile41.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile45.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst104.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst59.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst40.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteWorried.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSadSmile.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/b3.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSigh.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteLookaway.png
+- Assets/SimulatedAssetBundles/act0/Materials/Flare_blue.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence8.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle5-6.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst66.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/Blockers/DontGoBack.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestAwakenScene.anim
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Cloud.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/FinnCrest.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab9.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSleep.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst120.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/topright_halfblock.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/newtile.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle7-end-Yes.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/Act0RosseToRigland.prefab
+- Assets/SimulatedAssetBundles/act0/UnlockButtons.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor_Material.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/auroraborealis.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst57.wav
+- Assets/SimulatedAssetBundles/act0/Music/OrcanixBossLoop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0000_Layer-13.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/LudmillaTips.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/UltraEvolveTut5.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle6-7.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/grass_alt_flower.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSeriousBlue.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaScared.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst149.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSleep.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/shell.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/cloud_2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall14.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab7.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkSmile.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/GoldCrest03.png
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsRainyLayer3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (4).png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/back_2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/OssiaDarkPointingFingerTachie.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoAlarmed.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst151.wav
+- Assets/SimulatedAssetBundles/act0/Music/MourningLoop.wav
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMRosse_rough.png
+- Assets/SimulatedAssetBundles/act0/Music/AeonLordTheme.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst84.wav
+- Assets/SimulatedAssetBundles/act0/Materials/RizetteCrestWoke.mat
+- Assets/SimulatedAssetBundles/act0/TownTileset.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Music/last_bastion_field_loop.wav
+- Assets/SimulatedAssetBundles/act0/Animations/SkippingIndicator.controller
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (7).png
+- Assets/SimulatedAssetBundles/act0/Voices/mst160.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst116.wav
+- Assets/SimulatedAssetBundles/act0/Music/SnowBattle_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile27.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water6.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile02.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoAngry.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree02.png
+- Assets/SimulatedAssetBundles/act0/Materials/vortex.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree03.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst13.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-RizetteCrestBlueBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeckManagementText4.prefab
+- Assets/SimulatedAssetBundles/act0/Music/ResoluteLoop.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst54.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower4_1.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteCalm.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/Chain002.mat
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestAwaken.anim
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSurpriseRed.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/RizetteIntro.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst98.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaAngry.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab5.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall42.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst3.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst32.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/ArcaneChat_loop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/InvisibleMap.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile70.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst144.wav
+- Assets/SimulatedAssetBundles/act0/Animations/RizetteCrestAwakening.controller
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsRainyLayer2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoHeh.png
+- Assets/SimulatedAssetBundles/act0/FinalIcons/ChallengerHostileIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/RosseDestroyed2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSurprise.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst92.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Materials/Ripple.mat
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/OpeningPointLightLarge.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bstone_gem_2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower1_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile07.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteGritBlue.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Bush01.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleAChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/Finn.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst85.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnightMap.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter1Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Encounters/CaptureTutorialEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/Music/SweetnessLoop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst68.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText4.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile67.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSeriousRed.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText10.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSigh.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_12.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/sky_2.png
+- Assets/SimulatedAssetBundles/act0/Animations/ElementTutorial.anim
+- Assets/SimulatedAssetBundles/act0/Chapter1Tileset.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteWorried.png
+- Assets/SimulatedAssetBundles/act0/Music/MourningIntro.wav
+- Assets/SimulatedAssetBundles/act0/Materials/Circle.mat
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline02.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst19.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst71.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst58.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/ArrowEarthToAir01.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile96.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab9.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoHurt.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst25.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/SimpleChestOpeningSpark/SimpleChestOpening3.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile13.png
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapter.anim
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/GenericBlink_Closing.anim
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnClosedEyes.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial1-3.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0008_Layer-5.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/ToTheRescue.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Encounters/EncounterAct1RosseToRigland1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/Dramatic_Intro.wav
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomblock.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial5-6.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile58.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst4.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/DeckManagementTutorialRedSlotWeapon.PNG
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Mossy Pillar.png
+- Assets/SimulatedAssetBundles/act0/Music/GeneralChat_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations05.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/mid_2.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/VanguardIntro.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle3-4.prefab
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMRosse2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile11.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst7.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst73.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnOpenHappy.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab3.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood004.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/topblock3.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/InfoButoonHighlighted.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile25.png
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleMap.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomleftopen.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile38.png
+- Assets/SimulatedAssetBundles/act0/Animations/BeginChapterGiveStuff.controller
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Materials/Smoke.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OpenBattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst128.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_30.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteCalm.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile72.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst145.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteHurtBlue.png
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestClosedNWTile.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/OnToRigland.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TuTorialBase.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial2-3.prefab
+- Assets/SimulatedAssetBundles/act0/Music/DesertTown_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial3-4.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SpiritDecrease.png
+- Assets/SimulatedAssetBundles/act0/Music/Drone_24_Magnifo.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water3.png
+- Assets/SimulatedAssetBundles/act0/Music/SadLoveIntro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall25.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst72.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText6.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText6.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/mushrooms_3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile22.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst101.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst8.wav
+- Assets/SimulatedAssetBundles/act0/Materials/Flame - Smokey.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Music/PlainsFieldTheme.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile88.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSad.png
+- Assets/SimulatedAssetBundles/act0/Music/Silence.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn.png
+- Assets/SimulatedAssetBundles/act0/Joystick/PathPoint.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/OssiaStrike/spark1.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText1.prefab
+- Assets/SimulatedAssetBundles/act0/Music/UpliftingLoop.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TutorialArrow.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree08.png
+- Assets/SimulatedAssetBundles/act0/Encounters/OpeningEncounterForest.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/GameObject.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/WorldFX/UI-SunFlare/UI-SunFlares.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial7-8.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/Fireknightnew.png
+- Assets/SimulatedAssetBundles/act0/Music/Death_intro.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile07.png
+- Assets/SimulatedAssetBundles/act0/Animations/RainyMoodAnimation.anim
+- Assets/SimulatedAssetBundles/act0/Joystick/GreenDebug.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r10.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost2-3.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab2.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial6-End-No.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SpiritMeterHighlighted.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaHurt.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst53.wav
+- Assets/SimulatedAssetBundles/act0/Music/SnowTown_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Encounters/ToTheRescueBattleEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/RizetteTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/SpinePrefabsNSEW/s.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab6.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile19.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower3_2.png
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/ForestRainEncounterPrefab.prefab
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapDoorGateIcon.prefab
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/RosseBossBattleEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (20).png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile73.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/WorldFX/WarpPointActivatedDark.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/OssiaPoison.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst132.wav
+- Assets/SimulatedAssetBundles/act0/Music/Serious_Intro.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkHurtNormal.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/LightlingCaptureTutorial261.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst111.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst6.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/fore_2.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Images/blink.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst95.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare 1.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree06.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WhiteIconRoundCrosshair.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst147.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/SimpleChestOpeningSpark/flare_blue 1.tga
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile44.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizettePillarBase.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab7.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar_FirstVideo.anim
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst31.wav
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestActivate.controller
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst18.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_N/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (18).png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall13.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N.skel.bytes
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSmile.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare_Blendadd.mat
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapterGiveStuff.anim
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnPossessed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/RedKnightTachie.prefab
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapTransitionIconSE.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/glow-orange.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteAngry.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab12.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/toprightopen.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst70.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle7-end-No.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSmile.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Images/Clarice001NoBlur.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/RedKnightFlipTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst168.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnBase.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline10.png
+- Assets/SimulatedAssetBundles/act0/BeginChapter2Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall04.png
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapTransitionIconNE.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/FinnTurnsTide.prefab
+- Assets/SimulatedAssetBundles/act0/Music/Serious_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/AirPonyRareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst167.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextUltraEvolveTut1-2.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower2_2.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextUltraEvolveTut4-5.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial8-9.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst90.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnPOI.prefab
+- Assets/SimulatedAssetBundles/act0/BattleLoss.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapTransitionIconSW.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_03.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence7.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeleteWarpTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst61.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N.skel.bytes
+- Assets/SimulatedAssetBundles/act0/FadeIn.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Sounds/NoiseLoop.mp3
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations02.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/FirstCatch.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TUHighlighted1.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/PointingFingerBase.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/grass_water.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Encounters/EncounterAct1RosseToRiglandAirPony.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile21.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight.atlas.txt
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood005.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile05.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/SpinePrefabsNSEW/w.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/pulselights.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall03.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall28.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/GenericBlinkingExample.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial9-End.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/open.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/DeckManagementTutorialYellowSlotWeapon.PNG
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle6-7.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitialsHorrorAB/EndChapter0HorrorAbInterstitial.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter0Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/UltraEvolveTut3.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle4-5.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile30.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UIShine_FlareAdditiveMask.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginUltraEvolveTut1.prefab
+- Assets/SimulatedAssetBundles/act0/Music/Active_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RosseTown.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst42.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall36.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TutorialBackdrop.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r8.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSadGold.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSerious.png
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_05.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_25.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/rightblock3.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W.skel.bytes
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/OnetimeBeginAwakeBoostTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-RizetteCrestOpenBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall09.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile35.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/smoke2.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile33.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile82.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile36.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteGritBlue.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab13.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile42.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSadSmileRed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkHurtShouting.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst107.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst133.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSurprise.png
+- Assets/SimulatedAssetBundles/act0/Music/SadTheme.wav
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Circle Particle.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/GrassShaker.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline01.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/GFES/ToRiglandTrials.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/Blockers/CatchOrRescue.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSerious.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab6.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/capture_word_English.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_27.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapterGiveStuff.controller
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran_Material.mat
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/template.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSadSmile.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst77.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGRainyForest.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pla_gate_2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile04.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/SpinePrefabsNSEW/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile79.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost1-2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile15.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/HorrorClariceWhiteBackground.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/xone.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/SetGachaToStandard.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle13-End.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile40.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/MeetRizetteAndTheo.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0006_Layer-7.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst37.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial6-End.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/Chain002.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor.atlas.txt
+- Assets/SimulatedAssetBundles/act0/WorldFX/LuisRain.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/FinnCrestQuickFlashTachie.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/WordCapture.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker2.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/collecet_glow.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst136.wav
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/CrestEyeDesign.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains_tree.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WhiteIconRoundCrosshair2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoCalm.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/nw.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/LudmillaTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Music/ForestBattleTheme.wav
+- Assets/SimulatedAssetBundles/act0/Voices/sst3.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile55.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSigh.png
+- Assets/SimulatedAssetBundles/act0/Music/Dramatic_Loop.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeleteArrowTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AutoWalkingTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bstone_gem_4.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/RunBats/ToTheRescueBattle.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut4.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/EvolutionSequence/Evol-BuildUP.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst127.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle3-4.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/Gold1.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (17).png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/topleftopen.png
+- Assets/SimulatedAssetBundles/act0/TutorialImagesAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act0/Voices/mst165.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial12-13.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall16.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/ParticleFlare
+  1.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0002_Layer-11.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar_FirstVideo_Transition.anim
+- Assets/SimulatedAssetBundles/act0/Voices/mst34.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/RosseRiglandNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Shine.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteScared.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSerious.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/WarpPointTutorial2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/Act1OpeningStart.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UISaveFeedback/SaveButtonFeedback.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Sounds/ClariceSlash1.mp3
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextUltraEvolveTut2-3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile15.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteGrit.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/1_3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile34.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/Chain001.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab3.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGPlains.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSeriousBlue.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/RunBats/RunCaptureTutorialEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGfinnsroom.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/RosseNoGo.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst47.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab5.prefab
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsRainyLayer4.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/Crest-Red.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (5).png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Music/MischiefLoop.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaClosedEyesBlush.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile05.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/sky_1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_08.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/BlackSmoke.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestOpenNETile.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W.skel.bytes
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab2.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst91.wav
+- Assets/SimulatedAssetBundles/act0/SetGachaToTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/FinalIcons/ChallengerOptionalIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst17.wav
+- Assets/SimulatedAssetBundles/act0/Music/ForestFieldTheme.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/PostRunCaptureTutorialEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/ThroughTheWilderness.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/CFX4_Glow AB+Add VColor 1.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial4-5.prefab
+- Assets/SimulatedAssetBundles/act0/FinalIcons/NPCStoreIcon.prefab
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsLayer2.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile13.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Encounters/EncounterAct1RosseToRigland3.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst143.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran_Material.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood001.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/ChatBackground/BG_Ether1.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomright_halfblock.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial10-11.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomrightopen.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_S/chibi_SziMaleA_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst102.wav
+- Assets/SimulatedAssetBundles/act0/Animations/RizetteCrestAwaken.anim
+- Assets/SimulatedAssetBundles/act0/Music/ProvingGrounds_Intro.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeckManagementText2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_N/chibi_Ossia_Renewal_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestClosedNETile.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst50.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare.mat
+- Assets/SimulatedAssetBundles/act0/Materials/ThunderStrike.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText9.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_10.png
+- Assets/SimulatedAssetBundles/act0/FinalIcons/NPCQuestIcon.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst89.wav
+- Assets/SimulatedAssetBundles/act0/Music/BittersweetLoop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_W/chibi_redknight_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSadRed.png
+- Assets/SimulatedAssetBundles/act0/Materials/glow-white.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0007_Layer-6.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSleep.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/door_smoke 1.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/Capture_thins.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower1_2.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst15.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/MeetFamiliarsIntro.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile26.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall01.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile04.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile78.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteHappy.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/WorldFX/Auroraborealis.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost6-END.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/OneTimeBeginUltraEvolveTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile48.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Smoke.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHeh.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Materials/Flame Style 1.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText11.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence5.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile87.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle.atlas.txt
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare02.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizettePillarTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/Materials/WarppointCircle.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle9-10.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnPillarTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r7.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab2.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost5-6.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapterHorrorAb.controller
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst45.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/Opening.prefab
+- Assets/SimulatedAssetBundles/act0/Music/TurnTheTide_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst5.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile12.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water5.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/blocktopleft.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor.skel.bytes
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSerious.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0010_Layer-3.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_23.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextAwakeBoost3-4.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/leftblock.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile29.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree01.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/LightlingCaptureTutorial001.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst30.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkClosedEyes.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDonQuixote.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/DarkAstridIntro.wav
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/open2.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab7.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile94.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/RestartBattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaAngryBlush.png
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestActivateTachie.anim
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/back_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/UI-CatchPulse/CatchPulse.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestAwaken.controller
+- Assets/SimulatedAssetBundles/act0/Joystick/Default.asset
+- Assets/SimulatedAssetBundles/act0/Encounters/EncounterAct1RosseToRigland4.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1Atlas.spriteatlas
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_W/chibi_redfinn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSurprise.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst146.wav
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Images/Clarice001Distance.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile51.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/RainyMood/RainyMood007.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText8.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle1-2.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile01.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile20.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/pulselights.tga
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab3.prefab
+- Assets/SimulatedAssetBundles/act0/Encounters/FireknightMale01OptEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst20.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaCry.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/door_smoke 1.mat
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/mid_1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst131.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall12.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower2_3.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile75.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/CrimsonCrestActivateNew.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnGritSweat.png
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst154.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/WarpPointActivated.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSick.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RedKnightFlip.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r6.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/bstone_gem_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile57.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaShouting.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline04.png
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/cloud_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Music/ProvingGrounds_Loop.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial9-End-No.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginBattleSkillsTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower1_1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile03.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSleep.png
+- Assets/SimulatedAssetBundles/act0/Music/DesertBattleTheme.wav
+- Assets/SimulatedAssetBundles/act0/TutorialGachaPrefabPicker.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkHurtSerious.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/Capture/capture_thins.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst41.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W_Material.mat
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RosseDestroyedChatRunnerTester.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst122.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkSerious.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile03.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/Awakening-FinnCrestOpenBIGHEAD.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText1.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst180.wav
+- Assets/SimulatedAssetBundles/act0/FinalIcons/MapTransitionIconNW.prefab
+- Assets/SimulatedAssetBundles/act0/Music/ArcaneBattle_intro.wav
+- Assets/SimulatedAssetBundles/act0/Materials/Auroraborealis 1.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst166.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/n.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/darkgate.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst125.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor.skel.bytes
+- Assets/SimulatedAssetBundles/act0/WorldFX/UISaveFeedback/shatters 1.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/Cloud.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline07.png
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile47.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall08.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnTroubledBlush.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor_Material.mat
+- Assets/SimulatedAssetBundles/act0/Music/ForestTown_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/SkillHighlighted.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile23.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst110.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r2.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestQuickFlash.anim
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TuirnOrderHighlighted.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteScared.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst48.wav
+- Assets/SimulatedAssetBundles/act0/Materials/blackSmoke.mat
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall05.png
+- Assets/SimulatedAssetBundles/act0/Animations/EndChapter.controller
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/DeckIntro.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/RosseRiglandNPCOne.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialGachaPrefab.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0001_Layer-12.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHehRed.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (14).png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/glow-red.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_N/chibi_theo_N.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst46.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/GoldCrest02.png
+- Assets/SimulatedAssetBundles/act0/Voices/sst1.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteHurt.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/extree2.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_S/chibi_ludmilla_S.png
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsRainyLayer1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst150.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/b4.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence2.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst69.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_W/chibi_elran.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/glow_small_dot.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoMap.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/ArcaneVoiceParticle.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/glow-blue.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaBase.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/w.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst115.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile81.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_SW/chibi_redfinn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst105.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_N/chibi_instructor.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/mushrooms_1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile28.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/mushrooms_2_variation.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile53.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/blockbottomleft.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/ChatActor/ClariceFar.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/TileManagers/RosseToRiglandTCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSmileGold.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/GoodPlaceToRest.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/FinnCrestFlashTachie.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/Blockers/CatchTheMonster.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter6Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TutorialLightling.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst79.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/darkener.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Sign left.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile17.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence3.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleBMap.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TutorialNavArrow.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall40.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Voices/mst103.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/DeckManagementTutorialWeaponSlotRed.PNG
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHorrorRed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnCommandGold.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/WarpPointTutorial1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/TheoTachie.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab5.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall38.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/EmptyEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle2-3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/grass_alt.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r9.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall21.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence4.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile10.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial3-4.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_14.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst55.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/TeamManagementTutorialPrefab7.controller
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/marsh_tree1_water.png
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitialsHorrorAB/TemplateEndChapterHorrorAbInterstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/sst2.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteHurtBlue.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile02.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile74.png
+- Assets/SimulatedAssetBundles/act0/Characters/SheepBMap.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst27.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile06.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginBattleSpiritTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker7.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextRevengeBuffTutorial8-9.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall39.png
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitialsHorrorAB/EndChapter1HorrorAbInterstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/fore_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnCommand.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/TeamManagementSlideAnimation.anim
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnCry.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/BeginChapter1PostTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SE/chibi_theo_SE_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/Gold3.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle5-6.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NW/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Materials/debris.mat
+- Assets/SimulatedAssetBundles/act0/Materials/lightleak1.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst62.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst10.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaGrit.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/TheoIsSick.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatScenes/LogoSequence.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/UltraEvolveTut1.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/smoke2.png
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestClosedSETile.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnHorror.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkAngrySmile.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut2.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatRunners/RosseDestroyedBegin.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower3_3.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst33.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_S/chibi_Ossia_Renewal_S.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst63.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaHappy.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst35.wav
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Sounds/Laugh2.mp3
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile65.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/BeginChapter4Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile84.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSadSmile.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst134.wav
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMRosse4.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (13).png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteAngryBlue.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSighComical.png
+- Assets/SimulatedAssetBundles/act0/Music/ArcaneBattle_loop.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/OssiaDarkTachie.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedCommand.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst157.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/WestcarteNoGo.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/1_2.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/GigantRizetteBase.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle13-End-No.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginTeamManagementTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile52.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/SpinePrefabsNSEW/se.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial5-6.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/OpenTutorial.controller
+- Assets/SimulatedAssetBundles/act0/Voices/mst2.wav
+- Assets/SimulatedAssetBundles/act0/Materials/collecet_glow.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/NE/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile54.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations04.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSeriousBlush.png
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibiBinary/Binarychibi_SheepB_SW/chibi_SheepB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst178.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial1-2.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/main_1.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/main_2.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial4-5.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizettePanic.png
+- Assets/SimulatedAssetBundles/act0/ChestsAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act0/WorldFX/WorldClickParticle/WhiteIconRoundCrosshair1.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar_SecondVideo_Transition.anim
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestClosedSWTile.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0012_Layer-1.png
+- Assets/SimulatedAssetBundles/act0/FinalIcons/NPCChatIcon.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSurpriseBlush.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteAngry.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/blockbottomright.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NW/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile76.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile09.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile37.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/ArrowFireToEarth01.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst12.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pla_gate_1.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NE/chibi_theo_NE_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginRevengeBuffTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/RequiredBattleTwo.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeckManagementText1AutoFill.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/Blink_Opening.anim
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeleteBushTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight.png
+- Assets/SimulatedAssetBundles/act0/Materials/lightleak2.mat
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestOpenNWTile.png
+- Assets/SimulatedAssetBundles/act0/Music/BossBattleLoop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline08.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile63.png
+- Assets/SimulatedAssetBundles/act0/Materials/Fog.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeckManagementText1.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/flare_blue.tga
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/WaterEditor_32.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial3-4.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSmile.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker4.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab5.prefab
+- Assets/SimulatedAssetBundles/act0/Encounters/FinnTurnsTideEncounter.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/BeginChapter5Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst52.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SheepB/SheepBChibi.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst36.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (21).png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_NW1/chibi_HumanFemaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_NW/chibi_theo_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Animations/ElementTutorialPrefab.controller
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab8.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst28.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/RevengeBuffTutorialText8.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteBase.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_NW/chibi_instructor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnTroubled.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst56.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst83.wav
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/DontRunTutGachaIfAlreadyRan.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/Act1RosseToRiglandTwo.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab1.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SW/chibi_heroine_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteClosedDetermined.png
+- Assets/SimulatedAssetBundles/act0/Music/SweetnessIntro.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_NW/chibi_redknight.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_W/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0004_Layer-9.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/bottomblock3.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_NW/chibi_Ossia_Renewal_NW.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/N/chibi_RizetteRenewal_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedSerious.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RedKnight.png
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/NoGuidesEncounterPrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst119.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile39.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall10.png
+- Assets/SimulatedAssetBundles/act0/Music/Comedic_Intro.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/OnlineMapTesting/Chain001.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/cliff2water4.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial9-10.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/WarpPointFlare_blue 1.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut3.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/FireknightMale01MandBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnClosedEyesBlush.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSad.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline05.png
+- Assets/SimulatedAssetBundles/act0/Music/ResoluteIntro.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSmileBlue.png
+- Assets/SimulatedAssetBundles/act0/Materials/ParticleFirework 1.mat
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatRunners/PostRosseDestroyedBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Music/OrcanixBossIntro.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst93.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst65.wav
+- Assets/SimulatedAssetBundles/act0/Music/PlainsBattle_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (3).png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UISaveFeedback/Shatters 1.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnDamagedHurt.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Shimmer002.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/W/chibi_heroine.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Voices/mst82.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/CFX4_T_Glow A9.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (6).png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_W1/chibi_HumanFemaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/ChatBackground/BG_Ether2.png
+- Assets/SimulatedAssetBundles/act0/Music/RedKnight_Intro.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/WarpButtonTutorial2OkayButton.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall15.png
+- Assets/SimulatedAssetBundles/act0/Music/ArcaneVoice.mp3
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText2.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoHappy.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Voices/mst123.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst106.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst39.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/HeroTorchOpening.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/YouGoHere1.png
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleChibiNew/chibi_desertle_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteUpset.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst80.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst38.wav
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/Act1RosseToRiglandFour.prefab
+- Assets/SimulatedAssetBundles/act0/TownAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/RequiredBattleOne.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_NW/chibi_SziMaleA_NW_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/CaptureTutorialText5.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile14.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/S/chibi_RizetteRenewal_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/E/chibi_RizetteRenewal_Material.mat
+- Assets/SimulatedAssetBundles/act0/WorldFX/OssiaRainDamage.prefab
+- Assets/SimulatedAssetBundles/act0/Music/PlainsOP_Intro.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r5.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteSleep.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst87.wav
+- Assets/SimulatedAssetBundles/act0/Characters/OssiaMap.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab12.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (1).png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/leftblock3.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteAngryBlue.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle7-end.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst112.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst138.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab11.prefab
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/DeckManagementTutorialWeaponSlotYellow.PNG
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextTeamManagementTutorial11-12.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_W/chibi_instructor.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteHappy.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (10).png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile16.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst97.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/Comedic_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst161.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/YouGoHere2.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar.controller
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/BrocheWitchTutorialnew.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree07.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiAssetsAndGoldCrest/GoldCrest01.png
+- Assets/SimulatedAssetBundles/act0/GameReviewGFE.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/GenericBlink.controller
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteSmileBlue.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaBlush.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile14.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteClosedDetermined.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W.atlas.txt
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/ClariceFar_SecondVideo.anim
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_SW/chibi_ludmilla_SW_Material.mat
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/ChatBackground/BGNarrationWhite.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0009_Layer-4.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/N_edited/chibi_heroine.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/ChatActor/GenericBlink.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BattleTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_W/chibi_ludmilla_W_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile56.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/ArcaneVoice/glow-horizontal 1.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut6.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/BeginAwakeBoostTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsLayer1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act0/Chests/ChestsAtlasDNC/ChestOpenSWTile.png
+- Assets/SimulatedAssetBundles/act0/WorldFX/SimpleChestOpeningSpark/SimpleChestOpening2.mat
+- Assets/SimulatedAssetBundles/act0/Materials/auroraborealis 1.png
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/blocktopright.png
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoChibiSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteGentleSmile.png
+- Assets/SimulatedAssetBundles/act0/Music/RedKnight_Loop.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/WarpPointTutorial3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Fence6.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_SW/chibi_Ossia_Renewal_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/UltraEvolveTut2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoSmile.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst67.wav
+- Assets/SimulatedAssetBundles/act0/StartGameEvent.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst14.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N.png
+- Assets/SimulatedAssetBundles/act0/Music/DesertFieldTheme1.wav
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SE/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/Characters/LudmillaMap.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/DesertleBinary/DesertleSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst26.wav
+- Assets/SimulatedAssetBundles/act0/Music/SadLoveLoop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile64.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/CreateBlocker.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower3_1.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NE/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile08.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab13.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Joystick/RedDebug.mat
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/SafeToCompress/BMPlainsLayer3.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/ChatScenes/MissedSoulStone.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinn.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/glow-blue.mat
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/lightleak1.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaRelax.png
+- Assets/SimulatedAssetBundles/act0/Materials/glow_dot_add.mat
+- Assets/SimulatedAssetBundles/act0/Music/DarkAstridLoop.wav
+- Assets/SimulatedAssetBundles/act0/Music/AeonTower_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst126.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst94.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst23.wav
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SE/chibi_finn.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/Blink_SecondVideo.anim
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/ChatScenes/FindASoulStone.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_E/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Sign Right.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle10-11.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBrocheWitchBombTutorial1-2.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/AwakeBoostTut5.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnTroubledRed.png
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Flame Style
+  2.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_NW/chibi_ludmilla_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/WetlandsTown_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile91.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tree04.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations03.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_S1/chibi_HumanFemaleB_S.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/redknight_S_New/chibi_redknight_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline03.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/pdl_tile16.png
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/PostFinnTurnsTideBattlePrefabLinks.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/Ripple 1.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile83.png
+- Assets/SimulatedAssetBundles/act0/Voices/sst459.wav
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/TutorialFinger.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Sounds/DarkLoop.mp3
+- Assets/SimulatedAssetBundles/act0/Materials/glow-white-blendalpha.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnGritRed.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst76.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Variations06.png
+- Assets/SimulatedAssetBundles/act0/Music/ForestDungeonTheme.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst153.wav
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnSurpriseGold.png
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/Blink_Closing.anim
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/LightlingCaptureTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteShock.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_S/chibi_finn.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (2).png
+- Assets/SimulatedAssetBundles/act0/Voices/mst152.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst139.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/UI-SunFlare/UI-SunFlares.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/E/chibi_heroine.png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall41.png
+- Assets/SimulatedAssetBundles/act0/Animations/TeamManagementWeaponSlideAnimation.anim
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile93.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/RunBats/FinnTurnsTideBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight_Material.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile66.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranMap.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_N/chibi_elran.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/GFES/WarpMapTutorial.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst171.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/Blocker.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst49.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SpiritTutorialPrefab5.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/lightblur.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaRenewal/chibi_ossia_W/chibi_Ossia_Renewal_W_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_SW/chibi_SziMaleA_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/RunBats/OpeningEncounterForest.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/RedFinnBinary/chibi_redfinn_S/chibi_finn.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_E/chibi_theo_E_Material.mat
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/DeckManagementText3.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst113.wav
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_SW/chibi_elran.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/UltraEvolveTut4.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/flower2_1.png
+- Assets/SimulatedAssetBundles/act0/Music/ForestTown_Loop.wav
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_SW/chibi_theo_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Materials/SafeToCompress/Textures/E-lightning-flash.png
+- Assets/SimulatedAssetBundles/act0/Animations/FingerWaggleTutorial.controller
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/LudmillaTachie/LudmillaSurprishBlush.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst60.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/SkillTutorialPrefab2.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/BrocheWitchBombTutorialPrefab3.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/BeginChapter2Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/Ossia/OssiaSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act0/EncounterPrefabLinks/RunCaptureTutorialEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnGrit.png
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle13-End-Yes.prefab
+- Assets/SimulatedAssetBundles/act0/Voices/mst140.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst159.wav
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/marker6.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst100.wav
+- Assets/SimulatedAssetBundles/act0/Music/awakening_preparation.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_SW1/chibi_HumanFemaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/W/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/chibi_ludmilla_renewal_export/chibi_ludmilla_N/chibi_ludmilla_N.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Music/awakening_success.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst75.wav
+- Assets/SimulatedAssetBundles/act0/Voices/mst99.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (15).png
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/r3.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_S/chibi_elran.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RedFinn/SpinePrefabsNSEW/e.prefab
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/MenuTutorial/MonsterManagementTutorials.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TeamManagementTutorialPrefab3.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/NE/chibi_RizetteRenewal.atlas.txt
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/S/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_S
+  edit/chibi_theo_S_Material.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnNormal.png
+- Assets/SimulatedAssetBundles/act0/Characters/ElranBinary/ElranChibi/chibi_elran_NW/chibi_elran.atlas.txt
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkNormal.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_SW/chibi_instructor.png
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/RizetteBinaryFinalEdit/SE/chibi_heroine_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextSpiritTutorialBattle1-2.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_W/chibi_SziMaleA_W_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_NW/chibi_finn_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Characters/TheoBinary/TheoEditedBinary/chibi_theo_W/chibi_theo_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act0/Voices/mst21.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/plains multi-incline (22).png
+- Assets/SimulatedAssetBundles/act0/Voices/mst74.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Tile59.png
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/SziMaleASpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_SW/chibi_redknight.skel.bytes
+- Assets/SimulatedAssetBundles/act0/BattleBackgrounds/BattleBackgroundPlainsRain.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/BeginChapter6Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/BeginChapter3Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteGrit.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst162.wav
+- Assets/SimulatedAssetBundles/act0/WorldFX/UiShine/UiShine_Flare 2.mat
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Wall26.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst78.wav
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act0/WorldFX/SimpleChestOpeningSpark/SimpleChestOpening1.mat
+- Assets/SimulatedAssetBundles/act0/Materials/BluAura.mat
+- Assets/SimulatedAssetBundles/act0/TNRosseAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act0/Characters/FinnMap.prefab
+- Assets/SimulatedAssetBundles/act0/Animations/RainyMood.controller
+- Assets/SimulatedAssetBundles/act0/ChapterInterstitials/EndChapter5Interstitial.prefab
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/fr__0003_Layer-10.png
+- Assets/SimulatedAssetBundles/act0/Characters/HumanFemaleB/HumanFemaleBBinary/Binarychibi_HumanFemaleB_N1/chibi_HumanFemaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RizetteBinary/chibi_RizetteRenewal/SW/chibi_RizetteRenewal.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/SafeToCompress/TNRosse/TNRossePackedPartsDNC/sky_3.png
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightChibi.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteRenewal/RizetteHeh.png
+- Assets/SimulatedAssetBundles/act0/Characters/Ludmilla/LudmillaChibiBinary/Binarychibi_ludmilla_S/chibi_instructor.skel.bytes
+- Assets/SimulatedAssetBundles/act0/Characters/SziMaleA/chibi_SziMaleA/SziMaleA_N/chibi_SziMaleA_N_Material.mat
+- Assets/SimulatedAssetBundles/act0/Music/dark_battle_loop.wav
+- Assets/SimulatedAssetBundles/act0/HorrorClariceWhiteBackground/Animations/GenericBlink_Opening.anim
+- Assets/SimulatedAssetBundles/act0/Maps/Act0Opening/GFES/HasGenie.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/OssiaDark/OssiaDarkGrid.png
+- Assets/SimulatedAssetBundles/act0/Animations/FinnCrestAwaken.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/PrefabsTachie/FinnTachie.prefab
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/TutorialRunners/NextBattle11-12.prefab
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/FinnTachie/FinnCryRed.png
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/RizetteTachie/RizetteFace/RizetteHappySmile.png
+- Assets/SimulatedAssetBundles/act0/Backgrounds/TutorialImagesDNC/BossHighlighted.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseDestroyed/ChatRunners/PostFinnTurnsTideBattle.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/Flame Style 2.mat
+- Assets/SimulatedAssetBundles/act0/ChatActors/ImagesTachie/TheoCommand.png
+- Assets/SimulatedAssetBundles/act0/Characters/Finn/FinnChibiBinaryNew/chibi_finn_SW/chibi_finn_Atlas.asset
+- Assets/SimulatedAssetBundles/act0/Music/MarshBattleTheme.wav
+- Assets/SimulatedAssetBundles/act0/Music/VanguardLoop.wav
+- Assets/SimulatedAssetBundles/act0/TutorialTextPrefabs/OssiaBattleResistanceTutorialPrefab4.prefab
+- Assets/SimulatedAssetBundles/act0/towntilesDNC/topblock.png
+- Assets/SimulatedAssetBundles/act0/Voices/mst175.wav
+- Assets/SimulatedAssetBundles/act0/Chapter1TilesetDNC/Incline06.png
+- Assets/SimulatedAssetBundles/act0/Maps/Act0RosseToRigland/RunBats/Act1RosseToRiglandThree.prefab
+- Assets/SimulatedAssetBundles/act0/Materials/glow_dot_add 1.mat
+- Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight.skel.bytes
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/accessoriesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/bannersbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/gacharewards
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/itemsbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/weaponsbundle0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/weaponsbundle1

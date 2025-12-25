@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3902279721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9528df52412ec4dc856596a0d0941487
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9528df52412ec4dc856596a0d0941487
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/accessoriesssrbundle1/Placeholder.prefab
+Dependencies: []

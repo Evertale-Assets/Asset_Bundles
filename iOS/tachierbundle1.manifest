@@ -1,0 +1,104 @@
+ManifestFileVersion: 0
+CRC: 2113124626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d3dc044ef98c6783a19e07895efd438
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6269b5690a2e8865532e6abdae2f2374
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5d3dc044ef98c6783a19e07895efd438
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/ArcDemon01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/BeastSoldier01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/StarterDragon01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/NewRedElf01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/SquidHead01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/StarterDragon01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/GreenFerret01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/AirWolf01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/TrainerGirl01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/RoseElf01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/HighAngelSoldier01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/FireElfKnight01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/RoseElf01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/AirElfWarrior01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/ElfBattleMage01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/FloatingMage01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/TrainerBoy01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/TwoFaceDemon01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/WaterElfWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/TrainerGirl01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/AirGolem01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/CrescentBladeElf01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/ForestBear01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/HighAngelSoldier01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/BlueDinosaur01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/BeastLadyFighter01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/GreenFerret01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/TwoFaceDemon01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/BrocheWitch01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/RedHairKnight01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/SquidHead01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/BeastSoldier01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/MartialArtistGirl01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/RedHairKnight01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/PlainsFox01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/BeastLadyFighter01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/AirElfWarrior01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/BeastCleric01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/FoxDuelist01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/Placeholder.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/FurCoatWolf01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/AirGolem01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/FurCoatWolf01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/FloatingMage01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/FrogKnight01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/PinkHairWitch01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/ForestBear01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/FrogKnight01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/ElfBattleMage01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/AirWolf01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/FoxDuelist01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/DragonKnight01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/TrainerBoy01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/CrescentBladeElf01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/FireElfKnight01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/PlainsFox01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/RedScarfFrog01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/DragonKnight01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/PinkHairWitch01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/NewRedElf01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/MartialArtistGirl01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/WaterElfWarrior01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/BlueDinosaur01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/ArcDemon01.prefab
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/BeastCleric01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Images/RedScarfFrog01.png
+- Assets/SimulatedAssetBundles/tachierbundle1/Prefabs/BrocheWitch01.prefab
+Dependencies: []

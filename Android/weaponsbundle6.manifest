@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 223270085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 532c90767d95ab2e0e43b1f29b3db79b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 532c90767d95ab2e0e43b1f29b3db79b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenWeaveKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/DarkWeaveSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/IdolStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HellGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IdolStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IkemenKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/EgyptGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/ChristmasHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/SpikeKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/SpikeKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/AztecAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/AztecAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AztecAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HellGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IdolStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/ChristmasHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/BlackWarHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/LonginusSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IkemenKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/YandereSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/BlackWarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/YandereSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/SpikeKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/YandereSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/AnchorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/SpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/LonginusSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/DarkWeaveSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/OssiaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/DarkWeaveSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/RedBladeKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AztecAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IkemenKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/AnchorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/EgyptGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AztecAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AnchorHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IdolStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/ChristmasHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/OssiaMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/RedBladeKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/RedBladeKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/LonginusSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenThornSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/GreenThornSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AnchorHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AnchorHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/IdolStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenWeaveKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenWeaveKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HollowGreatSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AztecAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/LonginusSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HollowGreatSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/SmallWeaponPortraits6.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/ChristmasHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/HellGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/TwoProngSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/RedBladeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/YandereSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/EgyptGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/OssiaMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/OssiaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/BlackWarHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenThornSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IdolStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/HellGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/TwoProngSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/BlackWarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/SpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/GreenWeaveKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HollowGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/TwoProngSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/AnchorHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/DarkWeaveSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/LonginusSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/GreenWeaveKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/HollowGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HellGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/RedBladeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/RedBladeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/IkemenKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/YandereSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/DarkWeaveSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/HellGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/OssiaMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/EgyptGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/ChristmasHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/IkemenKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/EgyptGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/TwoProngSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/TwoProngSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/EgyptGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/SpikeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/ChristmasHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/OssiaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/BlackWarHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/YandereSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/BlackWarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/LonginusSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenThornSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/IkemenKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/BattleImages/GreenThornSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle6/LargeWeaponPortraits/GreenWeaveKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle6/WeaponPortraitsBundleDNC/HollowGreatSword01.png
+Dependencies: []

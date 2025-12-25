@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 3266573881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64adaee6bae12a99deb706538453c733
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c28018d3686b6ef89a8c6bd6adfb7bd9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 64adaee6bae12a99deb706538453c733
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestHammer.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestStaffRanged.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestGreatAxe.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestStaffMelee.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestStaffRanged.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpearNormalTemp.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestKatana.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestGreatAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestStaffRanged.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestSpear.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestStaffMelee.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpear.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestGreatSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestGreatAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestGreatSword.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestAxe.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpearSpecialTemp.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestGreatSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestSpearNormalTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestSpear.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestMace.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpear.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestStaffMelee.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSword.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestMace.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestHammer.prefab
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestGreatSword.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestGreatAxe.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestSpearSpecialTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestMace.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestSpearNormalTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestSpearSpecialTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestStaffRanged.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestMace.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpearSpecialTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestHammer.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestStaffMelee.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestKatana.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestKatana.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/LargeWeaponPortraits/TestSpearNormalTemp.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestHammer.png
+- Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestKatana.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1

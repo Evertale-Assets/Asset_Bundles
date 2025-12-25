@@ -1,0 +1,443 @@
+ManifestFileVersion: 0
+CRC: 2789310623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4c1573b6d91a65bd51b0f677928fd8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c577e1ee6340e541cd896dfe6d1b420
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f4c1573b6d91a65bd51b0f677928fd8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 039587c051912eb4ead9e58344c5f3ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7df519f1f2950a043920d98ef6361900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatNoise.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/GilgameshChatCutin.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatSteamOpen.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatSuperOrb.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOldFlame.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGFancyOfficeNight.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBloodWave.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatGilgameshSuperAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatYmirBodyUP.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatCleoSnake.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/OdinCutin.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatDreamPieceDelete.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatCroseSlash.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatDreamPieceBlue.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatGroundSmoke.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGCityStreet.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatSandSummon.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/GilgameshCoolChastCutin.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGLastBastionSquarePlainNight.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGGalaxyNightSky.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatMagicDrain.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGCrystalCastle.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGShoppingStreetNight.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatGilgameshEyes.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/GilgameshChatCutin.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGChange.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGChangeBefore.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOdinAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatYmirBody.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventFIFTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGSquareEgypt.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBarrierCrash.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatCerberusPower.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Image/BGSmallShrineBlueClose.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle17D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatCleoSnakeMaterial.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGCangeWave.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/YmirBody.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOdinEyes.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/SpeedLineHorizontalChat.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatCerberusPower2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatCandyDrop.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBarrier.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiWarpLeft.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGLastBastionSquarePlainNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGMilkyWayNightSky.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGBath.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventEIGHTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/OdinSpearEVO.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiWarpRight.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatCerberusAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatSteam.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGLastBastionSquareCrashNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGChangeAfter.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOldStory.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry17D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatArrow.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatCerberusPower3.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatMagicDrainReverse.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatCleoSnakeTexture.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/chatFlame.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiSmoke.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiStealth.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatSandMiniSummon.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatLokiWarp.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOdinSpearEVO.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGFancyHallwayNight.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGMountainNightYmir.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Image/BGSmallShrineOpen.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGChangeVertical.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/CeruberusMagicChatAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatCerberusAttack2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOdinCharge.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatArrowMiss.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventSIXTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatFreyaFireCharge.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Image/BGThroneEgypt.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Prefab/ChatDreamPieceSpark.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatOdinEyes.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatFenrirAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatRedScreen.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/GilgameshChatCutin.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Images/BGLastBastionSquareCrashNight.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatCleoShortSnake.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatFreyaFire.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Prefab/ChatGilgameshAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatNoise.mat
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/ChatBGChangeVertical.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/ChatScenes/CerberusEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGFEs/odinstrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatPrefab/BGChangeVertical.png
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/Battles/BattleGroups/Encounterodinstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGFEs/cleopatrastrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGFEs/cerberusstrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/ChatScenes/CleopatraEventSEVENTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202311odinstry/ChatScenes/OdinEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202403cerberusstry/Battles/BattleGroups/Encountercerberusstry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle17/oe202312cleopatrastry/Battles/BattleGroups/Encountercleopatrastry10D1.prefab
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle10
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle11
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle12
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle13
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle14
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle15
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle16
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle18
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle6
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle7
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle9
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact11
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact8
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact9
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle6

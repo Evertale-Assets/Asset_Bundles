@@ -1,0 +1,292 @@
+ManifestFileVersion: 0
+CRC: 3566616503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c4ec6620337d001f925d6a79926c7d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a36b59699a5090e7c47f3aa0612250a7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c4ec6620337d001f925d6a79926c7d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/RoundShadow.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor.prefab
+- Assets/SimulatedAssetBundles/misc1/Evolution/AfterEvoRings/afterevoring03.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00044.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00020.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00021.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00059.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00000.png
+- Assets/SimulatedAssetBundles/misc1/Materials/VerticalGradientTest.mat
+- Assets/SimulatedAssetBundles/misc1/Materials/RollingWaves.mat
+- Assets/SimulatedAssetBundles/misc1/Materials/BattleScreen_Bottom.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx.controller
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00016.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00013.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor.png
+- Assets/SimulatedAssetBundles/misc1/Materials/SuperSubtle.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00062.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconYellowGlowingNavigationArrow01.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier11.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00052.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier13.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00021.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00041.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00017.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00025.png
+- Assets/SimulatedAssetBundles/misc1/Materials/PopupBackgroundMaterial.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00017.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier5.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00010.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00025.png
+- Assets/SimulatedAssetBundles/misc1/Materials/DeathSequenceBoxesImage.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/AfterEvoRings/afterevoring02.png
+- Assets/SimulatedAssetBundles/misc1/GuildMiscAssets/GuildChestClosed01.png
+- Assets/SimulatedAssetBundles/misc1/Mockups/DottedLine.mat
+- Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud4.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00004.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00028.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00058.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00015.png
+- Assets/SimulatedAssetBundles/misc1/tilerippleb.png
+- Assets/SimulatedAssetBundles/misc1/Materials/TestLegMaterial.mat
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconLegendaryBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00048.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapEventExclamationMark01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00033.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackEventBox.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconUnrankedBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00042.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00012.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00012.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00002.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00054.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00014.png
+- Assets/SimulatedAssetBundles/misc1/Materials/LoveParticles.mat
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor.skel.bytes
+- Assets/SimulatedAssetBundles/misc1/Materials/Gorrila01.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00043.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor_SkeletonData.asset
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier8.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00008.png
+- Assets/SimulatedAssetBundles/misc1/Particles/RainScreen.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor_Atlas.asset
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier9.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00056.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00006.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00055.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/RotatingBase/RotatingBase001.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00011.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurstNoEvent.controller
+- Assets/SimulatedAssetBundles/misc1/Materials/TrophyShine.mat
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier4.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier16.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconChampionBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Materials/HorizontalGradientTest.mat
+- Assets/SimulatedAssetBundles/misc1/Materials/Smooth.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00007.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow.anim
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier3.png
+- Assets/SimulatedAssetBundles/misc1/Particles/ConfettiParticle.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00061.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00019.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvoStar/evostar03.png
+- Assets/SimulatedAssetBundles/misc1/BlankSprite_4x4.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00039.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00035.png
+- Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud1.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00007.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00010.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00047.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00005.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/RotatingBase/RotatingBase004.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00018.png
+- Assets/SimulatedAssetBundles/misc1/Particles/RainParticle.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00000.png
+- Assets/SimulatedAssetBundles/misc1/Materials/SpriteMaterial.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00013.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00022.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/RotatingBase/RotatingBase002.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00009.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/RotatingBase/RotatingBase005.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier20.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00019.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00024.png
+- Assets/SimulatedAssetBundles/misc1/Materials/Subtle4.mat
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier18.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvoStar/evostar01.png
+- Assets/SimulatedAssetBundles/misc1/Materials/Background_Rain.mat
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier15.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00006.png
+- Assets/SimulatedAssetBundles/misc1/Materials/LitTiles.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00015.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00038.png
+- Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud2.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00026.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconMapMovement01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow.controller
+- Assets/SimulatedAssetBundles/misc1/Materials/BigWaves.mat
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteDoor01.png
+- Assets/SimulatedAssetBundles/misc1/Materials/Stars.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00001.png
+- Assets/SimulatedAssetBundles/misc1/Materials/Subtle.mat
+- Assets/SimulatedAssetBundles/misc1/Particles/ConfettiParticle.mat
+- Assets/SimulatedAssetBundles/misc1/BlankSprite_1x1_PivotBottom.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier12.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00007.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconOakBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00040.png
+- Assets/SimulatedAssetBundles/misc1/WorldIcons.spriteatlas
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier24.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconGrandmasterBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00003.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00027.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00057.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00031.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00060.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier17.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00003.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00023.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackBaseGlow.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier22.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00050.png
+- Assets/SimulatedAssetBundles/misc1/tileripplea.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor_RolotiaLiveActor.mat
+- Assets/SimulatedAssetBundles/misc1/Materials/FountainFall.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00006.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00001.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier1.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00045.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00024.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst.controller
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00004.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor.atlas.txt
+- Assets/SimulatedAssetBundles/misc1/Materials/Greyscale.mat
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier19.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier7.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00012.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconGoldBadge01.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapBattleSingleSword01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00029.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier21.png
+- Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud5.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/evobggalaxy.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier23.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackStartButton.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00063.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconRedMapBattleDoubleSword01.png
+- Assets/SimulatedAssetBundles/misc1/Materials/Subtle3.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00019.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapPresent01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00015.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier10.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/WorldMapMoveToIcon.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00003.png
+- Assets/SimulatedAssetBundles/misc1/Mockups/TextOutline.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst.anim
+- Assets/SimulatedAssetBundles/misc1/Evolution/TempCanvas.controller
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00016.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00026.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00046.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00000.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/RotatingBase/RotatingBase003.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier6.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00049.png
+- Assets/SimulatedAssetBundles/misc1/Mockups/LineRend.mat
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconSilverBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00017.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor_RolotiaLiveActor2.mat
+- Assets/SimulatedAssetBundles/misc1/Materials/GoldParticles.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00023.png
+- Assets/SimulatedAssetBundles/misc1/Materials/ExplosionParticle.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00028.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvoStar/evostar02.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00004.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00053.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackEventBG.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00011.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00034.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00036.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00064.png
+- Assets/SimulatedAssetBundles/misc1/Materials/BattleScreen_Top.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00009.png
+- Assets/SimulatedAssetBundles/misc1/CloudAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/misc1/GuildMiscAssets/GuildChestOpen01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00014.png
+- Assets/SimulatedAssetBundles/misc1/AnimatedTachie/Rolotia/RolotiaLiveActor2.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurst/FlashBurst_256x256_00_00016.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier2.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00037.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00008.png
+- Assets/SimulatedAssetBundles/misc1/Particles/ShineDecal.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapShopBasket01.png
+- Assets/SimulatedAssetBundles/misc1/PVPTierBadges/IconBronzeBadge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00051.png
+- Assets/SimulatedAssetBundles/misc1/Materials/HeroWalkBehind.mat
+- Assets/SimulatedAssetBundles/misc1/Evolution/FlashBurstNoEvent.anim
+- Assets/SimulatedAssetBundles/misc1/Shine.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00030.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00014.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/AfterEvoRings/afterevoring01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00018.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx.anim
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00008.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00018.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapDoorGate01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00009.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00032.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackGlow.png
+- Assets/SimulatedAssetBundles/misc1/Particles/RainParticle.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00002.png
+- Assets/SimulatedAssetBundles/misc1/Materials/GreyscaleStrong.mat
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier25.png
+- Assets/SimulatedAssetBundles/misc1/WorldIconsDNC/SafeToCompress/IconWhiteMapChallenge01.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00027.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00001.png
+- Assets/SimulatedAssetBundles/misc1/RankedPvPAssets/PVPEventTier14.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/EvolGlowGoldLow/EvolGlowGoldLow_00011.png
+- Assets/SimulatedAssetBundles/misc1/AttackEventAssets/AttackExpectedPoints.png
+- Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud3.png
+- Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00010.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle

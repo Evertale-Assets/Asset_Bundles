@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 556933014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b7004cab8e64ee191f3c12c98182e37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 24aa767956b52e5574f8901a4139a263
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b7004cab8e64ee191f3c12c98182e37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a03f9fdc1bad2e341b2f72ba1c325985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ef409a21867a874fb160977b444caec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a2e8b52218ebdd4ba024f5a1a94b12b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b3ffc6c3d400ab41a6fe1894e600056, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc7200fed190d6140b6c4daa26f9a5d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0482d9dafb012104da708a15506e23ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/SimulatedAssetBundles/news/hbbeginnerspecial2newsBannerVariant.prefab
+- Assets/SimulatedAssetBundles/news/GenericFinalBeginnerGachaNewsPrefab.prefab
+- Assets/SimulatedAssetBundles/news/hba11livenewsBannerExpandedVariant.prefab
+- Assets/SimulatedAssetBundles/news/GenericBeginnerGachaNewsPrefab.prefab
+- Assets/SimulatedAssetBundles/news/hba11livenewsBannerVariant.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefab.prefab
+- Assets/SimulatedAssetBundles/news/NewsFeedCollection.json
+- Assets/SimulatedAssetBundles/news/hbNewsBannerSpecial18.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabV1.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabV2.prefab
+- Assets/SimulatedAssetBundles/news/hbbeginnerspecial2newsBannerExpendedVariant.prefab
+- Assets/SimulatedAssetBundles/news/GenericFinalBeginnerGachaNewsPrefabExpanded.prefab
+- Assets/SimulatedAssetBundles/news/GenericBeginnerGachaNewsPrefabExpanded.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabExpandedV1.prefab
+- Assets/SimulatedAssetBundles/news/NewsBottomLine.prefab
+- Assets/SimulatedAssetBundles/news/hbNewsBannerExpandedSpecial6.prefab
+- Assets/SimulatedAssetBundles/news/GenericEventStoryNewsPrefab.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabExpanded.prefab
+- Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabExpandedV2.prefab
+- Assets/SimulatedAssetBundles/news/hba10livenewsBannerVariant.prefab
+- Assets/SimulatedAssetBundles/news/GenericEventStoryNewsExpandedPrefab.prefab
+- Assets/SimulatedAssetBundles/news/hba10livenewsBannerExpandedVariant.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersimagesbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact10
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact11
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3563581386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 494f197cfe4ac6301040ecc218f91476
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 494f197cfe4ac6301040ecc218f91476
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/eventsnewsimages/christmasstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/ibarahimeswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/novablaststry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/percivalstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/davincistry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/kaguyastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/reiswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/camelotdarkstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/blueseastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/swimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/ydrukestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/mermaidstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/yrizstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/kingarthurstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/drizstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/mechasisterbridestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/nobunagastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/alterludmilla.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/crescentstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/rswim.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/ibarahimestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/musashistry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/callenswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/drizetteswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/idolstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/myshastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/yandereracequeenstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/snowstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/sgirlstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/cthulhustry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/legendfire.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/rparty.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/odinstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/pinocchiostry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/vgstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/rolotiastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/arthurswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/cerberusstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/reddragonschoolstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/riznewstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/anastasiastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/snowbridestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/astridnewstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/elizabethstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/masamunestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/Chronosstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/cleopatrastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/momotarostry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/claricestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/gokudarkstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/otohimestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/bnorzastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/zeusstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/goemonstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/avalonstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/shinsengumistry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/ikemenstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/anyanewstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/bridestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/frankensteinstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/tristanstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/anyastry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/desertflostry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/zorostry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/gyurellestory.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/jeannedarkswimstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/bahamutstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/camelotstry.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 386951194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 578d800b1a436d552113df004364e6d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 578d800b1a436d552113df004364e6d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/monsterbundle23/Placeholder.prefab
+Dependencies: []

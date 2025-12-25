@@ -1,0 +1,409 @@
+ManifestFileVersion: 0
+CRC: 2509773960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68ba8d946e8989e9f50101023e02b277
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6677d1c231505919a5fc79bcae2698d6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68ba8d946e8989e9f50101023e02b277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0deeb75e0546d7f4c8d7c33a7093db5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2402bdd61647f8b49ade3c6010646842, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed80667222e3e5540aaa3a181389e14a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deecaa7b39c580145b36d481767fb2aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4975a6e437fc3b149a8cd508ce5bdd69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07f83bd1fbac45f40b1036fc8d5c479f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2364788e1ebde949af33f6017997739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af04e810a8dc93043928f63beb2e613f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e66e9038fb35a342844d03023b5555a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bbefaf7e3e99f2409b9cdf7dcd2881f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 510805a1a92334340aa716a384a5155b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59e7ed73c2999984ab3e732c145f460c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4216208f6037b7b4a93a469f45acf4a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3907ba2d934d7474e9fd1dd7daa1a222, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 460603a80d86f254f9c59126f1e83e85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0523cac7254f274d8eb386343aefbba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86d10f7928e5e3e49b5598f6d6e06c3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0ca16eec8bdf614f8b8fc45960f3b7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71699e0fd691d374d8eb6b0ad99c3afd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 999f36e6ef8e59a45965b5c2d13b3c45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7748731504eb57a4aba8c0a96472feae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32c97151130e86241bdaca6ff43badc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac8a00ef147c6ef4cbfa98ef3be2a173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61eadf1c75ac92e439ea395c61c094aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60aae48452eeb824e84566d276770c43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f7f113a23c18b47b2e505eef678ae4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cc13e8f4667c544c8dcb2dba09551e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3760eb7c4d945ce4f9a46e75a4c38472, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CinematicSequence/CinematicSequenceEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: CinematicSequence/TimelineAssetEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: CinematicSequenceAttachment
+- AssemblyName: Assembly-CSharp
+  ClassName: CinematicSequenceMode
+- AssemblyName: Assembly-CSharp
+  ClassName: FancyFadeOptions
+- AssemblyName: Assembly-CSharp
+  ClassName: GachaMobElementSetter/ElementIcon
+- AssemblyName: Assembly-CSharp
+  ClassName: GachaMobStarsSetter/StarsEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: GachaMobWeaponPrefSetter/WeaponPrefIcon
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: ZigZa.SoundPlayable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.MarkerList
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineAsset/EditorSettings
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineClip
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.ExposedReference`1[UnityEngine.GameObject]
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.StringUIPropertySetter/NullOptions
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.StringUIPropertySetter/SetTextAction
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.UIPropertyEventReceiver/ListenerDefinition
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.UIPropertyUnityEventTrigger
+Assets:
+- Assets/SimulatedAssetBundles/gacharewards/Materials/wave.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene01_idle.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaReward1.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene1.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneAdditive 4.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_finish_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_NoJiggleTimeline.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/BgSkySea2.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Scene2 - NoJiggle.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/IntenseSunFlare1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqBreakThrough2.mp3
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/StoneLoopRotate.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/BG_SRGet.png
+- Assets/SimulatedAssetBundles/gacharewards/Materials/magic3.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Scene0 - FromRight.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/BGColumns.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_R.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/DELETE-TEMP-ASSET.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_R.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardPreSSR.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_door_intro_delay.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Material.002.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampSR2.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene6.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/taiming.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/BG_SSRGet.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_RewardMonsterIdle.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_OutTransition.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampHolder1.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_skip_door_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03.controller
+- Assets/SimulatedAssetBundles/gacharewards/texture/door_crack.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_monster_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene7.controller
+- Assets/SimulatedAssetBundles/gacharewards/Materials/AuroraLight1.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqIntoStone.mp3
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_In.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_NoGoldDoorTimeline.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/BG_RGet.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/3B - No Gold Door.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Sequences/Default/RewardWeapon.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_RewardWeaponStart.playable
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/texture/magic 1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Soulstone.anim
+- Assets/SimulatedAssetBundles/gacharewards/Materials/door_crack.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequenceFlow.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/Rotator.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Scene0 - FromLeftJiggle.anim
+- Assets/SimulatedAssetBundles/gacharewards/Materials/ci.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqWind3.mp3
+- Assets/SimulatedAssetBundles/gacharewards/texture/smoke_point.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneDistort.png
+- Assets/SimulatedAssetBundles/gacharewards/texture/light01.jpg
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqBreakThrough1.mp3
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_monster_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/Canvas.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_RewardController.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene01_skip.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_door_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_skip_to_monster_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_SR.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_SSR.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardRevealScreen.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampSSR1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/Transition_AuroraTop.controller
+- Assets/SimulatedAssetBundles/gacharewards/texture/collecet_glow.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/Transition_AuroraTop.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SkipButton.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/UiShine_Flare.png
+- Assets/SimulatedAssetBundles/gacharewards/Materials/magic2.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_RewardMonsterStart.playable
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_show.anim
+- Assets/SimulatedAssetBundles/gacharewards/texture/AuroraLights1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene4.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneDistort.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Speedlines/Speedlines.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneAdditive 2.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Speedlines/SpeedLineSpriteSheet1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneAdditive.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_door_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardPreSSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/IntenseSunFlare2.png
+- Assets/SimulatedAssetBundles/gacharewards/texture/Noise.png
+- Assets/SimulatedAssetBundles/gacharewards/texture/bg_blue.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/LoopParticle.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene01.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_skip_to_monster_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_finish_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_OutTransition.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/0A - FromRight.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Materials/collecet_glow.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_NoJiggle.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Sequences/Default/RewardMonster.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_Out.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampR1.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/timing.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/3DSoulstoneForUnity2.fbx
+- Assets/SimulatedAssetBundles/gacharewards/texture/ScreenBreak.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqWind4.mp3
+- Assets/SimulatedAssetBundles/gacharewards/texture/ci.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqWind1.mp3
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardRevealScreen2.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/BGSkyLong.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampSSR2.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/2B - No Jiggle.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneRadialBlur.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_immediate_monster_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/Transition_AuroraTop.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/BgSkySea.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampSR1.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene01.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/0A - FromLeftJiggle.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_monster_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_finish_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardRevealScreen.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/UvStone3.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/Main Camera.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_immediate_monster_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene3.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/WhiteFrameGachaSummon1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqWind5.mp3
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_skip_to_monster_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/0A - FromLeft.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR.prefab
+- Assets/SimulatedAssetBundles/gacharewards/texture/wave.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_door_finished_delay.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene5.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_OutTransition.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaReward2.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_immediate_monster_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/texture/magic.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Scene1 - Middle.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/LoopParticle.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_GoldDoorTimeline.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/ArchFlythrough1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/3B - Gold Door.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_JiggleTimeline.playable
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_ssr_preamble_fadeout.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_SSR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_NoGoldDoor.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Materials/magic.mat
+- Assets/SimulatedAssetBundles/gacharewards/Materials/smoke_point.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_door_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_RewardWeaponIdle.playable
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/NewGachaRewardScene2.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/StoneLoopRotateGoldDoor.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_SR.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/GachaRewardPreSSR_Idle.playable
+- Assets/SimulatedAssetBundles/gacharewards/Anim/nameRotator4.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Materials/Material.002.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_GoldDoor.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Anim/Rotator.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_reward_ssr_preamble.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/GachaNameRotator4.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/GachaSequence_Jiggle.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Scene0 - FromLeft.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/rotator4.anim
+- Assets/SimulatedAssetBundles/gacharewards/texture/Soulstone.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/3DSoulstoneForUnity.fbx
+- Assets/SimulatedAssetBundles/gacharewards/texture/white_card.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/StampR2.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneDistort2.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene02_SR.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/1A - Middle.prefab
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/UvStone1.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneAdditive 3.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_R.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/RewardRevealScreen2.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneAdditive 1.mat
+- Assets/SimulatedAssetBundles/gacharewards/Materials/ScreenBreak.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene03_SSR.controller
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_transition_to_next_reward.anim
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Soulstone.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/RewardRevealScreen/deletetracing.png
+- Assets/SimulatedAssetBundles/gacharewards/Sequences/Default/PreReward.prefab
+- Assets/SimulatedAssetBundles/gacharewards/Materials/light01.mat
+- Assets/SimulatedAssetBundles/gacharewards/Anim/gacha_anim_controller.controller
+- Assets/SimulatedAssetBundles/gacharewards/Materials/white_card.mat
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/Audio/GachaSeqWind2.mp3
+- Assets/SimulatedAssetBundles/gacharewards/Anim/GachaImageRotator4.controller
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/SoulstoneDistort2.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/BGWaterLow.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/UvStone4.png
+- Assets/SimulatedAssetBundles/gacharewards/GachaSequence2021/ArchFlythrough2.png
+- Assets/SimulatedAssetBundles/gacharewards/Anim/scene01_v2.anim
+- Assets/SimulatedAssetBundles/gacharewards/Anim/Main Camera.controller
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

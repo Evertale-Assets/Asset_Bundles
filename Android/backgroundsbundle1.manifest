@@ -1,0 +1,239 @@
+ManifestFileVersion: 0
+CRC: 2523671381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91ae99bc21b90a94f5c72a7b52d14722
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f5f816fb182d025e165c15b5c28d3c4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 91ae99bc21b90a94f5c72a7b52d14722
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11fbe913f427b31458c53462fd880037, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda7726d915358b49b03a67e85d5f5b6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCavesOfReia.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCathedralRuins.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCityAreaNoonBroken.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG5.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/RedBridgeTopRail.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/UnderGroundDungeon.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundWetlands.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackgoldpole01.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundReisRoom.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDesert6.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowDarkBack.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWonderland1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundBoat.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen6.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest5.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundLuGanan.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCallensLab.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerfrontbluecrystal.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoatStormy3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundSnowCastle.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMEternalThroneRoom.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMForestDark1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMRedCastle.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSummerTime1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest6.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTower2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal03.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMForestDark2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLuGanan1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundBoatStormy.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMArena.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundSwamp.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPlainsVillage1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLastBastionSquare1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMAeonTowerbackground.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundPlainsVillage.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSummerTime3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundAeonTower.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMRedBridge1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMReisRoom4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWonderland2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSwampGround.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundDesert.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundWonderland.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCityWall2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTower1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/RedBridgeForeGround.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoatStormy1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundBlueCastle.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDesertTown.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/RedBridgeBackground.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundEternalThroneRoom.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSwampBackground1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen5.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundUnderGroundDungeon.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPlainsNightLayer1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMEternalThroneRoom2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCave1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCave3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLastBastionSquare3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSwampForeground.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLastBastionSquare4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBlueCastle.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTower3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCityAreaNight.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMReisRoom1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowBack.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackgoldpole03.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCityAreaNoon.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundPort.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMcityAreaNoon.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDesert5.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCityWall1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundDesertTown.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMRainyForest2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BattleBlueRugHall.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest4.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundDarkDesert.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMReisRoom2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoat1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundForestDark.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowDarkMid.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundRedCastle.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundHymelia.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMRainyForest1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCave.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal06.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowCastle.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCallensLab.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCave4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoatStormy2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowDarkFore.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle5.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundPlainNight.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCave2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest1.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMReisRoom3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWetlandsGround.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDarkDesert1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCathedralRuins.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSwampBackground2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundCityWall.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTower5.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWetlandsBackground2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoat3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDarkDesert2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoat2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTower.spriteatlas
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWetlandsBackground1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDesert4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLuGanan2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle6.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowFore.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackgoldpole.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPort.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbluegoldpole_use_twice.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMRedBridge2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/RedBridgeFloor.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPlainsNightLayer3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal04.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundForest.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerfrontgreencrystal.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundSnow.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal05.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMLastBastionSquare2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCityWall3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerfrontgoldpole02.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTower4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerfrontgoldpole01.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundGoldDungeon.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal01.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackcrystal02.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundFinalBattle.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundRainyForest.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMBoatSun1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundSummerTime.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundArena.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMcityAreaNight.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPlainsNightLayer4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest2.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbackgoldpole02_use_twice.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundConquest3.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMHymelia.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundBlueRugHallway.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMDarkDesert3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMPlainsNightLayer2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTower01.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMGoldDungeon1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundBoatSun.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSummerTime2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSummerTime4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMAeonTowerroad.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMSnowMid.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMForest2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWonderland3.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundLastBastionSquare.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BMAeonTowerAtlasPartsDNC/BMAeonTowerbottompath.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCityAreaNoonBroken.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMGoldDungeon2.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundRedBridge.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/Battle Positions
+  07032018.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/BattleBackgroundSnowDark.prefab
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMWetlandsForeground.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMTowerBG6.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMFinalBattle4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMForest1.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen4.png
+- Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia1.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle

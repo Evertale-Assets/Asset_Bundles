@@ -1,0 +1,1702 @@
+ManifestFileVersion: 0
+CRC: 563489700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee4910c1f5fb2ffb7ab66b4fcbe94df7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cac3b4e511d55ad3bfb147ac813d8096
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee4910c1f5fb2ffb7ab66b4fcbe94df7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e09d4f90ad57e44a3bf65289c1f0c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e9a05095f76f93488860e606ea818c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e898a515d1aca25439057a31653aa37f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1828d3f1bf6dc74cb22eec2b3fbd6c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a0710e60cdba2488ea0e5227395cab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: CloudSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3366.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3102.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3338.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2632.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2723.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2976.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2610.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2913.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2803.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3356.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2774.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3215.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_6.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3293.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2996.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3124.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3279.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_12.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst394.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3253.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2796.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2988.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3339.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2551.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3213.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGCallensLabEntrance.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2667.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3296.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2662.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2861.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5NewRedElf1.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3248.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst401.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2601.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3330.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2990.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2643.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_5.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_14.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_3.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2955.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2799.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2984.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/GFES/ToAct5ToMinesFromAct5ToElvenlentToSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/Lab/ERCallensLab25resizetopright.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_17.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3044.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_6.png
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5VenshaDayne.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2970.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3242.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2758.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2710.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_7.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2540.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3130.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/GFES/MoveToCallensLab.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2553.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/gliter 1.mat
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2806.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2824.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3028.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3077.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3156.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2793.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2638.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/ElvenlentNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2578.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/obelisk.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2869.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2884.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3180.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2763.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2868.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_5.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleChibi.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2555.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3274.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2546.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3224.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3280.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3311.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2584.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pillar_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2677.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3065.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2637.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3095.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2956.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2794.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3062.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGGoldDungeon.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3016.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/RunBats/BattleAct5NewForest1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3306.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_6.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2678.wav
+- Assets/SimulatedAssetBundles/act5/Characters/RodyMap.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/EssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/MeetCallen.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2615.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst378.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2702.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/door_1o.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/ChatScenes/ForestOfFaeNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3115.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3291.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/ExtraBackground/ExtraBackground_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2727.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2830.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3352.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2647.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/sst388.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/Act5ChatRunner.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3133.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3132.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2866.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/GFES/TownElvenlentShop.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3076.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pill_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3234.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2835.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3015.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3036.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2583.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2711.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2607.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3042.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2832.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3345.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2683.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2755.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3188.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3039.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2786.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3045.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/RunBats/BattleAct5GoldDungeonObelisk3.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2695.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2655.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3121.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3316.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3314.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2991.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2741.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2964.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2726.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2912.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3246.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2938.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2669.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3019.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_12.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pillar_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2992.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_12.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2597.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2623.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2959.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3217.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3186.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3176.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5GoldDungeonObelisk1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2939.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/ForestBear02CaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2941.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2838.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2712.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_1/Fore_1_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2562.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/RiglandQuickMarch.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2619.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2674.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3120.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2745.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/Crystals_EssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3249.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2907.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2862.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2785.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2986.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3049.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2675.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3222.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2962.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst391.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/EssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3146.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_2.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_6.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/Lab/ERCallensLab25resizedesks.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/Act5NewForestPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3027.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2684.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2767.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3181.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3189.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3075.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3106.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3129.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2644.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2977.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2552.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3149.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3170.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2713.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3238.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2864.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2857.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2664.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2788.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2768.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2880.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2608.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2715.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_6.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3344.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/ExtraBackground/ExtraBackground_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2699.wav
+- Assets/SimulatedAssetBundles/act5/Maps/DontContinueChapter6.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2635.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2950.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst390.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Parts/Gate.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2680.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3204.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2891.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2719.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2594.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2978.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2725.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/RunBats/BattleAct5ToElvenlentToSilverdrake2.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2989.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/GFES/ToAct5ElvenlentFromAct5ToElvenlentToSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2921.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2981.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2565.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3203.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2931.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2906.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3050.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3139.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2842.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2822.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2700.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/TigerApe01TCM.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleChibi.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2588.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2592.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/Crystals_ExtraBackgrounds_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3197.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2746.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3026.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/GFES/ToAct5ToElvenlentToSilverDrakeFromAct5ToMines.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2809.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2949.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleBMap.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_3.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2569.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2811.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_13.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2579.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3096.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3315.wav
+- Assets/SimulatedAssetBundles/act5/Towns/TownElvenlent.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3058.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3033.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/GoldDungeonMithril.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2757.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2852.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst400.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level1.png
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2776.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor7.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTileset.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2690.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2855.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2547.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_25.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3162.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3041.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2930.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2787.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3167.wav
+- Assets/SimulatedAssetBundles/act5/EncounterPrefabLinks/ForestEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/sst407.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3228.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3202.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2929.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3031.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2721.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2587.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2738.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3010.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGForestRiver.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2843.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3225.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2979.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3023.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3236.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3297.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2945.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3164.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2697.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3340.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2572.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2676.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2666.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/RunBats/BattleAct5NewForest2.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3161.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2814.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3312.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3334.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2905.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3183.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ToMines3.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2858.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3321.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3175.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3247.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2762.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_6.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3351.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3092.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/Lab/ERCallensLab25resizebottomleft.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Rigland/ChatScenes/ConfrontLuther.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/RunBats/BattleAct5ToMines1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3252.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2943.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst399.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3060.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/WorldFX/MarcheDungeonFog.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2613.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2658.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2665.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3327.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/mithril.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3123.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3209.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3179.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2883.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3307.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3239.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/ChatScenes/BackToElvenlent.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3080.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_1/Fore_1_1.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3342.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3191.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2625.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3355.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2636.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/TigerApe01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2663.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2885.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2896.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2935.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGElfHall.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3326.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3226.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3309.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3071.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2951.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2847.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3063.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2559.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2900.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2828.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/door_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3269.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_3.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGElvenlent.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3374.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2769.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3081.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2942.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_28.png
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3108.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5DarkForest/GFES/ToAct5NewForest.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/ElvenlentNPCOne.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/Act5ToMines.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2701.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2775.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2810.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2881.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3073.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2960.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3298.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2609.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/ChatScenes/SilverDrakeBlock.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2980.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3014.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3165.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst398.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2918.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3098.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level7.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor4.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_23.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2983.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2557.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3346.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_13.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst397.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2808.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3329.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW.png
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3333.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst405.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/sst396.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2685.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3227.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2770.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2688.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3349.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3168.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_13.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2603.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3364.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2742.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2604.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/gliter-2.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3054.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2640.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3218.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2692.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/ChatScenes/SaveTheMiners.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2867.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/Act5NewForest.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2974.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2618.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3126.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_22.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2651.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3201.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3231.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3037.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2706.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3105.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2582.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3375.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_13.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/GFES/ToAct6PathToSilverlodgeFromAct5ToElvenlentToSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/sst376.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2718.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2716.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2915.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/door_2o.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2995.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ToElvenlentToSilverdrake1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3151.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3122.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2720.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2573.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2831.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/ERCallensLab25resizetopright.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3348.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2617.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3198.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3275.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2821.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3358.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor6.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/GFES/ToAct5ToMinesFromAct5GoldDungeon.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2633.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2837.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2571.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMaleMap.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_16.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2560.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2542.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3244.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2753.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3147.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3193.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2766.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2952.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2739.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2722.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3235.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3277.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/Crystals_ExtraBackgrounds_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst392.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3282.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/GFES/Act5BlackKnightBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2624.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2743.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3367.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2728.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2693.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2875.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst404.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3061.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/RunBats/AssassinAttackBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/GFES/ToAct5GoldDungeonFromAct5ToMines.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2611.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2834.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/ERCallensLab25resizebottomleft.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3187.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3141.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_7.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2612.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2790.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2614.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/EssentialBackground_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3212.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2650.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pill_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2586.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3154.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/ExtraBackground/ExtraBackground_4.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3289.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2704.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3240.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_6.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2673.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3177.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2600.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirSpider01TCM.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3088.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_2.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/ChatScenes/ForestOfFaeNPCThree.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3369.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ToMines2.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2934.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level12.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_7.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2826.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3257.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3117.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2735.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/GFES/Act5NewRedElf1Battle.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S.png
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5NewForest2.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2687.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3059.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3009.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2860.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst389.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3278.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3288.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3013.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2894.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/Act5ToElvenlentToSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2874.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5AirSpider01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3229.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3308.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2937.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_29.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3199.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_1.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2679.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/ChatScenes/ForestOfFaeNPCOne.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3354.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/ForestBear02TCM.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_14.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level4.png
+- Assets/SimulatedAssetBundles/act5/Towns/CallensLab.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3320.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3114.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3276.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2549.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3262.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3178.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightChibi.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3290.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/obelisk_darker.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2752.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2903.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3373.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3090.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2622.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2917.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2696.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/Act5GoldDungeonPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2873.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3371.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall2_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3128.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/EssentialBackground/EssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level6.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/MoreExposition.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2784.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirGolem01TCM.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2849.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3157.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2966.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2969.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_8.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_7.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3159.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_18.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2839.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/TowerSpotted.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3093.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5NewForest1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3004.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_30.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2825.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/GFES/ToAct5DarkForestFromAct5NewForest.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3284.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3260.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3064.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2576.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2863.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2889.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2997.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3305.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2887.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2789.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2783.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3299.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2772.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3043.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst408.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3103.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3207.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/sst395.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3264.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/ERCallensLab25resizeTopLeft.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_2.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ladder2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2751.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3125.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2953.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3190.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3086.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3173.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_7.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2660.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3038.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3205.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3322.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/WorldFX/ElvenlentCrystal.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2870.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2778.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2982.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2920.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3353.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/GFES/Act5NewRedElf2Battle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3111.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2848.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2646.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2892.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2797.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3363.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/ChatScenes/ElminaSoup.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3011.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3104.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3097.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3089.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_19.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2616.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2973.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2944.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst403.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2910.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2634.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2567.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2714.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2724.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3153.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2585.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_N/chibi_ElfResearcherFemale_N.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_N/chibi_ElfFemaleB_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3113.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2897.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Maps/Act5DarkForest/GFES/NewForestPath.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3286.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_24.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2836.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3211.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3261.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3361.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst3233.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2865.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/GFES/ToAct5ToElvenlentToSilverdrakeFromElvenlent.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3025.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2882.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2558.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5TigerApe01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2656.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3018.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3171.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2998.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2815.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2901.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2575.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3230.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2802.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/GFES/CallensLab.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3079.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2620.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2845.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3008.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3243.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2886.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2756.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2657.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3136.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3172.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3370.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3003.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2823.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2850.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2561.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2923.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3110.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2946.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/GFES/ToAct5NewForestFromAct5ToElvenlentToSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2817.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3195.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst380.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3024.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2668.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_11.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2893.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2732.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/n.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3119.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3053.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2642.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst375.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2804.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2671.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5NewForest/GFES/ToAct5ToElvenlentToSilverDrakeFromAct5NewForest.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2761.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3336.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3272.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3271.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3302.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2598.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3273.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3066.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3087.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/SW/chibi_Rody_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3166.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2933.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_2.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2911.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3094.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3372.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2807.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_1.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3052.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3012.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2568.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/ChatScenes/CloseTheMine.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2539.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3237.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3323.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3069.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_15.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3022.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3200.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2707.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/AeonTowerCrystal.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2574.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_6.png
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst3185.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/snowcloud03.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2545.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3070.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_20.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3251.wav
+- Assets/SimulatedAssetBundles/act5/Characters/CallenMap.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2780.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3313.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3029.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3194.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3287.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2703.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3127.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2854.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3319.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2747.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3082.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2548.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5GoldDungeonObelisk2.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level9.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGcallenslabDark.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGPillarRoom.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/door_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3078.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3140.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SE/chibi_Callen_SE.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/TigerApe01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/EnterElvenlent.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_6.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2967.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2596.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3360.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3035.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3357.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/ChatScenes/Nidhogg.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3362.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/RunBats/BattleAct5ToMines2.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3210.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3101.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pillar_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2792.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2833.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2627.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ConfrontLuther.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2630.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_7.png
+- Assets/SimulatedAssetBundles/act5/Characters/MinerMap.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2731.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2733.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2717.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall_1.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2963.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2566.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3331.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3142.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3145.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2681.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/ExtraBackground/ExtraBackground_2.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_12.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/Lab/ERCallensLab25resizeshelves.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3347.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2872.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5NewRedElf2.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2750.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2888.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3376.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2819.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2654.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2649.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3138.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3150.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_2.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3232.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3303.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2813.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Road/Road_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3359.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_5.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Parts/BridgeFront.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2800.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3030.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2940.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/RunBats/BattleAct5GoldDungeonObelisk4.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3245.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2754.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst410.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2645.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3007.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/sst383.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2877.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/GoldDungeonAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor14.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2987.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2705.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst381.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2927.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Opening/LutherHymeliaReport.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGForestGreatTree.png
+- Assets/SimulatedAssetBundles/act5/Backgrounds/BGSnowyPeak.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3020.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3057.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2563.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3220.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3118.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2985.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/N/chibi_Callen_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2621.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3135.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2972.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3241.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3250.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2670.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3137.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2993.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2948.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2782.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3174.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2829.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2853.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3365.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2691.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3254.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_27.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3158.wav
+- Assets/SimulatedAssetBundles/act5/EncounterPrefabLinks/GoldDungeonEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2856.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ladder1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3056.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2689.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3163.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor12.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3295.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2550.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3006.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2595.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2902.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2898.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ForestBear02RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3325.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3048.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2599.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2771.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2730.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirGolem01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2641.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/ElvenlentNPCThree.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_7.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2541.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2859.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3258.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3131.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2878.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2908.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3368.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemaleMap.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2736.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/ForestBear02RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_NW/chibi_ElfMaleB_NW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2544.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2659.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2748.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ToMines1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2672.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5BlackKnight.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2682.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst377.wav
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirSpider01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3107.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3083.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2765.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2708.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3184.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3001.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2781.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor2.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall2_2.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst402.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBChibi.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/RunBats/BattleAct5ToElvenlentToSilverdrake1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2795.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2543.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/ChatScenes/MithrilFound.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2904.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5AssassinsAttack.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3067.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/ExtraBackground/ExtraBackground_5.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/ChatScenes/GamlanBlock.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/N/chibi_Rody_N_Material.mat
+- Assets/SimulatedAssetBundles/act5/Voices/mst2968.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/CallensLab/Lab/ERCallensLab25resizeTopLeft.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2648.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2958.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2749.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3192.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2581.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3074.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst387.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2895.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_S/chibi_BlackKnight_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3032.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnightMap.prefab
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5GoldDungeonObelisk3.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2686.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3221.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2564.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3100.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3196.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_4.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/ChatScenes/SleepTraining.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3160.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3206.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2925.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2577.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3332.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2591.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2602.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2760.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2698.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3148.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_26.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/Act5GoldDungeon.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2629.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5ToElvenlentToSilverdrake2.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_SW/chibi_ElfResearcherFemale_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2827.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/RunBats/BattleAct5ToMines3.prefab
+- Assets/SimulatedAssetBundles/act5/WorldFX/snowcloud03.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_6.png
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2928.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2653.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2932.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3109.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/SW/chibi_Callen_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3337.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3099.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2798.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW_Material.mat
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_4.png
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/S/chibi_Callen_S.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2759.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/GFES/Act5VenshaDayneBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2999.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2580.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_1/Fore_1_2.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3085.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3143.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_W/chibi_ElfResearcherMale_W.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2589.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2734.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2879.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3084.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Crystals/Crystals_7.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3182.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Parts/GateShadow.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor13.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3270.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2606.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2876.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2652.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3317.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3144.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3300.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3301.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/E/chibi_Callen_E.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/mst2779.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2926.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2590.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2971.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_4.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_NW/chibi_ElfFemaleB_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3255.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3335.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_3.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/Act5Elvenlent.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2593.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/LutherEvil.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3310.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenChibi/NW/chibi_Callen_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3263.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Voices/sst409.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5AirGolem01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2801.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibi.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2818.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3072.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2890.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/pill_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3046.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3285.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_2.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/RunBats/BattleAct5GoldDungeonObelisk2.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2841.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst2729.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2605.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3292.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2737.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3002.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3216.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2922.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3055.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3266.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3256.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2914.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W_Material.mat
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivyfloor_5.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2816.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2957.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2975.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2916.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_13.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/Act5ToElvenlentToSilverdrakePointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst2840.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst382.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_7.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3294.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3214.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3343.wav
+- Assets/SimulatedAssetBundles/act5/WorldFX/Act2DungeonGate.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2820.wav
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/RunBats/BattleAct5GoldDungeonObelisk1.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3091.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2812.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2851.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_21.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5GoldDungeon/ChatScenes/ExplosionCollapse.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_1.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2919.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3304.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_S/chibi_ElfFemaleB_S_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_3/Fore_3_8.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToMines/Act5ToMinesPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodyChibiBinary/NW/chibi_Rody_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Maps/Act5Elvenlent/ChatScenes/AssassinAttack.prefab
+- Assets/SimulatedAssetBundles/act5/Characters/Callen/CallenSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2628.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2844.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2764.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/level5.png
+- Assets/SimulatedAssetBundles/act5/Voices/sst379.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_NW/chibi_ElfResearcherMale_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/ChatBackground/BGAeonTowerExterior.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2744.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3116.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/Fore_2/Fore_2_9.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3283.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_N/chibi_ElfMaleB_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirSpider01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3134.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2740.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_W/chibi_ElfMaleB_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/mst3021.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2791.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2871.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2556.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2954.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_N/chibi_ElfResearcherMale_N.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3259.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3324.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2626.wav
+- Assets/SimulatedAssetBundles/act5/Characters/BlackKnight/BlackKnightBinary/Binarychibi_BlackKnight_SW/chibi_BlackKnight_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act5/Voices/sst386.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywallb_11.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2936.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_h_10.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_8.png
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_NW/chibi_ElfResearcherFemale_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_SW/chibi_ElfFemaleB_SW.png
+- Assets/SimulatedAssetBundles/act5/Maps/Act5ToElvenlentToSilverdrake/ChatScenes/CrestForest.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2994.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3268.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2709.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3112.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_SW/chibi_ElfMaleB_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act5/Voices/mst3017.wav
+- Assets/SimulatedAssetBundles/act5/Encounters/EncounterAct5GoldDungeonObelisk4.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3350.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_SW/chibi_ElfResearcherMale_SW.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3219.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_S/chibi_ElfResearcherFemale_S.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2694.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst393.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleB/ElfFemaleBBinary/Binarychibi_ElfFemaleB_W/chibi_ElfFemaleB_W.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_10.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3341.wav
+- Assets/SimulatedAssetBundles/act5/ChatActors/ImagesTachie/Assassin.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3152.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/BGSnowyPeak.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2924.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/wall_12.png
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2965.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfMaleB/ElfMaleBBinary/Binarychibi_ElfMaleB_S/chibi_ElfMaleB_S.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3068.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst384.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2805.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3155.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3267.wav
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2631.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfFemaleBMap.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3047.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2909.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3208.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherFemale/ElfResearcherFemaleBinary/Binarychibi_ElfResearcherFemale_W/chibi_ElfResearcherFemale_W.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3281.wav
+- Assets/SimulatedAssetBundles/act5/Characters/Rody/RodySpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst3318.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2661.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3169.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3265.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/gold_cave_wall2_1.png
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/floor8.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2899.wav
+- Assets/SimulatedAssetBundles/act5/Characters/ElfResearcherMale/ElfResearcherMaleBinary/Binarychibi_ElfResearcherMale_S/chibi_ElfResearchermMale_S.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst3051.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2961.wav
+- Assets/SimulatedAssetBundles/act5/Voices/sst385.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3040.wav
+- Assets/SimulatedAssetBundles/act5/ChatActors/PrefabsTachie/Assassin.prefab
+- Assets/SimulatedAssetBundles/act5/Backgrounds/SafeToCompress/Towns/ImageElvenlent/NonEssentialBackground/NonEssentialBackground_5.png
+- Assets/SimulatedAssetBundles/act5/Maps/TileChangeManagers/AirGolem01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/sst406.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2639.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2554.wav
+- Assets/SimulatedAssetBundles/act5/GoldDungeonTilesetDNC/ivywalld_4.png
+- Assets/SimulatedAssetBundles/act5/Voices/mst2846.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst2947.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3223.wav
+- Assets/SimulatedAssetBundles/act5/Voices/mst3328.wav
+- Assets/SimulatedAssetBundles/act5/BeginChapter5.prefab
+- Assets/SimulatedAssetBundles/act5/Voices/mst2570.wav
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/gacharewards
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/mapjson
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle

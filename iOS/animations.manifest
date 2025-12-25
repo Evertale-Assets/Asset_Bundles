@@ -1,0 +1,251 @@
+ManifestFileVersion: 0
+CRC: 1455328665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee0172b6de88b596bb4bdef1e2c6fc62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c5e657cc7f2ff714f057ebe6cbcd439
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee0172b6de88b596bb4bdef1e2c6fc62
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3472655b7efeec24faad3a6ac5526f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9e3cebf38629364a8bc2ef200db6c8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59c249eb263dca04eacbfc4df452e693, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/animations/guildchatpull.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SingleStarAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/RankRise.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingOtter02Hit.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/OfflineShopTransitions.overrideController
+- Assets/SimulatedAssetBundles/animations/monsterFriendlyHitFlashAnimationParent.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/StarsLeave.anim
+- Assets/SimulatedAssetBundles/animations/WorldMapChat/BecomeLetterbox.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvoEnd.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/ShortCyanToggle.controller
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingOtter01Move.anim
+- Assets/SimulatedAssetBundles/animations/monsterFriendlyLargeHitFlashAnimationParent.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/EvolutionAnimations.controller
+- Assets/SimulatedAssetBundles/animations/Conquest/TapTextConquest.anim
+- Assets/SimulatedAssetBundles/animations/Rogue/LootEntrance.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/AutoConfigToggle.controller
+- Assets/SimulatedAssetBundles/animations/WorldMapChat/TilemapCameraChatZoomController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonus.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/TriggerStarsOnFrame.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/LudmillaIdle.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/CumulativeLoginBonusAnimation.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/RadialGlarePowerUp.prefab
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowStingIntro.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare1.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/TrainingUpOutro.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/BlueGlowArrow1.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvPulse.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/MainMenuTransitions.overrideController
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingOtter02Move.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IconRare.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LongCyanButtonAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayConsumeMaterial1.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LongYellowButtonAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEFfect4.mat
+- Assets/SimulatedAssetBundles/animations/Conquest/TapTextParent.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LongRedButtonAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonus 1.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowAmbientOutro.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FloatGuardianMove.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/TeamOptionsTransition02.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingOtter01Hit.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvFadeOut.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/AccessoriesDetailsNewExpand.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvUpAnimator.controller
+- Assets/SimulatedAssetBundles/animations/WorldMapCinematics/TestAnimation.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_StarLord.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/LudmillaSlam.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/SimpleButtonAlpha.controller
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/OutroOnlyMenuController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/AwakeningEnd.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/ShortCyanButton.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/WhiteGlowBG.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/ToggleAnimationReverse.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/LudmillaStab.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/WishUpon.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/RankUpAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/RankHalfRise.anim
+- Assets/SimulatedAssetBundles/animations/monsterFriendlyHitTint.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/AccessoryDetailsNew.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvWepFadeIn.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/Wait.anim
+- Assets/SimulatedAssetBundles/animations/WorldMapCinematics/TestController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoomIdle.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/DropsFadeIn.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_MoveAndBillBoard.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvWepPulse.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare2.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/TrainingUp.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoomReverseLandscape.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/LifeEyeMove.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_ComeBack.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_EvoAfterMath.anim
+- Assets/SimulatedAssetBundles/animations/monsterEnemyLargeHitTint.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvRise.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEFfect2.mat
+- Assets/SimulatedAssetBundles/animations/Conquest/MonsterController.controller
+- Assets/SimulatedAssetBundles/animations/Conquest/FloatGuardianHit.anim
+- Assets/SimulatedAssetBundles/animations/Rogue/RogueTilemapMapPresentationController.controller
+- Assets/SimulatedAssetBundles/animations/Rogue/RogueTilemapMapPresentationFad.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayConsumeMaterial1.mat
+- Assets/SimulatedAssetBundles/animations/Conquest/TapChest.controller
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/ServerChatController.controller
+- Assets/SimulatedAssetBundles/animations/Conquest/ChestFill.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/BeRare.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/MainMenuTransition.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/ConsumeMaterial1.prefab
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare1.mat
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/WeaponDetailsNew.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/MoveIn.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingSnakeHit.anim
+- Assets/SimulatedAssetBundles/animations/monsterEnemyLargeHitFlashAnimationParent.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/BasicMenuController.controller
+- Assets/SimulatedAssetBundles/animations/WorldMapChat/CameraTransitionToBattle.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/TeamOptionsTransitions.overrideController
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/StarsDoNothing.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/TrainingUp.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_Evolve.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/SevenDayLoginBonusAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowStingController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEFfect3.mat
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/ServerChatTransitionHalfToFull.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/StarLordRedone.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/StarsComeIn.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlareSprite1.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/RankedUp-FlareLoop.anim
+- Assets/SimulatedAssetBundles/animations/Rogue/RogueLootEntrance.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRefraction1.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/WishUponAnimation.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FireBirdMove.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEffect4.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/EventPageAnimationReverse.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvo_Blackout.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/CumulativeLoginBonusAnimator.controller
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/MonsterDetailsNewExpand.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare3.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/CardSparkles.prefab
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare3.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/fx_rare_0.controller
+- Assets/SimulatedAssetBundles/animations/monsterEnemyHitFlashAnimationParent.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonus.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/RankedUpAnimator.controller
+- Assets/SimulatedAssetBundles/animations/WorldMapChat/TilemapCameraChatZoom.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/GachaTransitions.overrideController
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoomLandscape.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/ServerChatTransitionFull.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/WeaponDetailsNewExpand.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/ServerChatTransition.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IconEntrance.anim
+- Assets/SimulatedAssetBundles/animations/monsterFriendlyLargeHitTint.anim
+- Assets/SimulatedAssetBundles/animations/WorldMapChat/LetterboxController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/BlueRectToggle.controller
+- Assets/SimulatedAssetBundles/animations/monsterEnemyHitTint.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/TrainingGlow
+  (1).prefab
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/DeckManagementTransitions.overrideController
+- Assets/SimulatedAssetBundles/animations/UIAnimations/EventPageAnimator.controller
+- Assets/SimulatedAssetBundles/animations/PleaseDontIncludeMe.prefab
+- Assets/SimulatedAssetBundles/animations/Conquest/LifeEyeHit.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/DeckManagementTransition.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/LudmillaController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/RedCircleButton.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/GreenCircleButton.controller
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/TeamOptionsTransition.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IconEntrance.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SingleStarComesIn.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEffect1.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRadialGlare2.png
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/MonsterDetailsNew.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/ShortYellowButton.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/MoveOut.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/ToggleAnimation.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/SuperEvolution/SuperEvolutionController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoomAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/RankedUp.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvFadeIn.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoom.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEFfect1.mat
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/OfflineShopTransition.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowAmbientController.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/BlueCircleButton.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/TrainingParticleGlow.prefab
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowStingOutro.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvUpWepAnimator.controller
+- Assets/SimulatedAssetBundles/animations/UIAnimations/LargePortraitZoomReverse.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/WhiteOverlayRefraction1.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowMat.mat
+- Assets/SimulatedAssetBundles/animations/UIAnimations/EventPageAnimation.anim
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/GachaTransition.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FireBirdHit.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEffect2.png
+- Assets/SimulatedAssetBundles/animations/MenuTransitions/TeamOptionsTransitions02.overrideController
+- Assets/SimulatedAssetBundles/animations/UIAnimations/PostBattle/LvWepRise.anim
+- Assets/SimulatedAssetBundles/animations/Conquest/FlyingSnakeMove.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/Evolution/Evolve.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/SevenDayLoginBonusAnimation.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/LimitBreakEffect3.png
+- Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonusRepeat.anim
+- Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowAmbientIntro.anim
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle

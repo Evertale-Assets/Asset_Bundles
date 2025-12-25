@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 951193823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76a7b8912155adf7959c12c67dd06cb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 76a7b8912155adf7959c12c67dd06cb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/accessoriesbundle2/LargeAccessoryPortraits/Placeholder.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle2/AccessoryPortraitsBundleDNC/Placeholder.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle2/Placeholder.prefab
+Dependencies: []

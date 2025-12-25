@@ -1,0 +1,1495 @@
+ManifestFileVersion: 0
+CRC: 741820795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b351d058c0799be9eba37360b80ca28c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4511d3c8a59c3fa59abd24508a75beb4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b351d058c0799be9eba37360b80ca28c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b584555a98d1cc445a6f80a1b53b10b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d325ae6031dab7499d5593becf5cd52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e09d4f90ad57e44a3bf65289c1f0c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e898a515d1aca25439057a31653aa37f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e107ca36824fa044add4cff4095b60b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee43450693cd4a54e95c002faf5df3df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ec256b9b61e0d64897b1f844de260b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a083d7569f631e84fb054de73402f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d6ac64aa439e4d418436c0f471e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce4a956e1b88c9488de4c218056c7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b94e43a85df4c459442b9baa47be9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54653415f7d589f489c5f9a548de40de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f541c0e16ce46c44f8df60153701a969, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b93090499f4a1d4d9b439810852b120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2efb707b5b829542b355f87aaa09839, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11d0b0e2fc543604e96bec78e654d75b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4354739d2c70c41bcd5381ec08ea86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ea01c6698f1d234482d8bac77e59247, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 849c24a3ef2f33144be1653c8f62c1e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0a888985b67142408e4c5fd37dd677d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272d4653b1283ec479c88a883c5eefbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f8e35e09a186414ba32642044dbd4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b99f099b44b7c429cd489f3452cee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dc278847efb0684a8b413d29b09f36e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61eadf1c75ac92e439ea395c61c094aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f84d279be7bb9479bb6431b43af5f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc33591750af8454185e88af6885ab3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28c2bec49f9857e4ba66c845d33d8ae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27f41c8af4763d74e83ca58cda8252f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ABEncounterGroupGeneratorOverride
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: ChestEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: IntPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: TileChangeSet
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySSH
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterInstance
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/act4/Voices/sst324.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2338.wav
+- Assets/SimulatedAssetBundles/act4/ForestTileset.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2099.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2198.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile07.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile03.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_bould1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2117.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW_Material.mat
+- Assets/SimulatedAssetBundles/act4/Voices/mst2352.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2207.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2149.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2478.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2258.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_6.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2325.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenGlowingEyesShouting.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4PathToNushelle2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2512.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2390.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2525.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2042.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst308.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst353.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2371.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/ToHymeliaTownFromToHymeliaToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1888.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/marsh_tree1_alt.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/se.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile86.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst335.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst313.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst341.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4MeetElmina.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1980.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile24.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2408.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile25.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2295.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1942.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/sst334.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1924.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2306.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2020.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2158.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2138.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2234.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1948.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst362.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile13.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile60.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenAngry.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst318.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2522.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v3.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/ChatScenes/KnightsAreDemons.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower1.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile03.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det2_alt.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1962.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile76.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1933.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2118.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2002.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2410.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2464.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/Act4FaceMaskFrogBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2083.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2503.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2297.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1971.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst374.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2339.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst327.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2069.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1964.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2100.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ElvenWoman.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/GFES/ToPathToDarkForestFromDarkForest.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2123.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_6.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2396.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile34.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/Act4DarkForest.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower3_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2076.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2272.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2167.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2357.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2397.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst368.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2385.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1891.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2157.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Exeternia_shattered2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2284.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2080.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/CallenOLDTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1982.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile19.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2532.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2088.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (9).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2203.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/GigantCallenBase.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile55.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile12.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2268.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/ExtraBackground/ExtraBackground_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2388.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2353.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst329.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst351.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2148.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2395.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2213.wav
+- Assets/SimulatedAssetBundles/act4/WorldFX/NewForestPath.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2104.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2491.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst358.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/marsh_tree1_water.png
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/CredibleInfo.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile59.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW.atlas.txt
+- Assets/SimulatedAssetBundles/act4/Voices/mst2007.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1929.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2178.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2227.wav
+- Assets/SimulatedAssetBundles/act4/ForestAtlas.spriteatlas
+- Assets/SimulatedAssetBundles/act4/Voices/mst2308.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2163.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (15).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1974.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1989.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst348.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2303.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2436.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2336.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2425.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElfGirl.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2047.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_7.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2110.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2054.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/bstone_gem_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2312.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2093.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/ToPathToDarkForestFomToHymeliaToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2502.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2130.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst365.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2224.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenHeh.png
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpyMap.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2471.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2354.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2482.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2537.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1893.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2084.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2495.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (18).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2153.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2124.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_7.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1936.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2538.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2195.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile10.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2185.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2358.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2515.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/GFES/ToDarkForestFromPathToDarkForest.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2362.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1950.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile83.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2174.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile68.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst360.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1896.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2457.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4DarkForest1.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile00.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2043.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2206.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (5).png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4HymeliaTavern/GFES/HymeliaTavernNPCTHREE.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2131.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Voices/mst2287.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2250.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2462.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2386.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1913.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenSurprise.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile21.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1922.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile38.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenComplacent.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst357.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2367.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile91.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst359.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1904.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_9.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2192.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst338.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile45.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile17.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenAngry.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1894.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/ChatScenes/HymeliaPlainsNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2171.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile64.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile90.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/Eternal02FullTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/RunBats/BattleAct4PathToDarkForest1.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2534.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/GFES/ToHymeliaTavern.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2032.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst330.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenExcited.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2252.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2253.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ElfGirlTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2151.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2003.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile54.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2026.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/FindCallen.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (20).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2460.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2507.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile32.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/HymeliaCommander.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/sst336.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_5.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_1.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile04.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Voices/mst2448.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (24).png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Sky/Sky_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2177.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_5.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/GuardTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/FinnCrestAwakeningGold.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile67.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile02.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaHeh.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4NewRedElfEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2082.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2389.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2348.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2399.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile82.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/GFES/Act4BrocheWitchBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Towns/TownHymelia.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2416.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile09.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenGrit.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/Act4PathToDarkForest.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2236.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst309.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst316.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst369.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2394.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2235.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2191.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2077.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/EternalTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2145.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain-(13).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile10.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2187.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2279.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2232.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower3_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2074.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenSerious.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2188.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile69.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst317.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2226.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/RunBats/BattleAct4ToHymeliaToNushelle1.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2034.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2127.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1927.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/newtile.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2239.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W.atlas.txt
+- Assets/SimulatedAssetBundles/act4/Voices/mst2378.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenBase.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2004.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2420.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/RunBats/BattleAct4PathToNushelle1.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2001.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile15.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile80.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2120.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst343.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2318.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2509.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst361.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile74.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2231.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1917.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (11).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile51.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (7).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2016.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower1_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2021.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2343.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/AskElfJourneyman.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1943.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2075.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile20.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2356.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile93.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2510.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2485.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1953.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/ConfrontHyCom.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2499.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W_Material.mat
+- Assets/SimulatedAssetBundles/act4/Voices/mst2170.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_4.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElfResearcher.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile29.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2060.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2455.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2242.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenNormalSmile.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile39.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2059.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst345.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1939.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2341.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst326.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenSurprised.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2401.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1976.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2470.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaNPCOne.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenRuviCandyBase.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2365.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1951.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (13).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2327.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/ChatBackground/BGNushelle.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4DarkForest2.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det2.png
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/AirGenie01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2013.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2248.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/ChatScenes/ElminaAppears.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile53.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/ChatBackground/BGJail.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst355.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Sky/Sky_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2380.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2411.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2428.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2445.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpySpinePrefabs/ne.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2132.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2345.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2304.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2109.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2044.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/Tree2 Big.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2190.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile00.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile42.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2400.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2483.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det3.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Sky/Sky_3.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (12).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2173.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenPokerFace.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2216.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2454.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2230.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/ToTheCells.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/GFES/TownHymeliaShop.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4PathToDarkForest1.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2050.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2108.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2027.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1949.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2266.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst363.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_7.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2261.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/RunBats/BattleAct4DarkForest1.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/AboutSilverdrake.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2432.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/Tree2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2369.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile09.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1916.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2033.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/PostElminaCapture.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2182.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_forestbould1.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/mushrooms_2_variation.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1906.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2238.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2449.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst315.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2142.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile16.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2095.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/ChatScenes/DefeatKnightDemons.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2265.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/NushelleChiefSad.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2101.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaHurt.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst350.wav
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/CallensLabStartEvents.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2429.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2451.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile92.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/mushrooms_3_variation.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1918.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile73.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1928.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4HymeliaTavern/GFES/MoveToHymeliaFromTavern.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2096.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2017.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/NushelleChiefSmile.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2220.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaGrit.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act4/Voices/mst2106.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/ChatScenes/HymeliaPlainsNPCOne.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2209.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2305.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/AstridJoins.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2528.wav
+- Assets/SimulatedAssetBundles/act4/Maps/BeginChapter4.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/bstone_gem_4.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2301.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_5.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4FaceMaskFrogEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2184.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2089.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2281.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile06.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2496.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2501.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2257.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1967.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2288.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2415.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Awakening-FinnCrestGoldBIGHEAD.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4AirGenie01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2068.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_4.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4ToHymeliaToNushelle2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2141.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/RescueElves.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1977.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaSerious.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4YolannaEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile65.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/ToNushelleTownFromToHymeliaToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2134.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst323.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2511.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2244.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2228.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2474.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaNPCTwo.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/checkpoint.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (17).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2405.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2062.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile75.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2497.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2450.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2262.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst1920.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1955.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile11.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2361.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2023.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/marsh_tree_water.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/ChatScenes/TheoSoup.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1985.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1926.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2247.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/GFES/WarpPointActivate.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1997.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2179.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2452.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2217.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1952.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile58.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile52.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile43.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1979.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2249.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1938.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile22.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2441.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2147.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/Act4ToHymeliaToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_6.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2018.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/GFES/ToHymeliaToNushelleFromHymelia.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2229.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2046.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2334.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2407.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2370.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2375.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/AskElfMerchant.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Voices/mst2476.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2461.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2427.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile28.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenSmile.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/bush.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2473.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaGrin.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2514.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst342.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ExeterniaTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2319.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenComplain.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1969.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2270.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2215.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2254.wav
+- Assets/SimulatedAssetBundles/act4/EncounterPrefabLinks/DarkForestEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/sst344.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile20.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2458.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/RunBats/BattlerAct4PathToNushelle2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1947.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst371.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_8.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile84.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/marsh_tree1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2245.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2330.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2278.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2467.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2246.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2526.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst310.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst347.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1905.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1930.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1892.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2298.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2289.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2402.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2094.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/checkpoint03.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile37.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenConsidering.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2440.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4DragonKnightEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (13).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2052.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2164.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile02.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2055.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2280.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2517.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst331.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2259.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2486.wav
+- Assets/SimulatedAssetBundles/act4/Maps/DontContinueChapter5.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ERHymeliaTavern/ERHymeliaTavern25resize2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1919.wav
+- Assets/SimulatedAssetBundles/act4/Characters/ElminaMap.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ExeterniaCracked.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2210.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2364.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2350.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_smtree3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1988.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/ChatBackground/BGForestTreeRoots.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2264.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenHurt.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_8.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_5.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaCommand.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1887.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1945.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2025.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2028.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2523.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2010.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2161.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1925.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst373.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2387.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2063.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2518.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile18.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst349.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_3.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile31.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2351.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1959.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2335.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2181.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2459.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_6.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst320.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4HymeliaTavern/GFES/HymeliaTavernNPCONE.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2392.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2442.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1934.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2162.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1946.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2071.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2251.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst367.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2468.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2505.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2008.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1923.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW_Material.mat
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile85.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v2.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/GFES/Act4YolannaBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1911.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaBase.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/mushrooms_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2417.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2079.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4HymeliaTavern/GFES/HymeliaTavernNPCTWO.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4PathToNushelle1.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2048.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/RunBats/BattleAct4PathToDarkForest2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2160.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2271.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2022.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2403.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2383.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenNormal.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElfBoy.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2143.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialForeground/EssentialForeground_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1890.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2463.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2105.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (14).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2126.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2045.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2014.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaSmile.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile57.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2223.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2342.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2316.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenRuviTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1935.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2135.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile27.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2437.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2472.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile08.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/forest_smtree1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2317.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/checkpoint02.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2112.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (2).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2122.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det4_alt.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2466.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_SW/chibi_Elmina_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst2218.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2363.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (25).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1983.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1897.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1968.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile26.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst354.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1940.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2477.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenCandyBase.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaNPCFive.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2222.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2381.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det3_alt.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2333.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_8.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_4.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4KnightsAreDemons.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1970.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2409.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2423.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2133.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2107.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2291.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Exeternia_shattered1.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/ExtraBackground/ExtraBackground_1.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenPillarTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1909.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2513.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1895.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/GFES/ToHymeliaToNushellFromPathToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2114.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/e.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile47.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2159.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2393.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/RunBats/BattleAct4DarkForest3.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2144.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst1901.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2201.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2347.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst352.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1960.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2139.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst325.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (22).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2314.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst372.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenHeh.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2081.wav
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/ChatScenes/CallensLabNPCONE.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/ExtraBackground/ExtraBackground_2.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenCalm.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2359.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4RescueElves.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile04.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1937.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenSad.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1900.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2237.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2150.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2012.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile14.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_smtree1.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Voices/mst2433.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2456.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile15.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1908.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2492.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/RunBats/BattleAct4DarkForest2.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2243.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2434.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenSmile.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2282.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2036.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst340.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2424.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2493.wav
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/ChatScenes/CallensLabNPCTHREE.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2078.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2024.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2085.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2156.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/Act4DarkForestPointLightGreen.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile21.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2066.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/NorzaBeastTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaCastleRunner.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile07.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/marsh_tree2.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile08.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/GFES/ToHymeliaToNushelleFromPathToDarkForest.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/RunBats/BattleAct4ToHymeliaToNushelle2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2260.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2121.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_4.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2494.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_5.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2274.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2446.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/HymeliaCommanderMad.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2519.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2087.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2067.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (6).png
+- Assets/SimulatedAssetBundles/act4/Voices/sst364.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile01.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2115.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Quilvy.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst339.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2009.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ExeterniaCrackedTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2313.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2322.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2328.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile56.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/invisibleblocking.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2294.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_W/chibi_Elmina_W.skel.bytes
+- Assets/SimulatedAssetBundles/act4/Voices/mst2366.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1975.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2488.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenWeap.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/MeetHyCommander.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2374.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2508.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/ExtraBackground/ExtraBackground_4.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2103.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_7.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W_Material.mat
+- Assets/SimulatedAssetBundles/act4/Voices/mst2040.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst2296.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2219.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2293.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2302.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2379.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2520.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2435.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2465.wav
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/GFES/ExitCallensLab.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1995.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile06.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ElminaTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower1_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1973.wav
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/PlainsFox01TCM.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2058.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2152.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2484.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2056.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4PlainsFox01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/ArriveHymelia.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4BrocheWitchEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile81.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2320.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile89.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1899.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/w.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2072.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (4).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/bstone_gem_3.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile46.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile05.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2384.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/autowalking.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2377.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2487.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2091.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2444.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/tree.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2372.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2128.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1932.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2290.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1903.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2430.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2285.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2480.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile78.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1996.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile17.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1912.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2533.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2277.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2326.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_smtree2.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/GuardSerious.png
+- Assets/SimulatedAssetBundles/act4/Maps/Rigland/ChatScenes/SeeCommander.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ExeterniaFullScreenCrackingTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1956.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (10).png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenClosedEyesSweat.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2180.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile63.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst332.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2211.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2324.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1902.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Parts/Castle.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1984.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2146.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst314.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1958.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/elvgate.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1965.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW.atlas.txt
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenPanic.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2041.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/frst_treelog.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile88.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1915.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2097.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2214.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2233.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2263.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/det4.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2092.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2300.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_SW/chibi_Elmina_SW_Material.mat
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenSadSmile.png
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4DarkForest3.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2331.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2439.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaSad.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElminaRenewal/ElminaSurprise.png
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyChibi.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenComplain.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenCandyTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2255.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W.skel.bytes
+- Assets/SimulatedAssetBundles/act4/EncounterPrefabLinks/ForestEncounterPlainsPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/Act4PathToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_4.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/ElvenWoman.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2051.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1993.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile49.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2376.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1931.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst346.wav
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/AirGenie01TCM.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/sst366.wav
+- Assets/SimulatedAssetBundles/act4/Maps/CallensLab/ChatScenes/CallensLabNPCTWO.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpySpinePrefabs/s.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2057.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2200.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2015.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2373.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1944.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2340.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2168.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2368.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1987.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/ChatScenes/TrainingTalk.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1907.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2498.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/NushelleChief.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile19.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile13.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2504.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_forestbould2.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/GigantCallenTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1998.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpySpinePrefabs/nw.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2193.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2275.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst312.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2037.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst1889.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2447.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2431.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile87.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2337.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2129.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2329.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2286.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2039.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2241.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1910.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2421.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2506.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile77.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2166.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2029.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW_Material.mat
+- Assets/SimulatedAssetBundles/act4/Voices/mst1966.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialForeground/NonEssentialForeground_8.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/GFES/ToPathToNushelleFromToHymeliaToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2382.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2529.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1963.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2197.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/Act4Hymelia.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2475.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile36.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/Quilvy.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ElfBoyTachie.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile70.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/bstone_gem_2.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile71.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (16).png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenSerious.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/forest_smtree3.png
+- Assets/SimulatedAssetBundles/act4/Characters/DragonKnightMap.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4FireKnightMaleEncounterArea.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2035.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst370.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2189.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Eternal02Full.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1961.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile48.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (1).png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW_Material.mat
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile12.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2199.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1990.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2006.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/ChatScenes/ArriveForest.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2183.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2479.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2323.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenRelax.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile62.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2531.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2169.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/elvgate_alternative.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/Act4HymeliaStartEvents.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1957.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1898.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenSad.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/EliminaChibiBinaryNew/Elmina_NW/chibi_Elmina_NW_SkeletonData.asset
+- Assets/SimulatedAssetBundles/act4/Voices/mst2172.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst333.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/GuardCommand.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Road/Road_6.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_1.png
+- Assets/SimulatedAssetBundles/act4/EncounterPrefabLinks/ForestEncounterPrefabLink.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower1_2.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2344.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2113.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2404.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2438.wav
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4ElminaAppears.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W_Atlas.asset
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (8).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile23.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/EssentialBackground/EssentialBackground_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1991.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2311.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2267.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1986.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2315.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2418.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2000.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2119.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile40.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1999.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Sky/Sky_4.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2005.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2116.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2204.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2453.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2070.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/GFES/Act4NewRedElfBattle.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (23).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1921.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2360.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2536.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1886.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2489.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile05.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2481.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst322.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2530.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2355.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2535.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaNPCFour.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/GFES/Act4FireKnightMaleBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4ToHymeliaToNushelle1.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Exeternia.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2019.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile50.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2309.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2490.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/ChatBackground/BGMeetingRoomHymelia.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenEyesClosed.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst311.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile72.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2136.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2413.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenHappy.png
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/AirGenie01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenPillarBase.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1941.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2273.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2073.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2202.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/ChatBackground/BGHymelia.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2086.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2125.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2419.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2332.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenShouting.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2240.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2412.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2065.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/plains_bould2.png
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_NW/chibi_Elmina_NW.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenRuviBase.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/forest_smtree2.png
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/NonEssentialBackground/NonEssentialBackground_7.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/PrefabsTachie/ElfResearcher.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile33.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile35.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2053.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile44.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4Hymelia/ChatScenes/HymeliaNPCThree.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/PlainsFox01TCMCaughtRaremon.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst1978.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile61.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2276.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile14.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2346.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4HymeliaTavern/Act4HymeliaTavernStartEvents.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4ConfrontHyCommander.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile18.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2155.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2225.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2090.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2221.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2205.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2102.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/NorzaBeast.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2283.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2292.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1914.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2307.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2154.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2208.wav
+- Assets/SimulatedAssetBundles/act4/Towns/HymeliaTavern.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile30.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2137.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenComicalAngry.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2098.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2256.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2406.wav
+- Assets/SimulatedAssetBundles/act4/Maps/TileChangeManagers/PlainsFox01RareMonBattle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/sst321.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ImageHymelia/Parts/Gate.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2111.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile66.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2422.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2038.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (19).png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile79.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2500.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower2.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenPout.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToNushelle/GFES/ToRiglandTrialsFromPathToNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2516.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2186.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2527.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2398.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1954.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2011.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4ToHymeliaToNushelle/ChatScenes/ArriveNushelle.prefab
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/v_tile01.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2426.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/chibi_elmina_renewal_export/chibi_elmina_W/chibi_Elmina_W.atlas.txt
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/frst_mine.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst307.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2349.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2443.wav
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/GFES/Act4DarkForestBlock.prefab
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaSpinePrefabs/sw.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/HymeliaCommanderSerious.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenRuviCandyTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/ChatScenes/MeetElmina.prefab
+- Assets/SimulatedAssetBundles/act4/Encounters/EncounterAct4PathToDarkForest2.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenHurt.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2049.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile11.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2064.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2176.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain2 (21).png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2414.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/flower3_3.png
+- Assets/SimulatedAssetBundles/act4/Voices/sst356.wav
+- Assets/SimulatedAssetBundles/act4/Characters/Elmina/ElminaChibi.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2524.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst328.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/Eternal.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2212.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/tree_XL.png
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenTachie.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2165.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2030.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile16.png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4PathToDarkForest/GFES/Act4DragonKnightBattle.prefab
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenClosedEyes.png
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/BranchTerrain (3).png
+- Assets/SimulatedAssetBundles/act4/Maps/Act4DarkForest/RunBats/EncounterAct4PathToDarkForest2.prefab
+- Assets/SimulatedAssetBundles/act4/Voices/mst2140.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1994.wav
+- Assets/SimulatedAssetBundles/act4/ForestTilesetDNC/h_tile41.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2469.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1992.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2194.wav
+- Assets/SimulatedAssetBundles/act4/ChatActors/ImagesTachie/CallenRenewal/CallenLaugh.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst1972.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2310.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2031.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2196.wav
+- Assets/SimulatedAssetBundles/act4/Backgrounds/SafeToCompress/Towns/ERHymeliaTavern/ERHymeliaTavern25resize1.png
+- Assets/SimulatedAssetBundles/act4/Voices/mst2269.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2175.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2391.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst1981.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2061.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2299.wav
+- Assets/SimulatedAssetBundles/act4/Voices/mst2321.wav
+- Assets/SimulatedAssetBundles/act4/Voices/sst319.wav
+- Assets/SimulatedAssetBundles/act4/Characters/RedElfSpy/RedElfSpyBinary/Binarychibi_RedElfSpy_NW/chibi_RedElfSpy_NW.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/mapjson
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

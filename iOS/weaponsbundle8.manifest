@@ -1,0 +1,196 @@
+ManifestFileVersion: 0
+CRC: 216991662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bc5d37b324e7ecf6a999d4e8845ea63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9bc5d37b324e7ecf6a999d4e8845ea63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/GreenDragonSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/QueenHeartMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackLightningStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GokuSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/GokuSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackCrowKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RaceCarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/BlackCrowKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HolyJewelKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TyrfingSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/RoundTableSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/BlackLightningStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/ColdNightKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HermesStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/KirinGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/ColdNightKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SacredBirdAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/KirinGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/FlamingGreatSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/FlamingGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/MerlinStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GokuSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/WolfSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/LeviathanAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TyrfingSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/LeviathanAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/SevenBranchKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HermesStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IfritMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/RoundTableSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/GokuSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/AztecMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/AztecMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GreenDragonSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/MerlinStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IfritMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WolfSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/MerlinStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/FlamingGreatSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/BlackLightningStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WolfSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HolyJewelKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/BlackBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/LeviathanAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/DevilSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/HermesStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/QueenHeartMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackBladeSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TurtleMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GokuSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SacredBirdAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RainbowGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/IfritMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/FlamingGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GokuSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RainbowGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/QueenHeartMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/KirinGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IfritMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/WhiteTigerGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RaceCarHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackBladeSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SacredBirdAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IndiaMonkeyMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/BlackCrowKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/WhiteTigerGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IndiaMonkeyMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WhiteTigerGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SevenBranchKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/HolyJewelKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/MerlinStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/QueenHeartMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/SmallWeaponPortraits8.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GreenDragonSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WhiteTigerGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SacredBirdAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/TyrfingSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/HermesStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/RaceCarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/LeviathanAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RoundTableSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HolyJewelKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RoundTableSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TyrfingSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SevenBranchKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/SevenBranchKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackCrowKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GreenDragonSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/DevilSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RoundTableSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/ColdNightKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IfritMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/AztecMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HolyJewelKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/TurtleMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/KirinGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RaceCarHammer02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/ColdNightKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/RaceCarHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackCrowKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/DevilSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TurtleMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/KirinGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/SacredBirdAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/RainbowGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackLightningStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HermesStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/BlackBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/MerlinStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RainbowGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/HermesStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SevenBranchKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/FlamingGreatSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackLightningStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackBladeSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RainbowGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/KirinGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/DevilSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/GreenDragonSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TurtleMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/MerlinStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/AztecMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/IndiaMonkeyMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/ColdNightKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/QueenHeartMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/FlamingGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RoundTableSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/SevenBranchKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WolfSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/AztecMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/HolyJewelKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/LeviathanAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/TurtleMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WhiteTigerGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/TyrfingSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackCrowKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/GreenDragonSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/SacredBirdAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/BlackLightningStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/AztecMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TyrfingSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IndiaMonkeyMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/DevilSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/RaceCarHammer01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WolfSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/WhiteTigerGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/ColdNightKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/TurtleMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/IfritMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/LeviathanAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/IndiaMonkeyMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/IndiaMonkeyMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/QueenHeartMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/WeaponPortraitsBundleDNC/WolfSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/BattleImages/RainbowGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle8/LargeWeaponPortraits/DevilSpear01.png
+Dependencies: []

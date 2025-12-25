@@ -1,0 +1,268 @@
+ManifestFileVersion: 0
+CRC: 2028499855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd3583e72d5a4e567b47ec8274ec9ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 820dc071edcbb80b46584252ffd391e4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9dd3583e72d5a4e567b47ec8274ec9ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Generic Spell (summon) 7.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/sfx_gacha3.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S1_Subtle_Shield_2_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/PowerUp1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_sillyjump1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S1_Small_End_P3_Buff_2_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_sacrifice1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S7_P1_Charging_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_casinowin1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/UI_Player_Turn.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Electric 6_MagicSpellsSFXBundle_edited.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_stealth1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_catidoltune.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/Drop_Organic_Inventory_Pickup_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ice1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_water1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Subtle_Spell_Whoosh_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_KabukiShamisen.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_buff1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/MP_Potion_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/175672__mondschein90__koto-hit.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_fire2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/GameMenu_intro.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Drone_33_NorzaDarkness.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_specialattacksfx1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_swordslash.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/WaterWeak.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/1st-tap.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_purify1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Fire 3 (EvilMind).mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_motor1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/AwakeningIncreaseSound_Fantasy_Game_Fairy_Dust_B.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Light_Wand_Whoosh_3_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_survivor1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Ice_Crystal_Buff_Activate.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_protect1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_spirit1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Electric_Spell_Weapon_Charge_2
+  (WOW).wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_seashell1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S6_Debuff_2.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_aliratropic1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_whoosh2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_electric1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_impactsofter1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/motor1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/CaptureCast.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_accelerate1 1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Spiritual Power Up 1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_earth2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/EXPLOSION_Medium_Smooth_with_Crackle_stereo.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_Footstep02.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S6_Impact_1_v1_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/SPLASH_Big_Rumble_Noise_stereo.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_KabukiClappersGoemon.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_swordring.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/FamiliarBattleTheme.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_nagikoto1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/CapturePulse.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_heartbeat1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S4_Magic_Attack_C4_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/370204__nekoninja__samurai-slash.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/NormalTap.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/WorldFx/encounter.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_superskill1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ice1New.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Stealth.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_bomb1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/Unlock_MonsterLevelUp_Chipbell_Booster_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_claw1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/desertleRoar2.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_KabukiShamisenGoemon1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_knockback1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_water2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_whoosh1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/SSRScene.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/EvoSFX/S2_Large_End_Buff_2_edited.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_computersound1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/EvoSFX/S2_Shimmer_Loop_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/GameMenu_loop.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/sfx_gacha1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_timestrike1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_spiritgain1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/reilight1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/ExeterniaSound.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ringing1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S4_Cute_Buff_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/CaptureFail.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_earth3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_poison1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_air2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/WaterStrong.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_blank.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_casting1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_life2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/WaterMed.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_cherryprep1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_air1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_jump1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_DjHorn.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_nagikoto2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_electric2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_beautyring1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_poison2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_impactsmall1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/JetEngine.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S4_Cute_Heal_2.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/knifejump.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/desertleRoar2Trimmed.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_arrow1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_snakes1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/softimpact1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/EXPGauge_Telemetry_45EDITED_XP.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_slash1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_impactlarge1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_GunShotMulti.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_horsetune1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S6_Gravity_Ball_1_v1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ShatterGlass.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Shield 7_MagicSpellsSFXBundle_edited.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_casting2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_chains1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Sleep.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S6_Charge_Aggressive_1_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/itemfound.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_stun1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_Bikebrake.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/Reveal.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/SingleHeartbeat.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Electric 2 (Magic Spells
+  SFX).mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/DoorOpen.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_life4.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_slashsheen.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_air3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S6_Buff_1_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_death1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_bottlecork1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_snap1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_fire3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Clangy Sequence 3.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/charge1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_shutter1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_bluntimpact1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Fire 4.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ring1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S1_Small_End_P3_Buff_1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/SPACE_WARP_Complex_01_stereo.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Purify.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/SwapPopUp.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Dynasty Objective Complete
+  2 (Mobile Game 16bit).wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_catidoltune2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_reichant.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/switchingMonsters.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/TapStone.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/LudmillaBallad.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_frost1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ludmillaballad1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_fire1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Generic Spell (end) 1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_heal1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_ring2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_earth1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/UISounds/Tick_Navigation_Button_24.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/CaptureSuccess.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_KabukiClappers.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_multislash1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Generic Spell (end) 4.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_magic1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/evolution_preparation.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Ice 4_MagicSpellsSFXBundle_edited.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Earthquake 1 (EvilMind).mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_life3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_stun2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Wind 1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/Fanfare.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/GachaSFX/sfx_gacha2.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_MinionsFalling.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/eggtest.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_myshatune.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_dodge.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/RecklessAttack.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_GunShot.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_cocktail1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/reilight2.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Sword_Slash_1_v2(ChatSlash).wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_multislash2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_nopulse1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_boing1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/slashsheen.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_life1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_noise.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_glitchcrest1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/boing1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_charge1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_monster.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/boing2.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/DoubleBellAlarm.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Stun.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/GenericSpellEdited1.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Light_Enemy_Impact_3_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_dragonflow1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_sleep1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/EvoSFX/Glocken PIck Up 1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/reichant.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/FireMed.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/desertleRoar.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_whoosh3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/batsfx_tropical.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_water3.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_dreamhunt1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Mech_Attack_1_C1_WOW.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/IntoMassiveCombat1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_accelerate1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Poison.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Drone_18__NorzaNarration.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_summerTune1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/LootPopUp.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_blaster1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_boing2.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/evolution_success.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_summon1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_casinoloss1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_fire4.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Shutter1.wav
+- Assets/SimulatedAssetBundles/audiobundle1/Musics/Opening.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_gravityball.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Electric2MergeEditedFantasyGame.mp3
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Drone_13_ArcaneDrone.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_watersplash1.prefab
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S2_Small_End_Buff_2_SummonEdit_WOW.wav
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle15
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle19
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle7
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle8
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact11

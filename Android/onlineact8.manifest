@@ -1,0 +1,528 @@
+ManifestFileVersion: 0
+CRC: 943734132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3955a36af72096ac11adf1488a762b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d090f5a95f2a2c045af5400ed2c9b9de
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c3955a36af72096ac11adf1488a762b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be18f7e66f735643a16538b944b33a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e9a05095f76f93488860e606ea818c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d04c0fcc35eb134c8a26ccb7b610a1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f54dd77bd089542bdc61bafc32a378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a07a781cad112c75d0008dfa8d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1f6e0a64641e784bae914e2b284fc97, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1097fd127446984cba9a8e1d39e15d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5921386643e32c24a9c44e8adcd4d080, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f16622bd81af1db4b911b69b42c6bb3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86373842c8d3e814788137e3278fb7db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a7a7c13ef674b6468aeab07c6ae2b99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923be381beb5fa048aca80896eb40c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a61028147494b44418de11e9e031f807, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: CloudSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/A8C2_M4.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/BartTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridHappy.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCathedral.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/A8C3_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/VanguardSoldierTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/A8C2_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/SafeToCompress/Maps/A8C3-layout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/A8C2_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C2_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C2_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelHurt.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mfive.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/A8C3_M4.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/A8C2_M3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGFES/A8C5_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriCryingDown.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/A8C6_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCityAreaNight.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobHurt.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridSad.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCanalNightCloudy.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/SafeToCompress/Maps/A8C1-layout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/UndeadAstridTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/A8C6_S3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/A8C2_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobNormal.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_S3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/act8hb.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGBarracks.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/A8C6_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_M3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/A8C3_S1.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C2_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MTHREEPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C1_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mfive.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_M2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGUndergroundFire.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridAngry.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/RebelAstridTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/A8C2_S3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C2MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_msix.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMob.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridSneer.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriCryingUp.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/A8C6_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C4MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_S1.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_sfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighGrit.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_S1.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGFES/A8C5_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/A8C3_M5.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighScared.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/A8C2_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGFES/A8C5_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobClosedEyes.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobDoubt.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCanalCloudySky.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCityArea.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/AmaliaFireTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C2_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/MoveToOnlineActChapters8.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/AmaliaTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGLudmillaRoomSunny.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_M4.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelDoubt.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaFireSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriHappyUp.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaFireCrying.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_sfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C1_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartStabbed.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BlackMageNormal.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridCrying.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaShout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_M2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C1_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/HajimeHurt.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_MFOURPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/DarkFinnTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleCrying.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartGrit.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/A8C3_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/A8C6_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartUndeadGrit.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/HajimeSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridSad.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/A8C1_M5.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_stwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/A8C3_S2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGroups/A8C3_M3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/RebelTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mfive.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_M5.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_mthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGroups/A8C5_S3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCanalNight.png
+- Assets/SimulatedAssetBundles/onlineact8/UNLOCKER.prefab
+- Assets/SimulatedAssetBundles/onlineact8/GachaFeatureBannerhba8live.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelBase.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/RaleighTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C5MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/A8C3_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/HajimeShout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_sthree.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/HajimeSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C3MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelClosedEyes.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/A8C3_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C1_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/SafeToCompress/Maps/A8C5-layout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_M3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C6MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/VanguardSoldier.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGFES/A8C2_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriHappyDown.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/DarkFinnGlowEye.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighHurt.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGOpenField.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/A8C6_M2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/DarkFinnNormal.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/Battles/BattleGFES/A8C3_MFIVE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartUndeadSerious.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BlackMageOpenMouth.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartUndeadShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_MFIVE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/LucelleTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/SafeToCompress/Maps/A8C4-layout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/OrcanixTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/A8C6_S2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C2_MFIVE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGroups/TestBattleGroup.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/SafeToCompress/Maps/A8C2-layout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/A8C6_M4.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mfive.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGroups/A8C5_S1.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighShout.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriHappyBack.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/StageInvoke/a8c1_msix.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGroups/A8C6_M3.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_S2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/MoveToOnlineActs8.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Prefabs/A8C1MAP.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleScared.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/TestBattleGFE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelNormal.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MSIXPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/Battles/BattleGroups/A8C5_M2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridCrying.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGroups/A8C4_M6.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartUndeadSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/UndeadAstridGrin.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_mone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/StageInvoke/a8c6_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridShout.png
+- Assets/SimulatedAssetBundles/onlineact8/Images/act8bigboy.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaFireSad.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/A8C2_M2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_sfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaCrying.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_msix.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGCityAreaNightCloudy.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C5/StageInvoke/a8c5_sone.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Rebel/RebelMobSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Prefabs/BlackMageTachie.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C6_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RebelAstridAngry.png
+- Assets/SimulatedAssetBundles/onlineact8/ArcButtonPrefabs/a8.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C3_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGLudmillaRoomCloudySky.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaSad.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_SONE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/Orcanix.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/BartUndeadSmile.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/RaleighHappy.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/AmaliaFireShout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_MFIVE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/StageInvoke/a8c2_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlineact8/Images/BGUndergroundHideout.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C3/StageInvoke/a8c3_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/ShioriCryingBack.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C4_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/StageInvoke/a8c4_mfour.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C4/Battles/BattleGFES/A8C4_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C1_STWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleSurprised.png
+- Assets/SimulatedAssetBundles/onlineact8/ChatScenes/A8C5_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C2/Battles/BattleGroups/A8C2_S2.prefab
+- Assets/SimulatedAssetBundles/onlineact8/ChatActors/Images/LucelleHurt.png
+- Assets/SimulatedAssetBundles/onlineact8/A8C1/Battles/BattleGFES/A8C1_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlineact8/A8C6/Battles/BattleGFES/A8C6_MTWO.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle10
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle14
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact7
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle3

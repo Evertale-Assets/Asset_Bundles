@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3936367328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9978905a498c35eef6a5b79983f78526
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9978905a498c35eef6a5b79983f78526
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/Rogue/Placeholder.prefab
+Dependencies: []

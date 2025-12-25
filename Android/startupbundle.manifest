@@ -1,0 +1,495 @@
+ManifestFileVersion: 0
+CRC: 1749789756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 940f219871d77de11f895346ef933462
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a14f250f7e4a51c41ca42bdfc34c4829
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 940f219871d77de11f895346ef933462
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85a0eeb3324f4434f92451f66c031585, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c21fcbdde31978e41b5fcb547ebef630, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be020f44608f14f43a9d1c4289430e19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 190240269d99d154981081e96a423cf7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0e360a6967aaa3489255d6b2c99235d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdb1250b1a21fd54aa31d6a1bcaa72a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebf6530b7227d5d4c800044e524de649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a66e5b2a7bfb74418f85dc0875bd486, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25c0044f3d134cd4cbdbd81c775e4af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ff5e364903a6e148b37f6ce82ac0b57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 141dbe8b48b6f4f4fac89f20c5f4bee4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b74861f51ef6f94e898c49d2349f858, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0de3766a9da00342b3838c5fd7a4a61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f03f08c1f213abe4fa819d5129e720ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6abcd52e6d59af3409b985d9ef10948d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fd88c43479c0374682837b87026a878, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f083ffeb207b2444904033707337b98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72bcfb05bd5243e4db43cc9302316c41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c89356b8fb0bcd5429fbff0d343a2387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a95fb58e2023494a9e4f313fd70e94a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c79884e7c1db9fe49afb26f3047de064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d2c91ad6cd0d6b40864e2e34f8f2aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 573219774e47b5e428397faf0a1d57a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f173d67906c9ba4daebd2be7f478723, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56e5f25b37b7554429dfe5280e3afbe8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b025424d2762ea4d8477d8e37793804, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be0fa52e26194b6fa1f3aad774fd348c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a58f950ea4e00a40866fa2ee5fab888, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ef409a21867a874fb160977b444caec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77902d9ba55d3e24aa302ed345c44263, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1011243f9d2b4394895bd414ee9b42ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61353dfdb1ba3d145a657ef920bf1ad3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12d1ba04be034396a18f4ec2613916d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb5f1d51e3642554b8985abacbdce163, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a2e8b52218ebdd4ba024f5a1a94b12b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8585a0f9dd9f11147857bed7e953dfab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4aa8a584fdbfe7745a7fb354a56afc1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee3a839f1403f82448f737f1ac265378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10ed3ae958dfbdc4eab9dc88e0fa707c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb84379e05cf2464090b3a58f033c06f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3537b9a74ee68aa4e8dbb9a9a0ad5da1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b763d0e0a240aab4bbf0eb27124679c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b3ffc6c3d400ab41a6fe1894e600056, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 489cd686b8d5df343a611629c8417a5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 001300d367cbe2d49a623a883a3adf06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d8335d2a8099094683049020df3a246, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 108bb955dbb0c964594a2e004311c035, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d49864b9cb537fd49aa919df214f6811, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50cc667ff7c086446a9380a9732a88de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e0197e072af2274cbd335703b54e53d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 927f1f0418994c34a9cdb47d46316d5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24aad5548b72d064fa598acfab7c83e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5dcd33cfde6473a46b5ee08f27ba71da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5f7722d8625af747982b052745674cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0482d9dafb012104da708a15506e23ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 650722302afa5cd4cbc0c7ff4a9c4d67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 340901a9d8d97bd43abdfe247e210193, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60422c6c0543c3440850cf2d8796fb6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa69a7aba39ab064ab11e2787ae55c7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13c1cdea3daa1df4983ad68f5c6be7cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20d7b0e7de9473f468de1720f399126f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57b373d6c1236a242b41de90e943890b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7afa625155fcd244ab8b2125a6c7b80d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 818dde2113b4f934db50dfe8da816bc0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 182
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: Crosstales.BWF.OnContainsCompleted
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: Crosstales.BWF.OnGetAllCompleted
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: Crosstales.BWF.OnReplaceAllCompleted
+- AssemblyName: Assembly-CSharp
+  ClassName: EncyclopediaStatistics
+- AssemblyName: Assembly-CSharp
+  ClassName: LanguageTTFSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: PlayerData
+- AssemblyName: Assembly-CSharp
+  ClassName: QuestRewardModelVariant
+- AssemblyName: Assembly-CSharp
+  ClassName: ServerVariables
+- AssemblyName: Assembly-CSharp
+  ClassName: SortConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: TiltParallaxValues
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryST
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: Lineup
+Assets:
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CircleMask.png
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/GoHome.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/loadingsilvy2.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/StartScreen_intro.wav
+- Assets/StreamingAssetsHolder/startupbundle/EmbersParticle.mat
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/GreenTempIcon.png
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainMistMaterial.mat
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/OpenMenu.prefab
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/LeftAlignedPageIndicator.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueHudRankHolder1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/TutorialFinger.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuWarp1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/OrangeSweep1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/OrangeNotificationBubble1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueGlowFrame3.png
+- Assets/StreamingAssetsHolder/startupbundle/Notices/default.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BaseBlackEXPGaugeBG01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BaseBlackHomeMenuRank01.png
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainExplosionMaterial.mat
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueRoundGlossyButton1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/LineBlueGlow05.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/BottomStartHidden.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuHome1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon5.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/rain_medium.ogg
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowRogueUnits1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/AlphaIn.anim
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainShader.shader
+- Assets/StreamingAssetsHolder/startupbundle/Rain/EfficientRainRosseDestroyedBattle.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/silver.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanStartIconCloud1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/ButtonPurplePlusGlow01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Window_RoundedRectangleDarkBlue.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/stones.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/PowerNotificationController.controller
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanRoundFillProgressDot1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupScreen.prefab
+- Assets/StreamingAssetsHolder/startupbundle/MonsterWeaponSpawnTable.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Animations/HideBottomHUD.anim
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainMaterial2D.mat
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BrownStartFrame01.png
+- Assets/StreamingAssetsHolder/startupbundle/DownloadEverything.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Animations/AlphaInOut.controller
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Window_RoundedRectangleWhite.png
+- Assets/StreamingAssetsHolder/startupbundle/SaveDebugIndicator.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueStartWing01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueButtonHud1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/NotificationController.controller
+- Assets/StreamingAssetsHolder/startupbundle/NoInternet.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/HideHUD.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanRoundHollowProgressDot1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/StartupCanvas.controller
+- Assets/StreamingAssetsHolder/startupbundle/tips.json
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/ShopButton.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/LineBlueBacklight02.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/TEMP_MainMenuBack.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/GlowCrossWhite1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/NotificationTicker.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/TutorialFinger3.controller
+- Assets/StreamingAssetsHolder/startupbundle/Animations/HUDMover.controller
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuShop1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon12.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/LineYellowGoldArrow04.png
+- Assets/StreamingAssetsHolder/startupbundle/bg_skipchat.png
+- Assets/StreamingAssetsHolder/startupbundle/GameLightning.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/DefeatJingle_intro.wav
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainExplosionMaterial2D.mat
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/SnowMaterial2D.mat
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueArrowMarker02.png
+- Assets/StreamingAssetsHolder/startupbundle/Notices/defaultExpandedNews.prefab
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/PageCurrentSmall.prefab
+- Assets/StreamingAssetsHolder/startupbundle/ArtStartNewYear1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BaseYellowButtonNotice01.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/StartScreen_loop.wav
+- Assets/StreamingAssetsHolder/startupbundle/PerBGCanvas.prefab
+- Assets/StreamingAssetsHolder/startupbundle/BlackContainer.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/QuestPathArrow1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Button_LongCyan.png
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainMistMaterial2D.mat
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/UISounds/Currency_Crystal_Touch_1.wav
+- Assets/StreamingAssetsHolder/startupbundle/Animations/BottomHUDMover.controller
+- Assets/StreamingAssetsHolder/startupbundle/Animations/NotificationTicker.controller
+- Assets/StreamingAssetsHolder/startupbundle/ClickParticle.prefab
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/TeamButton.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Animations/StartupScreen.anim
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/OpenHome.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/01_battle_results_intro.wav
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanStartIconDownload1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/TutorialArrow.controller
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/Prefab/RainMaterial.mat
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanStartIconGear1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BrownHudMiscIcon1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/DropDown-Stretch.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuSummon1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/DropDown-Bottom.png
+- Assets/StreamingAssetsHolder/startupbundle/SnowParticle.png
+- Assets/StreamingAssetsHolder/startupbundle/CyanGlowPowerUpSplash1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Button_LongGlow.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/GoldRoundBrownFrame1.png
+- Assets/StreamingAssetsHolder/startupbundle/SAMPLEBackgroundRainbowGacha01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/IconWhiteThreeBars01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueGlowArrow1.png
+- Assets/StreamingAssetsHolder/startupbundle/DarkStartFrame01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/NotificationBox.png
+- Assets/StreamingAssetsHolder/startupbundle/Rain/EfficientRain.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlackShadowBackground01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuChat1.png
+- Assets/StreamingAssetsHolder/startupbundle/Rain/RainCycle.mat
+- Assets/StreamingAssetsHolder/startupbundle/PerPopupCanvas.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Rain/EfficientRainRosseDestroyedTown.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/globe-glow.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueCheck01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon6.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Button_LongRed.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueRoundGlossyButtonHold1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueStartLoading1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon2.png
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/RainTexturePSD.psd
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/Chest_open.mp3
+- Assets/StreamingAssetsHolder/startupbundle/GearMaterialLoading.mat
+- Assets/StreamingAssetsHolder/startupbundle/BlueStartScreenBackground01.png
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/OpenGatcha.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/UISounds/Generic_Crackle_Menu_Select_1.wav
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlas.spriteatlas
+- Assets/StreamingAssetsHolder/startupbundle/Rain/Rain.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/PowerNotification.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/gold.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/LineBlueGlow01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowIconLock1.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/HideTopHUD.anim
+- Assets/StreamingAssetsHolder/startupbundle/Rain/RainCycleShader.shader
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/WhiteGlowCyanIcon4.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/SystemMessageWindow.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Voices/RizetteTitleCall.wav
+- Assets/StreamingAssetsHolder/startupbundle/DeathSequenceBoxesImage.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/DarkTraslucentBrownFrameHud2.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/TopHUDMover.controller
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/01_battle_results_loop.wav
+- Assets/StreamingAssetsHolder/startupbundle/BlueGlowDropdownIcon.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/TopStartHidden.anim
+- Assets/StreamingAssetsHolder/startupbundle/AreaNotif.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Window_RoundedRectangleBlueSmall.png
+- Assets/StreamingAssetsHolder/startupbundle/RainMaker/RainTexture.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/UISounds/HeroRankUp_Military_Level_Complete_1.wav
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BaseYellowExpGauge01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/loadingsilvy1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlueTouchStart01.png
+- Assets/StreamingAssetsHolder/startupbundle/Animations/ShowNotification.anim
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/Button_LongGreen.png
+- Assets/StreamingAssetsHolder/startupbundle/GameSnow.prefab
+- Assets/StreamingAssetsHolder/startupbundle/Petrification.tga
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuGuild1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/IconWhiteChatFastForward01.png
+- Assets/StreamingAssetsHolder/startupbundle/BottomHUD/OpenWarpmap.prefab
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/BlackShadowBottom01.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/Music/MusicFinal/DefeatJingle_loop.wav
+- Assets/StreamingAssetsHolder/startupbundle/BlueLoadingCircle.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/CyanGlowMainMenuUnits1.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/LightblueOvalButton01.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/TutorialFinger2.png
+- Assets/StreamingAssetsHolder/startupbundle/StartupAtlasPartsDNC/TutorialFinger3.png
+- Assets/StreamingAssetsHolder/startupbundle/Audio/SoundEffects/MonsterDefeat.wav
+- Assets/StreamingAssetsHolder/startupbundle/GrayStartLoading1.png
+- Assets/StreamingAssetsHolder/startupbundle/Singleton.prefab
+- Assets/StreamingAssetsHolder/startupbundle/RedCircleNoticeIcon.png
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 2522965433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 005c5592bfd4865e3c478760adcc8b1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 005c5592bfd4865e3c478760adcc8b1f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SushiKnifeKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/NorzaSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BlueCrystalAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/IslandTribeMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/LudmillaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SushiKnifeKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/ThickLanceSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ArgaGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/MoonScepterStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BlueCrystalAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BoneBladeSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/ThickLanceSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SeaShellStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/BabyDarkDragonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/BlueCrystalAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/SmallWeaponPortraits3.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/SeaShellStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/MoonScepterStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ElminaSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ElminaSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/NorzaSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/SushiKnifeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/NorzaSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ElminaSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/MoonScepterStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ArgaGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/NorzaSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/ArgaGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SeaShellStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/NorzaSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/IslandTribeMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/LudmillaMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/BabyDarkDragonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/MoonScepterStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ArgaGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/IslandTribeMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/LudmillaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BabyDarkDragonKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/BlueGoldFencingSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ThickLanceSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BoneBladeSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ThickLanceSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/BlueCrystalAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/IslandTribeMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BabyDarkDragonKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ArgaGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/MoonScepterStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/SushiKnifeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/NorzaSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SeaShellStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/SeaShellStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/LudmillaMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/LudmillaMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/BoneBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BabyDarkDragonKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/IslandTribeMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/ElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BlueCrystalAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/BoneBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/MoonScepterStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BlueCrystalAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SushiKnifeKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/WeaponPortraitsBundleDNC/ElminaSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/ThickLanceSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/SushiKnifeKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/LudmillaMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/IslandTribeMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BoneBladeSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle3/LargeWeaponPortraits/BoneBladeSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle3/BattleImages/ArgaGreatsword01.png
+Dependencies: []

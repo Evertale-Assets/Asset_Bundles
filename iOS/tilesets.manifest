@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 382400040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28eda292141e900dbf6ea35a80d3b302
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimulatedAssetBundles/tilesets/ForestTileset.json
+- Assets/SimulatedAssetBundles/tilesets/TownTileset.json
+- Assets/SimulatedAssetBundles/tilesets/FinalDungeonTileset.json
+- Assets/SimulatedAssetBundles/tilesets/RogueChapter2Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/GoldDungeonTileset.json
+- Assets/SimulatedAssetBundles/tilesets/Chapter5Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/DesertWaterTempleTileset.json
+- Assets/SimulatedAssetBundles/tilesets/Chapter3Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/RogueChapter5Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/Chapter2Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/Chapter1Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/RogueChapter3Tileset.json
+- Assets/SimulatedAssetBundles/tilesets/RogueForestTileset.json
+- Assets/SimulatedAssetBundles/tilesets/PyreDungeonTileset.json
+- Assets/SimulatedAssetBundles/tilesets/RogueChapter1Tileset.json
+Dependencies: []

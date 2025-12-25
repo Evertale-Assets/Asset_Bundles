@@ -1,0 +1,575 @@
+ManifestFileVersion: 0
+CRC: 423858833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43eddacb92e83008285c326111243d4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af9fd935f63514b9ca7c14c4e7c1e7eb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 43eddacb92e83008285c326111243d4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be18f7e66f735643a16538b944b33a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e9a05095f76f93488860e606ea818c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d04c0fcc35eb134c8a26ccb7b610a1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f54dd77bd089542bdc61bafc32a378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a07a781cad112c75d0008dfa8d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1f6e0a64641e784bae914e2b284fc97, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 566ff5945ce6ed84cbaf06db8ef51f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58e6d109bfc307341836d7d5b4137131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1097fd127446984cba9a8e1d39e15d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 588d033ca4a5ed645ad1779c229a6c99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5921386643e32c24a9c44e8adcd4d080, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f16622bd81af1db4b911b69b42c6bb3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86373842c8d3e814788137e3278fb7db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a7a7c13ef674b6468aeab07c6ae2b99, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923be381beb5fa048aca80896eb40c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8aabc63ee67a084a9de72203e093c48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a61028147494b44418de11e9e031f807, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: CloudSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySG
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySS
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_SFIVE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattleGroups/A2C2_STWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MTWOPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/MoveToOnlineActArcs2.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/Battles/BattleGroups/A2C5_MNINEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MEIGHT.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C3MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattlesGFES/A2C4_MTWOBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SIDEATWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/ChatBackground/BGDesertTent.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SSIXPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaSad.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_ssix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_sfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_SFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C2shadow.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_sthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattlesGFES/A2C7_MFOURBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MSEVENPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/SherrySmile.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MNINEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MTHREEPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_ssix_fenn.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_SFIVEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/RunBats/EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/LudorieSurprise.png
+- Assets/SimulatedAssetBundles/onlinearc2/GachaFeatureBannerhbarc2d2live.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MFIVE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattlesGFES/A2C4_MTHREEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaSurprise.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_sfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_MFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_MFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_STWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattlesGFES/A2C3_MEIGHTBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/LudorieTachie.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/OnlineArc2FullText.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/Jedariel.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_STWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MEIGHTPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_SSIXBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C1shadow.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_stwo_lunasolas.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MNINEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SFOURPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mnine.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/ViolaOro.png
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SIDEDSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattleGroups/A2C1_SFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/DrukeSmall.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_SEIGHTBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MNINEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C1MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_STWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C1MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattlesGFES/A2C6_MFOURBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/MoveToOnlineActChapters2.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C7MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattlesGFES/A2C2_MTWOBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/DrukeSmall.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/SherrySad.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MFOURPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/LudorieSerious.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_SSIXBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C6MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaCommand.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MFOURPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SEVENTEEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattlesGFES/A2C1_MFOURBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MEIGHTPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MNINEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SIDEETWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/SherrySerious.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C4MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_sseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaUpset.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattlesGFES/A2C2_MFIVEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattlesGFES/A2C4_MFIVEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/ViolaSad.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_STHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattlesGFES/A2C6_MFIVEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C5MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mnine.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MEIGHT.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/FireDragon.png
+- Assets/SimulatedAssetBundles/onlinearc2/RunBats/Fight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_sthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MFIVEPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattlesGFES/A2C6_MSIXBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_SSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_STHREEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/SherryTachie.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_SSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C2MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/Battles/BattleGroups/A2C5_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/ChatBackground/BGDesertNight.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C5MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_SFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C5POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_MSEVENBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattlesGFES/A2C6_MTWOBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MTWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_STHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_sthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C6POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_MEIGHTBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattlesGFES/A2C3_MTHREEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SFIVE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6TWENTYTHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattleGroups/A2C2_MEIGHTBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_MTHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_ssix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattlesGFES/A2C2_STWOBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C2POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C4POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/Jedariel.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C4MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6THIRTEEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MSEVENPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_STWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C2MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_SFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C3POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C6MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MTHREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/ViolaMask.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6OP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/GachaFeatureBannerhbarc2live.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_MTHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/RolotiaTachie.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MTHREEPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_seight_fenn.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_SSIXPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattlesGFES/A2C1_MSEVENBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_sthree_lunasolas.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_sfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/FireDragonTachie.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C7POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_ssix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mnine.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/hbarc2d2live.png
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/LudorieAngry.png
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C7MAP.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattlesGFES/A2C7_SFOURBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/Battles/BattlesGFES/A2C5_MFIVEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MEIGHTPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/UNLOCKER.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_SSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mone_replay.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/Prefabs/ViolaTachie.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Prefabs/A2C3MAP.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_sthree_fenn.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_MNINEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattleGroups/A2C2_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_sthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6THREE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_STWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MTHREEPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4D2_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/ChatBackground/BGStoneHengeNight.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattleGroups/A2C1_MSEVENBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/Battles/BattleGroups/A2C5_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/Battles/BattleGroups/A2C5_STWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattlesGFES/A2C7_MTHREEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6TWENTYTWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SIDEBONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattleGroups/A2C2_MFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_MTWOPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_sthree.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MTWOPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_snine.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_sseven.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_sfive_lunasolas.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MSIXPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaSerious.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/ViolaHappy.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MEIGHT.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_MSIXBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattleGroups/A2C1_MNINEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_MFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C1POI.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mnine.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattleGroups/A2C1_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/ChatScenes/A2C7_STWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/hbarc2live.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_MFOURPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/StageInvoke/a2c3_ssix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_MNINEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_STHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ArcButtonPrefabs/a2.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MFOURPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaShocked.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_SFIVE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MTWOPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_mfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_MTHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_SONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/ChatScenes/A2C2_S4FOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/Battles/BattleGroups/A2C4_STHREEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/ChatScenes/A2C4_MSIX.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_SNINE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/ChatBackground/BGPlainsMountainsNight.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/ChatScenes/A2C6_MFIVEPOST.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_sfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_sfive.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/Images/SafeToCompress/Maps/A2C3shadow.png
+- Assets/SimulatedAssetBundles/onlinearc2/ChatScenes/ARC2MAP6SIDECTWO.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/StageInvoke/a2c2_stwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MONE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/ViolaPossessed.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/ChatScenes/A2C1_SFOUR.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/Battles/BattleGroups/A2C1_MFOURBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattlesGFES/A2C7_MFIVEBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/ChatActors/ImagesTachie/RolotiaSmile.png
+- Assets/SimulatedAssetBundles/onlinearc2/A2C2/Battles/BattleGroups/A2C2_MTWOBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_meight.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/StageInvoke/a2c6_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattleGroups/A2C3_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MFIVEPRE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/Battles/BattlesGFES/A2C3_MFOURBATTLE.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_msix.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_SSIXBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C6/Battles/BattleGroups/A2C6_MEIGHTBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3D1_Unlock.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C3/ChatScenes/A2C3_MONE_REPLAY.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/ChatScenes/A2C5_MSEVEN.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_sone.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C1/StageInvoke/a2c1_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Stageinvoke/a2c7_mtwo.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C7/Battles/BattleGroups/A2C7_MFIVEBATTLE_EncounterArea.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C4/StageInvoke/a2c4_mfour.prefab
+- Assets/SimulatedAssetBundles/onlinearc2/A2C5/StageInvoke/a2c5_mtwo.prefab
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle

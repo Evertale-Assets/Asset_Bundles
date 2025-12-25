@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 3752978726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 412952277d902d7c4241408cdabcecf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 412952277d902d7c4241408cdabcecf1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/EarthGreatCatMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/EarthGreatCatMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/RedWingsWand01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/DarkJewelGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/SawbladeGreataxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/RedWingsWand01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/DragonEatingGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/AstridGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/DragonEatingGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DragonEatingGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/TreeLanternStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/SmallWeaponPortraits2.spriteatlas
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkTridentSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DelicateFencerSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/SawbladeGreataxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkJewelGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/SawbladeGreataxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/EarthGreatCatMace03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/TreeLanternStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/KeybladeStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkJewelGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/DelicateFencerSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/AstridGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/TreeLanternStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/EarthGreatCatMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/KeybladeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/BlueSpikeOrbStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/KeybladeStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/DarkJewelGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DragonEatingGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/TreeLanternStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/NagiKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/DelicateFencerSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkJewelGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/AstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DragonEatingGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/EarthGreatCatMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DragonEatingGreatsword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DelicateFencerSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/SawbladeGreataxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/AstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/BlueSpikeOrbStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/RedWingsWand02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/BlueSpikeOrbStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/WeaponPortraitsBundleDNC/DarkTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/BlueSpikeOrbStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/EarthGreatCatMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/RedWingsWand01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DelicateFencerSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/BlueSpikeOrbStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/BlueSpikeOrbStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/TreeLanternStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkJewelGreatsword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/KeybladeStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/NagiKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/AstridGreatsword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/AstridGreatsword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/SawbladeGreataxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/KeybladeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/RedWingsWand01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/DarkTridentSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/BattleImages/KeybladeStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkTridentSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/TreeLanternStaff03.prefab
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/weaponsbundle1

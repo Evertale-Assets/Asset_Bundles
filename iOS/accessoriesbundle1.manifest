@@ -1,0 +1,340 @@
+ManifestFileVersion: 0
+CRC: 2889702012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 697dd4f38caf102ef9fe392f3e3b1406
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f14974c0ed050c9d03ce154f0c45b55a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 697dd4f38caf102ef9fe392f3e3b1406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CyrusRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SziFire01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaGauntlet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneFlag01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ExeterniaTalisman01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LimePotion01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ChronosClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ExeterniaTalisman01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SwimRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SakamotoCloak01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KukuriKnife01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedGreenDroplet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/JeanneCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/WingTiara01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/SmallAccessoryPortraits1.spriteatlas
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedKnightHelm01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonPlushie01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MyshaPauldron01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EvilLapelPin01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SquidArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ValkyrieMedal01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Hakama01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AstridHairpin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EternalRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/EternalRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ThunderlingHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThunderlingHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/FornaxosArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaClock01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GlassSyringe01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BahamutShield01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MagnifoDagger01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/TristanHarp01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaSwimsuitClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pearl01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Bracer01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/JeanneFlag01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SakuraArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZoroMask01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/YukiSunHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HawkCoin01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BergarianHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/CyrusRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MyshaPauldron01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pearl01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BikkiFan01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RedKnightHelm01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MaidHairBand01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Katashiro01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MyshaPauldron01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/YamatoTurret01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AlchemyFlask01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/EnchantedRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ExeterniaSchematics01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Skirt01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonPlushie01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiScroll01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YukiSunHat01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GreenRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChampionBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BlackSnowCrown01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Gauntlet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ArcaneShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LunaNote01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MaidHairBand01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HymeliaCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BlackSnowCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArcaneShield01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BahamutCollar01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CyrusRings01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BahamutShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RedRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/TaotieRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Skirt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LunaNote01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YamatoTurret01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SquidArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZeusGauntlet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaSwimsuitClock01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Earrings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaGauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AlchemyFlask01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonShield01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AstridHairpin01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ElizabethEarring01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/HookKnife01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EternalRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YamatoTurret01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AliceRabbitDoll01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiScroll01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DragonPlushie01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KingChessPiece01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Hakama01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EnchantedRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pickaxe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DaVinciNecklace01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/TristanHarp01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedRings01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MinotaurHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DaVinciNecklace01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BlackBelt01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Girdle01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MaidHairBand01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Gauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ExeterniaSchematics01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/IdolMic01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KaijuShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaJacket01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RitualBlade01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SilverKnightArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OniSchoolbag01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/TaotieRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BikkiHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HymeliaCrown01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AnastasiaHat01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Armor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KingChessPiece01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracelet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Skirt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BronzePickaxe01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DiabolosArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiFan01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MinotaurHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BronzePickaxe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DaVinciNecklace01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MermaidPearl01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MusashiButterfly01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/IdolMic01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DiabolosArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ZoroMask01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/GreenRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CrystalBeads01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/HawkCoin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixShield01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AnastasiaHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ArcaneRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/HymeliaCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Hakama01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HookKnife01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArcaneRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Katashiro01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/OrcanixCloak01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaijuShield01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RolotiaClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SwimRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ChampionBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakamotoCloak01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ExeterniaTalisman01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/WingTiara01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZeusGauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KukuriKnife01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Feathers01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Crown01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChronosClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RizetteBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DragonRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AliceRabbitDoll01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixCloak01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/NapoleonBadge01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DragonShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/FornaxosArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SquidArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Armor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Cape01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MermaidPearl01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaidarosHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BlackSnowCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BergarianHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakamotoCloak01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Feathers01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BahamutShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaidarosHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SziFire01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaJacket01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedGreenDroplet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonfireBottle01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AirDragonArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ValkyrieMedal01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GreenRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneFlag01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CobraRod01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ElizabethEarring01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Cape01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CobraRod01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Crown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BergarianHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThunderlingHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YukiSunHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BlackBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonRings01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/FornaxosArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/CobraRod01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracelet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LimePotion01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BunnyHairBand01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NapoleonBadge01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RitualBlade01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AirDragonArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChampionBelt01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EvilLapelPin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CrystalBeads01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DragonfireBottle01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RolotiaSwimsuitClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/IdolMic01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LudmillaGauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArcaneRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/TristanHarp01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SwimRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MinotaurHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OniSchoolbag01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Luther01SwordAcc01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pickaxe01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NapoleonBadge01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/NovaBlastArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BronzePickaxe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AirDragonArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BahamutCollar01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracer01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DiabolosArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BunnyHairBand01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Earrings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Armor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZoroMask01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Girdle01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KukuriKnife01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AlchemyFlask01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Feathers01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Katashiro01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MagnifoDagger01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/WingTiara01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ElizabethEarring01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Bracelet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MusashiButterfly01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AstridHairpin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LunaNote01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HookKnife01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedKnightHelm01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Pearl01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracer01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/OniSchoolbag01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ExeterniaSchematics01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EnchantedRing01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KaidarosHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChronosClock01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Crown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LimePotion01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArcaneShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BahamutCollar01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BlackBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MermaidPearl01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/NovaBlastHelmet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Endbringer01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/TaotieRing01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HawkCoin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiFan01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Girdle01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MusashiButterfly01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GlassSyringe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SilverKnightArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BikkiScroll01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/EvilLapelPin01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixCloak01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Pickaxe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonfireBottle01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RedGreenDroplet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ZeusGauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AnastasiaHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LudmillaJacket01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SziFire01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Earrings01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BunnyHairBand01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KingChessPiece01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MagnifoDagger01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/OrcanixShield01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/GlassSyringe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SilverKnightArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/CrystalBeads01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ValkyrieMedal01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AliceRabbitDoll01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Cape01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Gauntlet01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RitualBlade01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaijuShield01.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1

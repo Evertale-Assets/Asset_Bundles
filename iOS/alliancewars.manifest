@@ -1,0 +1,280 @@
+ManifestFileVersion: 0
+CRC: 743749004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d07b2a4406cab6c82461446f67464828
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab41e68affcfeae7494180d3abab92a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d07b2a4406cab6c82461446f67464828
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3472655b7efeec24faad3a6ac5526f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d90e70c5d032ac7498c7de81414fd35e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e078eae62b25644a1ddf6e9f2e0ab7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 468d2c3be80ade64f88078f250ea030a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb2668425d6f144684b45a3edbe22f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9f1e39925b0a074899815d155cd63c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26415f9cc04b0b64c874d0037838500b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a07a781cad112c75d0008dfa8d76c639, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9cef3a10cd9da1409e26dbeccf509ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1c9e9f57238c464a962f7590ab538e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a2e8b52218ebdd4ba024f5a1a94b12b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3613e23fd9a2d33438fe6f2734f6b0a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d6ef149aeea9c74ebc6eab0812aea61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c92e507c1bf1aa444a32a284301e393e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3152ccf4b8d96444b99779bbdd8728bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1097fd127446984cba9a8e1d39e15d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57cf1ba5dcd189f4ab784718b2168d02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1268c6be7c36a648870e02d8f03ce47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f3edd12bf1dc0e478e84e3b5cc748b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73aca91eb1e70a4438ad27162f68a675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92effbead2541f140b56663fc71ca1f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 840e7523ad89ddf4ab0dd1d2a7fba355, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bc23d214a1d7f943b0c6111e13301d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ba7c1a3be2fb754ebbf943b5603d514, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7abf0614bc50c704f9796d01665d7dc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd314d9688ff96c45b53ca35924ebb54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57b373d6c1236a242b41de90e943890b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ec75e61d4484e94193cc73ac5287f1a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: FancyFadeOptions
+- AssemblyName: Assembly-CSharp
+  ClassName: HUDConfiguration
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: TableCell/StatBlock
+- AssemblyName: Assembly-CSharp
+  ClassName: UIMoveLoop/UIMove
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.FlexLayoutGroup/LayoutRebuildOnChange
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.FloatRel
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RectOffsetRel
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelType
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelativeToReference
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.RelativeToReference/Options
+- AssemblyName: inc.zigza.ui.flex.runtime
+  ClassName: ZigZa.UI.Flex.Vector2Rel
+Assets:
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsCastleInfoPopup.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMap3.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksDesert.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest4.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest5.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksDesertBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksSnow.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksPlainsRainBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksSummertime.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsPlatoonBlock.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksGuildWar.prefab
+- Assets/SimulatedAssetBundles/alliancewars/Images/Maps/AllianceWarMap0.png
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMapCluster4.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsClusterEvent.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsPlatoonsInCastlePopup.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsClusterInfoPopup.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMap2.prefab
+- Assets/SimulatedAssetBundles/alliancewars/Images/Maps/AllianceWarMap2.png
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/MoveToGuildWarsMap.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest3.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMapCluster3.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest1.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksSnowCastle.prefab
+- Assets/SimulatedAssetBundles/alliancewars/AllianceWarGreenHolder1.png
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMap4.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksRedCastleBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/Images/Maps/AllianceWarMap1.png
+- Assets/SimulatedAssetBundles/alliancewars/Images/Maps/AllianceWarMap4.png
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksSnowCastleBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMapCluster0.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMap1.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksRedCastle.prefab
+- Assets/SimulatedAssetBundles/alliancewars/AllianceWarGoldHolder1.png
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsPlatoonInCastleBlock.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsCastle.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksForestDarkBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMapCluster2.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest2.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksArena.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMap0.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksPlains.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsEvent.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksLuGananBoss.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksConquest6.prefab
+- Assets/SimulatedAssetBundles/alliancewars/AllianceWarBlueHolder1.png
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksForest.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/Maps/AllianceWarsMapCluster1.prefab
+- Assets/SimulatedAssetBundles/alliancewars/prefabs/GuildWarsPlatoonsPopup.prefab
+- Assets/SimulatedAssetBundles/alliancewars/EncounterPrefabLinks/MassEncounterPrefabLinksGoldDungeon.prefab
+- Assets/SimulatedAssetBundles/alliancewars/Images/Maps/AllianceWarMap3.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tutorialsbundle

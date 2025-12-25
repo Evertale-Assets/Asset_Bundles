@@ -1,0 +1,306 @@
+ManifestFileVersion: 0
+CRC: 2181285752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b1c3509c485c3043b2c42bf89191e0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f49ef8753a19e7d6525953ec265cd53
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b1c3509c485c3043b2c42bf89191e0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalLivingRoomStorm.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGForestSnowyNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/EncountersnowstryLv15RandomD1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGMysteriousMoon.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleSEVENTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGSnowyTownNightmare.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGMountainHutNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleEIGHTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGTropicalStreetDay.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGThroneRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGQueensRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGBallroomDay.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGCasino.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGChurchNoLight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGnightClub.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGTropicalStreetDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGForestNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGStarrySky.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalChurch.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleFIFTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalHouse.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalLivingRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGCasinoCorridor.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalHouseStorm.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Images/BGTropicalLivingRoomNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleSIXTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Images/BGCasinoVIPRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGMountainHut.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/EncountersnowstryLv20RandomD1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGForestSnowy.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGMountainRoomSnowNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGSlumSnow.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/EncountersnowstryLv10RandomD1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGMountainRoomSnow.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry17D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Images/BGSnowyTownNight.png
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle17D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/ChatScenes/LudmillaBrideTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle16D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/ChatScenes/FairyTaleEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle10D1.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle11
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle14
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle6
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle7
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle8
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact8
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle5

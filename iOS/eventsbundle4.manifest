@@ -1,0 +1,550 @@
+ManifestFileVersion: 0
+CRC: 3753013838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 733527c7012b656f5dbd193eb7fe0e57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0069faf73f89cd424268dbec37ac7a0b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 733527c7012b656f5dbd193eb7fe0e57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de805ee48498ac4a99a0bfe0ed5f1d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03180bbd208942b43b609b67fc20332b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9354e2274277704a88c0c45ca09e275, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd25a873dbfe7ac40ab2f8b63b2bd01d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22dd6e150b1438242af84ef61b656564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ae20c3a5b98714bb646f5ef358edfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634bcc0782cbc334ca9fb9e3c9022b86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 694e81a8a3185ec4a8ed8e8fbad25513, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 138df19edba45294f9c1de9190f0dc91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1da332e682dc764a85ca3a52f6f829b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7df519f1f2950a043920d98ef6361900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c45d262a8b06f041b505b9315d3406e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0362b2cb9fe1fea4082046027180d822, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ActorSetupNew
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleEventsU
+- AssemblyName: Assembly-CSharp
+  ClassName: EncounterAndConditionsU
+- AssemblyName: Assembly-CSharp
+  ClassName: MonsterSpawnerAndChanceU
+- AssemblyName: Assembly-CSharp
+  ClassName: PairOfInts
+- AssemblyName: Assembly-CSharp
+  ClassName: ParamsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionaryIF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySB
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityDictionarySI
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableF
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityNullableI
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: EncounterDataU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterSpawnerU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: MonsterVariablesU
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ReplayDesc
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: ServerBattleConfig
+- AssemblyName: inc.zigza.evertale.core.csharp.runtime
+  ClassName: WeaponVariablesU
+Assets:
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGResidentialRoadDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernSquareDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/ChatComboattack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomMessyCurtains.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGreyHallwayDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolHallwayNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormitoryDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomGirlyNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGChurchSunset.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/chatmagicattack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/EncounterschoolgirlstoryexstgLv40RandomD1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGForestRoomEmpty.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGVillageSquareSunset.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGCarInterior.jpg
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomJapaneseCurtains.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGBackStreetDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGHospitalDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGNurseOfficeDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGShrineDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomJapaneseNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/SFX/Fantasy_Game_Potion_Bottle_Cork_Pop.wav
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolHallwayDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClubroomNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomPlainNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormitoryDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGHospitalNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGVillageSquareBoxNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernRoadNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormitoryNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGTennisCourtDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernSquareDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomGirlyDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGymDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Prefabs/ChatBloodNoise.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomJapaneseDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSidewalkDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGreyHallwayDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernRoadDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGShoppingStreetSunset.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Images/BGMonsterCell.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClinicDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/EncounterschoolgirlstoryexstgLv60-70RandomD2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomMessyDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Prefabs/ChatStageCute.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMallDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolGateDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/GlowingDark.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/PurpleFireAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGShoppingStreetNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Prefabs/ChatGenericAttackVer2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomGirlyCurtains.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Prefabs/ChatCastingPurple.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSidewalkDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGBigCraterNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGDraculaVillageNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGCemeteryNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClubroomDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGTrainModern.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventFIFTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGCemeterySunset.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/chatSekirai.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolHallwayDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/ChatSlashWind.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/EncounterschoolgirlstoryexstgLv80-90RandomD2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGymDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGChurchNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernSquareNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClubroomDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernRoadDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/chatMagicDelete.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGCafeteriaDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomAthleticCurtains.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/EncounterschoolgirlstoryexstgLv70-80RandomD2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGPrincipalOfficeDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolRoofDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGCafeteriaNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGShrineNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventNINE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkLakeDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGArcade.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomAthleticDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomWindowsNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGApartmentStreetDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolRoofDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGBackStreetNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGNurseOfficeDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/batfx_physicalmagic3_1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGResidentialRoadDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomAthleticNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGreyHallwayNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormitoryHallway.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGApartmentStreetDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClinicNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Images/ArthrGaiantMonsterNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGBigCraterNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSidewalkNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/SFX/Water
+  8.mp3
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/SFX/Water
+  4.mp3
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGCafeteriaDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGHospitalDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolGroundDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDarkAuditorium.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomMessyNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkLakeNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGTennisCourtEvening.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGGymNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernStreetNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGChurchnight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMusicRoomNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernAlleyNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMallDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventTEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDanceStudio.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDressingRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolGateNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGShrineDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGResidentialRoadNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGApartmentStreetNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernStreetDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGVillageSquareNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomPlainDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGTennisCourtNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomMessyDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomPlainCurtains.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolGateDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGroups/Encounterastridnewstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernAlleyDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomJapaneseDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomGirlyDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomAthleticDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestoryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/ChatScenes/AstridNewEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGSchoolRoofNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMallNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Images/BGArthrGigantMonster.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatPrefab/DeleteCombo.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlTWELVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGBackStreetDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Prefabs/ChatWhiteout.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGPrincipalOfficeNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGDormRoomPlainDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMusicRoomDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGPrincipalOfficeDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernStreetDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/ChatScenes/SchoolgirlEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstoryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventEIGHT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGDraculaVillageNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGDraculaVillageWall.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGVillageChiefHouse.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomWindowsDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGNurseOfficeNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkLakeDusk.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/ChatScenes/CamelotDarkEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202303astridnewstry/Battles/BattleGFEs/astridnewstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGTavernHalloween.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGModernAlleyDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGroups/Encountergyurellestory09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGroups/Encounterschoolgirlstory01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Images/BGCemeteryNight.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/ChatScenes/GyurelleEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202302gyurellestory/Battles/BattleGFEs/gyurellestorybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGParkDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGroups/Encountercamelotdarkstry06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Battles/BattleGFEs/schoolgirlstorybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGMusicRoomDay.png
+- Assets/SimulatedAssetBundles/eventsbundle4/oe202412camelotdarkstry/Battles/BattleGFEs/camelotdarkstrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle4/oe2020011schoolgirlstorymob/Images/BGClassroomWindowsDusk.png
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle10
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle11
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle12
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle13
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle14
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle15
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle16
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle17
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle18
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle19
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle6
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle7
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle8
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle9
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact11
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact8
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc1
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle2
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle3
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle4
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle6

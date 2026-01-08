@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3021249893
+CRC: 3784386235
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7a316e0bfa7280def576e380a947a02
+    Hash: cda1ac44088eafbf7afb6c25ed29bc31
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e7a316e0bfa7280def576e380a947a02
+    Hash: cda1ac44088eafbf7afb6c25ed29bc31
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -42,6 +42,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/DeerGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/TheoRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/YandereMaidDark.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/VenusRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MechaSisterBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ReiBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DragonGirlRegular.png

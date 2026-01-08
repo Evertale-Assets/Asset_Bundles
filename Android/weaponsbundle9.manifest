@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3034512217
+CRC: 3580259283
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4c6932f793513bfd5118f51cd33d2171
+    Hash: 1ce4837ae29df90eb75ff23b3e837fe9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b85188672b77cba969d47c27630316b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4c6932f793513bfd5118f51cd33d2171
+    Hash: 1ce4837ae29df90eb75ff23b3e837fe9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,6 +42,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/DarkMaidAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedDragonKnightHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PurpleDragonMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThornCrownMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RamMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/NikeHammer01.png
@@ -77,6 +78,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ApocalypseHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BlueDragonSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaDarkSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/VenusSeaShellMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZeusLightningGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/HijikataGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/CopperMirrorMace01.png
@@ -319,6 +321,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceBrideSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/EnergyWingAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AbandonedChurchAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceBrideSpear01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe02.prefab
@@ -337,8 +340,9 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LudmillaDarkHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AltarKatana02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GreenHueKatana01.png
-- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RaceBikeAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MomotaroStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RaceBikeAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GawainDarkGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/BridalWeddingStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CursedHolyGreatSword01.prefab
@@ -413,6 +417,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZeusLightningGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChainSawGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuBrideHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThunderSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BridalWeddingStaff01.png
@@ -493,9 +498,10 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceBrideSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LokiGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PurpleUniverseMace01.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SilverKnightSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/VenusSeaShellMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ArthurWingAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/OdinSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SilverKnightSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaDarkSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/GreenHueKatana01.png

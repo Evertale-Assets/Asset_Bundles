@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1512256362
+CRC: 2569295032
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 46c380a277edb9ebd8e392db2817bb80
+    Hash: f2a80feacc79949121aed23c17a0be0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 46c380a277edb9ebd8e392db2817bb80
+    Hash: f2a80feacc79949121aed23c17a0be0e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -67,6 +67,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GilgameshRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteedBannerSpecial18.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VenusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoemonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LuBuRegular.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4041438904
+CRC: 133531556
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c542911f6933745ba071d25aeea22b9d
+    Hash: 5e08f9e43db6eabef8abe6d4cfff48e7
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c542911f6933745ba071d25aeea22b9d
+    Hash: 5e08f9e43db6eabef8abe6d4cfff48e7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -117,6 +117,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CatIdolHalloween01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GokuDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/InugamiRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/VenusRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MurasakiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkRizette01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ReiSwimsuit01.prefab
@@ -197,7 +198,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RolotiaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DeerGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/YandereMaidDark01.png
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GokuDark01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/VenusRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GilgameshRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NobunagaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CerberusRegular01.png
@@ -206,9 +207,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/JeanneBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SilverHairBerserker01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DancingAssassinSwimsuit01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SnowWhite01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GokuDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CinderellaSwimsuit01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DeerGirl01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SnowWhite01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NovaBlastDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/GothGirl01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaChristmas01.png
@@ -506,6 +508,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RoundTableKnightDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSister01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RizetteBrave01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/VenusRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DarkAstridNewYear01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LegendFireDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Kisara01.png

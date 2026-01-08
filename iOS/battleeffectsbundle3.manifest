@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2127544117
+CRC: 240644210
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 289ab7fe761efa8d89b1bd5320d2fbc5
+    Hash: 79a638a12290baecb05755f9873a2a6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: d0f4c3cc7155ade4f7f2102b99a8e98f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 289ab7fe761efa8d89b1bd5320d2fbc5
+    Hash: 79a638a12290baecb05755f9873a2a6b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -662,6 +662,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_MultiMagicShotWeak.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_splashimpact3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_spearcombo1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_CharmStatus1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_Glich1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_IceFloorBig.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_KaguyaDarkEye1.prefab

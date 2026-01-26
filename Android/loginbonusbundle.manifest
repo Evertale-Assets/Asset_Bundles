@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3704621451
+CRC: 554801949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b595734356ae43326f82e805920da5c
+    Hash: 2b852682f1c6e97e12b31a47ecd92246
   TypeTreeHash:
     serializedVersion: 2
     Hash: c217e953f4e9fce5ee3bbbf4e1de80ea
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3b595734356ae43326f82e805920da5c
+    Hash: 2b852682f1c6e97e12b31a47ecd92246
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,8 +82,8 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/December2025.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/December2025.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Winter2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Winter2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/NewYears2025.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/NewYears2025.png
 Dependencies:

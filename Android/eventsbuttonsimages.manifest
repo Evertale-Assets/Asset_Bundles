@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2933126555
+CRC: 1083794075
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47e59cd33ac82a28b990f77bed5cfdee
+    Hash: e92b916677e2fef240aabb323e324036
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 47e59cd33ac82a28b990f77bed5cfdee
+    Hash: e92b916677e2fef240aabb323e324036
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -19,6 +19,7 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/chronosstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/kenshinstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/mermaidstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/momotarostry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/zeusstry.png

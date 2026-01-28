@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2889702012
+CRC: 2467185120
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 697dd4f38caf102ef9fe392f3e3b1406
+    Hash: c7e3ca498c26596d40e7032f3967664c
   TypeTreeHash:
     serializedVersion: 2
     Hash: f14974c0ed050c9d03ce154f0c45b55a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 697dd4f38caf102ef9fe392f3e3b1406
+    Hash: c7e3ca498c26596d40e7032f3967664c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -200,6 +200,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Crown01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChronosClock01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RizetteBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KenshinBracelet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/DragonRings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AliceRabbitDoll01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixCloak01.png
@@ -291,8 +292,10 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedKnightHelm01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Pearl01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracer01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KenshinBracelet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/OniSchoolbag01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ExeterniaSchematics01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KenshinBracelet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EnchantedRing01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KaidarosHelmet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChronosClock01.prefab

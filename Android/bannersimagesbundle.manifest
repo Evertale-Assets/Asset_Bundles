@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 687085562
+CRC: 2319321169
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7fccbae436c531a85a0eab0894778c4c
+    Hash: 3f78a2e3b691b523f54eb13150638128
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7fccbae436c531a85a0eab0894778c4c
+    Hash: 3f78a2e3b691b523f54eb13150638128
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -62,7 +62,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizette.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceMagicalGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GilgameshRegular.png
@@ -143,7 +142,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KirinGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DonQuixoteRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
@@ -225,7 +223,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RolotiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial18-C.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CowGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial18-D.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LokiRegular.png

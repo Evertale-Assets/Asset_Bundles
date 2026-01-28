@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3563581386
+CRC: 2248302621
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 494f197cfe4ac6301040ecc218f91476
+    Hash: 92ec6ecbf4ea9cb4414ee726f0bb502b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 494f197cfe4ac6301040ecc218f91476
+    Hash: 92ec6ecbf4ea9cb4414ee726f0bb502b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -47,6 +47,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/yandereracequeenstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/snowstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/sgirlstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/kenshinstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/cthulhustry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/legendfire.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/rparty.png

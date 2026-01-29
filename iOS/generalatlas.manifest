@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2563810331
+CRC: 1259524357
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 12fd2aae3d9d1f4c2b23386c27f7f2db
+    Hash: 10e849da0147075199c644354dab4318
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b265f9c7ffdfc16aaa3cbc657abedab
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 12fd2aae3d9d1f4c2b23386c27f7f2db
+    Hash: 10e849da0147075199c644354dab4318
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -466,6 +466,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconRedOnlineMapFlagNoBase01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/Overlay-RainbowHollowFrameSSR.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedHoldCharge01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPinkCharmInvalid01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteHoldStance01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconFrostBurn01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/AxeHint.png
@@ -486,10 +487,11 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/FrameDeckManagementGreen01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/GoldBookHudButtonIcon.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedRage01.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/YellowHpGauge01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPinkCharmHeart01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconStunSkin01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/Sword.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BlackShadowLeft01.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/YellowHpGauge01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/GraySquareBg02.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlueHypnotizer01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconWhiteCost01.png

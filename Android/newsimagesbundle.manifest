@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3784386235
+CRC: 834776079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cda1ac44088eafbf7afb6c25ed29bc31
+    Hash: 320c3b469a4a98950b798f8642c2d199
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cda1ac44088eafbf7afb6c25ed29bc31
+    Hash: 320c3b469a4a98950b798f8642c2d199
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -117,6 +117,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/SatanRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/TiamatRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaSchoolGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/UnicornRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/BlueSeaSerpent.png

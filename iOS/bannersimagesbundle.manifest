@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2175270775
+CRC: 1953303809
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eb1567df13c40dd6eb534032a0c1a131
+    Hash: a37f0dda41245db91a7d878b46ccfc9a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: eb1567df13c40dd6eb534032a0c1a131
+    Hash: a37f0dda41245db91a7d878b46ccfc9a
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -145,12 +145,14 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TristanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SatanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ClassicBanner.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MermaidRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaid.png

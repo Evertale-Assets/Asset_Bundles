@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3580259283
+CRC: 1602505625
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1ce4837ae29df90eb75ff23b3e837fe9
+    Hash: 88982d25f22366bacb7d44dc4ddeadad
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b85188672b77cba969d47c27630316b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1ce4837ae29df90eb75ff23b3e837fe9
+    Hash: 88982d25f22366bacb7d44dc4ddeadad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -114,7 +114,9 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/UnicornGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DragonSlayerSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BridalWeddingStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ZoroGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkOwlGreatAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ZeusLightningGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MapleLeafGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/BridalWeddingStaff01.png
@@ -308,6 +310,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/GokuDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/KingArthurGreatSword01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TristanHarpGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/LudmillaWinterHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RaceBikeAxe01.png
@@ -339,6 +342,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/LuBuDragonSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LudmillaDarkHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AltarKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkOwlGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GreenHueKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MomotaroStaff01.png
@@ -441,6 +445,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChainSawGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/HijikataGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/LightningDragonSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/WoodenMoonHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MapleLeafGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/TristanHarpGreatAxe01.png
@@ -500,9 +505,10 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PurpleUniverseMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/VenusSeaShellMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ArthurWingAxe02.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/OdinSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkOwlGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SilverKnightSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaDarkSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/OdinSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/GreenHueKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GenieOrbStaff01.prefab

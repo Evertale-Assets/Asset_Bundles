@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1477280241
+CRC: 235259209
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b1e168465a1e7e423984aad9c9a18fb2
+    Hash: ad3cd0430045d56efd89b3b7e5d50b9e
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b1e168465a1e7e423984aad9c9a18fb2
+    Hash: ad3cd0430045d56efd89b3b7e5d50b9e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -356,12 +356,13 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ChristmasElmina01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ReiBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MerlinRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KenshinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Crescent02.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/TwinGodRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RoundTableKnightDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CthulhuGirlRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GothGirl01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ChronosRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PinocchioRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/NobunagaRegular01.png
@@ -414,6 +415,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizKouhaiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Kisara01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizetteCrestbearer01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KenshinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LudmillaBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/InugamiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Kirin01.prefab
@@ -609,6 +611,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/TristanRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ReiBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AstridRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/KenshinRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DemonElfBoy01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/JeanneBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DragonGirlRegular01.prefab

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1953303809
+CRC: 3487444707
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a37f0dda41245db91a7d878b46ccfc9a
+    Hash: a644773ad5563480ed058e1d835faf7f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a37f0dda41245db91a7d878b46ccfc9a
+    Hash: a644773ad5563480ed058e1d835faf7f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -106,6 +106,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SamuraiGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaHalloween.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PinocchioRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ShannaRidingHood.png
@@ -123,6 +124,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IbarahimeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteMaid.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaDark.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneValentine.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
@@ -209,6 +211,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FireDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenSwimsuit.png

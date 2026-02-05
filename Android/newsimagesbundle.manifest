@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 834776079
+CRC: 1637835695
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 320c3b469a4a98950b798f8642c2d199
+    Hash: badbdecdbec1bea1a20ed718a1b9a69b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 320c3b469a4a98950b798f8642c2d199
+    Hash: badbdecdbec1bea1a20ed718a1b9a69b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -160,6 +160,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/CthulhuGirlRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/GokuRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MerlinRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/KenshinRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KojiroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaBunny.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1653903632
+CRC: 1764373266
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b7f953747891f236380b0a405762ca9
+    Hash: 3af8283312310e953612dbf617ffb80e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b265f9c7ffdfc16aaa3cbc657abedab
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8b7f953747891f236380b0a405762ca9
+    Hash: 3af8283312310e953612dbf617ffb80e
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -46,6 +46,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Button_LongCyan_Warp.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/WhiteIconBatallionPower1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/CyanGlowSearchByName1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackStealthCount02.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseGreenLoginBonusCircle01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/FrameBlueDiamond01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconGreenRegenerationIce01.png
@@ -319,6 +320,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/OtherBrownBattleRod01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/ButtonBlueGoldTrapezoidTabGlow01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/FrameRedSSizeCharacterEnemy01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackStealthCount03.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BlackGradient.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPurpleRegenerationHeart01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/LineBrownArrowEndsH01.png
@@ -328,6 +330,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/OtherBlueSoulStone08.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/QuestPathArrow1.mat
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/New-1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackStealthCount01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedExNumber04.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconGreenRegenerationCount01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BlackGlowForGacha.png

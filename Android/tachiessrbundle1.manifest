@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 235259209
+CRC: 2879227399
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad3cd0430045d56efd89b3b7e5d50b9e
+    Hash: 627c9b4bbaaa58c1ad7c33fd9ad4edf5
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ad3cd0430045d56efd89b3b7e5d50b9e
+    Hash: 627c9b4bbaaa58c1ad7c33fd9ad4edf5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -96,6 +96,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Crescent01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Cyrus01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NagiRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MyshaKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/EarthGoddess01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/YandereMaidDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CherryBlossom01.prefab
@@ -287,6 +288,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ExcaliburRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/OniSchoolDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AntaresRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MyshaKnight01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/BahamutGirlRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MusashiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LegendFireDragon01.png
@@ -672,6 +674,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Rizette01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MurasakiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/OdinRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MyshaKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkLudmilla01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaSchoolGirl01.png

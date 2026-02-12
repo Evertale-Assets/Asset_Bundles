@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1637835695
+CRC: 497078238
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: badbdecdbec1bea1a20ed718a1b9a69b
+    Hash: 6f22ddf68b540ea6249a057ea5c44203
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: badbdecdbec1bea1a20ed718a1b9a69b
+    Hash: 6f22ddf68b540ea6249a057ea5c44203
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -49,6 +49,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/MyshaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/YandereMaidRaceQueen.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/NobunagaRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/MyshaKnight.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RolotiaSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ReiSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/AstridBride.png

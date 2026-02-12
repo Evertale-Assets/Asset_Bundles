@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3242088655
+CRC: 3699762639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 799a0d60e3666d1de160d3c994552342
+    Hash: bdce331fc606c229dc59af3338e3095e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b85188672b77cba969d47c27630316b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 799a0d60e3666d1de160d3c994552342
+    Hash: bdce331fc606c229dc59af3338e3095e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -76,6 +76,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/BattleshipGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LightningDragonSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ApocalypseHammer03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BlueDragonSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaDarkSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/VenusSeaShellMace01.png
@@ -355,6 +356,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RaceBikeAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/AstridNewSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RolotiaDarkSpear02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/MyshaFlowerStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/UnicornGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaFishSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/MermaidSpear01.png
@@ -365,6 +367,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CrystalDragonAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RedDragonKnightHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GenieOrbStaff02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MermaidSpear01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/WoodenMoonHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/OkitaSakuraKatana01.png
@@ -454,6 +457,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/KenshinKatana03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MapleLeafGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/TristanHarpGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedDragonKnightHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IbarahimeGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SilverKnightSword03.prefab
@@ -547,6 +551,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/HijikataGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SatanSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ParasolSpear03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/MyshaFlowerStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChronosGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedGemGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CinderellaFishSpear01.png
@@ -567,6 +572,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MermaidSpear02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkMaidAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SnowWhiteIceHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AltarKatana03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ScissorSword02.prefab

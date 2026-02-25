@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2909116939
+CRC: 1850797243
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fcaabc2acac92fc2aac9470ca7f0625d
+    Hash: ed7bea3ff9f8babde3e3dc91a48c885a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 13e240e92cb245323fda4b43e80b53a8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fcaabc2acac92fc2aac9470ca7f0625d
+    Hash: ed7bea3ff9f8babde3e3dc91a48c885a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,9 +39,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCry2NoSword.png
-- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburNormalOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceIrritatedNoSword.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceSinisterNoSword.png
+- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburNormalOpen.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCollarHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCollarSadSmile.png
@@ -49,6 +50,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedRelax.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoClosedEyesSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCrazyGentle.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneSwimTachie/JeanneDarkSwimTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkFace/MusashiDarkColdSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenCry.png
@@ -76,6 +78,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernMaleMobTachie/ModernMaleMobBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSuperHehSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/KenshinTachie/KenshinFace/KenshinFocus.png
@@ -87,9 +90,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleTachie/DarkMichelleSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoHuh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaTadah.png
-- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaFascinated.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkHuhComical.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveSighComical.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaCloseupBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveEmbrrased.png
@@ -102,6 +106,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkFace/MusashiDarkCrazyHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimContempt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirl/SchoolUniformGirlSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrDespair.png
@@ -133,6 +138,8 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaSeriousSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernMaleMobTachie/ModernMaleMobScaredSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviSad.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaAngrySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaSadOpenWeap.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenPout.png
@@ -146,8 +153,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanAnnoyed.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniRedFace/OniRedShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutWow.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkWinkHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobFace/ValkyrieMobNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviPout.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/YoungClariceTachie/YoungClariceSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlPlainBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightPokerFace.png
@@ -182,8 +191,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanSurprise.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuSmile.png
-- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburSpecialNormalOpen.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkYandere.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkPlainBase.png
@@ -199,9 +209,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimShock.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataHehSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWGigantBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirl/SchoolUniformGirlAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorGentleSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneTachie/DarkJeanneScared.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleTachie/DarkMichelleComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkPossessed.png
@@ -211,6 +223,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolWinkSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkLookawaySerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviDragonPillarTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceContempt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniRedFace/OniRedSurprisedMob.png
@@ -238,6 +251,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanTrouble.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehDetermined.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolConfused.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSuperShouting.png
@@ -257,12 +271,14 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LudmillaSchoolTachie/LudmillaSchoolSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SidTachie/SidTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleTachie/DarkMichelleShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaClosedEyeSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/AlastorTachie/AlastorSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWGigantTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveShy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBleedingSerious.png
@@ -270,16 +286,20 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataConfuse.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanDesperate.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneTachie/DarkJeanneClosedEyesBlushSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenScared.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceClosedEyesNoSword.png
-- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusShy.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernLadyMobTachie/ModernLadyBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusShy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniRedFace/OniRedHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoBase.png
@@ -288,9 +308,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoClosedEyesSeriousBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniRedMobTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHehHapy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MizuchiTachie/MizuchiFace/MizuchiSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LudmillaSchoolTachie/LudmillaSchoolNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoClosedEyesSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/BikeRedTachie/BikeRedTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuTachie.prefab
@@ -305,9 +327,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitWink.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenCalm.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/RebelModernTachie/RebelModernTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCold.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobFace/ValkyrieMobSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaShoutingClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobFace/ValkyrieMobSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuSweat.png
@@ -339,6 +364,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernLadyMobTachie/ModernLadySeriousSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanScream.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirl/SchoolUniformGirlSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitClosedEyesBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/NagiHalloweenTachie/NagiHalloweenNormal.png
@@ -365,24 +391,29 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkClosedEyesSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusBoo.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunPokerFaceMouth.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSuperSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaClosedEyesSmike.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorSpeak.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightHehHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaCloseedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/KenshinTachie/KenshinFace/KenshinTehepero.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceSighSweatNoSword.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoPokerFace.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSighSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernMaleMobTachie/ModernMaleMobTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonContent.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkResize.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkFace/MusashiDarkCrazy.png
@@ -394,6 +425,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlPlainTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunPokerFace.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneSwimTachie/DarkJeanneSwimStare.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoRelax.png
@@ -410,10 +442,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkHuh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleTachie/DarkMichelleBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaNormalOpen.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutHehSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedComicalSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirlBlonde/SchoolUniformGirlBlondeSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusHurtSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolSighSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniHumanRedBase.png
@@ -422,6 +456,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuRed.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBleedingClosedEyeSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewSadBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceYandereSmileNoSword.png
@@ -431,7 +466,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MizuchiTachie/MizuchiBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunHehHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobFace/ValkyrieMobSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenClosedEyesBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDark2Tachie/CleopatraDark2Tachie.prefab
@@ -442,7 +479,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleSwimTachie/DarkMichelleSwimSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimWeap.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimEmbarrased.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanGrit.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaSadHappyWeap.png
 - "Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/C195_Mysha2.0_\u30AB\u30FC\u30C91_\u7D0D\u54C1_\u5DEE\u5206_\u7D0D\u54C1\u7528.png"
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenSigh.png
@@ -455,12 +494,15 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDark2Tachie/CleopatraDark2Face/CleopatraDark2Normal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/KenshinTachie/KenshinFace/KenshinConfuse.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirl/SchoolUniformGirlBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviDragonPillar.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/TimiaTachie/TimiaSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/AlastorTachie/AlastorSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCrazySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenSmile2.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusIrritate.png
@@ -473,6 +515,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenSurprise.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunTroubled.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaBlushSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBleedingClosedEye.png
@@ -490,6 +533,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCrazy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernMaleMobTachie/ModernMaleMobSmileSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LudmillaSchoolTachie/LudmillaSchoolClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusHurtNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaClosedEyesHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernLadyMobTachie/ModernLadyMobHappy.png
@@ -538,13 +582,15 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/YoungClariceTachie/YoungClariceNervous.png
-- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimShySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneSwimTachie/DarkJeanneSwimSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkWinkHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightRelax.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaShock.png
@@ -555,6 +601,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/BergarianSoilderBlack/BergarianSoilderBlackBody.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHurtSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuShy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneTachie/DarkJeanneClosedEyes.png
@@ -580,6 +627,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaWeaponBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/MobBossTachie/MobBossHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoWink.png
@@ -597,8 +645,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SidTachie/SidHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LudmillaSchoolTachie/LudmillaSchoolTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedSmileWink.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSuperBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkWink.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBase.png
@@ -623,7 +673,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/KenshinTachie/KenshinFace/KenshinSmirk.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniHumanRedTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirlBlonde/SchoolUniformGirlBlondeAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonPillarTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanPanic.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCollarCry.png
@@ -659,12 +711,14 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutFlustered.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceShoutingNoSword.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCrazyIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/Endbringer/EndbringerGlowing2.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanClosedeyesShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewWeaponTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaWeaponTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OniRedTachie/OniRedBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDark2Tachie/CleopatraDark2Base.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleTachie/DarkMichelleTachie.prefab
@@ -674,6 +728,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/RebelModernTachie/RebelModernBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceHappyNoSword.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDark2Tachie/CleopatraDark2Face/CleopatraDark2Sigh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/YoungRolotiaTachie/YoungRolotiaFace/YoungRolotiaSadCloseMouth.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceBlushNoSword.png
@@ -684,6 +739,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenEyesClosed.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSad.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/TimiaTachie/TimiaSurprised.png
@@ -712,12 +768,14 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkFace/MusashiDarkCrazyShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSeriousSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviPillarTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutGaki.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/MobBossTachie/MobBossSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/Evan Tachie/EvanCommand.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MizuchiTachie/MizuchiFace/MizuchiHAppySmile.png
@@ -726,6 +784,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/TristanTachie/TristanFace/TristanShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/YoungLudmillaTachie/YoungLudmillaProud.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehTroubled.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimExcited.png
@@ -735,11 +794,13 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolClosedEyesSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/YoungLudmillaTachie/YoungLudmillaHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaSchoolBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoEmbarrassed.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaWeep.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkJeanneTachie/DarkJeanneBlushAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraSurprisedNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusHehTongue.png
@@ -751,6 +812,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/KenshinTachie/KenshinFace/KenshinWeap.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCrazyShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehSadHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedComicalHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceStickTongueNoSword.png
@@ -770,6 +832,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/TimiaTachie/TimiaSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehPensive.png
 - Assets/SimulatedAssetBundles/tachiebundle3/JeanneDarkSwimStoryTachie/DarkMichelleSwimTachie/DarkMichelleSwimBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunPillarTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/AlastorTachie/AlastorShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirlBlonde/SchoolUniformGirlBlondeSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/LudmillaHalloweenTachie/LudmillaHalloweenBase.png
@@ -784,6 +847,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MusashiDarkTachie/MusashiDarkFace/MusashiDarkColdLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/VenusTachie/VenusFace/VenusWorried.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/ClariceSchoolGigantBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewClosedEyes.png
@@ -798,9 +862,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightBitterSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolClosedEyesSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkNormalSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunExcited.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/ValkyrieMobFace/ValkyrieMobShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/KaguyaSwimTachie/KaguyaSwimFace/KaguyaSwimSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/ClariceSchoolGigantTachie.prefab
@@ -839,12 +905,16 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkBleeding.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirlBlonde/SchoolUniformGirlBlondeBase.prefab
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCrazyHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaClosedEyesSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/NagiHalloweenTachie/NagiHalloweenSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/BahamutGirlTachie/BahamutGirlFace/BahamutMeltySweat.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CthulhuTachie/CthulhuFace/CthulhuNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehSinging.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/ModernLadyMobTachie/ModernLadySurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolShy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/R'lyehTachie/R'lyehFace/R'lyehLookaway.png
@@ -858,6 +928,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceCry.png
 - Assets/SimulatedAssetBundles/tachiebundle3/DarkRizetteSwimsuitStory Tachie/DarkRizetteSwimTachie/DarkRizetteSwimsuitBleedingHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/SiegfriedTachie/SiegfriedFace/SiegfriedSmileClosed.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaComplaint.png
@@ -880,6 +951,8 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoPossessed.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/YoungLudmillaTachie/YoungLudmillaSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/SchoolUniformMobTachie/SchoolUniformGirlBlonde/SchoolUniformGirlBlondeNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorBase.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ValkyrieTachie/GunnhildrFace/GunnhildrHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle3/TristanEventTachie/ExcaliburTachie/ExcaliburFace/ExcaliburSpecialNormal.png
@@ -897,22 +970,31 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/HimikoTachie/HimikoFace/HimikoPout.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/ClariceTachie/ClariceSmileNoSword.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MizuchiTachie/MizuchiFace/MizuchiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RubyBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/ZeusTachie/ZeusFace/ZeusShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/ClariceSchoolTachie/CraliceSchoolFace/ClariceSchoolNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/RolotiaNewTachie/RolotiaNewWeaponBase.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/NagiHalloweenTachie/NagiHalloweenFlirty.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/NapoleonTachie/NapoleonFace/NapoleonBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/OkitaTachie/OkitaFace/OkitaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviSleepSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ClariceStory Tachie/CallenHalloweenTachie/CallenHalloweenAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/ThorTachie/ThorFace/ThorCasual.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataHurtBleeding.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ShinsengumiEventTachie/HijikataTachie/HijikataFace/HijikataSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle3/ZeusEventTachie/RizetteBraveTachie/RizetteBraveFace/RizetteBraveSad.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraSad.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KenshinEventTachie/MyshaKnightTachie/MyshaKnightFace/MyshaKnightSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/KaguyaEventTachie/KaguyaTachie/KaguyaEmbarrassed.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/FreyaNEWTachie/FreyaNEWFace/FreyaNEWHurtSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LeaTachie/LeaSchoolTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviPokerHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/RuviTachie/RuviFace/RuviSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle3/BahamutstryTachie/CeraTachie/CeraFace/CeraSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle3/RedDragonSchoolStoryTachie/LudmillaSchoolTachie/LudmillaSchoolSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkSmirk.png
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact8

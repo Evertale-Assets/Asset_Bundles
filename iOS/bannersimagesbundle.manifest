@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 313607581
+CRC: 327538990
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb37000f0c8ea85ae40b7173f185419c
+    Hash: 33aaccb3bd105e9d7b4489fd3af59791
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fb37000f0c8ea85ae40b7173f185419c
+    Hash: 33aaccb3bd105e9d7b4489fd3af59791
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -63,7 +63,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizette.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceMagicalGirl.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GilgameshRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteedBannerSpecial18.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/VenusRegular.png
@@ -140,7 +140,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AntaresRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Kisara.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaDarkNew.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/TristanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KirinGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DonQuixoteRegular.png
@@ -148,7 +148,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-1.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/TristanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
@@ -171,7 +170,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IbarahimeSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurEvil.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RapunzelRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CthulhuGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaIdolGirl.png

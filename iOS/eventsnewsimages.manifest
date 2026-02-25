@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2248302621
+CRC: 371982879
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 92ec6ecbf4ea9cb4414ee726f0bb502b
+    Hash: 86fecd865a4511126a77e2b9d34fcfc3
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 92ec6ecbf4ea9cb4414ee726f0bb502b
+    Hash: 86fecd865a4511126a77e2b9d34fcfc3
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -87,4 +87,5 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/jeannedarkswimstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/bahamutstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/camelotstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/thorstry.png
 Dependencies: []

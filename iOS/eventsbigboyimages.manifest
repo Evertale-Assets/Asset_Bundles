@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 110020726
+CRC: 2735322022
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99630b275c8db9431cc8a8ba93111481
+    Hash: 73ce287d5feea417342d69928a8d31cd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 99630b275c8db9431cc8a8ba93111481
+    Hash: 73ce287d5feea417342d69928a8d31cd
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -85,6 +85,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/frankensteinstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/rolotiastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/christmasstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/thorstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/bnorzastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/kaguyastry.png
 Dependencies: []

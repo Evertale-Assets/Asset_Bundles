@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3900294990
+CRC: 3116123140
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a01e7e9795ecc9ac8e427e794d020455
+    Hash: 75e74ec3a344f38b077883869a1c080a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a01e7e9795ecc9ac8e427e794d020455
+    Hash: 75e74ec3a344f38b077883869a1c080a
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -79,6 +79,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/mechasisterbridestry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/alterludmilla.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/astridnewstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/thorstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/drizetteswimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/odinstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/desertflostry.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1734868471
+CRC: 1380822114
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f63647d86ed9b5d0657c7d15b5ee715
+    Hash: 7b29b2bfba9c9d4a01cf26fb8762fc4e
   TypeTreeHash:
     serializedVersion: 2
     Hash: f14974c0ed050c9d03ce154f0c45b55a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9f63647d86ed9b5d0657c7d15b5ee715
+    Hash: 7b29b2bfba9c9d4a01cf26fb8762fc4e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,6 +42,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaGauntlet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneFlag01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThorBelt01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ExeterniaTalisman01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LimePotion01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ChronosClock01.png
@@ -112,6 +113,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CyrusRings01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BahamutShield01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RedRings01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThorBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/TaotieRing01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Skirt01.png
@@ -231,18 +233,19 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastArmor01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ElizabethEarring01.prefab
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ThorBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Cape01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CobraRod01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastHelmet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Crown01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BergarianHelmet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastArmor01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThunderlingHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YukiSunHat01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BlackBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonRings01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/FornaxosArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThunderlingHelmet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/CobraRod01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracelet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LimePotion01.png

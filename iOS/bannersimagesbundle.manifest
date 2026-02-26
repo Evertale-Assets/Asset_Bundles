@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 327538990
+CRC: 3818725341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33aaccb3bd105e9d7b4489fd3af59791
+    Hash: 544e65b5f29b259a75885822b2825fb7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 33aaccb3bd105e9d7b4489fd3af59791
+    Hash: 544e65b5f29b259a75885822b2825fb7
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -130,6 +130,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
@@ -165,11 +166,12 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NovablastDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaKnight.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/UnicornRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AirDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IbarahimeSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurEvil.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RapunzelRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/UnicornRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CthulhuGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaIdolGirl.png

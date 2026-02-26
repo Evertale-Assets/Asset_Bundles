@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 156284752
+CRC: 3373313608
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be579c4199a321a2ba624fc98806cb6e
+    Hash: a05c2b334ad6428c6b58e896bbc2fe37
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: be579c4199a321a2ba624fc98806cb6e
+    Hash: a05c2b334ad6428c6b58e896bbc2fe37
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -139,9 +139,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/IceWitch01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/AliceMagicalGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DonQuixoteRegular01.png
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ZeusRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ThorRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/GyurelleRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaSchoolGirl01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ZeusRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElminaSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RolotiaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CleopatraDark01.png
@@ -558,6 +559,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElfFireSamurai01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AntaresModern01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/YandereMaid01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ThorRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/SnowWhiteBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DancingAssassinSwimsuit01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/YandereMaidSwimsuit01.png
@@ -663,6 +665,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RoundTableKnight01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DarkRizetteSwimsuit01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ThorRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/PercivalRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Elmina01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MordredRegular01.png

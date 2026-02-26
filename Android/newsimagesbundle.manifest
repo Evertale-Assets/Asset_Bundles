@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 497078238
+CRC: 2470568053
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6f22ddf68b540ea6249a057ea5c44203
+    Hash: 36551a4e71b0ef2bc17460bd7c2ee9ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6f22ddf68b540ea6249a057ea5c44203
+    Hash: 36551a4e71b0ef2bc17460bd7c2ee9ce
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -97,6 +97,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/ShutenDoji.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/EarthGoddess.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HijikataRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/ThorRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Bahamut.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DemonElfBoy.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteNew.png

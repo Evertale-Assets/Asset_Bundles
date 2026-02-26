@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3699762639
+CRC: 3402750986
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bdce331fc606c229dc59af3338e3095e
+    Hash: 5756d7cd3ae18b9e1d9f94152c1ba81e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b85188672b77cba969d47c27630316b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bdce331fc606c229dc59af3338e3095e
+    Hash: 5756d7cd3ae18b9e1d9f94152c1ba81e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -74,6 +74,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/WoodenMoonHammer01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LightningDragonSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/BattleshipGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ThorMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LightningDragonSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ApocalypseHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff01.png
@@ -254,6 +255,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceFallsKatana03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/NightfallMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/IceFallsKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThorMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/BurningMechaSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LudmillaDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/RaceBikeAxe01.png
@@ -313,15 +315,18 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/GokuDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/KingArthurGreatSword01.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/DarkOwlGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThorMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TristanHarpGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/LudmillaWinterHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RaceBikeAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZoroGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CleopatraMoonAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThorMace02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LudmillaWinterHammer01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LancelotGoldHammer01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CursedHolyGreatSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ThorMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuBrideHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GoldFlameAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceBrideSpear01.png
@@ -572,6 +577,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MermaidSpear02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkMaidAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThorMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SnowWhiteIceHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AltarKatana03.prefab

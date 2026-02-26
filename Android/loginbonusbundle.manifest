@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2842314777
+CRC: 238510853
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 71b73fad4ee17958a07b4823a4a7d807
+    Hash: d5bf80a5feec3b5dd7b899f0c4de6aa5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c217e953f4e9fce5ee3bbbf4e1de80ea
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 71b73fad4ee17958a07b4823a4a7d807
+    Hash: d5bf80a5feec3b5dd7b899f0c4de6aa5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -83,9 +83,9 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/February2026.prefab
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Winter2026.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Winter2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/March2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/February2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/March2026.prefab
 Dependencies:
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations

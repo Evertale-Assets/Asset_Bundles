@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1963581600
+CRC: 3877784732
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b0debedaee94efc0383f86ce7d6ab2c
+    Hash: 1e0abb68cd7de778ed35f574a7b4b995
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b85188672b77cba969d47c27630316b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6b0debedaee94efc0383f86ce7d6ab2c
+    Hash: 1e0abb68cd7de778ed35f574a7b4b995
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/MurasakiAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/OdinSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/FireDragonAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/FrankensteinLightningHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ElminaFutureHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LancelotGoldHammer03.prefab
@@ -178,6 +179,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/IceBrideSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ArthurWingAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/SilverKnightSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/FireDragonAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuDarkHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaFishSpear02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LudmillaWinterHammer02.prefab
@@ -213,6 +215,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RolotiaDarkSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ElminaFutureHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/OdinSpear01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/FireDragonAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RamMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ApocalypseHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/FireConquererKatana01.png
@@ -228,9 +231,10 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BlueDragonSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LokiGreatAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/NapoleonPistolSword03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/FireDragonAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AliceMagicalStaff03.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MapleLeafGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GoldGildedKatana01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MapleLeafGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZeusLightningGreatAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ScissorSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZoroGreatSword01.prefab
@@ -243,6 +247,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/LudmillaDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ZeusLightningGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/NightfallMace02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/FireDragonAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RoyalBlueGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/NikeHammer01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GilgameshGreatSword01.png
@@ -456,6 +461,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChainSawGreatSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/HijikataGreatSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/FireDragonAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/LightningDragonSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/WoodenMoonHammer02.prefab

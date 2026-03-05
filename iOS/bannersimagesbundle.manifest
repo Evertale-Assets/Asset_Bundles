@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3818725341
+CRC: 726677106
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 544e65b5f29b259a75885822b2825fb7
+    Hash: 456e60f4426d1f3b1f357d7cf3fb3e2c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 544e65b5f29b259a75885822b2825fb7
+    Hash: 456e60f4426d1f3b1f357d7cf3fb3e2c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -154,11 +154,12 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SatanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ClassicBanner.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/CalKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MermaidRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaid.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolGirl.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaid.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TheoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SwimsuitAstrid.png

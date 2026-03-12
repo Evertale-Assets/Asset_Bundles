@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2209283812
+CRC: 3429537125
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3be09930c9ed8c818e389fb0a21e0251
+    Hash: ae27a1d5785948bfac8527f8a3ab482c
   TypeTreeHash:
     serializedVersion: 2
     Hash: d0f4c3cc7155ade4f7f2102b99a8e98f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3be09930c9ed8c818e389fb0a21e0251
+    Hash: ae27a1d5785948bfac8527f8a3ab482c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -367,6 +367,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_HeartSlash1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_impactglass4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_darknuke2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_FreyaNewstance1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_slashRed1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_fanCharge1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinCloudThunder1.prefab
@@ -779,6 +780,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_firewaveCalKouhai2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_anchorMeteoBig1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_Heartrain1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_FreyaNewInstantdeath1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_ThunderBolt2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_MechBuf2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_tailwindchange1.prefab

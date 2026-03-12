@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3805696166
+CRC: 279903719
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a94d7d1bed6526b93f42be4758c8e70b
+    Hash: 152411120519c34b7ffe1077da9f37c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a94d7d1bed6526b93f42be4758c8e70b
+    Hash: 152411120519c34b7ffe1077da9f37c4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -253,7 +253,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RolotiaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/IceWitch01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MechaSisterBride01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaNew01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/FreyaNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CallenDragon01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MusashiDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElizabethRegular01.prefab
@@ -270,6 +270,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LudmillaYukata01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FreyaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizetteSwimsuit01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/KojiroRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/HimikoRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/PeachGirlRegular01.prefab
@@ -430,6 +431,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AngelFighter01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/HijikataRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SnowWhiteMaid01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/FreyaNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CallenBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Elmina01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MyshaRegular01.png
@@ -711,6 +713,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KingArthurRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Astrid01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MordredRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FreyaNew01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DarkAstrid01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MerlinRegular01.prefab

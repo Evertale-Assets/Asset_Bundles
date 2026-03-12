@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 726677106
+CRC: 2349327456
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 456e60f4426d1f3b1f357d7cf3fb3e2c
+    Hash: 22b88f4cfa72c4d8223b25779db54d78
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 456e60f4426d1f3b1f357d7cf3fb3e2c
+    Hash: 22b88f4cfa72c4d8223b25779db54d78
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -233,6 +233,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CowGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial18-D.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/FreyaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LokiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial18-I.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Cyrus.png

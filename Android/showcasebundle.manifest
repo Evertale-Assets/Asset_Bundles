@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2523742384
+CRC: 924374668
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a28426bae1f58aaf52730e752c25211
+    Hash: 771f97100b7e6293f4f1a60d041bb02c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7933abc4e87d183dcce8ecfacc1f3042
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4a28426bae1f58aaf52730e752c25211
+    Hash: 771f97100b7e6293f4f1a60d041bb02c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,7 +91,7 @@ Assets:
 - Assets/SimulatedAssetBundles/showcasebundle/BeginnerSpecial2ShowcaseBanner.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV1.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBanner.prefab
-- Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial18.prefab
+- Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial19.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV2.prefab
 Dependencies:
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0

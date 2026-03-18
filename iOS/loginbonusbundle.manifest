@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 351036691
+CRC: 2281761062
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: edf73b557b5294768b3e65313533d662
+    Hash: 92eeac7832f32846a90dfa611c9ca06d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c217e953f4e9fce5ee3bbbf4e1de80ea
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: edf73b557b5294768b3e65313533d662
+    Hash: 92eeac7832f32846a90dfa611c9ca06d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,9 +82,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/February2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Anniversary2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Anniversary2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/March2026.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/February2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/March2026.prefab
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 556933014
+CRC: 4032982790
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b7004cab8e64ee191f3c12c98182e37
+    Hash: a73c1c4b76d1cb771c24bae0bf9b79bf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 24aa767956b52e5574f8901a4139a263
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3b7004cab8e64ee191f3c12c98182e37
+    Hash: a73c1c4b76d1cb771c24bae0bf9b79bf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -95,7 +95,7 @@ Assets:
 - Assets/SimulatedAssetBundles/news/hba11livenewsBannerVariant.prefab
 - Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefab.prefab
 - Assets/SimulatedAssetBundles/news/NewsFeedCollection.json
-- Assets/SimulatedAssetBundles/news/hbNewsBannerSpecial18.prefab
+- Assets/SimulatedAssetBundles/news/hbNewsBannerSpecial19.prefab
 - Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabV1.prefab
 - Assets/SimulatedAssetBundles/news/GenericGachaNewsPrefabV2.prefab
 - Assets/SimulatedAssetBundles/news/hbbeginnerspecial2newsBannerExpendedVariant.prefab

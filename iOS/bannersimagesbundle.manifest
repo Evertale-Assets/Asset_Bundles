@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 393078879
+CRC: 4016461083
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ffe940c91d66f94c8bbd06341e9e17b7
+    Hash: eeee43ae19afeea38bef029edc388c1a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ffe940c91d66f94c8bbd06341e9e17b7
+    Hash: eeee43ae19afeea38bef029edc388c1a
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -75,6 +75,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NewYearRolotia.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ZeusRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Kirin.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HimikoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaDark.png
@@ -83,9 +84,8 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoldAppleGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnightDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/InugamiRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave-1.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Taotie.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidRaceQueen.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BurnedGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BlueSeaSerpent.png
@@ -149,6 +149,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
@@ -212,7 +213,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChristmasElmina.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FireDragon.png

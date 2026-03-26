@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1299070028
+CRC: 1729550815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3da7cf0b60e958358ec960940f74f89b
+    Hash: 000f87f57e6542836be7170ad31aa201
   TypeTreeHash:
     serializedVersion: 2
     Hash: 820dc071edcbb80b46584252ffd391e4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3da7cf0b60e958358ec960940f74f89b
+    Hash: 000f87f57e6542836be7170ad31aa201
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -50,6 +50,7 @@ Assets:
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_fire2.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/Musics/GameMenu_intro.wav
 - Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Drone_33_NorzaDarkness.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_RockGuitar1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_specialattacksfx1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_swordslash.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/WaterWeak.wav
@@ -208,11 +209,11 @@ Assets:
 - Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/eggtest.wav
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_myshatune.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_dodge.prefab
-- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/RecklessAttack.wav
+- Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_RockMusic1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_GunShot.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_cocktail1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/reilight2.mp3
-- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Sword_Slash_1_v2(ChatSlash).wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/RecklessAttack.wav
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_multislash2.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_nopulse1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_boing1.prefab
@@ -226,6 +227,7 @@ Assets:
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/boing2.mp3
 - Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/DoubleBellAlarm.wav
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Stun.wav
+- Assets/SimulatedAssetBundles/audiobundle1/FX/ChatSFX/Sword_Slash_1_v2(ChatSlash).wav
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/GenericSpellEdited1.mp3
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/Light_Enemy_Impact_3_WOW.wav
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_dragonflow1.prefab
@@ -261,6 +263,7 @@ Assets:
 Dependencies:
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle2
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle3
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle19
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle7

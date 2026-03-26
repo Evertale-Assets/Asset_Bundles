@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1443723416
+CRC: 3585627109
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5c016d3e2823de7b04fca67fb832b62
+    Hash: c8b24ac9706170d480033746f6015972
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f5c016d3e2823de7b04fca67fb832b62
+    Hash: c8b24ac9706170d480033746f6015972
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -210,6 +210,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/DarkLudmilla.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CallenBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HimikoRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ShannaRidinghood.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/NewYearRolotia.png

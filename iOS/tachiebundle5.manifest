@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2067175085
+CRC: 1251226324
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 862456676a4ab7365a4a6d63f8c3de97
+    Hash: 4efc32ca73fc2fcd22aeda5f5de6fb98
   TypeTreeHash:
     serializedVersion: 2
     Hash: 13e240e92cb245323fda4b43e80b53a8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 862456676a4ab7365a4a6d63f8c3de97
+    Hash: 4efc32ca73fc2fcd22aeda5f5de6fb98
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -61,6 +61,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeBoast.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnyHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideSmilwSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonBlushHiding.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodBase.png
@@ -79,6 +80,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideBigSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinHappyBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/KinDoujiTachie/KinDoujiFace/KindoujiShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaGrit.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeColdCrazySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroShock.png
@@ -88,12 +90,16 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraFace/Sakuraheh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit01Tachie/CallenSwimsuit01Surprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSuperShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockBlushHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridModernTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiWink.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoLookaway.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockBlushWorry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiClosedEyesSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridSchoolBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSuper.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaClosedEyes.png
@@ -113,6 +119,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkFace/AliceDarkIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteHurt.png
@@ -121,6 +128,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewGrit.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideResize.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeSmirkSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSadOpen.png
@@ -130,16 +138,20 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaSchoolBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoConsider.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeIrritated.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSweatBig.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonoLadyRobeBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnySurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/NightmareTachie/NightmareBeast.png
+- Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackTehepero.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiCutin.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiClosedEyesSmileSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiDespise.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSadSleep.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciSurprosed.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackSmirk.png
@@ -150,11 +162,13 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LutherModernTachie/LutherModernNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroSurprisedSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/JirenTachie/JirenBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LutherModernTachie/LutherModernAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/RedRidingHoodChunibyoTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkHurt.png
@@ -162,6 +176,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinGrit.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnySerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkFace/AliceDarkSeriousHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit01Tachie/CallenSwimsuit01Heh.png
@@ -169,8 +184,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBridePanicShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/KingAlbisTachie/KingAlbisBase.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinTongue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit01Tachie/CallenSwimsuit01NoRuviBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiHurtMob.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaLaugh.png
@@ -202,8 +218,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadyRobeSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/NightmareTachie/NightmareCharacterBeastTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSighSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/KingAlbisTachie/KingAlbisSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiSeriousMob.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaBase.png
@@ -241,6 +259,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/FishDragonTachie/FishDragon01Tachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridCombatBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiClosedEyesSmile.png
@@ -250,9 +269,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/NightmareTachie/NightmareCharacterHumanTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/WolfmanTachie/WolfmanTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinBlushComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonCold.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodBlushSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinPillarBaseGlich.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuCrazyLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasGrit.png
@@ -263,6 +284,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LunaModernTachie/LunaCombatTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinPillarBaseGlich2.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodEatingTachie/ShannaRidingHoodEatingStarStruck.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePoutLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonIndifferent.png
@@ -274,6 +296,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitBlushSunglasses.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaShieldTachie/AnyaShieldLeftTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonClosedEyesSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonAnnoyed.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoClosedEyes.png
@@ -284,14 +307,16 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackGrin.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlGrin2.png
+- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteHehHappy.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePainfulWeap.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackSneer.png
-- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaShieldTachie/AnyaShieldLeft.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaFace/LiliaHppy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePainfulWeap.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewDamage.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LutherModernTachie/LutherHologramNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkFace/AliceDarkHuh.png
@@ -299,8 +324,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraFace/SakuraBlush.png
-- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockShock.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinSmileBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiNaughty.png
@@ -316,10 +343,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/HelTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LutherModernTachie/LutherModernSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlGrin.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/KawarabangTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeColdCrazy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodShame.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodNormal.png
@@ -330,6 +359,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiContent.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateASwimsuitTachie/PirateASwimsuitHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraFace/SakuraSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LunaModernTachie/LunaCombatBase.png
@@ -338,6 +368,8 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Blush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinShy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSmileKind.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackNormalSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitNormal.png
@@ -349,7 +381,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteCry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteConfused.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSadLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadyHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSweatWhistle.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiSurprisedSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitTachie.prefab
@@ -359,7 +393,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroSigh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridSchoolTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiCutin2.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideRelaxSweat.png
@@ -367,11 +403,14 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeDespair.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadyAngry.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciHehTongue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackBlushAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiConfusedBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinPillarTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockBlushSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoCombatBase.png
@@ -386,8 +425,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiUltimaSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnyAbsentminded.png
-- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ElizabethPillarTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiEcstasy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodShouting.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinConcentrate.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewSurprised.png
@@ -399,25 +440,32 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeCrying.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanTachie.prefab
-- Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaVerySad.png
+- Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuClosedeyesSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaFace/LiliaSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuColdSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonHurtSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroRelax.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinNormalOpen.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaFace/LiliaSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonGritSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHuh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiSurprisedSad.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonStun.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitAbsentminded.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlUpset.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadyHurtSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/GigantFreyaSuperBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockWhistle.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackNoCrownStaffTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodEatingTachie/ShannaRidingHoodEatingBase.png
@@ -425,9 +473,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanSmile.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaSad.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonTongue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoCombat.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroLoojaway.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePainful.png
@@ -438,10 +487,13 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeSuperPain.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideRelax.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateASwimsuitTachie/PirateASwimsuitBlushSunglasses.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinLookawayCheeky.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeShock.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraFace/SakuraHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboBase.png
@@ -451,18 +503,23 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiCutin.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboCrazySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSad.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonHehHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/KinDoujiTachie/KinDoujiFace/KindoujiSmirk.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockFlusteredMini.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiSurprisedMob.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonWhistle.png
-- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaScared.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlSurprisedCute.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanPout.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaScared.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaCombatWeaponOffTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSchool.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuPossessedHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateBSwimsuitTachie/PirateBSwimsuitBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitAngry.png
@@ -479,20 +536,24 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaNoBookTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanSurprisedSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaHappy.png
-- Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/KingAlbisTachie/KingAlbisAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaSmileSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiHappy.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkColdLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinHeh.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeDookiDoki.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkColdLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonBigMouth.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinSurprise.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeDookiDoki.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonComplainSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinShouting.png
@@ -503,8 +564,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanChicken.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewBase.png
-- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSadHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaCombatShieldOffBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Surprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/JirenTachie/JirenAngry.png
@@ -519,6 +581,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FenrirTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciNormal.png
@@ -533,15 +596,19 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiHappyClose.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkSadSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonDoyaSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroShockSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiPowerful.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinWink.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoShoutingSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHappy.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiShock.png
-- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridModernTachieNoFlip.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiShock.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSadsmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiSmileMob.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaShieldTachie/AnyaShieldRight.png
@@ -560,11 +627,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/KinDoujiTachie/KinDoujiFace/KindoujiHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnyShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiBase.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiPillarBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/FishDragonTachie/FishDragon01.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiEmbarrassed.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Tachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaCombatWeaponOffBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitBlushDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiShoutingMob.png
@@ -578,15 +646,18 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePokerOpen.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonStareSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideStareLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaCombatTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonComicalAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlHuh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonLadyFace/RedKimonoLadyCryingHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RobeRedKimonoLadyTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Hurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonSerene.png
@@ -595,6 +666,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkHuh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Serious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnyTroubled.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockWorry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoTachie/YurikoClosedEyes.png
@@ -603,10 +675,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoHurtSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinSerious.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonHehHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciWink.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaFace/LiliaSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkFace/AliceDarkCrazyHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockFlustered.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeClosedEyesSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitWorried.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewSerious.png
@@ -630,16 +704,20 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuColdSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSadNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuCrazySurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/RedKimonoLadyTachie/RedKimonoLadyBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Lilia/LiliaBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiUltimaSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockCry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioClosedEyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiIrritate.png
+- Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewSurprisedClose.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSick.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinShock.png
@@ -658,14 +736,17 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoTachie/YurikoSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackBlushShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlLaugh.png
-- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodConfused.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonLookawaySad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodConfused.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonResize.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiClosedeyes.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiSurprisedNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkLookawaySerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinPillarBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewBlush.png
@@ -676,10 +757,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiHappySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AstridModernTachie/AstridSchoolTachieNoFlip.prefab
-- Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiUltimaStare.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinHeh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit01Tachie/CallenSwimsuit01Mortifying.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSuperGrit.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaSurprised.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiUltimaStare.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/NightmareTachie/NightmareCharacterHuman.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinTachie.prefab
@@ -694,8 +776,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSchoolNoFlip.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AnyaNew/AnyaNewFace/AnyaNewLookaway.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBridePanic.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSadSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodSigh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockBlushHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoTachie/YurikoCrazySmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/MalasTachie/MalasAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Base.png
@@ -706,15 +790,17 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanDoyaSweat.png
-- Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuCrazyNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonGrit.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LutherModernTachie/LutherHologramAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateASwimsuitTachie/PirateASwimsuitHappySunglasses.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuCrazyNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroRelaxSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/AnyaTachie/AnyaShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodPout.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanPanicHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockHurtSad.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/RedRidingHoodTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/AliceDarkTachie/AliceDarkFace/AliceDarkHappy.png
@@ -733,6 +819,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/PirateASwimsuitTachie/PirateASwimsuitNormalSunglasses.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LuBuFace/LuBuCrazyShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GokuBrideTachie/GokuBrideFace/GokuBrideDoya.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/JirenTachie/JirenTachie.prefab
@@ -744,8 +831,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit01Tachie/CallenSwimsuit01Tachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackNoCrownTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/KazutoTachie/KazutoSchoolBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinWinkHehHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiFace/BlueSamuraiHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowWhiteTachie/SnowWhiteStaffTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinPillar.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoTachie/YurikoSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/ShionaTachie/ShionaStare.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonFace/GoemonSurprised.png
@@ -756,28 +845,39 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/SakuraTachie/SakuraFace/SakuraSurprusedBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkHurtLaugh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonHehTongue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlIrritate.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodTachie/ShannaRidingHoodDiscontent.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSurprisedHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePoutPokerFace.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinBlushHappy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonStare.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboShouting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkColdSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlSleep.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiEcstasyNormal.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiFace/HokusaiConsider.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/Kawarabang.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockHehSleep.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/GigantLokiBase.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanHehHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/KingAlbisTachie/KingAlbisSad.png
-- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodEatingTachie/ShannaRidingHoodEatingShy.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSmug.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiUltima.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AstridRockTachie/AstridRockFace/AstridaRockHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinCheeky.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeCryingShoting.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/JirenTachie/JirenSneer.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkTongue.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinDoyaSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiHeh.png
+- Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RedRidingHoodEatingTachie/ShannaRidingHoodEatingShy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/LuBuTachie/LubuTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/RobinHoodTachie/LunaRobinHoodTachie.prefab
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/CinderellaDark/CinderellaDarkFace/CinderellaDarkTongue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/BlueSamuraiMobTachie/BlueSamuraiMobTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/MusashiStoryTachie/MusashiTachie/MusashiFace/MusashiSigh.png
@@ -785,11 +885,12 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/OdinTachie/OdinFace/OdinSurprised.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSuperHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteSwimsuitTachie/RizetteSwimsuitTroubled.png
-- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinComplain.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackSurprisedSweat.png
+- Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/RioTachie/RioHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/FreyaTachie/FreyaFace/FreyaClosedEyes.png
-- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiConsidering.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnyHurt.png
+- Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/LokiFace/LokiConsidering.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroHurtSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/YurikoRoboTachie/YurikoRoboSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/KingAlbisTachie/KingAlbisTachie.prefab
@@ -799,14 +900,18 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/NagiSwimsuitTachie/NagiSwimsuitPossessed.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OdinStory Tachie/LokiTachie/GigantLokiSuperTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/YamatoTachie/YamatoFace/YamatoSmile.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/WashingtonTachie/WashingtonFace/WashingtonPout.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/GoemonTachie/GoemonBase.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockSighSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanSweat.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/ElinTachie/ElinGrin.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Satan/SatanFace/SatanNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/MechasisterStory Tachie/LunaModernTachie/LunaSchoolTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/RizetteBunnyTachie/RizetteBunnySeriousBlue.png
 - Assets/SimulatedAssetBundles/tachiebundle5/GoemonStoryTachie/KojiroTachie/KojiroFace/KojiroClosedEyes.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/AnyaRockTachie/AnyaRockFace/AnyaRockPanic.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/DragonGirl/DragonGirlFace/DragonGirlSadCute.png
+- Assets/SimulatedAssetBundles/tachiebundle5/ChopinStryTachie/ChopinTachie/ChopinFace/ChopinSerious.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimePoutBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/JirenTachie/JirenNormal.png
 - Assets/SimulatedAssetBundles/tachiebundle5/DaVinciStory Tachie/Davinci/DavinciFace/DaVinciTongueWink.png
@@ -821,6 +926,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/CallenswimsuitStory Tachie/CallenSwimsuit02Tachie/CallenSwimsuit02Happy.png
 - Assets/SimulatedAssetBundles/tachiebundle5/FairytaleStory Tachie/SnowBlackTachie/SnowBlackFace/SnowBlackAttack.png
 - Assets/SimulatedAssetBundles/tachiebundle5/OtohimeStoryTachie/OtohimeTachie/OtohimeFace/OtohimeSad.png
+- Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiTachie.prefab
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1

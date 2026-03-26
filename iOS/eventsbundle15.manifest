@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 242584267
+CRC: 3803931983
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 279aa5c68a46400287140e12568e14e1
+    Hash: 8a63cc2295362b7ce9a7c94524dee212
   TypeTreeHash:
     serializedVersion: 2
     Hash: 957e29e76676ee84030b1d210eb70ced
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 279aa5c68a46400287140e12568e14e1
+    Hash: 8a63cc2295362b7ce9a7c94524dee212
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -155,7 +155,9 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/ChatNobunagaKanji.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory12D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/AldericSurprised.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/AldericAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/OliveHoodIrritated.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventONE.prefab
@@ -163,6 +165,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoGraveYardNight.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineDetermined.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/ReiChatStarAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/Temple
   Barrer Chat .prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/Black
@@ -171,6 +174,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventTEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenHumanClosedEyes.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle01D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGCastleRuinsNoon.png
@@ -189,6 +193,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle14D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenHumanHappy.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory10D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg15D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventONE.prefab
@@ -198,6 +203,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventTHIRTEEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildFrown.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenPrincessHurt.png
@@ -205,6 +211,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatFx/ChatGlitch.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineHoodDetermined.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/sfx_Noise.mp3
@@ -216,6 +223,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatScenes/CallenONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry13D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/ChatWindAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SibylleSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattleexstg01D1.prefab
@@ -232,6 +240,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatScenes/CallenELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg14D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieMobSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg10D2.prefab
@@ -253,17 +262,20 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenVeilSad.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/Rei
   Chat Attack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenVeilClosedEyes.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGDormRoomGirlish.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg09D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle03D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenVeilCrying.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoGreatHall.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoTownNoon.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattleexstg03D1.prefab
@@ -273,6 +285,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenPrincessCalm.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenPrincessSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoGraveYardNoon.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventFOUR.prefab
@@ -283,11 +296,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Images/BGCthulhu.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SibylleSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/noise2.mat
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstgLv80-90RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenVeilScared.png
@@ -297,6 +312,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenRobesSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg15D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildNormal.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/OliveIrritated.png
@@ -306,6 +322,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventSIXTEEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoGreathallBurning.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventFOUR.prefab
@@ -338,7 +355,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenHumanCrying.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Prefabs/SeraphineTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry13D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Prefabs/CallenChild.prefab
@@ -347,6 +367,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenHumanScared.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/Honnoji
   Iris out.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry14D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/OliveHoodSadSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle10D1.prefab
@@ -364,19 +385,25 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg13D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/ChatDarkOpenEyes.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGMountainRoadNight.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenPrincessComplain.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory11D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Prefabs/SeraphineHoodTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatScenes/CallenTHIRTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/image/BGErrorCode2.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Prefabs/AugustinTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/Chat
   SlashBlood.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieMobShouting.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstgLv40RandomD1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg13D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory01D2.prefab
@@ -385,6 +412,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SibylleSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Images/BGGrandAltar.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg03D2.prefab
@@ -396,6 +424,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/AugustinClosedEyes.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg07D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle06D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg01D1.prefab
@@ -414,11 +443,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineHoodSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineShouting.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineHoodClosedEyes.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle07D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenHumanNormal.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle13D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Images/BGshipdeckup.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg14D2.prefab
@@ -427,6 +458,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/OliveHoodAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenVeilNormal.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg01D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/OliveHoodSerious.png
@@ -441,13 +473,16 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle13D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Prefabs/OliveTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatScenes/CallenFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieMildSurprise.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/HakuReiMagicChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoShrineNight.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventEight.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoCastleExteriorNoon.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Images/BGRedNarration.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildSad.png
@@ -475,6 +510,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventSEVENTEEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieMobSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/BlaiseShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventNINE.prefab
@@ -483,8 +519,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Images/BGEdoJail.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/ChatRoar.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineClosedEyes.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/image/BGDigitalSpace.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventTWO.prefab
@@ -511,9 +549,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenRobesScared.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/RoarRing.mat
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg15D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenRobesSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenPrincessClosedEyes.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatScenes/CallenFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/batfx_SparkTile.mat
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenRobesSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle15D1.prefab
@@ -544,9 +584,12 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventFOURTEEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGFEs/cthulhustrybattle12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory03D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGroups/Encounternobunagastry07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstory02D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenChildSerious.png
@@ -556,6 +599,8 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineHoodShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatScenes/CthulhuEventFIFTEEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg02D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/image/BGErrorCode1.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattle05D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGroups/EncounterCallenstoryexstg13D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatPrefab/HakuCutin.prefab
@@ -579,11 +624,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/Battles/BattleGroups/Encountercthulhustryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg06D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieAngry.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/ChatScenes/ChopinEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/AldericSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/ChatCthulhuWarp2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGFEs/chopinstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/ChatNoise.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/Battles/BattleGFEs/nobunagastrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/batfx_pole.mat
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/ChatNoiseRainbow.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/SeraphineHoodPraying.png
@@ -591,6 +639,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/CallenRobesCrying.png
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/Battles/BattleGFEs/Callenstorybattleexstg12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/batfx_SparkTile.png
+- Assets/SimulatedAssetBundles/eventsbundle15/oe202603chopinstry/Battles/BattleGroups/Encounterchopinstry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202409cthulhustry/ChatFx/noise.mat
 - Assets/SimulatedAssetBundles/eventsbundle15/oe202307nobunagastry/ChatScenes/NobunagaEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle15/ce202008callenstorymob/ChatActors/Images/NatalieHappy.png
@@ -615,6 +664,7 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle14
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle16
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle17
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle19
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle3
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle4
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle5
@@ -631,3 +681,4 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle3
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle4
 - /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle5
+- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle6

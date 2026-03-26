@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1380822114
+CRC: 2908399505
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d7621dc155023ae5b5896d8df6bbe96a
+    Hash: b522a8e07ea9428a8ca8a598a8e8ef4c
   TypeTreeHash:
     serializedVersion: 2
     Hash: f14974c0ed050c9d03ce154f0c45b55a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d7621dc155023ae5b5896d8df6bbe96a
+    Hash: b522a8e07ea9428a8ca8a598a8e8ef4c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -115,11 +115,12 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RedRings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ThorBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/TaotieRing01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ChopinBaton01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Skirt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LunaNote01.prefab
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YamatoTurret01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneCrown01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SquidArmor01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YamatoTurret01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZeusGauntlet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaSwimsuitClock01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Earrings01.png
@@ -287,6 +288,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MagnifoDagger01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/WingTiara01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ElizabethEarring01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChopinBaton01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Bracelet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MusashiButterfly01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AstridHairpin01.png
@@ -302,6 +304,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/EnchantedRing01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KaidarosHelmet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChronosClock01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ChopinBaton01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Crown01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LimePotion01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArcaneShield01.png

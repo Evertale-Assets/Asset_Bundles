@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4185786695
+CRC: 2455993001
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 189011fce01679530bc2203aa77dfc25
+    Hash: ef3d78343d874d765b3ac4c9b615f6eb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b265f9c7ffdfc16aaa3cbc657abedab
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 189011fce01679530bc2203aa77dfc25
+    Hash: ef3d78343d874d765b3ac4c9b615f6eb
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -102,6 +102,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreenGlowIconShield2.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/CyanGlowCode1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/LightBlueMainMenuLucky1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackFortifyCount03.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/airAtkLimit.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconGreenSpiritGainGlow01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteFightSwordChance01.png
@@ -473,6 +474,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteHoldStance01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconFrostBurn01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/AxeHint.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackFortifyCount02.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MiniMassiveCombatContainer1.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPurpleVulnerable01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/InfoIcon.png
@@ -628,6 +630,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/WhiteParalellogram.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/WhiteRoundFrameFill1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/WhiteIconDealsHome1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlackFortifyCount01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/LineBrownBattleTurnOrderArrowVert01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/GreatAxeHint.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MainMenuTextHolder1.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2209642845
+CRC: 2400103932
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89b77aa3efd732039face9808fb2f5c9
+    Hash: 15dd86c4100b12fd469f9bd114b90ef4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c29c357128feff56790ec9816c4fc93d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 89b77aa3efd732039face9808fb2f5c9
+    Hash: 15dd86c4100b12fd469f9bd114b90ef4
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -34,6 +34,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evodeathlow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinmermaidstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/cointhorstry.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinchopinstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/CharExpOrb.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coincallenstorymid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evowatermid.png

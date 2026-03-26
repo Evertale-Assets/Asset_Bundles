@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2735322022
+CRC: 2928487713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 73ce287d5feea417342d69928a8d31cd
+    Hash: 691bf72a003cdfcab1fe8719c910ac03
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 73ce287d5feea417342d69928a8d31cd
+    Hash: 691bf72a003cdfcab1fe8719c910ac03
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -74,6 +74,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/blueseastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/ibarahimeswimstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/chronosstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/chopinstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/otohimestry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/bahamutstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/gokudarkstry.png

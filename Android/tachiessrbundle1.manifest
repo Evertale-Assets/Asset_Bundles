@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 279903719
+CRC: 337945030
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 152411120519c34b7ffe1077da9f37c4
+    Hash: db6e1f7a868d03c49a5f1e083dd3db0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 152411120519c34b7ffe1077da9f37c4
+    Hash: db6e1f7a868d03c49a5f1e083dd3db0e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -185,10 +185,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SamuraiGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ExcaliburRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DeadlyNurse01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSisterBand01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ExcaliburRegular01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/YandereMaidDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MermaidRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaChristmas01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/YandereMaidDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/YamatoRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GenieRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NikeRegular01.prefab
@@ -521,6 +522,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/VenusRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DarkAstridNewYear01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LegendFireDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MechaSisterBand01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Kisara01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/FireDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ZeusRegular01.prefab
@@ -597,6 +599,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/TwinGodRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CleopatraRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DarkAstridNewYear01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MechaSisterBand01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MordredRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/NikeRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GokuRegular01.prefab

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3585627109
+CRC: 1888907471
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8b24ac9706170d480033746f6015972
+    Hash: 84100ff88b80ce48610899907e3e2a48
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c8b24ac9706170d480033746f6015972
+    Hash: 84100ff88b80ce48610899907e3e2a48
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -80,6 +80,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/ChronosRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MechaSisterNew.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/ChopinRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ZoroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/InugamiRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaRegular.png

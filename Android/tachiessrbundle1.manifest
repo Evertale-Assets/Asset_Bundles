@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 337945030
+CRC: 1358875633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db6e1f7a868d03c49a5f1e083dd3db0e
+    Hash: 27d5f203f068501cbfbaddbe09019a47
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: db6e1f7a868d03c49a5f1e083dd3db0e
+    Hash: 27d5f203f068501cbfbaddbe09019a47
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -189,6 +189,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ExcaliburRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MermaidRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaChristmas01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ChopinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/YandereMaidDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/YamatoRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GenieRegular01.prefab
@@ -606,6 +607,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/NovaBlastDragon02.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SchoolGirlWarrior01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/SatanRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ChopinRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/PinocchioRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/TheoRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkRizetteSwimsuit01.png
@@ -700,6 +702,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/EarthGoddess01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/BlueSeaSerpent01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KojiroRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ChopinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeathKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CerberusRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LokiRegular01.png

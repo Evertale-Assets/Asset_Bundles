@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1256285636
+CRC: 2880136695
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7ffcd7103a87dbfee2c7f2b1c3108694
+    Hash: cfd667ea15dd6b61bd2a8217225f1f2b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7ffcd7103a87dbfee2c7f2b1c3108694
+    Hash: cfd667ea15dd6b61bd2a8217225f1f2b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -97,6 +97,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizetteSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HijikataRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ButterflyLady.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IceWitch.png
@@ -126,8 +127,9 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneValentine.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular-0.png

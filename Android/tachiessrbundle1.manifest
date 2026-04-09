@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1358875633
+CRC: 3641767132
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27d5f203f068501cbfbaddbe09019a47
+    Hash: f513c098af3ac1d25f87320d8cfd6f2f
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27d5f203f068501cbfbaddbe09019a47
+    Hash: f513c098af3ac1d25f87320d8cfd6f2f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -88,10 +88,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CatIdolHalloween01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/KingArthurRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CallenBride01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CallenDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/WashingtonRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ButterflyLady01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CallenBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KingArthurEvil01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CallenDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RapunzelRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Crescent01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Cyrus01.prefab
@@ -157,6 +158,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MusashiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CinderellaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/AirDragon01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/WashingtonRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KaguyahimeSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LudmillaRacequeen01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MusashiDark01.prefab
@@ -697,7 +699,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GoemonRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/IkemenSamurai01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ZoroRegular01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Rizette01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/WashingtonRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DancingAssassin01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/EarthGoddess01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/BlueSeaSerpent01.prefab
@@ -705,6 +707,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ChopinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeathKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CerberusRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Rizette01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LokiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/JeanneDarkSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/OniSchoolDark01.png

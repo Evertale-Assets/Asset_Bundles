@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2880136695
+CRC: 1570909375
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cfd667ea15dd6b61bd2a8217225f1f2b
+    Hash: 40d5bf34b47dd4ed502609e67b67391d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cfd667ea15dd6b61bd2a8217225f1f2b
+    Hash: 40d5bf34b47dd4ed502609e67b67391d
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -118,6 +118,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MerlinRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/WashingtonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GenieRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DragonGirlRegular.png

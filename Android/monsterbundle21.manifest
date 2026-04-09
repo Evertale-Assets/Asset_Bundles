@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1818140802
+CRC: 365312017
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8aee95a1cc3ac3ac96addfff3676224
+    Hash: ffa22d010a281553d99e7d85858d444c
   TypeTreeHash:
     serializedVersion: 2
     Hash: aa7a6c0d573b6dc693f30116bfb96562
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b8aee95a1cc3ac3ac96addfff3676224
+    Hash: ffa22d010a281553d99e7d85858d444c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -94,6 +94,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/005.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/050.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/031.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular01/CalKouhaiRegular01_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave02/RizetteBrave02_Ally.png
@@ -128,6 +129,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular02/KenshinRegular02_Ally_KenshinRegular02_Ally.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/036.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MusashiDark01.prefab
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/023.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/005.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular01/CalKouhaiRegular01_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/023.wav
@@ -144,9 +147,10 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/017.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/012.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/011.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/038.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/015.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDarkBoss/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegularBoss/005.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/038.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/015.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ThorRegular02/ThorRegular02_Enemy_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ThorRegular01_Ally.prefab
@@ -197,6 +201,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular02/BahamutGirlRegular02_Enemy_BahamutGirlRegular02_Enemy.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil01/KingArthurEvil01_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/046.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNewBoss/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil02/KingArthurEvil02_Enemy2.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/010.wav
@@ -215,12 +220,14 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/043.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/FreyaNew03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/008.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular02/BahamutGirlRegular02_Enemy_BahamutGirlRegular02_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/046.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/033.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegularBoss/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/037.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03/MusashiDark03_Enemy_MusashiDark03_Enemy2.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegularBoss/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular03/AnastasiaRegular03_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular03/KenshinRegular03_Enemy2.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/011.wav
@@ -279,11 +286,13 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegularBoss/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Enemy_ElmKouhaiRegular03_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand01_Enemy.prefab
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/050.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/KingArthurEvilBoss03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand02_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/012.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight03/MyshaKnight03_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/014.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/025.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/023.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/035.wav
@@ -346,6 +355,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBandBoss/014.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular03/BahamutGirlRegular03_Ally2.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular03/ChopinRegular03_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/003.wav
@@ -388,6 +398,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular03/BahamutGirlRegular03_Enemy2.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular01/ChopinRegular01_Ally_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/001.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/046.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular02/WashingtonRegular02_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegularBoss/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Enemy.atlas.txt
@@ -435,16 +446,17 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/033.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight01/MyshaKnight01_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/013.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/WashingtonRegular02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MechaSisterBand02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/004.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/041.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/ChopinRegular03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/013.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular02/CalKouhaiRegular02_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/ZeusRegular03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegularBoss/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular01/KenshinRegular01_Ally.atlas.txt
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/004.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/VenusRegular01/VenusRegular01_Ally_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/021.wav
@@ -547,6 +559,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/015.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/042.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil01/KingArthurEvil01_Ally_KingArthurEvil01_Ally2.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/049.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular02/DonQuixoteRegular02_Enemy_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular01/CalKouhaiRegular01_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular01/CalKouhaiRegular01_Enemy_SkeletonData.asset
@@ -569,6 +582,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular01/SiegfriedRegular01_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBandBoss/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular01/BahamutGirlRegular01_Enemy_BahamutGirlRegular01_Enemy.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular03/KenshinRegular03_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/049.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/045.wav
@@ -582,6 +596,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/050.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ZeusRegular02/ZeusRegular02_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/WashingtonRegular01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark01/MusashiDark01_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular02/AnastasiaRegular02_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/007.wav
@@ -595,9 +610,11 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/CalKouhaiRegularBoss03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MyshaKnight01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MyshaKnight02.prefab
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil03/KingArthurEvil03_Enemy_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnightBoss/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular01/BahamutGirlRegular01_Enemy2.png
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/048.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDarkBoss/002.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular02/BahamutGirlRegular02_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand03_Enemy.prefab
@@ -613,20 +630,23 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegularBoss/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/030.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/010.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular01/AnastasiaRegular01_Enemy_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/029.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/RizetteBrave01.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnightBoss/013.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark01_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular02/DonQuixoteRegular02_Enemy.png
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular02/ElmKouhaiRegular02_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MyshaKnight02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/039.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand02/MechaSisterBand02_Enemy_MechaSisterBand02_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/046.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MechaSisterBand02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular01/KenshinRegular01_Enemy.skel.bytes
@@ -912,6 +932,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular01/WashingtonRegular01_Enemy_WashingtonRegular01_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegularBoss/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil02/KingArthurEvil02_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/013.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/040.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave01/RizetteBrave01_Ally3.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/024.wav
@@ -941,6 +962,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegularBoss/012.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ZeusRegular02/ZeusRegular02_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/019.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/RizetteBrave01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/048.wav
@@ -1031,6 +1053,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/ElmKouhaiRegular02.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/VenusRegularBoss03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular02/ElmKouhaiRegular02_Enemy3.png
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/039.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular03/KenshinRegular03_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular02/SiegfriedRegular02_Ally2.png
@@ -1072,6 +1095,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular01/SiegfriedRegular01_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular01_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03/MusashiDark03_Ally_MusashiDark03_Ally.mat
@@ -1084,6 +1108,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/SiegfriedRegular01.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular03_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/033.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight03/MyshaKnight03_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNewBoss/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBandBoss/019.wav
@@ -1104,6 +1129,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegularBoss/017.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/032.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular02_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/046.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03/MusashiDark03_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/026.wav
@@ -1178,6 +1204,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/044.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/017.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular03/KenshinRegular03_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark03/MusashiDark03_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/021.wav
@@ -1223,6 +1250,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDarkBoss/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/042.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/050.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ZeusRegular02/ZeusRegular02_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular01/SiegfriedRegular01_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular02/SiegfriedRegular02_Enemy_SkeletonData.asset
@@ -1244,11 +1272,14 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark01/MusashiDark01_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular02.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/VenusRegular03.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/025.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular03/DonQuixoteRegular03_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/027.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular03_Ally.prefab
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark02/MusashiDark02_Ally_MusashiDark02_Ally2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegularBoss/004.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MyshaKnightBoss03.png
@@ -1262,6 +1293,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Enemy2.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/005.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular02/ElmKouhaiRegular02_Enemy_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/050.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/KingArthurEvil03.prefab
@@ -1322,6 +1354,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/005.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ThorRegular03/ThorRegular03_Ally_ThorRegular03_Ally2.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular02_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegularBoss/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular01_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark02/MusashiDark02_Ally.png
@@ -1381,7 +1414,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular02/ChopinRegular02_Ally_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/011.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/022.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular03_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/010.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegularBoss/024.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegularBoss/004.wav
@@ -1397,6 +1430,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/039.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/035.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/KenshinRegularBoss01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/022.wav
@@ -1404,6 +1438,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/SiegfriedRegularBoss01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/040.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/027.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/002.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/KingArthurEvil03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark02/MusashiDark02_Enemy_MusashiDark02_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular02/SiegfriedRegular02_Ally_SiegfriedRegular02_Ally.mat
@@ -1450,13 +1485,15 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MechaSisterBand01.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/VenusRegularBoss01_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/022.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/006.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/005.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/038.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/037.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/006.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular02/ChopinRegular02_Enemy_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ThorRegular02/ThorRegular02_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBandBoss/009.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/045.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular02/CalKouhaiRegular02_Enemy_CalKouhaiRegular02_Enemy2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/049.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/043.wav
@@ -1472,6 +1509,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/047.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular02/WashingtonRegular02_Enemy_WashingtonRegular02_Enemy.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/043.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular03/BahamutGirlRegular03_Ally_BahamutGirlRegular03_Ally2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegularBoss/004.wav
@@ -1495,6 +1533,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular01_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular03/SiegfriedRegular03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/043.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/024.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/027.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular03/WashingtonRegular03_Ally_WashingtonRegular03_Ally.mat
@@ -1507,14 +1546,17 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular01/CalKouhaiRegular01_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular02_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular01/ElmKouhaiRegular01_Ally.png
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/038.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/028.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/024.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular03_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight03/MyshaKnight03_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand03/MechaSisterBand03_Ally_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/014.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/027.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular02/KenshinRegular02_Ally_KenshinRegular02_Ally2.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/031.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/043.wav
@@ -1533,7 +1575,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand03/MechaSisterBand03_Enemy_MechaSisterBand03_Enemy.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegularBoss/016.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular03.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/047.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/KingArthurEvil02.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/021.wav
@@ -1544,7 +1586,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ThorRegular03/ThorRegular03_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/RizetteBrave02.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegularBoss/014.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/004.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/002.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegularBoss/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegularBoss/011.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/007.wav
@@ -1563,6 +1605,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/031.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegularBoss/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/004.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MyshaKnight01.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBraveBoss/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular01/DonQuixoteRegular01_Enemy.png
@@ -1635,10 +1678,11 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular02/KenshinRegular02_Enemy_KenshinRegular02_Enemy.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular01/WashingtonRegular01_Enemy_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegularBoss/014.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/006.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/VenusRegular03/VenusRegular03_Ally_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular01_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/020.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/014.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/ThorRegular03.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/016.wav
@@ -1758,6 +1802,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/028.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular03/ElmKouhaiRegular03_Enemy3.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/014.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/047.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular02/ChopinRegular02_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/006.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/042.wav
@@ -1784,6 +1829,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave01/RizetteBrave01_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil01/KingArthurEvil01_Ally_KingArthurEvil01_Ally.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/004.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark01/MusashiDark01_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/047.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/027.wav
@@ -1794,13 +1840,15 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/008.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDarkBoss/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/001.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/030.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/040.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/049.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegularBoss/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave01/RizetteBrave01_Enemy_SkeletonData.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular01_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/026.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight01/MyshaKnight01_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/012.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/010.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/042.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNew/010.wav
@@ -1820,6 +1868,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/001.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/042.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegularBoss/015.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular02/DonQuixoteRegular02_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular01/DonQuixoteRegular01_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/003.wav
@@ -1830,7 +1879,9 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegularBoss/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvilBoss/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/036.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnightBoss/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/026.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MusashiDark03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave02/RizetteBrave02_Enemy_RizetteBrave02_Enemy.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular03_Ally.prefab
@@ -1882,6 +1933,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegularBoss/006.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/042.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/003.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/FreyaNew03/FreyaNew03_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNewBoss/020.wav
@@ -1944,6 +1996,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvil/032.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/046.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/049.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/001.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/017.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/008.wav
@@ -1953,11 +2006,12 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular01/KenshinRegular01_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegularBoss/023.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegularBoss/023.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/025.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/046.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/FreyaNew01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/008.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/017.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/024.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/047.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/026.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/038.wav
@@ -1974,6 +2028,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/016.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular01/ChopinRegular01_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnightBoss/002.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegular/017.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ZeusRegularBoss/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ElmKouhaiRegular/036.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/044.wav
@@ -2026,8 +2081,10 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/049.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/DonQuixoteRegular03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular01/BahamutGirlRegular01_Ally2.png
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/020.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/036.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/010.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/029.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegularBoss/015.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ThorRegular/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/019.wav
@@ -2082,6 +2139,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/040.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/048.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegularBoss/016.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/033.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular01/AnastasiaRegular01_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/ZeusRegular02.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular02/WashingtonRegular02_Ally_Atlas.asset
@@ -2137,13 +2195,14 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegularBoss/022.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/035.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KingArthurEvilBoss/021.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/WashingtonRegular03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand01/MechaSisterBand01_Ally_Atlas.asset
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/041.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular03/CalKouhaiRegular03_Enemy_CalKouhaiRegular03_Enemy.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/035.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnight/048.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/RizetteBrave/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ZeusRegular01/ZeusRegular01_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/CalKouhaiRegular/034.wav
@@ -2229,6 +2288,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegular/012.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/KenshinRegular02.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/034.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/032.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MyshaKnightBoss/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MusashiDark01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/WhiteSnakeGirlBoss/012.wav
@@ -2257,15 +2317,16 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/019.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/029.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KingArthurEvil02/KingArthurEvil02_Ally_Atlas.asset
-- Assets/SimulatedAssetBundles/monsterbundle21/Spine/VenusRegular03/VenusRegular03_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular01.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/043.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/KenshinRegular02/KenshinRegular02_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/FreyaNewBoss/008.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Spine/VenusRegular03/VenusRegular03_Ally.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/DonQuixoteRegular/046.wav
-- Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegular/015.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/AnastasiaRegular02/AnastasiaRegular02_Enemy_AnastasiaRegular02_Enemy.mat
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/MusashiDark/018.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/CalKouhaiRegular02_Ally.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ZeusRegular01_Ally.prefab
@@ -2292,6 +2353,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/012.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/WashingtonRegular01/WashingtonRegular01_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/DonQuixoteRegular03/DonQuixoteRegular03_Ally_Atlas.asset
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/025.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ElmKouhaiRegular01/ElmKouhaiRegular01_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBandBoss/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/MyshaKnight03.prefab
@@ -2342,6 +2404,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegularBoss/021.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDark02/MusashiDark02_Ally_MusashiDark02_Ally.mat
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/BahamutGirlRegular02/BahamutGirlRegular02_Ally.png
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/035.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MechaSisterBand03/MechaSisterBand03_Enemy.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MusashiDarkBoss03_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/MyshaKnight01.png
@@ -2378,6 +2441,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/MyshaKnight02/MyshaKnight02_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/AnastasiaRegular/030.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/SiegfriedRegular/018.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/Voice/WashingtonRegular/044.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/RizetteBrave01/RizetteBrave01_Ally_Atlas.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular03/SiegfriedRegular03_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/005.wav
@@ -2468,6 +2532,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/SiegfriedRegular02/SiegfriedRegular02_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/KenshinRegular/038.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/MechaSisterBand/043.wav
+- Assets/SimulatedAssetBundles/monsterbundle21/LargeMonsterPortraits/WashingtonRegular03.png
 - Assets/SimulatedAssetBundles/monsterbundle21/SmallMonsterPortraits/AnastasiaRegular01.png
 - Assets/SimulatedAssetBundles/monsterbundle21/Spine/ChopinRegular02/ChopinRegular02_Ally_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/BahamutGirlRegularBoss/024.wav

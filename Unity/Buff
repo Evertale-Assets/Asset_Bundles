@@ -1,6 +1,6 @@
 {
 	"Version": 23,
-	"Time": 1775628102,
+	"Time": 1775807248,
 	"Buff": {
 	"RelationshipFlatAttack50": {
 		"class": "Buff",
@@ -83428,7 +83428,7 @@
 					"sourceBuffs": ["RemoveActive4LOCKWashingtonRegular","FudgeUsedAlt"],
 					"sameTeam": false,
 					"spreadCondition": "KillsMoreThanSkillUsedAlt",
-					"deadMonsterConditions": "NotTransformingOrMirage"
+					"deadMonsterConditions": "IsNotSummonedOrTransformingOrMirage"
 				},{
 					"sourceBuffs": ["FudgeUsedAltEndOfTurn"],
 					"sameTeam": false,
@@ -83512,13 +83512,13 @@
 				"activeMonsterConditions": "AlwaysTrue",
 				"sameTeam": false
 			},{
-				"sourceBuffs": ["RemoveBuffs","GiveTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegularBoss"],
+				"sourceBuffs": ["RemoveBuffs","PseudoGetTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegularBoss"],
 				"activeMonsterConditions": "AlwaysTrue",
 				"spreadCondition": "NoWashingtonTriggerAndAllySpirit8OrMore"
 			},{
 				"sourceBuffs": ["RemoveActive2LOCKWashingtonRegular"],
 				"sameTeam": false,
-				"spreadCondition": "IsNotSummonedOrTransformingOrMirage"	
+				"deadMonsterConditions": "IsNotSummonedOrTransformingOrMirage"	
 			}],
 			"duration": -1,
 			"showAsTimer": false,
@@ -83534,7 +83534,7 @@
 			"behaviorOverrides": [{
 				"sourceBuffs": ["Double5PlusSpirit","Double4Spirit","Double3Spirit","Double2Spirit","Double1MinusSpirit"]
 			},{
-				"sourceBuffs": ["RemoveBuffs","GiveTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegularBoss"],
+				"sourceBuffs": ["RemoveBuffs","PseudoGetTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegularBoss"],
 				"activeMonsterConditions": "AlwaysTrue",
 				"spreadCondition": "NoWashingtonTriggerAndAllySpirit8OrMore"
 			}],
@@ -84058,7 +84058,7 @@
 					"sourceBuffs": ["RemoveActive4LOCKWashingtonRegular","FudgeUsedAlt"],
 					"sameTeam": false,
 					"spreadCondition": "KillsMoreThanSkillUsedAlt",
-					"deadMonsterConditions": "NotTransformingOrMirage"
+					"deadMonsterConditions": "IsNotSummonedOrTransformingOrMirage"
 				},{
 					"sourceBuffs": ["FudgeUsedAltEndOfTurn"],
 					"sameTeam": false,
@@ -84158,13 +84158,13 @@
 				"activeMonsterConditions": "AlwaysTrue",
 				"sameTeam": false
 			},{
-				"sourceBuffs": ["RemoveBuffs","GiveTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegular"],
+				"sourceBuffs": ["RemoveBuffs","PseudoGetTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegular"],
 				"activeMonsterConditions": "AlwaysTrue",
 				"spreadCondition": "NoWashingtonTriggerAndAllySpirit8OrMore"
 			},{
 				"sourceBuffs": ["RemoveActive2LOCKWashingtonRegular"],
 				"sameTeam": false,
-				"spreadCondition": "IsNotSummonedOrTransformingOrMirage"	
+				"deadMonsterConditions": "IsNotSummonedOrTransformingOrMirage"	
 			}],
 			"duration": -1,
 			"showAsTimer": false,
@@ -84180,7 +84180,7 @@
 			"behaviorOverrides": [{
 				"sourceBuffs": ["Double5PlusSpirit","Double4Spirit","Double3Spirit","Double2Spirit","Double1MinusSpirit"]
 			},{
-				"sourceBuffs": ["RemoveBuffs","GiveTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegular"],
+				"sourceBuffs": ["RemoveBuffs","PseudoGetTurn","OnExtraTurn","JustGivenTurn","ExtraTurnSpiritTriggerWashingtonRegular"],
 				"activeMonsterConditions": "AlwaysTrue",
 				"spreadCondition": "NoWashingtonTriggerAndAllySpirit8OrMore"
 			}],

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1913764470
+CRC: 2228192341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0af17b0c959666010dfa681a1fbccbe9
+    Hash: 3fb482de1ff41d1086312658e3771fdb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5b265f9c7ffdfc16aaa3cbc657abedab
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0af17b0c959666010dfa681a1fbccbe9
+    Hash: 3fb482de1ff41d1086312658e3771fdb
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -198,6 +198,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/RarityIcons/RarityIconSr01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconBlueOnlineMapEventNoBase01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/GoldGlowEffect1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconDeathMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconYellowQuestionMark02.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/ElementIcons/ElementWheel2.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconGreenRegenerationHeartMusic01.png
@@ -406,6 +407,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/OtherBlueSoulStone03.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/minibannerglow.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/ButtonRedOval01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconEarthMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconGreenClock01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/FrameBlueSSizeCharacterAlly01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconRainbowSpirit08.png
@@ -549,6 +551,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseYellowHPBar01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/LineYellowGoldArrow05.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/Button_LongGlowGreen.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconLifeMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/WhiteIconVoiceChat.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconWhiteBattleTargetInner01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/AccessoriesHint.png
@@ -696,9 +699,10 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlas.spriteatlas
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/ButtonBlueShinyLight01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/FrameYellowOptionsPopupTitle01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconAirMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRainbowElement01.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/LightBlueMainMenuMission1.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/SAMPLEOtherPurpleActiveCharacterImage01.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/LightBlueMainMenuMission1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/ElementIcons/Air.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconYellowStunCounter02.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedHoldTaunt01.png
@@ -736,8 +740,9 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/PageControlSelected.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconRainbowSpiritGlow08.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/earthDefLimit.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/Window_ChatBubbleWhite.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWaterMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconGreenRegenerationLife01.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/Window_ChatBubbleWhite.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/GreatSwordHint.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconGreenSpiritGainGlow08.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteSkullStunRevengeLightning01.png
@@ -782,9 +787,10 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreenRoundGlossyButtonHold1-.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MiniMassiveCombatTower1.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedWeak01.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MiniMassiveCombatClusterWars1.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconFireMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreenCastleNameHolder1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseBlueEmptySquare01.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MiniMassiveCombatClusterWars1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/WhiteIconSound1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/BrownCircleMenuIcon01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseBlackBlue01.png

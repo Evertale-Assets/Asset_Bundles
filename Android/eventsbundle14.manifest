@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1780640145
+CRC: 3284245777
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cb3ad46e8bf70ece78096038e746e5d8
+    Hash: 183b7a7ad67bbeeba04f70ff5fb160ac
   TypeTreeHash:
     serializedVersion: 2
     Hash: a3db0b01af6d538187ba320b4943e162
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cb3ad46e8bf70ece78096038e746e5d8
+    Hash: 183b7a7ad67bbeeba04f70ff5fb160ac
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,6 +150,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Images/BGClassroomFantasy.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Prefabs/FemaleBergarianTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolTEN.prefab
@@ -157,18 +158,27 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstgLv70-80RandomD2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatFx/ChatBGChangeAfterX2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaConfused.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Prefabs/MaskedManTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatSolasRolling.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteSurprised.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaMaskSmile.png
@@ -181,6 +191,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatSlashCombo.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatGaluga
   For Chatfx1.mat
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattle01D1.prefab
@@ -192,8 +203,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressSad.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteShouting.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/LOVELY
   ISEKAITENSEI CHAT.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaMaskExcited.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle06D1.prefab
@@ -209,10 +222,12 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaskSad.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenTEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatLancelot
   For Chatfx.mat
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Images/BGSchoolCourtyard.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/speedline_NameFocus.prefab
@@ -230,6 +245,8 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaDressSmile.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatFx/ChatBGChangeBeforeX2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstgLv80-90RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatGalugaRolling
   .prefab
@@ -239,24 +256,31 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaMaskHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatRolotiaAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Images/BGBallroom.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizette03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidSleep.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaidHorrified.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/MaskedMan.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizette06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizette05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaidShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidConcerned.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatMissLudmilla_Center.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/FemaleBergarianSurprised.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Prefabs/NewRizMaidTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaskHorrified.png
@@ -264,8 +288,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressHorrified.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/FemaleBergarianSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Images/BGFancyHallway.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Images/BGFancyBedroom.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg01D1.prefab
@@ -274,11 +300,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Images/BGFancyHouse.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaDressConfused.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressThoughtful.png
@@ -289,11 +317,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Images/BGCircuitSunset.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteBlush.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaTired.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstry08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaskBlush.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaMaskTired.png
@@ -316,8 +346,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatGenericAttackRight.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaidSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Images/BGGarage.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatScenes/NewRizetteSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidSadSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/FireMori.png
@@ -330,16 +363,19 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/FireboneForChatfx.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatScenes/NewRizetteONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/speedline_Strong.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizette08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaskThoughtful.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Images/BGCircuitDay.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/CutinRightFlash.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaDressSerious.png
@@ -361,6 +397,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstry10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatAlfredRolling.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaidSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatHeartBomb.prefab
@@ -372,6 +409,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatRainDamage.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatScenes/NewRizetteSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaSad.png
@@ -379,15 +417,18 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatLancelotRolling120.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatGenericAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidHeh.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/Alfred.mat
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteHorrified.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Images/BGBedroomRuins.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/Firebone_ForChatfx.mat
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Prefabs/GloriaDressTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaDressHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizDressSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle01D1.prefab
@@ -395,11 +436,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenELEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGroups/EncounterNewRizetteexstgLv40RandomD1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattle04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatScenes/YandereRacequeenNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGFEs/yandereracequeenstrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/Battles/BattleGFEs/NewRizettebattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidCommand.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaDressSad.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGroups/Encounterbeautybeaststryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/ChatScenes/BeautyBeastEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Prefabs/GloriaTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatReadysetGO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizetteSad.png
@@ -408,6 +452,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaExcited.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidDespair.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/NewRizMaidBlush.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidSick.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/ChatPrefab/ChatHeartCute.prefab
@@ -421,8 +466,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGFEs/reddragonschoolstrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202309yandereracequeenstry/Battles/BattleGroups/Encounteryandereracequeenstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatScenes/RedDragonSchoolSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/GloriaHappy.png
+- Assets/SimulatedAssetBundles/eventsbundle14/oe202604beautybeaststry/Battles/BattleGFEs/beautybeaststrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/Battles/BattleGroups/Encounterreddragonschoolstryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202003NewRizette/ChatActors/Images/TheoMaidCalm.png
 - Assets/SimulatedAssetBundles/eventsbundle14/oe202305reddragonschoolstry/ChatPrefab/ChatMissLudmilla.prefab
@@ -436,17 +483,22 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle2
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle11
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle12
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle16
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle17
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle19
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle2
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle3
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle4
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle6
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle7
@@ -457,6 +509,7 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact6
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact7
+- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact8
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact9
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
 - C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs

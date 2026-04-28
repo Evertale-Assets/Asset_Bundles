@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2400103932
+CRC: 924731534
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15dd86c4100b12fd469f9bd114b90ef4
+    Hash: 703737a27f1b5a01e0ee69bccb310cf5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c29c357128feff56790ec9816c4fc93d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 15dd86c4100b12fd469f9bd114b90ef4
+    Hash: 703737a27f1b5a01e0ee69bccb310cf5
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -95,6 +95,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/arenaclusterreward.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinpvps6mid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coincamelotstry.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinbeautybeaststry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/GoldShardFrame1.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/mobexpmid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evosapphirehigh.png

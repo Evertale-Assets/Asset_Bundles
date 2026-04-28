@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 903695402
+CRC: 474331811
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53531d66fff32d3ac6b08fe3b4da5aef
+    Hash: afc2cc0ae280076ce4bb1f4f8530beac
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 53531d66fff32d3ac6b08fe3b4da5aef
+    Hash: afc2cc0ae280076ce4bb1f4f8530beac
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -48,15 +48,16 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/reddragonschoolstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/arthurswimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/frankensteinstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/beautybeaststry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/ibarahimeswimstry.png
-- Assets/SimulatedAssetBundles/eventsbuttonsimages/percivalstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/avalonstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/legendfire.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/pinocchiostry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/yandereracequeenstry.png
-- Assets/SimulatedAssetBundles/eventsbuttonsimages/snowstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/percivalstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/goemonstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/anyastry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/snowstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/swimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/kingarthurstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/chopinstry.png

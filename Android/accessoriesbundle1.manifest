@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2908399505
+CRC: 2533181151
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b522a8e07ea9428a8ca8a598a8e8ef4c
+    Hash: 0cc7699c38c61cb9105cf1900b4262d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: f14974c0ed050c9d03ce154f0c45b55a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b522a8e07ea9428a8ca8a598a8e8ef4c
+    Hash: 0cc7699c38c61cb9105cf1900b4262d3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -180,8 +180,9 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/HawkCoin01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixShield01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixShield01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LinkedRings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AnastasiaHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ArcaneRing01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/HymeliaCrown01.png
@@ -318,8 +319,9 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaClock01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BikkiFan01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Girdle01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MusashiButterfly01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LinkedRings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GlassSyringe01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MusashiButterfly01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SilverKnightArmor01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BikkiScroll01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/EvilLapelPin01.png
@@ -339,6 +341,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/GlassSyringe01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SilverKnightArmor01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/CrystalBeads01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LinkedRings01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ValkyrieMedal01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AliceRabbitDoll01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Cape01.png

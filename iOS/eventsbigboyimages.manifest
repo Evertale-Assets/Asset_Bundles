@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2928487713
+CRC: 901259753
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 691bf72a003cdfcab1fe8719c910ac03
+    Hash: c1d01c7e0561a451353189dac7cc38d8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 691bf72a003cdfcab1fe8719c910ac03
+    Hash: c1d01c7e0561a451353189dac7cc38d8
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -21,7 +21,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/jeannedarkswimstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/novablaststry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/zeusstry.png
-- Assets/SimulatedAssetBundles/eventsbigboyimages/tristanstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/beautybeaststry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/alterludmilla.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/anastasiastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/cthulhustry.png
@@ -33,6 +33,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/musashistry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/goemonstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/kingarthurstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/tristanstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/avalonstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/cerberusstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/shinsengumistry.png

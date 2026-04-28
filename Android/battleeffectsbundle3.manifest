@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 238891864
+CRC: 1793094658
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e535975b0eccbe2d18f5f4989af59f9
+    Hash: 716877bd99e5b22f0a6d0f978cb49eea
   TypeTreeHash:
     serializedVersion: 2
     Hash: d0f4c3cc7155ade4f7f2102b99a8e98f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3e535975b0eccbe2d18f5f4989af59f9
+    Hash: 716877bd99e5b22f0a6d0f978cb49eea
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -72,14 +72,16 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_clone1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_WaterSpark.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_snowbuff3.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_bgPinkPeach.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_GoldSlash1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_slashlifeBlue02.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_combo3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_RoseOpen1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_quickcharge7.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_Smokeyellow2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_candymeteo2.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_RyomaBigSlash.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_bgPinkPeach.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_LensflareCast2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_RyomaBigSlash.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_ArthurEvilSpike1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_meteo2-b.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_Snowman01.mat
@@ -96,6 +98,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zeus/batfx_sunClouds1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_portalBase2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_PerryCutin1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_MagicShot1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_ArthurEvilRipplewave.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_FootSquare2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_BgOni.prefab
@@ -117,6 +120,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_wing1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_StarCast1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_FirePillarBeam.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_RoseRain1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_KaguyaDarkEye.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_tailwindfireSatan.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_ElmKouhaiCutin02.mat
@@ -124,13 +128,15 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_PerryCutin.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_bloodmoon2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_FootSquare1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_BeautyClaw1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_CalKouhaiMagic2-b.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_BlackBGWashington1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_Teapot.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_cowgirlcharge4.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_newclaw4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_BigPiano1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_LudmillaDarkstance2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_RockInazuma1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_LudmillaDarkstance2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_tailwindchange2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zeus/batfx_fullcharge3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_RizetteBraveSword02.prefab
@@ -139,9 +145,10 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_bluntimpact3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_Snowman01.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kongming/batfx_firewaveGenie.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_thunderBall3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_meteo2-a.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_WashingtonCannonShot3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_BigBeam1.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_multiSlashRed1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_BahamutGirl/batfx_Redslash1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_ThunderBolt1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_moontouchDark1.prefab
@@ -151,9 +158,10 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_PetalStormZoro.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_splashimpactSnow01.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_vswooshIce1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_breakChain001.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_WashingtonCannonShot3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_tailwindBlue1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_ThorSlash4.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_breakChain001.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zeus/batfx_ZeusLance1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_firepillarBlue3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_jb_spotlightArrow.prefab
@@ -201,10 +209,11 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_anchor.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_RizetteBraveSword01.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_MelodyEarth.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_tailwindRed1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_slashYellow2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_Pinkhelix1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_slashthunderGreen.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Pinocchio/batfx_FlowerLily.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_tailwindRed1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinCloudThunder2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_MechBuf1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_NikePrep.prefab
@@ -245,10 +254,13 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_throwparticle16.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_chargeChopin2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_BlueSpiral.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_BeastFlare1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_magicnukeYellow2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_MoovingEye2.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_stormfinishBeauty1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_slashNoFlipRed1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_peachRight.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroBG1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_FreyaNewCutin.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_ChopinCutin.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_firepillar2.png
@@ -263,9 +275,10 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_stormfinish3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_chargeboomYellow1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_EvilSpikeBig1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_XSlashKnife1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_GoldRippleKintaro1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_mechsisBandBase4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_Snowman02.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_XSlashKnife1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_YandereDarkBigchain1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_rizetteBraveCrest2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_BigShieldKirin2.prefab
@@ -298,6 +311,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_BigShieldKirin2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_PeachCut1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_timestrike1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_common3/batfx_CommonSparkler1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_mechsisBandBase2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_teleportOverhead1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_vswooshIce2.prefab
@@ -331,6 +345,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_RipplePurple1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_ChronosSpotLight2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_wave2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_newclaw2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_petalswirlPeach.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_ElmKouhaiCutin01.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_portalBase3.prefab
@@ -341,8 +356,9 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_RolotiaDarkStaff2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_slashtrailGlich1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_berserkstun2.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_Lighting-slicer.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_BeautyAxe2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_redcharge2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_Lighting-slicer.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_HeadThunder2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_groundimpactMulti1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_WashingtonCannonShot4.prefab
@@ -353,10 +369,12 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Pinocchio/batfx_Key1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_StarIdolBase1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kenshin/batfx_magicnuke6-2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_BeautyFlare1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_CalKouhaiCrash1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_BlackBGSiegfried1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_comboBG3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_XSlashKnife.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_BGtemp1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_LiquidUpBase4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_DashShock.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_tailwindchange3.prefab
@@ -405,6 +423,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_impactglass4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_darknuke2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_FreyaNewstance1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_multiSlashYellow1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_slashRed1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_fanCharge1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinCloudThunder1.prefab
@@ -414,14 +433,17 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_firenado3.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_MelodyFire.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_burstGreen.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_speedlines3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_PetalsBeauty1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_spiritbomb1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_speedlines3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_ElmKouhaiCutin01.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinBolt2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_Zoroslash.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_IceFloorBig1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_breakChain001.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_BeautyInstantdeath1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_spotlightBand2-2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_breakChain001.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_prep_SnowNew1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_onimask3.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_blackout4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_redspiderbgYellow.prefab
@@ -461,18 +483,22 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_spiritdrainRed.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_MegaslashPurple3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_rizetteyoungimpactFix1.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_PurpleStormSnowNew1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_ExplosionBird.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_MultiMagicShotWeak.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_spearcombo1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_MegaslashPurple5.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_Glich1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_newclaw2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_IceFloorBig.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_Glich1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_KaguyaDarkEye1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_LiquidUpBase1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_impactpetals5.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_ExplosionBG.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinBolt1.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_confettiBig1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Pinocchio/batfx_purpleimpactPinocchio1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_BGtempPurple1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_hypnobeam1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_MultiHit.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_AnastasiaSlash.prefab
@@ -480,11 +506,11 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_tailwindrocks4-2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_MultiMagicShot1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_stormfinish1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_firepillarBlue2.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_BlackBGAnastasia2.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_piano1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_chargeboomChopin2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_piano1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_ExplosionBird.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_firepillarBlue2.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_BandimpactBlue2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_ZoroburstPink2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_cowgirlcharge3.png
@@ -540,6 +566,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Pinocchio/batfx_Key2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_MultiMagicShot1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_BahamutGirl/batfx_firepillarBlue4.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroCharge1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_Bandimpact1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_jb_prep2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_BahamutGirl/batfx_spiralcharge1.prefab
@@ -570,16 +597,19 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_snowball01.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_MusicCast1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_freyaNewbuff1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroBG2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_weaponupMyshaK1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_BlackBGAnastasia.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_onicrisisPurple1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_impactice4.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_quickchargeBeautyAxe1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_peachRight.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_whitesnakeslayer3.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_FrankenCloudThunder.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_slash2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_groundimpactThor1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_MapleCut.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_BeautyAxe1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_ThorSlash1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_LudmillaDark/batfx_bgRed.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kongming/batfx_chargeboomOrange3.prefab
@@ -591,10 +621,11 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_purifyGreen1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_CastingHardLightRolotiaDark1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_snowbuff2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_newclaw1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_BigShieldKirin1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_fanprepGreen.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_ThorShield.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_FootSquare.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_ThorShield.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kongming/batfx_tailwindchangeRed.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_tailwindRedZoro.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_NikeThunderSword.prefab
@@ -612,6 +643,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_CastingLight1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_PoisonSpark3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_ArthurEvilSpike2.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_GoldSlash2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_Sparklemulti1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_tailwindchangeGreen1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_ArthurEvilLong2.prefab
@@ -622,12 +654,14 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_KaguyaDarkBG.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_BGLiveStage.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_weaponthunderPurple.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroHelix1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_SiegfriedCutin.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_ludmillasplash3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_redspiderbgRed.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/batfx_ElminaModernStatus1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_purpleimpactBlue1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_BigPiano2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_rose2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_YandereDarkchain1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_cowgirlcharge3.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_DragonBite1.prefab
@@ -641,9 +675,11 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_BahamutGirl/batfx_crystalWing1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_ChopinCutin.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_BlueSpiral.mat
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroBG1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_chargeboomOrange3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_castingChronos1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_American1.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_TailwindSnowWhiteNew1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_impactglass4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_MelodyStorm.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_petalswirlMyshaKnight.prefab
@@ -655,14 +691,16 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zeus/batfx_smokeFloor1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_RizetteBravestance1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinBolt1.png
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_slashlifePink02.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_CastingHardLightGoemon4-1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_RyomaSlash.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_tailwindfire6Blue.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_slashlifePink02.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_greatswordbeamCallen1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_ThorShield.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_stealtharrow1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_Venus_feather1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_tailwindPurpleStorm1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_berserkstun3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_Venus_feather1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Venus/batfx_VenusBG.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_firewaveBlue.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_KaguyaDarkEye.png
@@ -688,10 +726,13 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_BGGreen1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_throwparticle4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_impactice3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_RoseOpen1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_YandereDarkchain2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_tailwindspace10.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_stealtharrow1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_MegaslashPurple2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_onicrisisPurple1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_SnowNewMagic1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_impactDonq01.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_CalKouhai/batfx_CharacterShadow.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_slashthunderGreen1.prefab
@@ -736,6 +777,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_onimaskPurple1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElminaModern/glitch_spritesheet_4x4_brighter.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_StarCastOrange.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_groundimpactYellow2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_chargeboomPurple1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_DonQuixote/batfx_ExplosionBird.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MyshaKnight/batfx_chargepetal7.prefab
@@ -749,6 +791,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kongming/batfx_FireSpiral1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_KirinBolt1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_firewave3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_groundRose1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_FreyaNew/batfx_RedThrust1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ElmKouhai/batfx_ElmKouhaiCutin02.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_Teapot.prefab
@@ -762,13 +805,16 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_KirinGirl/batfx_firenado3.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_RockInazuma3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_throwparticleKAEvil.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_rose2.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_SparklemultiBig1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chopin/batfx_impactcuts2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_Pinkhelix1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_jeannecast2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_WashingtonCannonShot2.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beauty/batfx_impactrock1_1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_MusashiDark/batfx_tailwindtech2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Masamune/batfx_greatswordbeam4.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_tailwindBeastRose1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_castingSmoke4.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Nike/batfx_jb_spotlight1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_LudmillaNewTeleport.prefab
@@ -807,9 +853,12 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Perry/batfx_tailwindsurfPerry.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kongming/batfx_whip3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Zoro/batfx_petalswirlZoro.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_RoseOpen1.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_basicfire3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_snowballmeteoBig.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Beast/batfx_slashRed2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Chronos/batfx_hourglass1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_KintaroBG1.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Anastasia/batfx_BlackBGAnastasia1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_BGcrack.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizetteBrave/batfx_RizetteBraveSword01.mat
@@ -876,6 +925,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RizKouhai/batfx_tailwindfirewall3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Ryoma/batfx_slashOronge1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_PeachGirl/batfx_slashlifePink02.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_bgkintaro1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Washington/batfx_ElectricityMuzzleshotBlue1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_Bloodflow1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_splashimpact3.prefab
@@ -886,8 +936,9 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Siegfried/batfx_iceblock2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Thor/batfx_stormfinishThor1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_OniSchoolDark01/batfx_onimask2.png
-- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_Multiwoosh1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_SnowWhiteNew/batfx_SnowWhiteNewInstantdeath1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_finish3.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_YandereDark/batfx_Multiwoosh1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Elizabeth/batfx_swoosh6.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Pinocchio/batfx_toonstars8.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_BackLight1.prefab

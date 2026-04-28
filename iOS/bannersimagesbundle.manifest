@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 447062089
+CRC: 95863186
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 40fefa211edd183a95e386a08ab24889
+    Hash: 2c45450359852965224d83830ab4c52f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 40fefa211edd183a95e386a08ab24889
+    Hash: 2c45450359852965224d83830ab4c52f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -107,7 +107,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SamuraiGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaHalloween.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PinocchioRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ShannaRidingHood.png
@@ -126,7 +125,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IbarahimeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteMaid.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaDark.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneValentine.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
@@ -151,7 +150,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
@@ -161,9 +160,8 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CalKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MermaidRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark-0.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaid.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TheoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SwimsuitAstrid.png
@@ -217,7 +215,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FireDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenSwimsuit.png

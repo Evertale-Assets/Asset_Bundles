@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3726368031
+CRC: 300201396
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b094c278a580c22a8b7b97b7765a76b3
+    Hash: 64afcf2c49bcf560fea8cf1ec588f20d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b094c278a580c22a8b7b97b7765a76b3
+    Hash: 64afcf2c49bcf560fea8cf1ec588f20d
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -117,6 +117,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MerlinRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/WashingtonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GenieRegular.png
@@ -136,6 +137,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaRacequeen.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ExcaliburRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeathKnight.png
@@ -241,6 +243,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KojiroRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Alice.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaModern.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DancingAssassin.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3641767132
+CRC: 1759402563
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f513c098af3ac1d25f87320d8cfd6f2f
+    Hash: b3111296525a658b188db3348efd0780
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5a922c0d4d1e3082f744cc7926079ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f513c098af3ac1d25f87320d8cfd6f2f
+    Hash: b3111296525a658b188db3348efd0780
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -367,10 +367,11 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MerlinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KenshinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Crescent02.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/TwinGodRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SnowWhiteNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RoundTableKnightDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CthulhuGirlRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GothGirl01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/TwinGodRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RolotiaSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ChronosRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PinocchioRegular01.png
@@ -488,6 +489,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaYukata01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AliceMagicalGirl01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/OniSchoolSamurai01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/SnowWhiteNew01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DarkLudmilla01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CowGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElmKouhaiRegular01.prefab
@@ -591,6 +593,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElminaBunny01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Bahamut01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeadlyVampire01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SnowWhiteNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RyomaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/JeanneDarkSwimsuit01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/GoemonRegular01.png

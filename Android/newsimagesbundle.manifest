@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1505040744
+CRC: 2107852004
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 46c1c85c726158770d34da4d0d026ed2
+    Hash: 230710e6d9850173140a9ccddc4a8906
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 46c1c85c726158770d34da4d0d026ed2
+    Hash: 230710e6d9850173140a9ccddc4a8906
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -74,6 +74,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/CatIdolHalloween.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/SnowWhiteMaid.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/SnowWhiteNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/AntaresRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/JeanneValentine.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LuciferRegular.png

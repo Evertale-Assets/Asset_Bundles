@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2525849207
+CRC: 1100154694
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 777926a2b54a9038ffabcf95c5c79ff1
+    Hash: d5aefa3da10dfbb1e6283008b1bbf2e0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ffc05992139900e27927bddfae02bf79
+    Hash: a9d228db9119f9641dd2def690573775
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 777926a2b54a9038ffabcf95c5c79ff1
+    Hash: d5aefa3da10dfbb1e6283008b1bbf2e0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2318,18 +2318,18 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_jeannevalentine1/batfx_jv_sweets2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_snowwhitebride1/batfx_sleeprose1.mat
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle13
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle15
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle17
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle18
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle19
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/gacharewards
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle13
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle15
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle17
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle18
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle19
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/gacharewards
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

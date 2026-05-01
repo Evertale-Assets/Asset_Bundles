@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1354291870
+CRC: 2726436985
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2201c78240305aa26ed9f071d24afca3
+    Hash: 1f3e875c2b633569e498cfd649e2d514
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b6573d0f8c4fa0276e7824935d4928d0
+    Hash: 5192ccf60793eba1e0dfcd84ba0245c9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2201c78240305aa26ed9f071d24afca3
+    Hash: 1f3e875c2b633569e498cfd649e2d514
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,6 +30,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f54dd77bd089542bdc61bafc32a378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -52,8 +56,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2d04c0fcc35eb134c8a26ccb7b610a1a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 01f54dd77bd089542bdc61bafc32a378, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3c9278995ad2e45419758b0179ae5f24, type: 3}
 - Class: 114
@@ -78,8 +80,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
@@ -481,25 +481,25 @@ Assets:
 - Assets/SimulatedAssetBundles/onlineact7/A7C1/ChatActors/Prefabs/RegulusUndeadTachie.prefab
 - Assets/SimulatedAssetBundles/onlineact7/A7C3/StageInvoke/a7c3_mthree.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act4
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle10
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle14
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact4
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle10
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle13
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle14
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle3

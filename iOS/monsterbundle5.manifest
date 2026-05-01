@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 606786529
+CRC: 901758288
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d0da237bd5ea726f3a280daa0fbd87e
+    Hash: 4d139af283e2bac7e0e1d4df287a66f5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d0da237bd5ea726f3a280daa0fbd87e
+    Hash: 4d139af283e2bac7e0e1d4df287a66f5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1139,7 +1139,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle5/Voice/ShadowElmina/001.wav
 - Assets/SimulatedAssetBundles/monsterbundle5/Spine/BabyDarkDragon01/BabyDarkDragon01_Enemy_SkeletonData.asset
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle1

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1153771583
+CRC: 144828014
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a99ab398fa746b862db88f1a0c91f481
+    Hash: bf162e68444c30e3f69588a23a6411f5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5b265f9c7ffdfc16aaa3cbc657abedab
+    Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a99ab398fa746b862db88f1a0c91f481
+    Hash: bf162e68444c30e3f69588a23a6411f5
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -825,4 +825,4 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GoldClaimableChest2.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/ButtonGreenBattleSkill03.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

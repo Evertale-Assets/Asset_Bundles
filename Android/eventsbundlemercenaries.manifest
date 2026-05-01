@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3039096418
+CRC: 3638946674
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a5ff9f329618b00c0f8e56415e2411ed
+    Hash: 49320052342db1640ec32cf9d5a7afe5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 83ae923e413dbef86b8c0cb434888610
+    Hash: b12d6941ed668ef1891e243295d6e208
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a5ff9f329618b00c0f8e56415e2411ed
+    Hash: 49320052342db1640ec32cf9d5a7afe5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,11 +17,11 @@ ClassTypes:
 - Class: 4
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7d40efcd3d57167489abdeeabee8a466, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
@@ -1475,4 +1475,4 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundlemercenaries/ibarahimestry/Battles/BattleGFEs/ibarahimestryexbattle03.prefab
 - Assets/SimulatedAssetBundles/eventsbundlemercenaries/claricestry/Battles/BattleGFEs/claricestryexbattle08.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0

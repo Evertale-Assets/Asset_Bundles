@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1537316784
+CRC: 4142126459
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d2ed253f18d7948fb77b6345717d2fa6
+    Hash: b9e0e69bbf9e303124f397e4dd664d63
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d2ed253f18d7948fb77b6345717d2fa6
+    Hash: b9e0e69bbf9e303124f397e4dd664d63
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2409,10 +2409,10 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle17/SmallMonsterPortraits/RizetteBride02.png
 - Assets/SimulatedAssetBundles/monsterbundle17/Voice/MechaSisterBride/002.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle10
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle11
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle13
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle14
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle10
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle11
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle13
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle14

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 158505412
+CRC: 1926553245
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c3166aeb1cf05c66c0f30a825ffcdd6a
+    Hash: e6b5303f608d703961d3ff622a6fd86c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7933abc4e87d183dcce8ecfacc1f3042
+    Hash: deb61b10c067b9a87159dc379864087e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c3166aeb1cf05c66c0f30a825ffcdd6a
+    Hash: e6b5303f608d703961d3ff622a6fd86c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -94,11 +94,11 @@ Assets:
 - Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial19.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV2.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/bannersbundle
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/bannersbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

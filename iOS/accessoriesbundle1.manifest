@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1643675493
+CRC: 2343784998
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10a7b0c3b15426dd3f20ebcb401464da
+    Hash: e5eb297a342613553eec24ee208763da
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f14974c0ed050c9d03ce154f0c45b55a
+    Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10a7b0c3b15426dd3f20ebcb401464da
+    Hash: e5eb297a342613553eec24ee208763da
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -349,4 +349,4 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RitualBlade01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaijuShield01.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1

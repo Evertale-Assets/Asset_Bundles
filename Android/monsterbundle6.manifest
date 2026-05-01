@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3971482182
+CRC: 2263206896
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de2524b51012fc4c612cd18087e549c5
+    Hash: 1ca1aca8c929e93086224ecfe7570506
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: de2524b51012fc4c612cd18087e549c5
+    Hash: 1ca1aca8c929e93086224ecfe7570506
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -774,6 +774,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle6/Voice/CapedSkeletonB/009.wav
 - Assets/SimulatedAssetBundles/monsterbundle6/Voice/ChristmasCatEar/041.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0

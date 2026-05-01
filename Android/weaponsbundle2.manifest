@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1570697158
+CRC: 1216836900
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 958c383ca536048f5956b4e3d77d5798
+    Hash: d9d209747818b3469568fb7075e171f9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f14974c0ed050c9d03ce154f0c45b55a
+    Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 958c383ca536048f5956b4e3d77d5798
+    Hash: d9d209747818b3469568fb7075e171f9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -102,4 +102,4 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/DarkTridentSpear01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle2/LargeWeaponPortraits/TreeLanternStaff03.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/weaponsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/weaponsbundle1

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3279125070
+CRC: 1061899810
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1be7d7e511a754e493eada5dcde8d1e5
+    Hash: 1fed9ec7a3b21aa887387d7fe26ff439
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a14f250f7e4a51c41ca42bdfc34c4829
+    Hash: 34963b73a1b79a131e5bda04f2649571
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1be7d7e511a754e493eada5dcde8d1e5
+    Hash: 1fed9ec7a3b21aa887387d7fe26ff439
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -489,7 +489,7 @@ Assets:
 - Assets/StreamingAssetsHolder/startupbundle/Singleton.prefab
 - Assets/StreamingAssetsHolder/startupbundle/RedCircleNoticeIcon.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/prefabs

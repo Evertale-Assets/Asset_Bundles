@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2460259834
+CRC: 1388556264
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 66cfbe942f47c6ba8a531052df94fd1a
+    Hash: 6083c6491a0ce8bf8b341b170109dc93
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 66cfbe942f47c6ba8a531052df94fd1a
+    Hash: 6083c6491a0ce8bf8b341b170109dc93
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1055,8 +1055,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle10/Spine/CatIdolGirl03/CatIdolGirl03_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle10/Voice/ChristmasMinion/003.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle5
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle8
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle5
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle8

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 695324294
+CRC: 905777723
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1275976e4dcccc05ff2f43a710d10733
+    Hash: 382bd332df6b8a78cca330bd259d0f8f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1275976e4dcccc05ff2f43a710d10733
+    Hash: 382bd332df6b8a78cca330bd259d0f8f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2093,11 +2093,11 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle15/Voice/GyurelleRegularBoss/034.wav
 - Assets/SimulatedAssetBundles/monsterbundle15/Voice/TwinGodRegular/076.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle10
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle11
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle14
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle9
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle10
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle11
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle14
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle9

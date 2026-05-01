@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1120016147
+CRC: 1150532706
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a609b8e8e58a921bb540700693576e6
+    Hash: 7022d291201a56ed8f2b00b49f2a946f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2a609b8e8e58a921bb540700693576e6
+    Hash: 7022d291201a56ed8f2b00b49f2a946f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -612,7 +612,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle6/MomotaroStryTachie/HibikiDarkTachie/HibikiDarkTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle6/CerberusStoryTachie/LudmillaYukataTachie/LudmillaYukataFace/LudmillaYukataBlush.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle5

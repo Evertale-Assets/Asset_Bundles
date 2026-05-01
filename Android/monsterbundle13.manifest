@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1435562320
+CRC: 1950543602
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67b80021f6b22603dbc70fc97868975d
+    Hash: 5240f8c2536cd855526a9575f40f37d1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 67b80021f6b22603dbc70fc97868975d
+    Hash: 5240f8c2536cd855526a9575f40f37d1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1217,7 +1217,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle13/Voice/EarthGoddess1/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle13/Voice/MyshaIdolGirl/014.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle9
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle9

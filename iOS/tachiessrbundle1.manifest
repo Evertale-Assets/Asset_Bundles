@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3916367770
+CRC: 2169554342
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee8997ef501c1e339d6c89e7bf3b1675
+    Hash: 69b36c1ef7d10837a661ac9f647bc103
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a5a922c0d4d1e3082f744cc7926079ca
+    Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ee8997ef501c1e339d6c89e7bf3b1675
+    Hash: 69b36c1ef7d10837a661ac9f647bc103
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -750,6 +750,6 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/FinnCrestbearer01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/EarthKaiju01.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas

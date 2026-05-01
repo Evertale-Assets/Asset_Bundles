@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1550697484
+CRC: 623629134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27718acf501a88e97ca557f7fc971051
+    Hash: 759f7bbd76ac7f256d9c67193735070f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 96fc88cebaa836e5e5174e18938f17fe
+    Hash: 530e83faf10027137304588ee60ec542
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27718acf501a88e97ca557f7fc971051
+    Hash: 759f7bbd76ac7f256d9c67193735070f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,6 +40,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
@@ -74,8 +82,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3ebd28842ff192047b6f651d7bd4f5a5, type: 3}
 - Class: 114
@@ -127,8 +133,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
@@ -159,8 +163,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e4283ac8e1b59c44aaf8dc9ce92959de, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a48a80e60ea230f4f9397599f74bcc52, type: 3}
@@ -188,8 +190,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 91ca583e119a3d84cbbe5f6866965ddd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9f61dd6b27a843c47ae65e81c6e162a4, type: 3}
 - Class: 114
@@ -2353,27 +2353,27 @@ Assets:
 - Assets/SimulatedAssetBundles/act0/Materials/glow_dot_add 1.mat
 - Assets/SimulatedAssetBundles/act0/Characters/RedKnight/RedKnightBinary/Binarychibi_redknight_N/chibi_redknight.skel.bytes
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/accessoriesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/itemsbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/mapjson
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle4
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/weaponsbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/weaponsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/accessoriesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/bannersbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/itemsbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/mapjson
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/weaponsbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/weaponsbundle1

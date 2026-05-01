@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2913578982
+CRC: 2365897506
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c15095c2913d989dbe1f98cd79a6bdf2
+    Hash: 810bcfc17a7e20669139af2b66d1b5b0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c15095c2913d989dbe1f98cd79a6bdf2
+    Hash: 810bcfc17a7e20669139af2b66d1b5b0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2409,10 +2409,10 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle17/SmallMonsterPortraits/RizetteBride02.png
 - Assets/SimulatedAssetBundles/monsterbundle17/Voice/MechaSisterBride/002.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle10
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle11
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle13
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle14
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle10
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle11
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle13
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle14

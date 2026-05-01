@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1677342495
+CRC: 238760463
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6518fc4f37c982de3c628dd6bf968fef
+    Hash: f8527664e35f96fe44dea9b7b8ce9549
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 83ae923e413dbef86b8c0cb434888610
+    Hash: de0d7bb7beb5a2ab1864400c010371b6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6518fc4f37c982de3c628dd6bf968fef
+    Hash: f8527664e35f96fe44dea9b7b8ce9549
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1475,4 +1475,4 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundlemercenaries/ibarahimestry/Battles/BattleGFEs/ibarahimestryexbattle03.prefab
 - Assets/SimulatedAssetBundles/eventsbundlemercenaries/claricestry/Battles/BattleGFEs/claricestryexbattle08.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0

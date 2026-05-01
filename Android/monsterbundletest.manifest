@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2270105137
+CRC: 1081174418
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbd9f26a03411f5883a6d3d4bf6dd98d
+    Hash: a35536c45192f1e009eb646a316c1540
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d4301ec1c2e548666fdbe11f0497d366
+    Hash: a9a909a4e85e46d65676a2bbcd25a666
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dbd9f26a03411f5883a6d3d4bf6dd98d
+    Hash: a35536c45192f1e009eb646a316c1540
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -486,8 +486,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundletest/Spine/TestMonster08/TestMonster08_Enemy_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundletest/Spine/TestMonster22_Ally.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle9
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle9

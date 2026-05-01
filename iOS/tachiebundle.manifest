@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2596972
+CRC: 1399281117
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d66bfdaa300a53b8006573e185f50ef
+    Hash: ac8617b76793802144eedad5b865cf8d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3d66bfdaa300a53b8006573e185f50ef
+    Hash: ac8617b76793802144eedad5b865cf8d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -572,7 +572,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoShoutingPossessed.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act3
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact5
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlineact5

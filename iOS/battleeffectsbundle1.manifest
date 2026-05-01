@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2985612501
+CRC: 2610408533
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e0809cc97761b617539149fbf173a88
+    Hash: fa6ba65f6768f0b60a110cbdc28395be
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d3e8b100fada8eca7bffd5310ae6891
+    Hash: 32df270b04bd6e6a2f49a71276916450
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3e0809cc97761b617539149fbf173a88
+    Hash: fa6ba65f6768f0b60a110cbdc28395be
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2353,9 +2353,9 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle1/batfx_protector1/batfx_protector1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle1/batfx_RizetteShock1/batfx_RizetteShock1.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act2
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/gacharewards
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/gacharewards

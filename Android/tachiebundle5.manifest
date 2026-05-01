@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1547758928
+CRC: 2255974487
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd2117bcb893c22586b94d49b907f83b
+    Hash: 00696e0cb85c5622a9fc297717270ae2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dd2117bcb893c22586b94d49b907f83b
+    Hash: 00696e0cb85c5622a9fc297717270ae2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1011,7 +1011,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiTachie.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle6

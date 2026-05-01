@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1064488571
+CRC: 1925000331
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db87a05794861c13effd66f6cfd4b809
+    Hash: 3920331b88427d731d839c49f1243105
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: db87a05794861c13effd66f6cfd4b809
+    Hash: 3920331b88427d731d839c49f1243105
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -878,8 +878,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle22/Voice/SnowWhiteNew/136.wav
 - Assets/SimulatedAssetBundles/monsterbundle22/Voice/SnowWhiteNewBoss/136.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle3

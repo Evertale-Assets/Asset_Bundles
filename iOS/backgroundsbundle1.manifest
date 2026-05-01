@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1930544659
+CRC: 4045340371
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb3a9dae720f4599615e351516227953
+    Hash: 1136aa315e55b8c27cc8806717794be7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7f5f816fb182d025e165c15b5c28d3c4
+    Hash: 448b404305f6a317280d150f0ea38dbc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bb3a9dae720f4599615e351516227953
+    Hash: 1136aa315e55b8c27cc8806717794be7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -235,5 +235,5 @@ Assets:
 - Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen4.png
 - Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia1.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

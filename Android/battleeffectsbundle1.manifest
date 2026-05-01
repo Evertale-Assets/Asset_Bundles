@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 84746862
+CRC: 3617120969
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c668370645f7c8733f760b8f1b7ead3a
+    Hash: b1e309f6e26d483a2b10f0a048a7e1b8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d3e8b100fada8eca7bffd5310ae6891
+    Hash: 734c57cd07311bb2d9c59bad0c5e8d3f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c668370645f7c8733f760b8f1b7ead3a
+    Hash: b1e309f6e26d483a2b10f0a048a7e1b8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,9 +25,9 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
 - Class: 115
@@ -2353,9 +2353,9 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle1/batfx_protector1/batfx_protector1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle1/batfx_RizetteShock1/batfx_RizetteShock1.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/gacharewards

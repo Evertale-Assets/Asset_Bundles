@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3611141151
+CRC: 2245962287
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b07fff8e5c8a6bbdaa2d2f77dd30cdb
+    Hash: 2c02f8555bf9bb21a76820f422dc5c59
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f14974c0ed050c9d03ce154f0c45b55a
+    Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8b07fff8e5c8a6bbdaa2d2f77dd30cdb
+    Hash: 2c02f8555bf9bb21a76820f422dc5c59
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -86,4 +86,4 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle0/WeaponPortraitsBundleDNC/WoodenStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle0/LargeWeaponPortraits/SpikeBallMace01.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1

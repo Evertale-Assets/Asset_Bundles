@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3110353291
+CRC: 976245590
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c19ec735b4c61ca0a68bdf57071464e
+    Hash: 34900c216d691f3674f79260c8967031
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0c19ec735b4c61ca0a68bdf57071464e
+    Hash: 34900c216d691f3674f79260c8967031
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2387,7 +2387,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle2/Spine/GoldAppleGirl03Binary/GoldAppleGirl03_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle2/Voice/GoldAppleGirl/027.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle3

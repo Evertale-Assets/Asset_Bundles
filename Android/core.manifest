@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 304513237
+CRC: 2407205459
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 555b5b8f1619643e370dd11352bcc2aa
+    Hash: c17705fd737a7e22268c505b26d8b995
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 647b83de71d7e25e2b14bdd9d6c8d0ba
+    Hash: 434eae5d3aa1629de6a71994a990e748
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 555b5b8f1619643e370dd11352bcc2aa
+    Hash: c17705fd737a7e22268c505b26d8b995
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -89,6 +89,6 @@ Assets:
 - Assets/SimulatedAssetBundles/core/AnalyticsBlocking.asset
 - Assets/SimulatedAssetBundles/core/Shaders/GreyscaleShader.shader
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/mapjson
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/mapjson
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/misc1

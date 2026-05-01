@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1548829912
+CRC: 2720729439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 242e2cd34c9283d14e675acddf8c14c9
+    Hash: f6e8624ee7275c844f5cf9c2f0c05fbe
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a36b59699a5090e7c47f3aa0612250a7
+    Hash: 1d5551f46f18e94288f33f6694e94dc3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 242e2cd34c9283d14e675acddf8c14c9
+    Hash: f6e8624ee7275c844f5cf9c2f0c05fbe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -286,7 +286,7 @@ Assets:
 - Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud3.png
 - Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00010.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

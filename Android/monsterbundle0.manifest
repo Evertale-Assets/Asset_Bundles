@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3726108466
+CRC: 1561584822
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1fa29188bc9b02ad2bfb0d75f56db1a7
+    Hash: 92de98ef4db294dab35940f2a0f38e7a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a3d6458789c41cb816e64d71d9a4a94c
+    Hash: 6d9bd69d2de02fe8f028b5acd0e3c590
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1fa29188bc9b02ad2bfb0d75f56db1a7
+    Hash: 92de98ef4db294dab35940f2a0f38e7a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -830,6 +830,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle0/Spine/LudmillaRenewal01/LudmillaRenewal01_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle0/Spine/OnionBoy01_Ally.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas

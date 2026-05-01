@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2523671381
+CRC: 2328296673
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91ae99bc21b90a94f5c72a7b52d14722
+    Hash: 9d33ecc6a720cff0c8a717a23244c3f3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7f5f816fb182d025e165c15b5c28d3c4
+    Hash: 448b404305f6a317280d150f0ea38dbc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 91ae99bc21b90a94f5c72a7b52d14722
+    Hash: 9d33ecc6a720cff0c8a717a23244c3f3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -235,5 +235,5 @@ Assets:
 - Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BackgroundConquestScreen4.png
 - Assets/SimulatedAssetBundles/backgroundsbundle1/SafeToCompress/BMCavesOfReia1.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

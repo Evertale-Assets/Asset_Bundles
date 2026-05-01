@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1582460075
+CRC: 1738967773
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 20fe77b4891c2ce40307f43748c4f507
+    Hash: aeb58bbfeb245c97e8cc6fed2af6440f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5c5e657cc7f2ff714f057ebe6cbcd439
+    Hash: c8d77ba91b8b6163f572999c6a6375b4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 20fe77b4891c2ce40307f43748c4f507
+    Hash: aeb58bbfeb245c97e8cc6fed2af6440f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -241,11 +241,11 @@ Assets:
 - Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonusRepeat.anim
 - Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowAmbientIntro.anim
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 780305702
+CRC: 3934328795
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 81d07da5ab7da6669327ab376767572e
+    Hash: e28b84c151807d73ba3843fd433b7a53
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c12b85313f9885f3ff31b234bd6e1c1d
+    Hash: 726911a666eae9292becb2f5cde8683c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 81d07da5ab7da6669327ab376767572e
+    Hash: e28b84c151807d73ba3843fd433b7a53
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -840,4 +840,4 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkShoutingHappy.png
 - Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/KImonoMaleMobTachie/KImonoMaleMobSurprised.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 875932601
+CRC: 2078091533
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cb613e136e8c605ca9b4b73199631f80
+    Hash: 248b599f52324c43967030e0fb1f31f1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cb613e136e8c605ca9b4b73199631f80
+    Hash: 248b599f52324c43967030e0fb1f31f1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1624,6 +1624,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle14/Spine/TiamatRegular02/TiamatRegular02_Enemy.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle14/Voice/DeadlyVampire/010.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0

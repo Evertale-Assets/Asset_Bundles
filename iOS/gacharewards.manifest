@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 179459108
+CRC: 527609518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3610843ba1dc10757144fc703a426b95
+    Hash: 9de209eea3888bd2eb072cdce35d9182
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6677d1c231505919a5fc79bcae2698d6
+    Hash: 430117fed749bc2e6da4eefbb6a75090
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3610843ba1dc10757144fc703a426b95
+    Hash: 9de209eea3888bd2eb072cdce35d9182
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -399,11 +399,11 @@ Assets:
 - Assets/SimulatedAssetBundles/gacharewards/Anim/scene01_v2.anim
 - Assets/SimulatedAssetBundles/gacharewards/Anim/Main Camera.controller
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/audiobundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/audiobundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/prefabs

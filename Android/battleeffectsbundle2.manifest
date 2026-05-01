@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4025958370
+CRC: 3584741536
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba0b18e9bf738bcf07d856c9d04a1509
+    Hash: acb6b086765e73b37663c25054ff90c2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ffc05992139900e27927bddfae02bf79
+    Hash: 0e0d2921ea80b3d64f34187be089bbbc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ba0b18e9bf738bcf07d856c9d04a1509
+    Hash: acb6b086765e73b37663c25054ff90c2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,9 +25,9 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
 - Class: 115
@@ -1310,6 +1310,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_Lucifer/batfx_fireupBlue1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_Murasaki/batfx_Murasakiletter10.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_alicemagi1/batfx_magicircle1.png
+- Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_myshadark1/batfx_willowbg1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_ludmillaschool1/batfx_multiplestab8.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_ludmillayukata1/batfx_camelliabuff.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_ludmillayukata1/batfx_yukatacast1.prefab
@@ -1330,11 +1331,10 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_Hijikata/batfx_slash8Blue1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/Placeholder.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_ibarahime1/batfx_thornportal1.png
-- Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_myshadark1/batfx_willowbg1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_snowwhiteswimsuit1/batfx_impactice1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_tiamat1/batfx_scream2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_jeannevalentine1/batfx_jv_swap1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_Murasaki/batfx_MurasakiKanji1.prefab
-- Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_tiamat1/batfx_scream2.png
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_rizettebride1/batfx_finaldarkslash1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_gilgamesh1/batfx_spear2.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_summonknightx/Summon1/summonknightx.png
@@ -2318,18 +2318,18 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_jeannevalentine1/batfx_jv_sweets2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle2/batfx_snowwhitebride1/batfx_sleeprose1.mat
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle17
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle18
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle19
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/gacharewards
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle13
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle15
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle17
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle18
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle19
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/gacharewards
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

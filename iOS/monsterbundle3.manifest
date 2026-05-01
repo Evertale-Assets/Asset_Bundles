@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 692628155
+CRC: 1328771258
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a6d2d06ffd66243745707eee5ffd40da
+    Hash: d67b88dac4d8083b7e52f57f946c746c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b0d37aef20ab62a368b6692ef9947fba
+    Hash: f68aa64a812289a05a62527934d1b675
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a6d2d06ffd66243745707eee5ffd40da
+    Hash: d67b88dac4d8083b7e52f57f946c746c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2332,6 +2332,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle3/Spine/Kirin03Binary/Kirin03_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle3/Voice/Nagi/044.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0

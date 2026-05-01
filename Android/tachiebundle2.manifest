@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 209391985
+CRC: 4223201459
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 49096597fe484c19d6d211434eadf4b3
+    Hash: 7f8633fb99d0e14c8f9cf1f5df35fa3f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 49096597fe484c19d6d211434eadf4b3
+    Hash: 7f8633fb99d0e14c8f9cf1f5df35fa3f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -715,5 +715,5 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle2/ChronosStryTachie/NikeTachie/NikeTachie.prefab
 - Assets/SimulatedAssetBundles/tachiebundle2/YandereRacequeenStoryTachie/Car/LudmillaCar.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle4

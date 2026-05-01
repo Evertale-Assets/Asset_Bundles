@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 407668306
+CRC: 1733867386
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7c1fe8d76922715b669f4aad4864c6e2
+    Hash: f264973a0686040468840d698b064f04
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2486bc261818f8c41bfcf6772a142f0e
+    Hash: 723f2f87f12c8badb9c93dc601be7db6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7c1fe8d76922715b669f4aad4864c6e2
+    Hash: f264973a0686040468840d698b064f04
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,6 +20,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -48,8 +50,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 46030b89c02874944855bc9fad2db053, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
@@ -370,18 +370,18 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle10/oe201911DarkRizetteweap/ChatActors/Images/DarkRizette/DarkRizetteBlueEyeSadSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle10/oe201910babynorzaweap/ChatActors/ImagesTachie/TownGuardBlondeSmile.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act4
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle11
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle13
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlinearc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle11
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle13
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs

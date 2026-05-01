@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1270645825
+CRC: 2862870436
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2f9b71589a67260966095171be80803
+    Hash: 5298682b43c49033a322e99044a4a4cb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cbb5dab4ff028f7ed02b4a488e1c3e9c
+    Hash: 21023cc5fc0606d11c7493b4fb529baf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b2f9b71589a67260966095171be80803
+    Hash: 5298682b43c49033a322e99044a4a4cb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,6 +34,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
@@ -79,8 +85,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: df242ad0452fd9d41b316ab6a5bd5f86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 059879a56aadeb94a8849571fa422d40, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: a2181baa4a4a74a4ea7259bf4ad73c62, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
@@ -99,8 +103,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e4d57a9c7fe96549a9f55ad78378d9e, type: 3}
@@ -110,8 +112,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f52f94f3c50b7ed49b20eb061365ac37, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
 - Class: 114
@@ -1624,13 +1624,13 @@ Assets:
 - Assets/SimulatedAssetBundles/act2/Chapter2Tileset.prefab
 - Assets/SimulatedAssetBundles/act2/Voices/mst567.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/audiobundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/backgroundsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/mapjson
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/backgroundsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/mapjson
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs

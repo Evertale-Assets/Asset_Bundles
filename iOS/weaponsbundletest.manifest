@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2434483197
+CRC: 2672572537
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e47158537afb3b034b8695ef1560d020
+    Hash: f016f44ad1ba9f46b2b7d61878f89444
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c28018d3686b6ef89a8c6bd6adfb7bd9
+    Hash: cceab022d15d0fe992bc6b928235cad1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e47158537afb3b034b8695ef1560d020
+    Hash: f016f44ad1ba9f46b2b7d61878f89444
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -83,4 +83,4 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundletest/WeaponPortraitsBundleDNC/TestHammer.png
 - Assets/SimulatedAssetBundles/weaponsbundletest/BattleImages/TestKatana.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1

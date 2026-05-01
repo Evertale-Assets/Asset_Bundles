@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 806441583
+CRC: 1301357090
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 46f87e741bd339f2287da9edcb41ccbc
+    Hash: e44e49d7a6fc8376c658d6a7b4e47853
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 46f87e741bd339f2287da9edcb41ccbc
+    Hash: e44e49d7a6fc8376c658d6a7b4e47853
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2347,7 +2347,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle18/Voice/CleopatraDarkBoss/004.wav
 - Assets/SimulatedAssetBundles/monsterbundle18/Spine/OkitaRegular01/OkitaRegular01_Ally_SkeletonData.asset
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle1

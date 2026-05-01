@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2139548836
+CRC: 4280876373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80e0c95d432daed37a4b900e6a46bdb3
+    Hash: 87f149f1500af63539dd38a70e1e8044
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 80e0c95d432daed37a4b900e6a46bdb3
+    Hash: 87f149f1500af63539dd38a70e1e8044
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1139,7 +1139,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle5/Voice/ShadowElmina/001.wav
 - Assets/SimulatedAssetBundles/monsterbundle5/Spine/BabyDarkDragon01/BabyDarkDragon01_Enemy_SkeletonData.asset
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle1

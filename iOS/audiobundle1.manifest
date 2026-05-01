@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1559404823
+CRC: 1649520543
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03df142ba0c11022513cedc1f6881869
+    Hash: 590da4f949e9065fbed9e7f9feeaa77f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 820dc071edcbb80b46584252ffd391e4
+    Hash: f5a3a1b9c4356dfd7d6d97600c889901
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 03df142ba0c11022513cedc1f6881869
+    Hash: 590da4f949e9065fbed9e7f9feeaa77f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -261,11 +261,11 @@ Assets:
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_watersplash1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S2_Small_End_Buff_2_SummonEdit_WOW.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle3
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle15
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle19
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle7
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/eventsbundle8
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact11
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle15
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle19
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle7
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle8
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlineact11

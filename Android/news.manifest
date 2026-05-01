@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4032982790
+CRC: 3502831419
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a73c1c4b76d1cb771c24bae0bf9b79bf
+    Hash: a36d0d590b813ebd8f73fcc9ebeb8c11
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 24aa767956b52e5574f8901a4139a263
+    Hash: 159385876cad224afa88e69a5f050957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a73c1c4b76d1cb771c24bae0bf9b79bf
+    Hash: a36d0d590b813ebd8f73fcc9ebeb8c11
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -111,10 +111,10 @@ Assets:
 - Assets/SimulatedAssetBundles/news/GenericEventStoryNewsExpandedPrefab.prefab
 - Assets/SimulatedAssetBundles/news/hba10livenewsBannerExpandedVariant.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersimagesbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact10
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact11
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/bannersbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/bannersimagesbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact10
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact11
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs

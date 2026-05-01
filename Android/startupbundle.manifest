@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1749789756
+CRC: 1745519617
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 940f219871d77de11f895346ef933462
+    Hash: 145434cf942f763a52c227d8c6366ade
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a14f250f7e4a51c41ca42bdfc34c4829
+    Hash: 66452b101b18d3cb82b93e9c5b480fee
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 940f219871d77de11f895346ef933462
+    Hash: 145434cf942f763a52c227d8c6366ade
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,12 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6b74861f51ef6f94e898c49d2349f858, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be020f44608f14f43a9d1c4289430e19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5f7722d8625af747982b052745674cf, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -67,8 +73,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c21fcbdde31978e41b5fcb547ebef630, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: be020f44608f14f43a9d1c4289430e19, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fbede900d62f568409429ce293c339c9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 190240269d99d154981081e96a423cf7, type: 3}
@@ -88,8 +92,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 7ff5e364903a6e148b37f6ce82ac0b57, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 141dbe8b48b6f4f4fac89f20c5f4bee4, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b74861f51ef6f94e898c49d2349f858, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d0de3766a9da00342b3838c5fd7a4a61, type: 3}
 - Class: 114
@@ -198,8 +200,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5dcd33cfde6473a46b5ee08f27ba71da, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f5f7722d8625af747982b052745674cf, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0482d9dafb012104da708a15506e23ca, type: 3}
 - Class: 114
@@ -489,7 +489,7 @@ Assets:
 - Assets/StreamingAssetsHolder/startupbundle/Singleton.prefab
 - Assets/StreamingAssetsHolder/startupbundle/RedCircleNoticeIcon.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1864753660
+CRC: 4077840006
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c3f951e0a4ea8b964b98bbc301f0c5c2
+    Hash: 84c1a30721ea10c156a800eae9fd4958
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c3f951e0a4ea8b964b98bbc301f0c5c2
+    Hash: 84c1a30721ea10c156a800eae9fd4958
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -591,7 +591,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/013.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle5
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle5

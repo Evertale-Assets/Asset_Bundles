@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1850797243
+CRC: 253995497
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed7bea3ff9f8babde3e3dc91a48c885a
+    Hash: 9ee5ae5077c0390f76103884ac57e753
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ed7bea3ff9f8babde3e3dc91a48c885a
+    Hash: 9ee5ae5077c0390f76103884ac57e753
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -997,4 +997,4 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle3/ThorStryTachie/CallenGunTachie/CallenGunFace/CallenGunSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle3/CthulhuEvent Tachie/CleopatraDarkTachie/CleopatraDarkFace/CleopatraDarkSmirk.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact8
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlineact8

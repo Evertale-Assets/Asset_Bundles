@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2852344768
+CRC: 3045028626
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a0d42ced64a5ec9af2236c26e2b64fa
+    Hash: de0b9e969a2b9477c37af5f9965a88cf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8a0d42ced64a5ec9af2236c26e2b64fa
+    Hash: de0b9e969a2b9477c37af5f9965a88cf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1121,9 +1121,9 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle8/Spine/RizetteNew01/NewRizette01_Enemy_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle8/Spine/RizetteNew02/NewRizette02_Ally.atlas.txt
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle6
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle7
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle6
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle7

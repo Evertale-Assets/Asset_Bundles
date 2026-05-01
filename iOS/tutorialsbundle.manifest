@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 446035923
+CRC: 3729476571
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c52056c52d76bfc265499bfb095ff355
+    Hash: 66fcdc0c2c2296edf515d6ab303d9635
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cf9f75c99b68dbf77c321075662fab09
+    Hash: 0c42e12f5a8d289c8728d3a6d45a991c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c52056c52d76bfc265499bfb095ff355
+    Hash: 66fcdc0c2c2296edf515d6ab303d9635
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -181,7 +181,7 @@ Assets:
 - Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-003.png
 - Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastles-003.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/misc1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/misc1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle

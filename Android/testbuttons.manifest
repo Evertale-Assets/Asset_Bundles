@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1029757024
+CRC: 848823021
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f0392769796bedf5ef7668113a4bb311
+    Hash: 46f1457b1f364a77abb9900700dd53d0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b5508aead5f7a2dbd6732c64f6de0730
+    Hash: fe6867166dc0a77fecab4345c3acc8dd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f0392769796bedf5ef7668113a4bb311
+    Hash: 46f1457b1f364a77abb9900700dd53d0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdc737f98985d6f40adfac70d3424b1c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -51,11 +55,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8d2c91ad6cd0d6b40864e2e34f8f2aa3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cdc737f98985d6f40adfac70d3424b1c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e1c9e9f57238c464a962f7590ab538e7, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
@@ -144,4 +144,4 @@ Assets:
 - Assets/SimulatedAssetBundles/testbuttons/TestButtons.prefab
 - Assets/SimulatedAssetBundles/testbuttons/TestButtonsLeo.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs

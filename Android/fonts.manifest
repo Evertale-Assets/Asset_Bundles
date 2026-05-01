@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2966455736
+CRC: 2368715487
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80b5e48bd5a4648297e015382d5ab55f
+    Hash: 63c79f064d1ac44af21230efa293258f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 848f754d234039c33702e3155565c30b
+    Hash: 3633b4df47759e76aed3710eee483b60
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 80b5e48bd5a4648297e015382d5ab55f
+    Hash: 63c79f064d1ac44af21230efa293258f
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -170,4 +170,4 @@ Assets:
 - Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - OrangeGlow.mat
 - Assets/StreamingAssetsHolder/fonts/MatissePro-EBFinal - StandardSilverText.mat
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas

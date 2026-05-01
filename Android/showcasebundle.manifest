@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 924374668
+CRC: 2949217665
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 771f97100b7e6293f4f1a60d041bb02c
+    Hash: 6b8e9870354a67ecbcecf596123f2327
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7933abc4e87d183dcce8ecfacc1f3042
+    Hash: deb61b10c067b9a87159dc379864087e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 771f97100b7e6293f4f1a60d041bb02c
+    Hash: 6b8e9870354a67ecbcecf596123f2327
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -94,11 +94,11 @@ Assets:
 - Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial19.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV2.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/bannersbundle
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/prefabs
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/bannersbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

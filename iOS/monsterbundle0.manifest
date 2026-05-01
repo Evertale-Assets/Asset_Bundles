@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4271548965
+CRC: 2088491388
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 743618085dd9007d7d059de8d210e6f1
+    Hash: e71e58fa76f1c042b146ffa3d9490182
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a3d6458789c41cb816e64d71d9a4a94c
+    Hash: 6d9bd69d2de02fe8f028b5acd0e3c590
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 743618085dd9007d7d059de8d210e6f1
+    Hash: e71e58fa76f1c042b146ffa3d9490182
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -830,6 +830,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle0/Spine/LudmillaRenewal01/LudmillaRenewal01_Ally.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle0/Spine/OnionBoy01_Ally.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/animations
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas

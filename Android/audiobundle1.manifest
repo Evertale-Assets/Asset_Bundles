@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3126166365
+CRC: 3861223232
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9013b3e136cdae71ba0b6f65d7ac35a1
+    Hash: 264b9492638907b7d082fe4aefa76237
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 820dc071edcbb80b46584252ffd391e4
+    Hash: 88d3afd1ee3af95da2ae31b54197f4e1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9013b3e136cdae71ba0b6f65d7ac35a1
+    Hash: 264b9492638907b7d082fe4aefa76237
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,9 +19,9 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
@@ -261,11 +261,11 @@ Assets:
 - Assets/SimulatedAssetBundles/audiobundle1/batsfx_prefab/batsfx_watersplash1.prefab
 - Assets/SimulatedAssetBundles/audiobundle1/FX/BattleSFX/S2_Small_End_Buff_2_SummonEdit_WOW.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle15
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle19
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle7
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/eventsbundle8
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact11
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle15
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle19
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle7
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle8
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact11

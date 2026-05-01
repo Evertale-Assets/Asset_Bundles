@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 916066961
+CRC: 2579352745
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ad78d168cfacf7f25b7487a5ca8beab
+    Hash: 939ccef716760a38eb612a1bd435e16c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0ad78d168cfacf7f25b7487a5ca8beab
+    Hash: 939ccef716760a38eb612a1bd435e16c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -591,7 +591,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle7/Spine/EarthKaiju03_Enemy.prefab
 - Assets/SimulatedAssetBundles/monsterbundle7/Voice/SamuraiGirl/013.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle5

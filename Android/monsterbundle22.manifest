@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3563693091
+CRC: 2191537240
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 409a4e289c52fff5bb5ba8af42e7ceb5
+    Hash: e623cc681a39af0f2f01552d6c360b6e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 409a4e289c52fff5bb5ba8af42e7ceb5
+    Hash: e623cc681a39af0f2f01552d6c360b6e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -878,8 +878,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle22/Voice/SnowWhiteNew/136.wav
 - Assets/SimulatedAssetBundles/monsterbundle22/Voice/SnowWhiteNewBoss/136.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle3

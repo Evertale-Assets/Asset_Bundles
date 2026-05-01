@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1214418041
+CRC: 3116645963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9c1806f923a0924afba0faebb8b6861
+    Hash: d3e902b8b843856c557c95c94bf37939
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f9c1806f923a0924afba0faebb8b6861
+    Hash: d3e902b8b843856c557c95c94bf37939
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1217,7 +1217,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle13/Voice/EarthGoddess1/007.wav
 - Assets/SimulatedAssetBundles/monsterbundle13/Voice/MyshaIdolGirl/014.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle9
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle9

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4291403255
+CRC: 1130382950
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e0bcbf2c2df488405b0b953bc22b02a8
+    Hash: 20400ca9e21fb48c9bdeabe71cd4a7f2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cf9f75c99b68dbf77c321075662fab09
+    Hash: 0c42e12f5a8d289c8728d3a6d45a991c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e0bcbf2c2df488405b0b953bc22b02a8
+    Hash: 20400ca9e21fb48c9bdeabe71cd4a7f2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -181,7 +181,7 @@ Assets:
 - Assets/SimulatedAssetBundles/TutorialsBundle/Images/AllianceWar/UI-GuildWarsTutorials-003.png
 - Assets/SimulatedAssetBundles/TutorialsBundle/Prefabs/AllianceWar/AllianceWarCastles-003.prefab
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/misc1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/tachiebundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/misc1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle

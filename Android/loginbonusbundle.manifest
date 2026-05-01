@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3314788822
+CRC: 4225077389
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3c8287368c9c2a7c0d6be6f404cbd8c
+    Hash: a391c69d53981bb07ab195bd5664429f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c217e953f4e9fce5ee3bbbf4e1de80ea
+    Hash: c91aaa9a92d672441c782b3b2a57a720
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f3c8287368c9c2a7c0d6be6f404cbd8c
+    Hash: a391c69d53981bb07ab195bd5664429f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -87,10 +87,10 @@ Assets:
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/Spring2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/April2026.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/animations
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/battleeffectsbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/fonts
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/largeimagesbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/startupbundle
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/fonts
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/largeimagesbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/startupbundle

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 21596064
+CRC: 2336188715
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3a75ec109d4cce4dc30dc5f3d2df3ee
+    Hash: 6097c882b0785c940eb029747806122b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d4301ec1c2e548666fdbe11f0497d366
+    Hash: a9a909a4e85e46d65676a2bbcd25a666
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b3a75ec109d4cce4dc30dc5f3d2df3ee
+    Hash: 6097c882b0785c940eb029747806122b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -486,8 +486,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundletest/Spine/TestMonster08/TestMonster08_Enemy_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundletest/Spine/TestMonster22_Ally.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle9
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle9

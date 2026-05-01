@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2082442378
+CRC: 2663955781
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9b3e1992ee091540404dbb8459d49c7
+    Hash: 9b075ddadc03925d6d190b8a3d907e37
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d9b3e1992ee091540404dbb8459d49c7
+    Hash: 9b075ddadc03925d6d190b8a3d907e37
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1121,9 +1121,9 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle8/Spine/RizetteNew01/NewRizette01_Enemy_Material.mat
 - Assets/SimulatedAssetBundles/monsterbundle8/Spine/RizetteNew02/NewRizette02_Ally.atlas.txt
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle5
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle6
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle7
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle5
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle6
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle7

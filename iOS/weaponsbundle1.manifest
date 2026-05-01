@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2798007544
+CRC: 1034523346
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 31580e3bd45c58dc5d04e73169500c3f
+    Hash: f2d05d8eed5eca17a0f81caaf174be43
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f14974c0ed050c9d03ce154f0c45b55a
+    Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 31580e3bd45c58dc5d04e73169500c3f
+    Hash: f2d05d8eed5eca17a0f81caaf174be43
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -453,5 +453,5 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle1/WeaponPortraitsBundleDNC/GlowingBlueMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle1/LargeWeaponPortraits/TestKatanaPvp04.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/accessoriesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/accessoriesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1

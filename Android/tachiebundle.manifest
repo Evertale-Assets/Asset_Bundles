@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1324290879
+CRC: 2126923661
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1c1ce6dd4fcd78a879566a881656aae9
+    Hash: c757fd7c1e0d5597f35cc486e6926949
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1c1ce6dd4fcd78a879566a881656aae9
+    Hash: c757fd7c1e0d5597f35cc486e6926949
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -572,7 +572,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle/Act 10 Tachie/DarkRizetteWhiteTachie/DarkRizetteWhiteAngry.png
 - Assets/SimulatedAssetBundles/tachiebundle/MyshaStory Tachie/Rubero/RuberoShoutingPossessed.png
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/act3
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact5

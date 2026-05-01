@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 365312017
+CRC: 4013443361
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ffa22d010a281553d99e7d85858d444c
+    Hash: 882d4164e81a1a0b4e08658dbbab51eb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ffa22d010a281553d99e7d85858d444c
+    Hash: 882d4164e81a1a0b4e08658dbbab51eb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2601,7 +2601,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/029.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/002.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle12
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle12

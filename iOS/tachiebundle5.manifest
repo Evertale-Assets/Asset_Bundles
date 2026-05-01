@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1877514259
+CRC: 2586405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5184e09f60f06e9bbee67a1306e4f35
+    Hash: 59471a230229f2f6bd2925c789d23168
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 13e240e92cb245323fda4b43e80b53a8
+    Hash: 5692913a0a273cf9f662752f76812957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b5184e09f60f06e9bbee67a1306e4f35
+    Hash: 59471a230229f2f6bd2925c789d23168
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1011,7 +1011,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/AstridModernNewTachie/AstridModernNewFace/AstridModernNewHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle5/AnyaNewstryTachie/HokusaiTachie/HokusaiTachie.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlinearc1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle3
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/tachiebundle6
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlinearc1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle6

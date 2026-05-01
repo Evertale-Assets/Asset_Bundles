@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1455328665
+CRC: 1564384517
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee0172b6de88b596bb4bdef1e2c6fc62
+    Hash: de465cd60e9704963ba4947e39751528
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5c5e657cc7f2ff714f057ebe6cbcd439
+    Hash: c8d77ba91b8b6163f572999c6a6375b4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ee0172b6de88b596bb4bdef1e2c6fc62
+    Hash: de465cd60e9704963ba4947e39751528
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -241,11 +241,11 @@ Assets:
 - Assets/SimulatedAssetBundles/animations/UIAnimations/IAPBonus/PurchaseBonusRepeat.anim
 - Assets/SimulatedAssetBundles/animations/UIAnimations/UnitTraining/UnitTrainingGlowAmbientIntro.anim
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act6
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act6
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

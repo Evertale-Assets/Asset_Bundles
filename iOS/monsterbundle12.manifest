@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 453633710
+CRC: 2995882440
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc59f26b6c0c4678c80754695f1c9bfd
+    Hash: ae3b4382babb20b3d611444d5f576f3c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cc59f26b6c0c4678c80754695f1c9bfd
+    Hash: ae3b4382babb20b3d611444d5f576f3c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1155,6 +1155,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle12/SmallMonsterPortraits/CallenDragonDark02.png
 - Assets/SimulatedAssetBundles/monsterbundle12/Voice/JeanneDarkAngel/011.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0

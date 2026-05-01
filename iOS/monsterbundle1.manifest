@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3348510385
+CRC: 562541356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2b0fc0a2b068f16d52fe07558a3bdb8a
+    Hash: 810095769e290fddb40ec016902b4b0d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2b0fc0a2b068f16d52fe07558a3bdb8a
+    Hash: 810095769e290fddb40ec016902b4b0d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1613,6 +1613,6 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle1/Spine/BlueSeaSerpent01Binary/BlueSeaSerpent01_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle1/Spine/DragonKnight02Binary/DragonKnight02_Enemy_Atlas.asset
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0

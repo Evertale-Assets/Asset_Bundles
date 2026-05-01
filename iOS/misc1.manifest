@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3566616503
+CRC: 3681554545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c4ec6620337d001f925d6a79926c7d2
+    Hash: 3740d848a2b0a964dc73f05a8d488ba2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a36b59699a5090e7c47f3aa0612250a7
+    Hash: 1d5551f46f18e94288f33f6694e94dc3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c4ec6620337d001f925d6a79926c7d2
+    Hash: 3740d848a2b0a964dc73f05a8d488ba2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -286,7 +286,7 @@ Assets:
 - Assets/SimulatedAssetBundles/misc1/CloudsDNC/cloud3.png
 - Assets/SimulatedAssetBundles/misc1/Evolution/BaseFx/BaseFx_00010.png
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/act0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/largeimagesbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/startupbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/largeimagesbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/startupbundle

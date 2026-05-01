@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3444256331
+CRC: 3456642695
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 49859e0e97078ac76aa95e3f9ec717a5
+    Hash: 95a6a0ac5f58699aa363ff2675aa1032
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 49859e0e97078ac76aa95e3f9ec717a5
+    Hash: 95a6a0ac5f58699aa363ff2675aa1032
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2387,7 +2387,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle2/Spine/GoldAppleGirl03Binary/GoldAppleGirl03_Enemy.skel.bytes
 - Assets/SimulatedAssetBundles/monsterbundle2/Voice/GoldAppleGirl/027.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle3

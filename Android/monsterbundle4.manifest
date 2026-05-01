@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3127136848
+CRC: 185324471
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eee531aa37c71ed4fe63c73b627ddb68
+    Hash: 2e7f9569e097a1cb118e65dbf9a34791
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: eee531aa37c71ed4fe63c73b627ddb68
+    Hash: 2e7f9569e097a1cb118e65dbf9a34791
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2060,9 +2060,9 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle4/Spine/DeathKnightFix03/DeathKnight03_Enemy_SkeletonData.asset
 - Assets/SimulatedAssetBundles/monsterbundle4/Voice/AstridRegular/038.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle1
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle2
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle1
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle3

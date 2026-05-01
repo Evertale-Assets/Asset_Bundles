@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3235371365
+CRC: 1331916191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d608a8cd4dfdf5af24e92a237b45bfec
+    Hash: 72b0a6d366eba46fb5d95d8fbf37b7fc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d608a8cd4dfdf5af24e92a237b45bfec
+    Hash: 72b0a6d366eba46fb5d95d8fbf37b7fc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2518,8 +2518,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle20/LargeMonsterPortraits/MasamuneRegular02.png
 - Assets/SimulatedAssetBundles/monsterbundle20/Voice/OniSchoolDark/029.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle1
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle2

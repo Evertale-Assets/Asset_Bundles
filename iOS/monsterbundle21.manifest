@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3452969436
+CRC: 873527025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e66b473dcaeac16674ca6dd6953b0bf
+    Hash: 635b40da2e3850aca9e6b5c6a4f17476
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa7a6c0d573b6dc693f30116bfb96562
+    Hash: 92ee79813ff410557857468d82a99ec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7e66b473dcaeac16674ca6dd6953b0bf
+    Hash: 635b40da2e3850aca9e6b5c6a4f17476
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -2601,7 +2601,7 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/VenusRegular/029.wav
 - Assets/SimulatedAssetBundles/monsterbundle21/Voice/ChopinRegularBoss/002.wav
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/core
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle0
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/monsterbundle12
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/core
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle0
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/monsterbundle12

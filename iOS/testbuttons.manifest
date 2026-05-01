@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3040044962
+CRC: 901925773
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 044219e1790744b7b7163e9da88d5b78
+    Hash: 46cc723dde0201f4abecec3ca319921b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b5508aead5f7a2dbd6732c64f6de0730
+    Hash: 45cda006c7c83b1d16bb7eb1d491a42f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 044219e1790744b7b7163e9da88d5b78
+    Hash: 46cc723dde0201f4abecec3ca319921b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -144,4 +144,4 @@ Assets:
 - Assets/SimulatedAssetBundles/testbuttons/TestButtons.prefab
 - Assets/SimulatedAssetBundles/testbuttons/TestButtonsLeo.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/prefabs

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2176631929
+CRC: 34692850
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9781a8800b732a8c24a8dae9e97a5a47
+    Hash: 6e899ae75f6eaa270cab76080b3a0935
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 24aa767956b52e5574f8901a4139a263
+    Hash: 159385876cad224afa88e69a5f050957
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9781a8800b732a8c24a8dae9e97a5a47
+    Hash: 6e899ae75f6eaa270cab76080b3a0935
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -111,10 +111,10 @@ Assets:
 - Assets/SimulatedAssetBundles/news/GenericEventStoryNewsExpandedPrefab.prefab
 - Assets/SimulatedAssetBundles/news/hba10livenewsBannerExpandedVariant.prefab
 Dependencies:
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/bannersbundle
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/bannersimagesbundle
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/fonts
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/generalatlas
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact10
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/onlineact11
-- /Users/ryankelley/wkspaces/Evertale48f1/RPGEngine/AssetBundles/iOS/prefabs
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/bannersbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/bannersimagesbundle
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/fonts
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/generalatlas
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlineact10
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/onlineact11
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/prefabs

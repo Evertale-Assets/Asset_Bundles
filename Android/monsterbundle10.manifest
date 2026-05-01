@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 641301386
+CRC: 2182969061
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 115754be657a434258752ba9ef686c0f
+    Hash: 078ed787ac18c1a7634202ca5968a7c2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7ad2b3e16b9ab7a380bed8418dd8e79
+    Hash: 8520d482fda89643311d4d727c8d2ba8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 115754be657a434258752ba9ef686c0f
+    Hash: 078ed787ac18c1a7634202ca5968a7c2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1055,8 +1055,8 @@ Assets:
 - Assets/SimulatedAssetBundles/monsterbundle10/Spine/CatIdolGirl03/CatIdolGirl03_Ally.atlas.txt
 - Assets/SimulatedAssetBundles/monsterbundle10/Voice/ChristmasMinion/003.wav
 Dependencies:
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/core
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/generalatlas
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle0
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle5
-- C:/Users/Admin/Documents/Plastic/Evertale48f1/RPGEngine/AssetBundles/Android/monsterbundle8
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/core
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/generalatlas
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle0
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/monsterbundle8

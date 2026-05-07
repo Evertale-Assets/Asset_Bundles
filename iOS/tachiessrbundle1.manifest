@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2169554342
+CRC: 273347306
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69b36c1ef7d10837a661ac9f647bc103
+    Hash: 7c67e3a45c8751e819e7bebc4568533e
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 69b36c1ef7d10837a661ac9f647bc103
+    Hash: 7c67e3a45c8751e819e7bebc4568533e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -445,8 +445,9 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/IbarahimeRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSisterBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/YandereMaidSwimsuit01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/NagiRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/BeautyBeastRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/WhiteSnakeGirl01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/NagiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SchoolGirlWarrior01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SwimsuitLudmilla01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FireDragon01.png
@@ -486,6 +487,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MyshaIdolGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GothGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ReiSwimsuit01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/BeautyBeastRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaYukata01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AliceMagicalGirl01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/OniSchoolSamurai01.prefab
@@ -665,9 +667,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AliceDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SnowWhiteMaid01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Theo01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/BeautyBeastRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/JeanneValentine01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Crescent02.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Theo01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkAstridNewYear01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/UnicornRegular01.prefab

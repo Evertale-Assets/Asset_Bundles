@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3912704159
+CRC: 1799635537
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 137cabbcb567f5fb3c423830d3c2fc72
+    Hash: a16412b8f4307b8ffb50c914513a4f16
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 137cabbcb567f5fb3c423830d3c2fc72
+    Hash: a16412b8f4307b8ffb50c914513a4f16
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -64,6 +64,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/KingArthurEvil.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/OkitaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/AirDragon.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/BeautyBeastRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RankedLiveNow.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/BahamutGirlRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaNew.png

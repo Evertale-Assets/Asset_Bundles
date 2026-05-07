@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 677663619
+CRC: 3723486644
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db0f79f3c81793ea90671b9878751a7e
+    Hash: 337f3cd0aed71ec14dbef16d675563bd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: db0f79f3c81793ea90671b9878751a7e
+    Hash: 337f3cd0aed71ec14dbef16d675563bd
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -101,6 +101,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IceWitch.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/BeautyBeastRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaSchoolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FoxMutant.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneDarkSwimsuit.png

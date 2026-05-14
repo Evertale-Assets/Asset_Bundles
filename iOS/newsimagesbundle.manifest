@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 938115996
+CRC: 188138281
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e0391511177f8428f2fbde46be31d43b
+    Hash: c42e46d0cb526ed4e7d3b7811d68f3c0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e0391511177f8428f2fbde46be31d43b
+    Hash: c42e46d0cb526ed4e7d3b7811d68f3c0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -87,6 +87,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/ZoroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/InugamiRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/KintaroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Ossia.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MechaSisterSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/YamatoRegular.png

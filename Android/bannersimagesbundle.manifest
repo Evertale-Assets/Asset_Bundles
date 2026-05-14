@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1264118583
+CRC: 3681381726
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6083a7f7813fd9f699b5791cc544d66
+    Hash: 4d90ac716a2e94b2c5a23314a3290e89
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d6083a7f7813fd9f699b5791cc544d66
+    Hash: 4d90ac716a2e94b2c5a23314a3290e89
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -205,6 +205,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RolotiaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CatIdolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HorseIdolGirl.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KintaroRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NapoleonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OkitaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteYoung.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 40229989
+CRC: 736399371
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2c154351cc3718caaa12631fa4a2591b
+    Hash: c8728bb0a3b62381082b986afa8fad02
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2c154351cc3718caaa12631fa4a2591b
+    Hash: c8728bb0a3b62381082b986afa8fad02
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -66,6 +66,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/elizabethstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/beautybeaststry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/masamunestry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/victoriastry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/Chronosstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/cleopatrastry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/momotarostry.png

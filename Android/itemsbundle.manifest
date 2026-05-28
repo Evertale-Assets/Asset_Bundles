@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3890477129
+CRC: 978471814
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 92b06c4c6e51c9660b31f62f70bd3ebb
+    Hash: 030a9b267c44d809c856d1ebcc5c4c74
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 92b06c4c6e51c9660b31f62f70bd3ebb
+    Hash: 030a9b267c44d809c856d1ebcc5c4c74
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -122,6 +122,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evociderlow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/allianceexp.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/WepExpOrb.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinvictoriastry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/mobexplow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coindrizetteswimstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/HeroExpOrb.png

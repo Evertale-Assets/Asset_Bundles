@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 714883450
+CRC: 1819362099
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ab39a9a85fa8b2da2fb117a37ac9e48
+    Hash: 7ae09ee8e905214465d61bf5437c21ed
   TypeTreeHash:
     serializedVersion: 2
     Hash: c91aaa9a92d672441c782b3b2a57a720
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4ab39a9a85fa8b2da2fb117a37ac9e48
+    Hash: 7ae09ee8e905214465d61bf5437c21ed
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -84,8 +84,8 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/May2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/May2026.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Spring2026.prefab
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Spring2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/LateSpring2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/LateSpring2026.prefab
 Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/animations

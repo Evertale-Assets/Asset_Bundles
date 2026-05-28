@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 539449475
+CRC: 663390741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 297c0402ec0f73e0544494aea996d67c
+    Hash: 898e48f50fe52383c9659b2a6e5232f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 297c0402ec0f73e0544494aea996d67c
+    Hash: 898e48f50fe52383c9659b2a6e5232f4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -68,6 +68,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/GawainDarkGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChronosGreatAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CleopatraGreatAxe01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/RibbonHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedDragonKnightHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ScissorSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SatanSpear01.png
@@ -200,7 +201,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AstridNewSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DivineSpear01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/KaguyaJewelStaff01.png
-- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TimeClockKatana01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RibbonHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AltarKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GreenHueKatana01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GenieOrbStaff03.prefab
@@ -210,6 +211,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/AbandonedChurchAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BurningMechaSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BattleshipGreatSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TimeClockKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/KingArthurGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CleopatraGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TristanHarpGreatAxe01.prefab
@@ -364,15 +366,17 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/PercivalGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/TimeClockKatana03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RibbonHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/SatanSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/IbarahimeGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/TristanHarpGreatAxe01.png
-- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ChopinPianoMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RibbonHammer01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LancelotGoldHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CleopatraMoonAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CityNightGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SatanSpear01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DragonSlayerSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ChopinPianoMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/AliceMagicalStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ElectricGuitarGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GoldGildedKatana01.png
@@ -429,6 +433,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CopperMirrorMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ZeusLightningGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceFallsKatana02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RibbonHammer03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ArthurWingAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CleopatraMoonAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/EnergyWingAxe01.png
@@ -581,6 +586,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CursedHolyGreatSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ApocalypseHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/NapoleonPistolSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RibbonHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/HijikataGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuDarkHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThornCrownMace01.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1343645460
+CRC: 2406604804
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e5570a77ac02df697e7faffe47119abf
+    Hash: 722a114af97d2f57a6066f92520aaee6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c0507393b7d6a174e62b548f77e4e00a
+    Hash: e2ec6f94dda8af0e325e45d359ac40dd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e5570a77ac02df697e7faffe47119abf
+    Hash: 722a114af97d2f57a6066f92520aaee6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,10 +24,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -59,9 +55,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
 - Class: 114
@@ -152,18 +152,24 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatScenes/DesertFlowerFive.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventFOUR.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Images/SafeToCompress/ChatBackground/BGDesertGate.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/GawainChatAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Images/SafeToCompress/ChatBackground/BGDesertTree.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ArthurSwimChatAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainCommand.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventTWELVE.prefab
@@ -171,14 +177,18 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LuciusHurt.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatLightningLoop.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatScenes/DesertFlowerTwo.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/EncounteravalonweapexstgLv60-70RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LeFaySurprised.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatChargeExplosion.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle10D1.prefab
@@ -199,14 +209,17 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainSurprise.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatScenes/AvalonWeapONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerbattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatFireAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/Prefabs/BanditMale.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/KayChatSnakeSummon.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LuciusSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry08D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Images/SafeToCompress/ChatBackground/BGForestTreeRoots
@@ -215,6 +228,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LeFaySmileBlush.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaCheeky.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/KayChatDarkAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Images/SafeToCompress/ChatBackground/BGDesertNoBones1000.png
@@ -222,9 +236,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Images/SafeToCompress/ChatBackground/BGPlainsNoMountains.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LuciusAngry.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapbattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/SlashYellow.png
@@ -246,8 +262,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Images/BGGodEye.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/Prefabs/Magra.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/chatfx/ChatBGChangeSingle.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventELEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonweapbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LeFaySad.png
@@ -261,27 +280,35 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/Prefabs/Alba.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LuciusDesperate.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/EncounteravalonweapexstgLv70-80RandomD2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/Prefabs/Zeshua.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/ImagesTachie/OumeiSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainSeriousApple.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapbattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LeFayLaugh.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Images/BGLivingRoom.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerbattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainEvil.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/ImagesTachie/AlbaSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/Prefabs/MerdainTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatPowerup.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/GawainChatDarkAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerbattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle06D1.prefab
@@ -301,6 +328,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/KayChatAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatScenes/AvalonWeapTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/JeanneChatAttack.prefab
@@ -309,17 +337,22 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/MerdainAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapbattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatScenes/AvalonWeapTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaNormal.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatScenes/DesertFlowerSeven.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatScenes/DesertFlowerFour.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonweapbattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerbattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/LuciusSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventFIVE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaHurt.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatLightning.prefab
@@ -327,7 +360,10 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/ChatExplosion.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerbattle02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastryexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonweapbattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg05D1.prefab
@@ -341,7 +377,9 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGFEs/kingarthurstrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Images/SafeToCompress/ChatBackground/BGAvalonTree.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatFX/LancelotChatDarkAttack.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/VelsaSurprised.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/ImagesTachie/MagraAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg06D1.prefab
@@ -355,14 +393,18 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/ImagesTachie/Casket.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/ChatActors/ImagesTachie/BanditMale.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/ChatScenes/VictoriaEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/Prefabs/CasketTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGroups/Encounteravalonweapexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Images/SafeToCompress/ChatBackground/BGSandyBeach.png
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/Prefabs/LeFayTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattlesGroups/Encounterdesertflowerexbattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Images/BGWoodenBedroom.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGroups/Encountervictoriastry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Battles/BattleGroups/Encounterkingarthurstry02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/Battles/BattleGFEs/avalonwepexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201904desertflower/Battles/BattleGFEs/desertflowerexbattle02D1.prefab
@@ -376,6 +418,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventTEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/Prefabs/VelsaTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/Images/BGForestHouse.png
+- Assets/SimulatedAssetBundles/eventsbundle13/oe202605victoriastry/Battles/BattleGFEs/victoriastrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatScenes/AvalonWeapFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe202308kingarthurstry/ChatScenes/KingArthurEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle13/oe201907avalonweap/ChatActors/Prefabs/LuciusTachie.prefab
@@ -387,6 +430,7 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act2
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act3
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act5
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/audiobundle1
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/backgroundsbundle1
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/battleeffectsbundle1
@@ -398,6 +442,9 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle14
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle15
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle16
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle17
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle19
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle3
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle4
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle5
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle6
@@ -407,8 +454,10 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact11
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact4
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact8
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc1
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle2
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle3
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle4

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3144384415
+CRC: 1444703122
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbf2340ab3eb3b5713eb45781efbdf93
+    Hash: e242cc66fbf55eb64d2199fb13b05245
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dbf2340ab3eb3b5713eb45781efbdf93
+    Hash: e242cc66fbf55eb64d2199fb13b05245
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -174,6 +174,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/TiamatRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MechaSister01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ReiSwimsuit01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LudmillaBallet01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CowGirl01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RizKouhaiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CinderellaRegular01.png
@@ -207,6 +208,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RolotiaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DeerGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/YandereMaidDark01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaBallet01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/VenusRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GilgameshRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NobunagaRegular01.prefab
@@ -436,6 +438,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MyshaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SilverHairBerserker01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AngelFighter01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaBallet01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/HijikataRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SnowWhiteMaid01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/FreyaNew01.prefab

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3024344232
+CRC: 375511839
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b4defc99f52d7f148e840eb33992deb
+    Hash: 4e4e5c2779027b8b8d20967ebe62102c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1b4defc99f52d7f148e840eb33992deb
+    Hash: 4e4e5c2779027b8b8d20967ebe62102c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -211,6 +211,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/RoundTableKnight.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KaguyahimeSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteSwimsuit.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaBallet.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/AstridRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DarkLudmilla.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CallenBride.png

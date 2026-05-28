@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2530271577
+CRC: 2781470859
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 061fb75cec519c8f2277d797bc92a274
+    Hash: 44ded41098af06132d8fc66cb9174bce
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 061fb75cec519c8f2277d797bc92a274
+    Hash: 44ded41098af06132d8fc66cb9174bce
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -42,6 +42,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/astridnewstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/claricestry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/idolstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/victoriastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/anyanewstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/yrizstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/gyurellestory.png

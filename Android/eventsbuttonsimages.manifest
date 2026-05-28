@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 547560052
+CRC: 1486303687
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de3d894c3e2f1e19cb79f97cdba4db36
+    Hash: cebe6a5323ed2553b013bbc46f1411ef
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: de3d894c3e2f1e19cb79f97cdba4db36
+    Hash: cebe6a5323ed2553b013bbc46f1411ef
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -26,6 +26,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/christmasstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/sgirlstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/ibarahimestry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/victoriastry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/cerberusstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/callenswimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/anastasiastry.png

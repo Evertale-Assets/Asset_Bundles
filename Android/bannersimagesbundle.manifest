@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3681381726
+CRC: 1206208902
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d90ac716a2e94b2c5a23314a3290e89
+    Hash: fc75c8bd449e11907dda7c03d5f31f96
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4d90ac716a2e94b2c5a23314a3290e89
+    Hash: fc75c8bd449e11907dda7c03d5f31f96
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -99,6 +99,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ButterflyLady.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnight.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IceWitch.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BeautyBeastRegular.png
@@ -134,7 +135,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
@@ -172,12 +173,11 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NovablastDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaKnight.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/UnicornRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AirDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IbarahimeSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurEvil.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RapunzelRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/UnicornRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CthulhuGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaIdolGirl.png
@@ -220,6 +220,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FireDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneBride.png

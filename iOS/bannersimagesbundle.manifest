@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1342700891
+CRC: 1547808407
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aa51a9b457b7c31a65d42cfaa3fd8030
+    Hash: eea98b988f40aac5de02a0c5804a1225
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: aa51a9b457b7c31a65d42cfaa3fd8030
+    Hash: eea98b988f40aac5de02a0c5804a1225
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -190,6 +190,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LegendFireDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-E.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VictoriaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GothGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MasamuneRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-A.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1579894371
+CRC: 2755367414
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7de2a6086197d60b3f568e97ade2a48a
+    Hash: 231b9eece7894adaaebea9587f311b34
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7de2a6086197d60b3f568e97ade2a48a
+    Hash: 231b9eece7894adaaebea9587f311b34
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -183,6 +183,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/OrcanixShield01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LinkedRings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AnastasiaHat01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneDress01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ArcaneRing01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakuraArmor01.prefab
@@ -194,6 +195,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/OrcanixCloak01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaijuShield01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/RolotiaClock01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/JeanneDress01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SwimRing01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ChampionBelt01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakamotoCloak01.prefab
@@ -223,15 +225,16 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakamotoCloak01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Feathers01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BahamutShield01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaidarosHelmet01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneDress01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SziFire01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaJacket01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/KaidarosHelmet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedGreenDroplet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/DragonfireBottle01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AirDragonArmor01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ValkyrieMedal01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/GreenRing01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/JeanneFlag01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaJacket01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/CobraRod01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RizetteBelt01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/NovaBlastArmor01.prefab

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1486303687
+CRC: 1880313246
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cebe6a5323ed2553b013bbc46f1411ef
+    Hash: fcfc86c8686c805f98334a6b4342f451
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cebe6a5323ed2553b013bbc46f1411ef
+    Hash: fcfc86c8686c805f98334a6b4342f451
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -66,6 +66,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/nobunagastry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/musashistry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/bahamutstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/basiliskstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/davincistry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/camelotstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/claricestry.png

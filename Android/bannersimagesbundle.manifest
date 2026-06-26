@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4447895
+CRC: 3549284285
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ee7649631be2059c218f51a344430e5
+    Hash: c44f765c4c31b5191af10e414efbc3e4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3ee7649631be2059c218f51a344430e5
+    Hash: c44f765c4c31b5191af10e414efbc3e4
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -75,7 +75,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NewYearRolotia.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ZeusRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Kirin.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HimikoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaDark.png
@@ -84,8 +83,9 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoldAppleGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnightDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/InugamiRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/Taotie.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LupinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteBride.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/Taotie.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidRaceQueen.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BurnedGirlRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BlueSeaSerpent.png
@@ -97,7 +97,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizetteSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HijikataRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ButterflyLady.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaNew.png
@@ -130,9 +130,8 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KenshinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneValentine.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular-0.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular.png
@@ -155,7 +154,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
@@ -194,6 +193,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GothGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MasamuneRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-A.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneFusion.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-J.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuBride.png

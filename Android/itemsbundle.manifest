@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 978471814
+CRC: 2484638364
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 030a9b267c44d809c856d1ebcc5c4c74
+    Hash: d53c957b3f63b446a4cfd18fcb965140
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 030a9b267c44d809c856d1ebcc5c4c74
+    Hash: d53c957b3f63b446a4cfd18fcb965140
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -187,6 +187,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinreddragonschoolstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinanyanewstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinmechabridestry.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinbasiliskstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evoairlow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evohornhigh.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakLevelOrbAir.png

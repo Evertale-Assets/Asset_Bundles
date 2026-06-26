@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 868037298
+CRC: 2213032635
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8258d6dc19f5fbe425a76c3af0ce6a2
+    Hash: 763b6944bf95ce963f41ba8f29fa7ab0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e8258d6dc19f5fbe425a76c3af0ce6a2
+    Hash: 763b6944bf95ce963f41ba8f29fa7ab0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -24,12 +24,13 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/AliceMagicalGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Kisara.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ExcaliburRegular.png
-- Assets/SimulatedAssetBundles/newsimagesbundle/KongmingRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/JeanneFusion.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LuBuRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaYukata.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Arga.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteCrestbearer.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CatIdolGirl.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/KongmingRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/AstridNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DarkRizetteChristmas.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DarkRizetteSwimsuit.png
@@ -100,6 +101,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/PerryRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/FrankensteinRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ShutenDoji.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/LupinRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/EarthGoddess.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HijikataRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ThorRegular.png

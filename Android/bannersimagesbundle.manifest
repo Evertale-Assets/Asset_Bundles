@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3549284285
+CRC: 167004545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c44f765c4c31b5191af10e414efbc3e4
+    Hash: b5a946bcca784056e6dcce7ac3b5aac1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c44f765c4c31b5191af10e414efbc3e4
+    Hash: b5a946bcca784056e6dcce7ac3b5aac1
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -151,9 +151,10 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DonQuixoteRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/BasiliskRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
@@ -208,6 +209,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HorseIdolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KintaroRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NapoleonRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/BasiliskRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OkitaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteYoung.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Ossia.png

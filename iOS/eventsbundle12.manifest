@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2793300330
+CRC: 2489292976
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70f4943a75acb7d5a40b74325cd36e55
+    Hash: fc19f1acd0304a0810b6244431fee25d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3bc2f6c432b43086de67b35b185a953c
+    Hash: ff090d3e9077c627d8db4e6d96761075
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 70f4943a75acb7d5a40b74325cd36e55
+    Hash: fc19f1acd0304a0810b6244431fee25d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,6 +29,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8d1c687582f84b14ab611f5a1b02f387, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6432e75d6bbb38541992c26a994bfd67, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: de2c009835e400c46af761ca476c11c8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cb0dd0dfea7477745a1eab7be0673e8f, type: 3}
@@ -47,11 +49,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: cdf378788a219cf438bae9c94835b950, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e43f16603f0147c48911b2e3781ed20a, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 886de74ccab693f4e8e51692de18cca5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5c393e3029053744880ab71f4c99f844, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8e5bd8ef9b946424e9e792e616e7bc58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39b1d2d0d8b3ba44a951860c5d353c3c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5350a841d3ecc03468bc0afca012c3f6, type: 3}
 - Class: 114
@@ -138,6 +144,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/ChatScenes/CallenSwimsuitSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Prefabs/holy-Chat-left.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstryexstg02D1.prefab
@@ -147,6 +154,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Battles/BattleGFEs/basiliskstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGroups/Encountercallenswimstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Prefabs/holy-Chat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202108callenswimsuitstorywep/Battles/BattleGFEs/callenswimstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGFEs/bridestrybattle08D1.prefab
@@ -270,6 +278,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry13D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Battles/BattleGroups/Encounterbasiliskstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGFEs/snowstrybattle12D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Prefabs/holy-Chat-right.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202106snowstry/Battles/BattleGroups/Encountersnowstry07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202107bridestry/Battles/BattleGroups/Encounterbridestry09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle12/oe202606basiliskstry/Battles/BattleGroups/Encounterbasiliskstryexstg09D1.prefab
@@ -348,9 +357,9 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act3
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act4
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act5
-- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act6
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/audiobundle1
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/backgroundsbundle1
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/battleeffectsbundle1
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle11
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle13

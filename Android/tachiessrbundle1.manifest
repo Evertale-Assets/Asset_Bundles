@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2177816769
+CRC: 2693911956
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9759c3a7be5aea5f3334516572ccbf4
+    Hash: 409bc5f40e4cd506ed5eba6e856d361d
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f9759c3a7be5aea5f3334516572ccbf4
+    Hash: 409bc5f40e4cd506ed5eba6e856d361d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -232,6 +232,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KaguyahimeSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KingArthurRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ManchesterRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaDarkNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ReiBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KenshinRegular01.prefab
@@ -528,6 +529,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElizabethRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LuciferRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/AstridNew01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ManchesterRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CrossSwordKnightDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FreyaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizetteSwimsuit01.prefab
@@ -563,6 +565,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Arga01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/JeanneDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SnowWhite01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ManchesterRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Cyrus01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DemonElfBoy01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/KingArthurSwimsuit01.png

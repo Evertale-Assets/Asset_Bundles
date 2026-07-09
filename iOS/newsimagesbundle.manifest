@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1181413080
+CRC: 3140868567
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 152e52a87d38823ef65cd4b8814864b7
+    Hash: f08e75bc81f523e866142d3ee491991b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 152e52a87d38823ef65cd4b8814864b7
+    Hash: f08e75bc81f523e866142d3ee491991b
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -96,6 +96,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/JeanneDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HorseIdolGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RoundTableKnightDark.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/ManchesterRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CowGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/NovablastDragon.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/PerryRegular.png

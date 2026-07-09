@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3063594928
+CRC: 740786844
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c59ca9b46b5fd70e93aba5b0a8700eb
+    Hash: e76fa66374deef1f11928a8ce3e2e9b8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6c59ca9b46b5fd70e93aba5b0a8700eb
+    Hash: e76fa66374deef1f11928a8ce3e2e9b8
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -84,6 +84,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnightDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/InugamiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LupinRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ManchesterRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Taotie.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidRaceQueen.png

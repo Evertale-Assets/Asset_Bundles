@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 470518317
+CRC: 2663595449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0fa9afa4e29b8eda68540115a68c3bc2
+    Hash: 42361f073569e12ccbeef855d16d7931
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6193ea6d62ef6f7743d292581a0b7711
+    Hash: c990a2b55039fabd29c27a2fe31881c2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0fa9afa4e29b8eda68540115a68c3bc2
+    Hash: 42361f073569e12ccbeef855d16d7931
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,8 +26,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
@@ -46,6 +44,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d8f84fa372e75b54d9b13b03b05f4092, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8def5664648d6714e819bd6e3a50c6dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4774eca5079a5a45b695cbcd0b672f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe5257fdd9ca27f4aa36b832d3929ce6, type: 3}
 - Class: 114
@@ -151,40 +151,40 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.Toggle/ToggleEvent
 Assets:
 - Assets/SimulatedAssetBundles/bannersbundle/HorizontalLayoutGachaBanner.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19i.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20i.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ChineseTradGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/change.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericGachaPrefab.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19a.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20a.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/ClassicBannerNew.png
 - Assets/SimulatedAssetBundles/bannersbundle/GenericFinalBeginnerGachaFeatureBanner.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19h.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19f.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20h.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20f.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/FrenchGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/PortraitsData.asset
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19g.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/ShowcaseSSRGuaranteedBannerSpecial19.png
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20g.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/ShowcaseSSRGuaranteedBannerSpecial20.png
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ChineseSimpGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/JapaneseGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/EnglishGauranteeTextPrefab.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/hbFeatureBannerSpecial19.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/hbFeatureBannerSpecial20.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefabV1.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/ItalianGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericFinalBeginnerGachaPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/RegularFriendBannerNew.png
 - Assets/SimulatedAssetBundles/bannersbundle/GenericPickupGachaPrefabV2.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19e.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20e.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBannerV2.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19c.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20c.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBannerV1.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19b.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20b.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/ClaimGachaChest.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/KoreanGauranteeTextPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/RegularFriendGachaPrefabNew.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaFeatureBannerhbbeginnersp2Variant.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/TutorialGacha/TutorialGacha.png
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19d.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20d.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericBeginnerGachaPrefab.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/beginnersp2GachaPrefabNewNoVid.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/newyearsp2Gacha/SafeToCompress/newyearsp2.png
@@ -194,7 +194,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersbundle/GenericBeginnerGachaFeatureBanner.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/SafeToCompress/TutorialGacha/TutorialGachaPicker.png
 - Assets/SimulatedAssetBundles/bannersbundle/GaraunteeText/GermanGauranteeTextPrefab.prefab
-- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial19j.prefab
+- Assets/SimulatedAssetBundles/bannersbundle/BeginnerGachaFest/GachaPrefabspecial20j.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GenericGachaFeatureBanner.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/HorizontalLayoutGachaBannerAnniverary.prefab
 - Assets/SimulatedAssetBundles/bannersbundle/GachaFeatureBanner.prefab

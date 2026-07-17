@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 740786844
+CRC: 1187950969
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e76fa66374deef1f11928a8ce3e2e9b8
+    Hash: 76daf8a49d0d8ba803160f6a44b23822
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e76fa66374deef1f11928a8ce3e2e9b8
+    Hash: 76daf8a49d0d8ba803160f6a44b23822
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,10 +18,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-G.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-G.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElfFireSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KaguyahimeSwimsuit.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-F.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-F.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NikeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KaguyahimeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SwimsuitLudmilla.png
@@ -65,7 +65,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceMagicalGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GilgameshRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteedBannerSpecial19.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteedBannerSpecial20.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/VenusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoemonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaRegular.png
@@ -115,7 +115,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ShannaRidingHood.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PerryRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-B.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-B.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CleopatraRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
@@ -189,21 +189,21 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FreyaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LegendFireDragon.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-E.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-E.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/VictoriaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GothGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MasamuneRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-A.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-A.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneFusion.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-J.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-J.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaBunny.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Crescent.jpg
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KongmingRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaChristmas.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-H.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-H.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LuciferRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RolotiaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CatIdolGirl.png
@@ -239,13 +239,13 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RolotiaDark.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-C.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-C.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AnastasiaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CowGirl.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-D.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-D.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FreyaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LokiRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial19-I.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-I.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Cyrus.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KojiroRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuDark.png

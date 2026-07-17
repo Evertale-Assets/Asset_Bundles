@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1114383769
+CRC: 1466286136
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 08aa5a911deb9714cbe3fe1f165c1a3b
+    Hash: e05ca34b97c8b8cc5029cfb40791fbb5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c91aaa9a92d672441c782b3b2a57a720
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 08aa5a911deb9714cbe3fe1f165c1a3b
+    Hash: e05ca34b97c8b8cc5029cfb40791fbb5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,9 +82,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/June2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Summer2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/July2026.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/June2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Summer2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/July2026.prefab
 Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/act0

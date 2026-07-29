@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2955337632
+CRC: 1526867720
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5f2b60a672092b3aebc2cfb326b72c0a
+    Hash: 4deb7687a966b45bd46e230f1079382a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 726911a666eae9292becb2f5cde8683c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5f2b60a672092b3aebc2cfb326b72c0a
+    Hash: 4deb7687a966b45bd46e230f1079382a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -596,6 +596,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiebundle4/mermaidstryTachie/SnowBlackMaidTachie/SnowBlackMaidFace/SnowBlackMaidPanic.png
 - Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuSeriousOpenBlush.png
 - Assets/SimulatedAssetBundles/tachiebundle4/AnastasiaStryTachie/DonQuixoteTachie/DonQuixoteFace/DonQuixoteShockOmega.png
+- Assets/SimulatedAssetBundles/tachiebundle4/NobunagaStory Tachie/HakuTachie/HakuFace/HakuHurt.png
 - Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuDarkTachie/GakuDarkFace/GokuDarkSmile.png
 - Assets/SimulatedAssetBundles/tachiebundle4/GokuDarkStoryTachie/GokuTachie/GokuFace/GokuStareLaugh.png
 - Assets/SimulatedAssetBundles/tachiebundle4/LudmillabrideStory Tachie/NobleTachie/NobleHappy.png

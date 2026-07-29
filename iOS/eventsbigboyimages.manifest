@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 935508728
+CRC: 227996407
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff04010e9bd7c08bbe517859995a2b5d
+    Hash: b7a6228b30adbf724d50dc203b8a34ba
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ff04010e9bd7c08bbe517859995a2b5d
+    Hash: b7a6228b30adbf724d50dc203b8a34ba
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -29,6 +29,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/desertflostry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/reiswimstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/drizetteswimstry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/xiaolistry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/drizstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/musashistry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/goemonstry.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2791188091
+CRC: 586001463
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d71c11b9bc3676e07db33eb4b4aa6aea
+    Hash: e9907410dbaf26565c9d437eed1e801f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d71c11b9bc3676e07db33eb4b4aa6aea
+    Hash: e9907410dbaf26565c9d437eed1e801f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -141,6 +141,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/WhiteShardMask1.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinfairytalestory.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakGenericOrb.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinxiaolistry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evofairymid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakLevelOrbDeath.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakLevelOrbEarth.png

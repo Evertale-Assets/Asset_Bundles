@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1187950969
+CRC: 865697598
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76daf8a49d0d8ba803160f6a44b23822
+    Hash: ef8f17a4547e305e8308f1f7995c36b3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 76daf8a49d0d8ba803160f6a44b23822
+    Hash: ef8f17a4547e305e8308f1f7995c36b3
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -120,7 +120,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MerlinRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/WashingtonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GenieRegular.png
@@ -139,7 +138,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaRacequeen.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ExcaliburRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeathKnight.png
@@ -250,7 +248,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KojiroRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Alice.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew-2.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaModern.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DancingAssassin.png

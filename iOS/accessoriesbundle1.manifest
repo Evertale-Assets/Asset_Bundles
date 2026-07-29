@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 815775812
+CRC: 2354241321
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2846ca744749f0ab1f1d3617fafb295
+    Hash: 3afb51a8bd704c1b88497363b5f11abb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b2846ca744749f0ab1f1d3617fafb295
+    Hash: 3afb51a8bd704c1b88497363b5f11abb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -74,11 +74,12 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MagnifoDagger01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/TristanHarp01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaSwimsuitClock01.png
-- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pearl01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MizuchiDarkMedal01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Bracer01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/JeanneFlag01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/SakuraArmor01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZoroMask01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Pearl01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/YukiSunHat01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HawkCoin01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/BergarianHelmet01.png
@@ -90,6 +91,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MaidHairBand01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Katashiro01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MyshaPauldron01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/MizuchiDarkMedal01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/YamatoTurret01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AlchemyFlask01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/EnchantedRing01.png
@@ -201,6 +203,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SakamotoCloak01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ExeterniaTalisman01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/WingTiara01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/MizuchiDarkMedal01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZeusGauntlet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/KukuriKnife01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Feathers01.png

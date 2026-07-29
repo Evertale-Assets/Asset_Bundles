@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 484497541
+CRC: 3011618116
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 17f6c03c3d751eb19a405511fb363963
+    Hash: 25a1ab3b964f504e3cf57b1e4b9822f0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d8ffa86f457e68215a566d4b2231a9b
+    Hash: 6cf4e2d59ce18d418d65fa8df28f651f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 17f6c03c3d751eb19a405511fb363963
+    Hash: 25a1ab3b964f504e3cf57b1e4b9822f0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,8 +22,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -48,6 +46,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 347893aec08dd2c4a9316dd583e70908, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e0bdaaf45568c9e4ea808d88a695e591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 297fa12157f0e0d4da1645f195ce540c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0d9ba1e22c978a24081fc8d47578f2fa, type: 3}
 - Class: 114
@@ -142,12 +142,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastoryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastory02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartyELEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantShouting.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YukiTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiDetermined.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiRobeShouting.png
@@ -161,30 +163,39 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/AliraScared.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/CursedWeapon.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyParty03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungGirlNormal.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatScenes/RolotiaFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/CassiusSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaNormal.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaWorried.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastoryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/ChatScenes/JeanneDarkSwimFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastoryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaHappy.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiRobeSerious1.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastoryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyParty11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MarcelSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantNormal1.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiSerious2.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstgLv70-80RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartyTEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/ChatPrefab/ChatCyrusCard.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantBase.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaHorrified.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastory01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattleexstg03D1.prefab
@@ -196,11 +207,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungLutherNormal.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/AliraTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MarcelScared.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MarcelHappy.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/WarlordShocked.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyParty06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungGirlScared.png
@@ -208,7 +221,9 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiAwakenMagic.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaDetermined.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatScenes/RolotiaTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Images/BGBergarianBedroomNight.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventSIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Prefabs/CassiusTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaThoughtful.png
@@ -223,6 +238,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/BaronYarrellNormal1.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Images/BGDungeonPlain1.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatScenes/RolotiaTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiSerious1.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YukiWeaponTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartyTWELVE.prefab
@@ -230,10 +246,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiBlush.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattleexstg01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YoungBoyTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstry01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantMobScared.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastory06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/EncounterrolotiastoryexstgLv80-90RandomD2.prefab
@@ -245,6 +265,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungGirlScream.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattle05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungBoyScared.png
@@ -257,6 +278,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiRobeNormal.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/WarlordShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatScenes/RolotiaONE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattle06D1.prefab
@@ -267,6 +289,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Images/BGStables.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MarcelNormal2.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastory04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantNormal2.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/CassiusSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Image/BGTavernNoon.png
@@ -279,6 +302,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/ChatScenes/JeanneDarkSwimONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/Encounterrolotiastoryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaCrying.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/MarcelTachie.prefab
@@ -290,6 +314,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/LetterTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstgLv80-90RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YoungLutherTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartyTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattle03D1.prefab
@@ -300,19 +325,24 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartySEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/CassiusSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/MerchantTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/AliraSad.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattle01D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/AliraSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyParty04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantMobShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstgLv55RandomD1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Images/BGDungeonPlain2.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/CassiusHurt.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiRobeSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/Letter.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGroups/Encounterjeannedarkswimstryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartyONE.prefab
@@ -326,6 +356,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatScenes/RodyPartySIX.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/PtakiWifeShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/BaronYarrellShouting.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungBoyHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaSigh.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg01D1.prefab
@@ -338,6 +369,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YukiAwakenTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungLutherIrritated.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/ChatScenes/JeanneDarkSwimTWO.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Prefabs/NewRolotiaTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattle01D1.prefab
@@ -349,11 +381,13 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstgLv35RandomD1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGFEs/rolotiastorybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/EncounterrolotiastoryexstgLv60-70RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/AliraShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/AliraSmug.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MarcelNormal1.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/BaronYarrellAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Battles/BattleGroups/EncounterrolotiastoryexstgLv40RandomD1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle08D1.prefab
@@ -371,10 +405,12 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/PtakiWifeGrit.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YoungLutherSerious.png
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/ChatScenes/XiaoLiEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/NewRolotiaSad.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/CassiusSad.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/MerchantScared.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/ChatScenes/JeanneDarkSwimTHREE.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/Images/BGPrettyBeach.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Image/BGRuinedChapelBurn.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Images/YukiRobeBlush.png
@@ -387,8 +423,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/YoungGirlTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGFEs/xiaolistrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202309jeannedarkswimstry/Battles/BattleGFEs/jeannedarkswimstrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGFEs/RodyPartybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle11/oe202607xiaolistry/Battles/BattleGroups/Encounterxiaolistryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/Battles/BattleGroups/EncounterRodyPartyexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202005rolotiastorymob/ChatActors/Images/WarlordAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle11/oe202001rodyparty/ChatActors/Prefabs/BaronYarrellTachie.prefab
@@ -411,6 +450,11 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle14
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle15
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle16
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle17
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle18
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle19
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle20
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle3
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle4
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle5
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle6
@@ -419,8 +463,12 @@ Dependencies:
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/eventsbundle9
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact5
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact7
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlineact9
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc1
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/onlinearc2
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/prefabs
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle
 - C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle3
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle4
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle5
+- C:/Users/Admin/Documents/Plastic/New folder/RPGEngine/AssetBundles/Android/tachiebundle6

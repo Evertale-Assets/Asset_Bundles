@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 865697598
+CRC: 1378297664
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef8f17a4547e305e8308f1f7995c36b3
+    Hash: 4d6dac028766fe0360f8aa0f0bef40d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ef8f17a4547e305e8308f1f7995c36b3
+    Hash: 4d6dac028766fe0360f8aa0f0bef40d1
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -116,6 +116,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PerryRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial20-B.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LuBuDark-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CleopatraRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
@@ -147,12 +148,12 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaDarkNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TristanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KirinGirlRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DonQuixoteRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BasiliskRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
@@ -179,6 +180,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RapunzelRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CthulhuGirlRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LuBuDark-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaIdolGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NorzaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Arga.png

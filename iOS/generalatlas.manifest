@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 144828014
+CRC: 804809829
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf162e68444c30e3f69588a23a6411f5
+    Hash: b42962cc6a06cde60934914adc281c32
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bf162e68444c30e3f69588a23a6411f5
+    Hash: b42962cc6a06cde60934914adc281c32
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -35,6 +35,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/ButtonBlueHexagon03.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/IconGreenDraftPvp1.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteSkullRageRevenge01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconIntenselyHypnotizedCount01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteFightSwordPlus01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreyButtonNeutral01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBanishSkin01.png
@@ -234,6 +235,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseGreySSizeCharacter01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedRageCount02.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/GreatSword.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconIntenselyHypnotizedCount03.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/EquipmentTypeIcons/Hammer.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/FrameToolButtonOutline01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPurpleGetTurnIfPoisonRemove01.png
@@ -293,6 +295,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/FrameGoldPortraitBox01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/Icon_Emoticon.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconBlueHypnotized01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconIntenselyHypnotizedCount02.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconYellowSkillDownReduction01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/ButtonBlueChat02.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedDefenseShield01.png

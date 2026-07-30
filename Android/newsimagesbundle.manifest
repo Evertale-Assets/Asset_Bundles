@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 601035480
+CRC: 4291655071
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48c60c7a14e9ac3d2ab76e864223a075
+    Hash: 664f70768c74bb29c93f85dd51207a3a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 48c60c7a14e9ac3d2ab76e864223a075
+    Hash: 664f70768c74bb29c93f85dd51207a3a
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -156,6 +156,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/DancingAssassin.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/OniSchoolDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/SiegfriedRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/LuBuDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/VictoriaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KirinGirlRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/BurnedGirlRegular.png

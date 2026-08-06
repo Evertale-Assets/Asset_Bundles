@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1378297664
+CRC: 1013135610
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d6dac028766fe0360f8aa0f0bef40d1
+    Hash: 236a60d101e1fbe0475840c47e235245
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4d6dac028766fe0360f8aa0f0bef40d1
+    Hash: 236a60d101e1fbe0475840c47e235245
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -80,6 +80,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TiamatRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Jeanne.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/WhiteSnakeGirlDark-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoldAppleGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnightDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/InugamiRegular.png
@@ -219,6 +220,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceDark.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/WhiteSnakeGirlDark-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChristmasElmina.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 156147836
+CRC: 856931358
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4cb56ee35d89cc035518637e0ca0627
+    Hash: ac4abc57dce2f4d89f1f4cdc49e83111
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c4cb56ee35d89cc035518637e0ca0627
+    Hash: ac4abc57dce2f4d89f1f4cdc49e83111
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -265,6 +265,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CallenDragonDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Kirin01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FrankensteinRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/WhiteSnakeGirlDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/OkitaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Kisara01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MyshaDark01.prefab
@@ -534,6 +535,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ManchesterRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CrossSwordKnightDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/FreyaRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/WhiteSnakeGirlDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizetteSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/VictoriaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Astrid01.prefab
@@ -541,6 +543,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/SwimsuitLudmilla01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GenieRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/IbarahimeRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/WhiteSnakeGirlDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GokuBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KongmingRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ExcaliburRegular01.png

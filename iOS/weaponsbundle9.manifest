@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2121378156
+CRC: 2024940833
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 37b68c6a5526830e9c217c517023e893
+    Hash: 96da208e72126dbf74985cf2455271d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 37b68c6a5526830e9c217c517023e893
+    Hash: 96da208e72126dbf74985cf2455271d3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -311,6 +311,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaSword02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/HokusaiGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CircusHammer01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/YingYangKatana02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/OtohimeStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/NapoleonPistolSword01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BlackShipHammer01.prefab
@@ -374,6 +375,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CursedHolyGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/DarkOwlGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ThorMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/YingYangKatana01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/ChopinPianoMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuBrideHammer02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GoldFlameAxe02.prefab
@@ -500,6 +502,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuBrideHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/VenusSeaShellMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RizetteBrideAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/YingYangKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DivineBearAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ThunderSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BridalWeddingStaff01.png
@@ -520,6 +523,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CinderellaDarkSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GilgameshGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GilgameshGreatSword02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/YingYangKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkMaidAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/GokuDarkHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ChainSawGreatSword01.prefab
@@ -534,13 +538,14 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/MyshaFlowerStaff02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedDragonKnightHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IbarahimeGreatSword01.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RosePearlSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/YingYangKatana03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SilverKnightSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/EagleBannerGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/IceFallsKatana01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/RolotiaDarkSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/ApocalypseHammer01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/NapoleonPistolSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/RosePearlSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RaceBikeAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/GawainDarkGreatSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DonQuixoteSpear03.prefab
@@ -637,9 +642,9 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/EagleBannerGreatSword03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/BurningMechaSword01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/IceBrideSpear01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/YingYangKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/DarkMaidAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/HijikataGreatSword02.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LokiGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/ParasolSpear03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/MyshaFlowerStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/SatanSpear03.prefab
@@ -648,6 +653,7 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/RedGemGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CinderellaFishSpear01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/CinderellaDarkSword01.png
+- Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/LokiGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/BattleImages/FireConquererKatana01.png
 - Assets/SimulatedAssetBundles/weaponsbundle9/LargeWeaponPortraits/CrystalDragonAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle9/WeaponPortraitsBundleDNC/HokusaiGreatAxe01.png

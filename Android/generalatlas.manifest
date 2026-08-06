@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1688336763
+CRC: 2779017899
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79cf98ab900c5c7947a56681449be05e
+    Hash: 3d82042f3d5ac896b6eca530bd7fa82f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 79cf98ab900c5c7947a56681449be05e
+    Hash: 3d82042f3d5ac896b6eca530bd7fa82f
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -717,6 +717,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/FrameGoldOctagon.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPurpleOrcanix01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/GreyOvalButton01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedAmbushCounter01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BottomLetterBoxHorror.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconWhitePlusSign01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconSkullSacrifice01.png

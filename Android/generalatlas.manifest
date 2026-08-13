@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2779017899
+CRC: 1489701072
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d82042f3d5ac896b6eca530bd7fa82f
+    Hash: 50e9f292034f28dc64db39522a2fa85a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3d82042f3d5ac896b6eca530bd7fa82f
+    Hash: 50e9f292034f28dc64db39522a2fa85a
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -791,6 +791,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreenRoundGlossyButtonHold1-.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/MiniMassiveCombatTower1.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedWeak01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconFrostBurnInvalid01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconFireMori01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/GreenCastleNameHolder1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BaseBlueEmptySquare01.png

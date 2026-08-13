@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1013135610
+CRC: 1581005175
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 236a60d101e1fbe0475840c47e235245
+    Hash: c9b8bf47f4c128a795917f8c8ad440f5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 236a60d101e1fbe0475840c47e235245
+    Hash: c9b8bf47f4c128a795917f8c8ad440f5
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -160,6 +160,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/XiaoLiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SatanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ClassicBanner.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CalKouhaiRegular.png

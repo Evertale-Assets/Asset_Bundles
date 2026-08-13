@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1108632924
+CRC: 3128951199
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e3d31608d6b75b74189b1121738f3781
+    Hash: 77ab70821be1a6aa2a436ce5e5ef42ee
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e3d31608d6b75b74189b1121738f3781
+    Hash: 77ab70821be1a6aa2a436ce5e5ef42ee
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -585,6 +585,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DarkRizetteSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/HorseIdolGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CallenRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/XiaoLiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CthulhuGirlRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/HokusaiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ChristmasElmina01.prefab
@@ -600,6 +601,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CallenSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/RizetteBrave01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/XiaoLiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkRizetteChristmas01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSisterDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KirinGirlRegular01.prefab
@@ -706,6 +708,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PerryRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PercivalRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LuBuRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/XiaoLiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RizetteNew01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ReiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElminaBunny01.prefab

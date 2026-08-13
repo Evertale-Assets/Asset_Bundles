@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 80434595
+CRC: 989887970
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 357989cc57d6c697ece63d3f86b656ce
+    Hash: 4b94c3eb02374b6a7de6d9e163c8f511
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 357989cc57d6c697ece63d3f86b656ce
+    Hash: 4b94c3eb02374b6a7de6d9e163c8f511
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -110,6 +110,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/DemonElfBoy.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Kirin.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/XiaoLiRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/WhiteSnakeGirlDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CherryBlossom.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MasamuneRegular.png

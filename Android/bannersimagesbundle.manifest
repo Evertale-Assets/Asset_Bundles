@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3911924983
+CRC: 108831276
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15717d7c23ae5a0ecd338b9abfd4628c
+    Hash: cdfb47f615c363ea4696dd758ebb0d85
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 15717d7c23ae5a0ecd338b9abfd4628c
+    Hash: cdfb47f615c363ea4696dd758ebb0d85
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -101,7 +101,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ButterflyLady.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChopinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CrossSwordKnight.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IceWitch.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BeautyBeastRegular.png
@@ -227,7 +226,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBallet.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FireDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneBride.png

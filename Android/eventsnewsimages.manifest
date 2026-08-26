@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2111455961
+CRC: 2074871235
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ca0f8a351901548800eee7de74b0c3b
+    Hash: f6bd48f40ddcb9663d4707ca3a1e6d6e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2ca0f8a351901548800eee7de74b0c3b
+    Hash: f6bd48f40ddcb9663d4707ca3a1e6d6e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -87,10 +87,11 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/tristanstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/anyastry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/desertflostry.png
-- Assets/SimulatedAssetBundles/eventsnewsimages/zorostry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/draculastry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/gyurellestory.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/jeannedarkswimstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/bahamutstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/zorostry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/camelotstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/thorstry.png
 Dependencies: []

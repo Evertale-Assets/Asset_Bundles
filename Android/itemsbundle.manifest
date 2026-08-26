@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2709202659
+CRC: 2253859862
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af10fef270ca04c0403144ca65391291
+    Hash: 2a830cda443c0641235d0766e0421a09
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: af10fef270ca04c0403144ca65391291
+    Hash: 2a830cda443c0641235d0766e0421a09
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -32,6 +32,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinchronosstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evowaterlow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evodeathlow.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coindraculastry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinmermaidstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/cointhorstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinchopinstry.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3571551627
+CRC: 2907760401
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72a43f04990c401b954407d4183c4398
+    Hash: affed7c24af0fd69f6a8df7f99982b85
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 72a43f04990c401b954407d4183c4398
+    Hash: affed7c24af0fd69f6a8df7f99982b85
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -462,6 +462,7 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/CyanGlowRemoveData1.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconGreenSpiritGainGlow06.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteShieldIcon01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedHuntersMark01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/FlatGrayButton.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/RarityIcons/RarityIconN01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/IconWhiteCost02.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3128951199
+CRC: 1423627638
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77ab70821be1a6aa2a436ce5e5ef42ee
+    Hash: 6f0c257f8841d04e45b2b749e6c21b3c
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 77ab70821be1a6aa2a436ce5e5ef42ee
+    Hash: 6f0c257f8841d04e45b2b749e6c21b3c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -452,6 +452,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/EarthGoddess01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Cyrus01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/NagiRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DraculaRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LupinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MechaSisterNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeerGirl01.prefab
@@ -563,6 +564,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RyomaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MechaSisterSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Arga01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DraculaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MechaSisterSwimsuit01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MasamuneRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/AntaresModern01.prefab
@@ -675,6 +677,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/GokuBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSisterSwimsuit01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSister01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/DraculaRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LegendFireDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LuBuDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Kisara01.png

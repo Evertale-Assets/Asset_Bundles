@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 108831276
+CRC: 920876449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cdfb47f615c363ea4696dd758ebb0d85
+    Hash: 63782f2cec2662bf639a6582bbcca2f6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cdfb47f615c363ea4696dd758ebb0d85
+    Hash: 63782f2cec2662bf639a6582bbcca2f6
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -35,8 +35,9 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AntaresModern.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CleopatraDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HokusaiRegular-2.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/EarthGoddess.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/DraculaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Bahamut.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/EarthGoddess.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/IkemenSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChronosRegular.png

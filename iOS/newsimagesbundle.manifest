@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3913289437
+CRC: 3284983110
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f411ce5c3861e72e2ec7ed9432a2d04f
+    Hash: 3b48206bbe1bbdf72e656fe3ed2f9e43
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f411ce5c3861e72e2ec7ed9432a2d04f
+    Hash: 3b48206bbe1bbdf72e656fe3ed2f9e43
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -178,6 +178,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/GokuRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KenshinRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MerlinRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/VanHelsingRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaBride.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KojiroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaBunny.png

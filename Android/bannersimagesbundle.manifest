@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 920876449
+CRC: 2893842906
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 63782f2cec2662bf639a6582bbcca2f6
+    Hash: 690b91eff96392423e6ecfb509d7644e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 63782f2cec2662bf639a6582bbcca2f6
+    Hash: 690b91eff96392423e6ecfb509d7644e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -137,6 +137,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
@@ -224,6 +225,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/WhiteSnakeGirlDark-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChristmasElmina.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
@@ -256,6 +258,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaModern.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DancingAssassin.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaYukata.png
 Dependencies: []

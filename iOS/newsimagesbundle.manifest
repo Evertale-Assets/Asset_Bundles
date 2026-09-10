@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3284983110
+CRC: 235626359
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b48206bbe1bbdf72e656fe3ed2f9e43
+    Hash: 745bb22d7a2ad5a65789aa74265e1edc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3b48206bbe1bbdf72e656fe3ed2f9e43
+    Hash: 745bb22d7a2ad5a65789aa74265e1edc
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -207,6 +207,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/SnowWhiteSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/GokuDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HokusaiRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/SherlockRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/SilverHairBerserker.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RapunzelRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CinderellaRegular.png

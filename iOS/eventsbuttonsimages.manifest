@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4280177057
+CRC: 3441383177
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 92308e261d690663d408d99fc78cf1ca
+    Hash: 24c2976747ecaa83c2b5b84c36a34773
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 92308e261d690663d408d99fc78cf1ca
+    Hash: 24c2976747ecaa83c2b5b84c36a34773
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -41,6 +41,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/elizabethstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/riznewstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/anyanewstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/cupidstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/bridestry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/shinsengumistry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/blueseastry.png

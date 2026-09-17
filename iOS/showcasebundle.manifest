@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 487730633
+CRC: 488759364
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e542289848ffce7ab6996831b93f754
+    Hash: f60dc80f785cff4251d8996d16a3cb3a
   TypeTreeHash:
     serializedVersion: 2
     Hash: deb61b10c067b9a87159dc379864087e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2e542289848ffce7ab6996831b93f754
+    Hash: f60dc80f785cff4251d8996d16a3cb3a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,7 +91,7 @@ Assets:
 - Assets/SimulatedAssetBundles/showcasebundle/BeginnerSpecial2ShowcaseBanner.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV1.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBanner.prefab
-- Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial20.prefab
+- Assets/SimulatedAssetBundles/showcasebundle/ShowcaseBannerSpecial21.prefab
 - Assets/SimulatedAssetBundles/showcasebundle/GenericGachaShowcaseBannerV2.prefab
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0

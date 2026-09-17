@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2651969921
+CRC: 350896633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d80210ea227bfc422d923fa5102ac507
+    Hash: 7184a387296b6cf24bd5b7c7379619b7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d80210ea227bfc422d923fa5102ac507
+    Hash: 7184a387296b6cf24bd5b7c7379619b7
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -121,6 +121,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/conquestchest10.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evodeathmid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evociderlow.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coincupidstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/allianceexp.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/WepExpOrb.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinvictoriastry.png

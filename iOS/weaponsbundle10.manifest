@@ -1,22 +1,47 @@
 ManifestFileVersion: 0
-CRC: 4259115754
+CRC: 739609565
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8bac6e7850dfc25f2f715f8fa12ce242
+    Hash: ae902c1f4275fa292fec1ff3a2abffbb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 767148d2cba1a92a15442f2b767884c0
+    Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8bac6e7850dfc25f2f715f8fa12ce242
+    Hash: ae902c1f4275fa292fec1ff3a2abffbb
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/Placeholder.prefab
-Dependencies: []
+- Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff02.prefab
+Dependencies:
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/weaponsbundle9

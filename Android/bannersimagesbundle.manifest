@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3925709376
+CRC: 290401462
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 613a933304d0c94419e977396f6cdbdf
+    Hash: 8578f253dbd39ecea7fe34d26639e7df
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 613a933304d0c94419e977396f6cdbdf
+    Hash: 8578f253dbd39ecea7fe34d26639e7df
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -148,22 +148,23 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RyomaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AntaresRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Kisara.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/AliceNew-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaDarkNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TristanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KirinGirlRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DonQuixoteRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/XiaoLiRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/PercivalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BasiliskRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OniSchoolSamurai.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SherlockRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/XiaoLiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SatanRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ClassicBanner.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CalKouhaiRegular.png
@@ -176,6 +177,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SwimsuitAstrid.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RolotiaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NovablastDragon.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/AliceNew-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CinderellaRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/UnicornRegular.png

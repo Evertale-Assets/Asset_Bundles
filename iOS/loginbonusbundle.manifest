@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2229587650
+CRC: 2318005639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60fc3120e5c0c2cbe1461f63109a029b
+    Hash: 7603f08e39e473f48c60d31cad0bb783
   TypeTreeHash:
     serializedVersion: 2
     Hash: c91aaa9a92d672441c782b3b2a57a720
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 60fc3120e5c0c2cbe1461f63109a029b
+    Hash: 7603f08e39e473f48c60d31cad0bb783
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,9 +82,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/LateSummer2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/September2026.prefab
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/LateSummer2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Autumn2026.png
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Autumn2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/September2026.png
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0

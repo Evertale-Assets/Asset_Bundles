@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 384150513
+CRC: 30278749
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 50d6f70b725d1d65db7e383946c4d560
+    Hash: ee3970fe83f5da1bf520d4ef940bb119
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 50d6f70b725d1d65db7e383946c4d560
+    Hash: ee3970fe83f5da1bf520d4ef940bb119
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -208,6 +208,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/GokuDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/HokusaiRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/SherlockRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/AliceNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/SilverHairBerserker.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RapunzelRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CinderellaRegular.png

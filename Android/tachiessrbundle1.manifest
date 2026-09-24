@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4235922466
+CRC: 1189769685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e29b4b0a5855bb48b04adc55e62bc7be
+    Hash: 782dc01afb6d4b4d5cdb3fa497a25576
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e29b4b0a5855bb48b04adc55e62bc7be
+    Hash: 782dc01afb6d4b4d5cdb3fa497a25576
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -610,6 +610,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkRizetteChristmas01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MechaSisterDark01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/KirinGirlRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AliceNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ZoroRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RoundTableKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DancingAssassin01.prefab
@@ -715,11 +716,13 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RizetteBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PerryRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/PercivalRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AliceNew01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LuBuRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/XiaoLiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RizetteNew01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ReiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElminaBunny01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/AliceNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeadlyVampire01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SnowWhiteNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/JeanneDark01.png

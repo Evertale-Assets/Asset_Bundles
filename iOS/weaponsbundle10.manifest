@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 739609565
+CRC: 612761010
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae902c1f4275fa292fec1ff3a2abffbb
+    Hash: 4308bed7487c087d07aa91fb660c3171
   TypeTreeHash:
     serializedVersion: 2
     Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ae902c1f4275fa292fec1ff3a2abffbb
+    Hash: 4308bed7487c087d07aa91fb660c3171
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,11 +36,17 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/Placeholder.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/KeyClockStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/ChessHeartsGreatAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff02.prefab
 Dependencies:

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1007372447
+CRC: 3566638446
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd14862736494dcade212b38a8d8fcdf
+    Hash: cf8896f8f104ca8fe1127718bdca31f7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bd14862736494dcade212b38a8d8fcdf
+    Hash: cf8896f8f104ca8fe1127718bdca31f7
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -81,6 +81,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HimikoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TiamatRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/QueenHeartsRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Jeanne.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/WhiteSnakeGirlDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GoldAppleGirl.png
@@ -137,6 +138,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CerberusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/EarthKaiju.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/QueenHeartsRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
@@ -241,6 +243,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkAstridNewYear.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/QueenHeartsRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NagiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/YandereMaidDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurSwimsuit.png

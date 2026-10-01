@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2944934280
+CRC: 3065724530
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d90e1ec05156fe4f83b8fb3b7664fa6
+    Hash: 640fe38e595c298a4a7f017d30d1bbf8
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6d90e1ec05156fe4f83b8fb3b7664fa6
+    Hash: 640fe38e595c298a4a7f017d30d1bbf8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -465,6 +465,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GokuDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/InugamiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/VenusRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/QueenHeartsRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/RizetteBrave01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DeadlyNurse01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CallenSwimsuit01.png
@@ -488,6 +489,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MechaSister01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/RizKouhaiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CinderellaRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/QueenHeartsRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/HokusaiRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/CallenDragon01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MoonGoddess01.prefab
@@ -759,6 +761,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/BurnedGirlRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Ludmilla01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/DarkRizetteSwimsuit01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/QueenHeartsRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/PercivalRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Mysha01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridNew01.prefab

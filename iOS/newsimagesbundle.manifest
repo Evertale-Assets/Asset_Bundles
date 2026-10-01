@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3003069020
+CRC: 610567356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b2cd370b10e4735c4ad40e4c16d7951
+    Hash: 9ec14590b5122e08f9e2f7f95c067e96
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0b2cd370b10e4735c4ad40e4c16d7951
+    Hash: 9ec14590b5122e08f9e2f7f95c067e96
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -139,6 +139,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/MurasakiRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KaguyahimeDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/LudmillaRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/QueenHeartsRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DarkAstridNewYear.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/IkemenSamurai.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 610567356
+CRC: 1743064240
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9ec14590b5122e08f9e2f7f95c067e96
+    Hash: 6416ad60ecef36274c7db4a06978cf82
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9ec14590b5122e08f9e2f7f95c067e96
+    Hash: 6416ad60ecef36274c7db4a06978cf82
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -108,6 +108,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/HijikataRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ThorRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Bahamut.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/CupidRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DemonElfBoy.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Kirin.png

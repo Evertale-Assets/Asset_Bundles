@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 612761010
+CRC: 665592722
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4308bed7487c087d07aa91fb660c3171
+    Hash: 85d46d945189c0fd6348f18e223071bc
   TypeTreeHash:
     serializedVersion: 2
     Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4308bed7487c087d07aa91fb660c3171
+    Hash: 85d46d945189c0fd6348f18e223071bc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,13 +37,19 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe02.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/CupidMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/CupidMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/Placeholder.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/KeyClockStaff01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.prefab

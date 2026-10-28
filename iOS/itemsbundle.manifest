@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 350896633
+CRC: 1765192616
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7184a387296b6cf24bd5b7c7379619b7
+    Hash: 0b74ff4bbe5d7b51821125f8ab245364
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7184a387296b6cf24bd5b7c7379619b7
+    Hash: 0b74ff4bbe5d7b51821125f8ab245364
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -147,6 +147,7 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evofairymid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakLevelOrbDeath.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/LimitBreakLevelOrbEarth.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coingalahadstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coindangomid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinzorostry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/goldmedal.png

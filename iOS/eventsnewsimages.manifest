@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3615241383
+CRC: 2188501916
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ac615e9e6659c817e8407d6d93947c30
+    Hash: 9f722d37a0a573890e9cd2c24c747934
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ac615e9e6659c817e8407d6d93947c30
+    Hash: 9f722d37a0a573890e9cd2c24c747934
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -48,8 +48,8 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/snowstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/sgirlstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/xiaolistry.png
-- Assets/SimulatedAssetBundles/eventsnewsimages/kenshinstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/chopinstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/kenshinstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/cthulhustry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/legendfire.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/rparty.png
@@ -80,6 +80,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/otohimestry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/goemonstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/avalonstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/galahadstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/shinsengumistry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/ikemenstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/anyanewstry.png

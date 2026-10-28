@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 492085762
+CRC: 991437813
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fbad488022fdb1204386b58a9a45d6fa
+    Hash: 3321ddbcff089b82184ff1fabe67365c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fbad488022fdb1204386b58a9a45d6fa
+    Hash: 3321ddbcff089b82184ff1fabe67365c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -141,7 +141,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FinnCrestbearer.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/QueenHeartsRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ThorRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizKouhaiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkLudmilla.png
@@ -229,7 +228,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ChristmasElmina.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyNurse.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-0.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnightBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteBrave.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TwinGodRegular.png
@@ -263,7 +262,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RoundTableKnight.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaModern.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/VanHelsingRegular-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DancingAssassin.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaYukata.png
 Dependencies: []

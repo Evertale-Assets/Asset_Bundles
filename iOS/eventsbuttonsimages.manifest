@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3441383177
+CRC: 3088587404
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24c2976747ecaa83c2b5b84c36a34773
+    Hash: c1832a687123cd0236115ed7a77bd6fc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 24c2976747ecaa83c2b5b84c36a34773
+    Hash: c1832a687123cd0236115ed7a77bd6fc
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -50,8 +50,8 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/reddragonschoolstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/arthurswimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/frankensteinstry.png
-- Assets/SimulatedAssetBundles/eventsbuttonsimages/beautybeaststry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/ibarahimeswimstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/beautybeaststry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/avalonstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/legendfire.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/pinocchiostry.png
@@ -89,6 +89,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/thorstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/drizetteswimstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/odinstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/galahadstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/desertflostry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/gyurellestory.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/myshastry.png

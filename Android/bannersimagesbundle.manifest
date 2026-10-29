@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 317665139
+CRC: 1405025677
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39024fb54b5d365eec91fe1296483a0d
+    Hash: aca1b262f98014bcae0ab713293b4364
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 39024fb54b5d365eec91fe1296483a0d
+    Hash: aca1b262f98014bcae0ab713293b4364
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -20,6 +20,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-G.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElfFireSamurai.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MarieAntoinette-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KaguyahimeSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SherlockRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-F.png
@@ -97,6 +98,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/BlueSeaSerpent.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizetteChristmas.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElmKouhaiRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MarieAntoinette-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SilverHairBerserker.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElizabethRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhite.png
@@ -112,9 +114,9 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FoxMutant.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneDarkSwimsuit.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SamuraiGirl.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaHalloween.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PinocchioRegular.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/LudmillaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBride.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ShannaRidingHood.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/PerryRegular.png
@@ -124,6 +126,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CleopatraRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeadlyVampire.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FrankensteinRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/MarieAntoinette-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MerlinRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/WashingtonRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElminaRegular.png

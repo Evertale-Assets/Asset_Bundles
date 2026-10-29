@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1743064240
+CRC: 840259764
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6416ad60ecef36274c7db4a06978cf82
+    Hash: 8e2221774505006a7251147eb04b333c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6416ad60ecef36274c7db4a06978cf82
+    Hash: 8e2221774505006a7251147eb04b333c
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -90,6 +90,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KintaroRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Ossia.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/MarieAntoinette.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MechaSisterSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/YamatoRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/DeadlyNurse.png

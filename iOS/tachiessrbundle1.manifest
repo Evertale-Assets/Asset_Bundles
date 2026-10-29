@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1122614084
+CRC: 1859546257
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 798fbccab04fbc3c3767effce6268d60
+    Hash: 388d115a36f8c071fb86e1dcfac51ae3
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 798fbccab04fbc3c3767effce6268d60
+    Hash: 388d115a36f8c071fb86e1dcfac51ae3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -222,6 +222,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CleopatraRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/LudmillaSchoolGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LuBuRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/MarieAntoinette01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CinderellaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DragonGirlRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CrossSwordKnight01.png
@@ -344,9 +345,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/ElfFireSamurai01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/SnowWhiteBride01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ChineseRizette01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MarieAntoinette01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/Rizette01.png
-- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/OssiaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/OdinRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/OssiaDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AirDragon01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaYukata01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Taotie01.prefab
@@ -553,14 +555,15 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GokuBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/KongmingRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ExcaliburRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MarieAntoinette01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/OniSchoolDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/AntaresRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MyshaKnight01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/MusashiRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LegendFireDragon01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GoldAppleGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/VanHelsingRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Theo01.prefab
-- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GoldAppleGirl01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/LudmillaBride01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Ossia01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CrossSwordKnight01.prefab

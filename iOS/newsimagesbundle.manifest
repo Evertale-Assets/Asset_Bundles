@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 840259764
+CRC: 2858235597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e2221774505006a7251147eb04b333c
+    Hash: f872d6fef35147b3aa48be0c25e37f8f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8e2221774505006a7251147eb04b333c
+    Hash: f872d6fef35147b3aa48be0c25e37f8f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -248,5 +248,6 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/OniSchoolSamurai.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/MermaidRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/IbarahimeRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/GalahadRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/Jeanne.png
 Dependencies: []

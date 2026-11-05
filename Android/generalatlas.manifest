@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1968606621
+CRC: 3672687800
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7d101605ab54114b582aa7993729f43
+    Hash: d08fe3a5de9808b6613128f42d85d481
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10a2a251079648f5a522e399a53d2bcc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b7d101605ab54114b582aa7993729f43
+    Hash: d08fe3a5de9808b6613128f42d85d481
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -625,10 +625,11 @@ Assets:
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/ButtonBlueDeckSave01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconPinkCharge01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedBurnPermanent01.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BlackGlow01.png
+- Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconRedHypnosisImmune01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/NewAssets/IconRedDraftPvp1.png
-- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/SummonFrame.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/BlackGlow01.png
 - Assets/SimulatedAssetBundles/generalatlas/BattleAtlasDNC/BuffIcons/IconWhiteSkullBurnRevenge01.png
+- Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/UnfilledFrames/SummonFrame.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/Buttons/ButtonGreenBattleCancel01.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconRainbowSpirit07.png
 - Assets/SimulatedAssetBundles/generalatlas/GeneralAtlasDNC/SpiritMeter/IconGreenSpiritGainGlow09.png

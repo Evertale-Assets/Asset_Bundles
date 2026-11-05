@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3374962769
+CRC: 1776041639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a3b022c0ea5863e24a791edbc4934c8a
+    Hash: 4ab698956e337f9e6b45d3d8d576814b
   TypeTreeHash:
     serializedVersion: 2
     Hash: be378099e0915b557ea2892c9bf32306
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a3b022c0ea5863e24a791edbc4934c8a
+    Hash: 4ab698956e337f9e6b45d3d8d576814b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,15 +36,19 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/GalahadMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/MarieAntoinetteAxe01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/GalahadMace02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/MarieAntoinetteAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/MarieAntoinetteAxe03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/MarieAntoinetteAxe02.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/GalahadMace01.png
+- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/GalahadMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.prefab
-- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/CupidMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/CupidMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/CupidMace01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.png
@@ -56,7 +60,9 @@ Assets:
 - Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/WeaponPortraitsBundleDNC/MarieAntoinetteAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/CupidMace01.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/GalahadMace03.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe03.prefab
+- Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/GalahadMace01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/BattleImages/ChessHeartsGreatAxe01.png
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/ChessHeartsGreatAxe01.prefab
 - Assets/SimulatedAssetBundles/weaponsbundle10/LargeWeaponPortraits/KeyClockStaff01.png

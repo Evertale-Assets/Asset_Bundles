@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1859546257
+CRC: 475756043
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 388d115a36f8c071fb86e1dcfac51ae3
+    Hash: 86ca855fd765e2e3ad3dc31b22cb6237
   TypeTreeHash:
     serializedVersion: 2
     Hash: aae397dfb03d64cdfbd2e6a73756413c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 388d115a36f8c071fb86e1dcfac51ae3
+    Hash: 86ca855fd765e2e3ad3dc31b22cb6237
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -414,9 +414,10 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/ElfFireSamurai01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DaVinciRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/ShannaRidingHood01.png
-- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MasamuneRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/GalahadRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/Rizette01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MurasakiRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MasamuneRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/OdinRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/MyshaKnight01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/FrankensteinRegular01.prefab
@@ -756,6 +757,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/CthulhuGirlRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/NikeRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/TwinGodRegular01.prefab
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/GalahadRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AliceDark01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/SnowWhiteMaid01.prefab
@@ -770,6 +772,7 @@ Assets:
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/PercivalRegular01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Prefabs/Mysha01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/CupidRegular01.png
+- Assets/SimulatedAssetBundles/tachiessrbundle1/Images/GalahadRegular01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/MainMenuPrefabs/AstridNew01.prefab
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/DarkLudmilla01.png
 - Assets/SimulatedAssetBundles/tachiessrbundle1/Images/LudmillaSchoolGirl01.png

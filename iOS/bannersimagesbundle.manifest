@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3749602685
+CRC: 2368115024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d408ccc82936897b27fbee3cb0f8b81c
+    Hash: 8b5c88e6a30fe7da0d73dafb4ae4a498
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d408ccc82936897b27fbee3cb0f8b81c
+    Hash: 8b5c88e6a30fe7da0d73dafb4ae4a498
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -260,6 +260,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-I.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Cyrus.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KojiroRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/GalahadRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GokuDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Alice.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SnowWhiteNew.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2368115024
+CRC: 2308293081
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b5c88e6a30fe7da0d73dafb4ae4a498
+    Hash: 74f6ae9d234ce7c7629b2cada976e6e0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8b5c88e6a30fe7da0d73dafb4ae4a498
+    Hash: 74f6ae9d234ce7c7629b2cada976e6e0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -257,6 +257,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-D.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/FreyaNew.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LokiRegular.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ArsenalRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-I.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Cyrus.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KojiroRegular.png

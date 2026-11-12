@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2676303143
+CRC: 2922291187
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c28b9eb2dc9eca7ddc38d727fb28cdf
+    Hash: 580bff55d4bbcecc7f20817d06a2e6cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0c28b9eb2dc9eca7ddc38d727fb28cdf
+    Hash: 580bff55d4bbcecc7f20817d06a2e6cb
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -152,6 +152,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/OssiaDark.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/GoldAppleGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/RolotiaNew.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/ArsenalRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/WhiteSnakeGirl.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/FreyaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/PeachGirlRegular.png

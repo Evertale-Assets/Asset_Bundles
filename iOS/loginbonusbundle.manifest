@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4003878873
+CRC: 3219654356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ced6a6e94b886cfbd52f632c16324f63
+    Hash: ebbcc7056ebe435d9df1e899abb08398
   TypeTreeHash:
     serializedVersion: 2
     Hash: c91aaa9a92d672441c782b3b2a57a720
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ced6a6e94b886cfbd52f632c16324f63
+    Hash: ebbcc7056ebe435d9df1e899abb08398
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,10 +82,10 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/SimulatedAssetBundles/loginbonusbundle/Images/October2026.png
-- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/October2026.prefab
 - Assets/SimulatedAssetBundles/loginbonusbundle/Images/November2026.png
 - Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/November2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Prefabs/Thanksgiving2026.prefab
+- Assets/SimulatedAssetBundles/loginbonusbundle/Images/Thanksgiving2026.png
 Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations

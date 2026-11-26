@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1133462262
+CRC: 1548023151
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a317a23e5267684a0d796f52942f804
+    Hash: d8235f2e9f2724f2790e0c6bc20b92c3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3cbe15843537926fff8564df1a2722fa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1a317a23e5267684a0d796f52942f804
+    Hash: d8235f2e9f2724f2790e0c6bc20b92c3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -129,6 +129,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/YamatoTurret01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ZeusGauntlet01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BunnyEarHeadband01.prefab
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArthurModernJacket01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RolotiaSwimsuitClock01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Earrings01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LudmillaGauntlet01.png
@@ -310,6 +311,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/AstridHairpin01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/LunaNote01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/HookKnife01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ArthurModernJacket01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/RedKnightHelm01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/Pearl01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Bracer01.png
@@ -349,6 +351,7 @@ Assets:
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/ZeusGauntlet01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/AnastasiaHat01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/AccessoryPortraitsBundleDNC/LudmillaJacket01.png
+- Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/ArthurModernJacket01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/SziFire01.png
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/Earrings01.prefab
 - Assets/SimulatedAssetBundles/accessoriesbundle1/LargeAccessoryPortraits/BunnyHairBand01.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 968421364
+CRC: 2638060294
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dfb90cd15c27a6a9e8a967a36d3cfc8a
+    Hash: 4549054335d08b900c49fa8c16a3e108
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dfb90cd15c27a6a9e8a967a36d3cfc8a
+    Hash: 4549054335d08b900c49fa8c16a3e108
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -58,7 +58,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/mermaidstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/cleopatrastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/swimstry.png
-- Assets/SimulatedAssetBundles/eventsbigboyimages/ydrukestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/merlinmodernstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/arthurswimstry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/davincistry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/draculastry.png
@@ -66,6 +66,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbigboyimages/anyastry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/zorostry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/bridestry.png
+- Assets/SimulatedAssetBundles/eventsbigboyimages/ydrukestry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/legendfire.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/snowbridestry.png
 - Assets/SimulatedAssetBundles/eventsbigboyimages/yandereracequeenstry.png

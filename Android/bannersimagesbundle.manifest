@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1508123475
+CRC: 3339502578
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c6c49f7f07f785462604e57830995cf8
+    Hash: e8bae1d4999858716ee06cb53b768be0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c6c49f7f07f785462604e57830995cf8
+    Hash: e8bae1d4999858716ee06cb53b768be0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -22,7 +22,6 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/ElfFireSamurai.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MarieAntoinette-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KaguyahimeSwimsuit.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SherlockRegular-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-F.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NikeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/KaguyahimeRegular.png
@@ -167,7 +166,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSisterBand.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MechaSister.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OssiaDark.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/SherlockRegular-1.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/SherlockRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DeerGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/XiaoLiRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SatanRegular.png

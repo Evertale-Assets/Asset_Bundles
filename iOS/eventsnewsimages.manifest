@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2188501916
+CRC: 4260135210
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f722d37a0a573890e9cd2c24c747934
+    Hash: 8187f8eaf53d78beca4b08e05640bc3d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9f722d37a0a573890e9cd2c24c747934
+    Hash: 8187f8eaf53d78beca4b08e05640bc3d
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -31,6 +31,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsnewsimages/ydrukestry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/mermaidstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/yrizstry.png
+- Assets/SimulatedAssetBundles/eventsnewsimages/merlinmodernstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/kingarthurstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/drizstry.png
 - Assets/SimulatedAssetBundles/eventsnewsimages/mechasisterbridestry.png

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3713877364
+CRC: 2682624786
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2d2896a486b9af3d5cfa7f572dc52b38
+    Hash: f66220248769264fd7c9bccdf217bad5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2d2896a486b9af3d5cfa7f572dc52b38
+    Hash: f66220248769264fd7c9bccdf217bad5
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -71,6 +71,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/basiliskstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/davincistry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/camelotstry.png
+- Assets/SimulatedAssetBundles/eventsbuttonsimages/merlinmodernstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/claricestry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/camelotdarkstry.png
 - Assets/SimulatedAssetBundles/eventsbuttonsimages/masamunestry.png

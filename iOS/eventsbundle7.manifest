@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 438152553
+CRC: 3079055363
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a57d8f55e0e66cf8a003eff0ff1bc2de
+    Hash: a4dc1cd56f7bbc91ffb0fc3a0b9ce84c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4f828255837aacf006e9494dfa30e3a2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a57d8f55e0e66cf8a003eff0ff1bc2de
+    Hash: a4dc1cd56f7bbc91ffb0fc3a0b9ce84c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -149,6 +149,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/PhilomeneGlowTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatMordredPurpleNeedleAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeannePeasantScared.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneWhiteSad.png
@@ -159,6 +160,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/DropShockChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatEyesOpen.mat
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/ChatScenes/JeanneNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneScared.png
@@ -175,6 +177,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/VictoireTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/ChatScenes/PercivalEventNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstryexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory01D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/EvelineSmiling.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle07D1.prefab
@@ -184,6 +187,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/ChatScenes/PercivalEventTWELVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg08D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg05D1.prefab
@@ -206,19 +210,23 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/ChatFinnGoldCrest.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg07D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/ChatScenes/JeanneFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory08D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatEyesOpen4Close.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/ChatScenes/PercivalEventSEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeannePeasantSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg15D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitELEVEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/UndeadMakeChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/JeannePeasantTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/image/BGLobby.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Audio Bike
   sound/Bike brake.mp3
@@ -228,12 +236,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitNINE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/PercivalChatAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstryexstg07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeannePeasantHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/EncounterjeannestoryexstgLv80-90RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/PhilomeneGlowShout.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/CutinTest.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg12D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/ChatScenes/PercivalEventTHREE.prefab
@@ -249,11 +259,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/ChatScenes/JeanneONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGHillNight.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/ChatFlameWall.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/JeanneTachieOLD.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatMordredNeedleAttack.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg07D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGJeanneRoom.png
@@ -274,6 +287,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitONE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGRuralNight.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatEyesOpen2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/EvelineShouting.png
@@ -281,17 +295,24 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/MichelleSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/SuperPowerChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory06D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/image/BGModernOffice.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitEIGHT.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle03D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle05D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg03D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGVillageNight.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry05D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg09D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventFIVE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg15D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneBannerSmiling.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/MichelleShouting.png
@@ -333,6 +354,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Images/BGCemeteryDay.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg14D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattleexstg02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg13D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeannePeasantShouting.png
@@ -340,6 +362,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneWhiteCrying.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/JeanneWhiteTachie.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneSurprised.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/CutinDarkRizetteSwim1.png
@@ -355,6 +378,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGCemetery.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeannePeasantSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry11D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory06D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg02D1.prefab
@@ -363,12 +387,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/DrainChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattleexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/image/BGModernLabo.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneBannerShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatScenes/DarkRizetteSwimsuitTHIRTEEN.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/PhilomeneSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGNightSky.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/DrainFinishChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/PhilomeneCrazy.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatRedJail2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg02D1.prefab
@@ -388,6 +414,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Prefabs/JeanneBannerTachie.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneWhiteShouting.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle02D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/StartBlackFlameChat.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg15D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg04D1.prefab
@@ -411,28 +438,36 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueMobAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/WarDemon.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneBannerHappy.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGChurch.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneSmiling.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/ChatPrefab/DrainChatLeft.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/MichelleAngry.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle01D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory02D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle03D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstryexstg09D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/EvelineSad.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory07D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/PhilomeneSmile.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg10D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGChurchNoCandles.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Prefabs/ArthurChatAttackShort.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg09D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg11D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/ChatScenes/JeanneFOUR.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueBase.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstryexstg10D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/EncounterjeannestoryexstgLv60-70RandomD2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle04D1.prefab
@@ -442,6 +477,7 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueSad.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg14D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry06D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGJeanneRoomOff.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg12D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneWhiteHappy.png
@@ -455,12 +491,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattleexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg04D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattleexstg05D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/EvelineSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatMonstarSmoke.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/VictoireScared.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/ChatScenes/PercivalEventTWO.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/MichelleNormal.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueAngry.png
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventTHREE.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGFEs/percivalstrybattle02D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneBannerSerious.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry02D1.prefab
@@ -469,6 +507,9 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/Dominique/DominiqueMobSad.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattle01D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry07D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventSEVEN.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/ChatScenes/MerlinModernEventSIX.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGFEs/merlinmodernstrybattle04D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/ChatRedJail.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Images/BGRuralGrey.png
@@ -478,11 +519,14 @@ Assets:
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestory04D2.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGFEs/drizetteswimstrybattle11D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202305drizetteswimstory/Battles/BattleGroups/Encounterdrizetteswimstry10D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstry02D1.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Prefabs/LancelotChatAttackShort.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Battles/BattleGroups/Encounterpercivalstryexstg08D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/JeanneCrying.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Images/BGBedJail.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/EncounterjeannestoryexstgLv40RandomD1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGFEs/jeannestorybattleexstg05D2.prefab
+- Assets/SimulatedAssetBundles/eventsbundle7/oe202611merlinmodernstry/Battles/BattleGroups/Encountermerlinmodernstryexstg03D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/Battles/BattleGroups/Encounterjeannestoryexstg07D1.prefab
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202006jeannestorywep/ChatActors/Images/VictoireWorried.png
 - Assets/SimulatedAssetBundles/eventsbundle7/oe202404percivalstry/Chatfx/PercivalChatMildAttack.prefab
@@ -492,6 +536,7 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act0
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act1
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/act3
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/animations
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/audiobundle1
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/backgroundsbundle1
@@ -505,7 +550,11 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle15
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle16
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle17
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle18
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle19
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle2
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle20
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle3
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle4
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle5
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/eventsbundle6
@@ -521,5 +570,6 @@ Dependencies:
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle2
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle3
+- /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle4
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle5
 - /Users/ryankelley/wkspaces/Evertale2022LTS/RPGEngine/AssetBundles/iOS/tachiebundle6

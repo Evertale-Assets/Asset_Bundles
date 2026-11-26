@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 253244540
+CRC: 1380786223
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 673eec5299ff65fedc3c9dc7be45cc78
+    Hash: 5f6f4f6b4f386cae62eeef3f05bd8a5e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 673eec5299ff65fedc3c9dc7be45cc78
+    Hash: 5f6f4f6b4f386cae62eeef3f05bd8a5e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -109,8 +109,9 @@ Assets:
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinkisarabadgemid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evorosemid.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinclaricestorymid.png
-- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coingokudarkstry.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coinmerlinmodernstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/yellowtickethigh.png
+- Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coingokudarkstry.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/WepEvoOrb.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/evoprismlow.png
 - Assets/SimulatedAssetBundles/itemsbundle/ItemsAtlasDNC/coincamelotdarkstry.png

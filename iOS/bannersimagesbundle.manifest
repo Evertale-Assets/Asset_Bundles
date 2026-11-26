@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2563917340
+CRC: 3464472531
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4391b71a0ff2fb9e91bce66ac62c5500
+    Hash: 78575b2c812e6ea80922de93eb96b9f2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4391b71a0ff2fb9e91bce66ac62c5500
+    Hash: 78575b2c812e6ea80922de93eb96b9f2
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -64,6 +64,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AstridRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CallenDragon.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/DarkRizette.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurModern-1.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/AliceMagicalGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SiegfriedRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GilgameshRegular.png
@@ -74,10 +75,11 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/LuBuRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/OtohimeRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/CatIdolHalloween.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurModern-0.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/NewYearRolotia.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/RizetteSwimsuit.png
-- Assets/SimulatedAssetBundles/bannersimagesbundle/ZeusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/Kirin.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/ZeusRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/HimikoRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MyshaDark.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/TiamatRegular.png
@@ -205,6 +207,7 @@ Assets:
 - Assets/SimulatedAssetBundles/bannersimagesbundle/GothGirl.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MasamuneRegular.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-A.png
+- Assets/SimulatedAssetBundles/bannersimagesbundle/KingArthurModern-2.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/JeanneFusion.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/SSRGuaranteeBannerSpecial21-J.png
 - Assets/SimulatedAssetBundles/bannersimagesbundle/MusashiRegular.png

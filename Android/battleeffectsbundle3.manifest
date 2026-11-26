@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3893010412
+CRC: 3179279690
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4028bb4a86aa7e4136c32ab288cbdfbf
+    Hash: 62027d5d39f52d26a2a0bedfcbf31206
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5289fa459c905cdcf3f13204a53d6645
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4028bb4a86aa7e4136c32ab288cbdfbf
+    Hash: 62027d5d39f52d26a2a0bedfcbf31206
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -847,6 +847,7 @@ Assets:
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Sherlock/batfx_bombmultiSilence2.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_RolotiaDark/batfx_tailwindashes7.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_mechasisBand/batfx_CastingLight1.prefab
+- Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurModern/batfx_ArthurModernThunder1.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_kaguyaDark/batfx_PoisonSpark3.prefab
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_ArthurEvil/batfx_ArthurEvilSpike2.mat
 - Assets/SimulatedAssetBundles/battleeffectsbundle3/batfx_Kintaro/batfx_GoldSlash2.prefab

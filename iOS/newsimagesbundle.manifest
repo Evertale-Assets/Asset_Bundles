@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 349011408
+CRC: 1603324806
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65331014a2cebfedb7c1265babf73a15
+    Hash: a8bbc6308a4f1909c3ae1e4e12a36ab5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 65331014a2cebfedb7c1265babf73a15
+    Hash: a8bbc6308a4f1909c3ae1e4e12a36ab5
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -167,6 +167,7 @@ Assets:
 - Assets/SimulatedAssetBundles/newsimagesbundle/VictoriaRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/KirinGirlRegular.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/BurnedGirlRegular.png
+- Assets/SimulatedAssetBundles/newsimagesbundle/KingArthurModern.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/OssiaHalloween.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/ElminaSwimsuit.png
 - Assets/SimulatedAssetBundles/newsimagesbundle/CalKouhaiRegular.png
